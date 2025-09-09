@@ -1,0 +1,45 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Kitchen cabinetry installation,12 ft,7600,0.75,%,15900,100
+,,,Section Total,,,,,15900.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Overall,Commercial Cleaning,Final cleaning for apartment,1,1925,0.75,%,3369,100
+,,,Section Total,,,,,3369.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertops,Install quartz kitchen countertops.,16,4300,0.75,%,11725,100
+,,,Section Total,,,,,11725.00,
+
+Demolition,,,,,,,,,
+Demolition,Apartment,Full gut,Demolition of interior spaces,1341.5 sf,7,0.75,%,8772.125,100
+Demolition,Kitchen,Full Gut,"Complete demolition of kitchen, including cabinetry, appliances, and wall substrates.",1,3300,0.75,%,5775,100
+Demolition,Bathroom 1,Full Gut,Complete demolition of Bathroom 1.,1,2200,0.75,%,3850,100
+Demolition,Bathroom 2,Full Gut,Complete demolition of Bathroom 2.,1,2200,0.75,%,3850,100
+,,,Section Total,,,,,22247.12,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring,Full rewiring of apartment,1341.5 sf,17,0.75,%,39978.125,100
+Electrical,Full Apt,Rewiring,Full apartment rewiring per sq ft.,1341.5,17,0.75,%,39861.25,100
+Electrical,Overall,Rewiring Full Apt,Complete electrical rewiring,1341.5 sf,17,0.75,%,39903.88,90
+,,,Section Total,,,,,119743.26,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install hardwood,Hardwood floor installation,321 sf,6,0.75,%,3371.25,100
+,,,Section Total,,,,,3371.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Complete plumbing overhaul,35.5 sf,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full Gut Replacement,Complete plumbing overhaul,32.3 sf,7700,0.75,%,13475,100
+Plumbing,Kitchen,Full Gut Plumbing,"Plumbing for full kitchen gut, including sink.",1,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation Walls,Tile wall installation,35.5 sf,2600,0.80,%,4940,100
+Tile,Bathroom 2,Tile Installation Walls,Tile wall installation,32.3 sf,2600,0.80,%,4940,100
+Tile,Kitchen,Tile Installation Floor,Tile installation in kitchen,99 sf,2400,0.80,%,4320,100
+,,,Section Total,,,,,14200.00,
+
+,,,Overall Subtotal,,,,,224243.13,
+,,,General Conditions (10%),,,,,22424.31,
+,,,Grand Total,,,,,246667.44,

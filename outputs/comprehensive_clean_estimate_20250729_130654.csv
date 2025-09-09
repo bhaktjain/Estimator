@@ -1,0 +1,44 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Installing kitchen cabinets up to 10FT,1,7600,0.75,%,13300,100
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Fabricate and install Kitchen Countertop,Installing quartz kitchen countertops,9.8,97,0.75,%,1673.85,100
+,,,Section Total,,,,,1673.85,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Complete demolition of Bathroom 1,1,2200,0.75,%,3850,100
+Demolition,Kitchen,Full gut,Complete demolition of the kitchen area,1,2500,0.75,%,4375,100
+,,,Section Total,,,,,8225.00,
+
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Rewiring,Rewiring full apartment,1396.1,17,0.75,%,41416.825,100
+,,,Section Total,,,,,41416.82,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install new LVT Flooring,Installing new LVT flooring in Living Room,136,6,0.75,%,1428,100
+Flooring,Kitchen,Install New Flooring,Installing new flooring throughout kitchen area.,9.2,6,0.75,%,55.76,85
+Flooring,Full Apartment,Install new engineered,Installation of engineered flooring throughout,1341.5,6,0.75,%,14065.125,90
+,,,Section Total,,,,,15548.89,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Complete plumbing replacement in Bathroom 1,1,7700,0.75,%,13475,100
+Plumbing,Bathroom 1,Tub to Shower Conversion,Converting tub to shower in Bathroom 1.,1,1375,0.75,%,2406.25,90
+Plumbing,Kitchen,Full gut,Complete plumbing overhaul for Kitchen,1,3850,0.75,%,6737.5,80
+,,,Section Total,,,,,22618.75,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Installing tiles on bathroom walls,21,100,0.8,%,3780,75
+Tile,Kitchen,Tile Installation,Installing tiles on kitchen area,9.8,2400,0.8,%,4234.4,90
+,,,Section Total,,,,,8014.40,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Remove Popcorn Ceiling,Removing popcorn ceiling in living space.,136,4,0.75,%,952,80
+Walls & Ceilings,Kitchen,Moisture Resistant Drywall,Installing new moisture resistant drywall in the kitchen.,9.8,1375,0.75,%,2368.75,75
+Walls & Ceilings,Full Apartment,"Install new 5/8"" drywall wall board",Installation of drywall across entire wall surface,3006.1,4,0.75,%,21042.7,90
+,,,Section Total,,,,,24363.45,
+
+,,,Overall Subtotal,,,,,135161.16,
+,,,General Conditions (10%),,,,,13516.12,
+,,,Grand Total,,,,,148677.28,

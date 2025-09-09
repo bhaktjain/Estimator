@@ -1,0 +1,44 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of new semi-custom kitchen cabinets.,99 SF,"$8,500 for semi-custom",0.75,%,14875,90
+Cabinetry,Closets,New Closets,Installation of standard closet interiors.,30.2 SF,"$1,155 per unit",0.75,%,5284.125,85
+,,,,,,,,20159.12,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Supply/Fabricate kitchen cabinets (SEMI-CUSTOM),Install new semi-custom kitchen cabinets up to 15 FT.,15 LF,$850 per LF,0.75,%,22312.5,90
+Cabinetry & Storage,Bathrooms,Supply/Install bathroom vanity,Install new vanities in both bathrooms.,2 UNITS,"$1,375 per UNIT",0.75,%,4812.5,90
+Cabinetry & Storage,Closet 1,Closet System,Installation of new closet interior with 2 shelves and hanging rod.,1 Unit,$1155 per Unit,0.75,%,2021.25,85
+,,,,,,,,29146.25,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install quartz countertops,Install new quartz countertops including fabrication and installation.,45 SF,$97 per SF,0.75,%,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Entire Apartment,Full gut demolition,Demolish the entire apartment including kitchens and bathrooms.,1341.5 SF,$11 per SF,0.75,%,25861.75,95
+,,,,,,,,25861.75,
+Doors,,,,,,,,,
+Doors,Full Apartment,Interior Door Replacement,Replacement of interior doors throughout the apartment.,6 UNIT,$550 per door,0.75,%,5775,90
+,,,,,,,,5775.00,
+Electrical,,,,,,,,,
+Electrical,Whole Apartment,Rewiring,Complete rewiring of the apartment.,1341.5 SF,$17 per SF,0.75,%,39827.63,90
+Electrical,Kitchen,Pendant Lighting,Installation of pendant lighting in the kitchen.,1 UNIT,$165 per Unit,0.75,%,288.75,85
+,,,,,,,,40116.38,
+Flooring,,,,,,,,,
+Flooring,Entire Apartment,Install new hardwood flooring,Install new hardwood throughout the apartment excluding bathrooms.,1300 SF,$6 per SF,0.75,%,13650,95
+Flooring,Full Apartment,Install New Flooring,Installation of new hardwood flooring throughout the apartment.,1341.5 SF,$6 per SF,0.75,%,14073.375,95
+,,,,,,,,27723.38,
+Painting,,,,,,,,,
+Painting,Full Apartment,Paint Interior,Painting all walls with Benjamin Moore regal select.,1341.5 SF,$10.3 per SF,0.75,%,24198.13125,95
+,,,,,,,,24198.13,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,"Replacement of plumbing fixtures including sink, toilet, and bathtub.",35.5 SF,$9900 per Unit,0.75,%,17325.00,95
+Plumbing,Bathroom 2,Full Gut Replacement,Replacement of existing plumbing fixtures,32.3 SF,"$7,700 per unit",0.75,%,13475,95
+Plumbing,Bathrooms,Full gut bathroom replacement,Gut and replace all plumbing fixtures in both bathrooms.,2 UNITS,"$8,800 per UNIT",0.75,%,30800,90
+,,,,,,,,61600.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Installation of new floor and wall tiles in bathroom.,35.5 SF,"$2,300 for floor",0.80,%,4140,90
+,,,,,,,,4140.00,
+Tile Work,,,,,,,,,
+Tile Work,Bathrooms,Tile installation,Install new tiles on floors and walls in both bathrooms.,100 SF,"$4,250",0.80,%,7650,95
+,,,,,,,,7650.00,
+,,,,,,,,260133.76,
+,,,General Conditions (10%),,,,,26013.38,
+,,,Grand Total,,,,,286147.14,

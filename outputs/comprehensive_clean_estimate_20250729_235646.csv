@@ -1,0 +1,59 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash,Installation of tile backsplash in kitchen,99 sf,1650,0.75,%,2887.5,80
+,,,Section Total,,,,,2887.50,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Install standard kitchen cabinets.,1,7600,0.75,%,13300,95
+,,,Section Total,,,,,13300.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Commercial Cleaning,Final cleanup post-construction.,1341.5 sf,1925,0.75,%,3368.75,95
+,,,Section Total,,,,,3368.75,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop Installation,Install quartz countertops.,16,97,0.75,%,4347,95
+,,,Section Total,,,,,4347.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full Gut,Demolish existing bathroom fixtures and finishes.,1,2200,0.75,%,3850,95
+Demolition,Bathroom 2,Full Gut,Demolish existing bathroom fixtures and finishes.,1,2200,0.75,%,3850,95
+Demolition,Kitchen,Full Gut,Demolish existing kitchen fixtures and finishes.,1,2500,0.75,%,4375,95
+Demolition,Living Room,Full gut,Demolition of existing living room elements for renovation.,321 sf,5,0.75,%,2006.25,85
+,,,Section Total,,,,,14081.25,
+
+Doors,,,,,,,,,
+Doors,General,Standard door,Replacement of interior doors.,2 units,550,0.75,%,1925,83
+,,,Section Total,,,,,1925.00,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apartment,Rewire full apartment.,1341.5,17,0.75,%,39937.125,95
+,,,Section Total,,,,,39937.12,
+
+Flooring,,,,,,,,,
+Flooring,Apartment,Install Engineered Hardwood,Install new engineered hardwood flooring.,1341.5,6,0.75,%,14158.5,95
+,,,Section Total,,,,,14158.50,
+
+Painting,,,,,,,,,
+Painting,Apartment,Painting,"Painting walls, ceiling, and trim.",1341.5,10.3,0.75,%,24280.5125,95
+,,,Section Total,,,,,24280.51,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Replace plumbing in existing layout.,1,7700,0.75,%,13475,95
+Plumbing,Bathroom 2,Full Gut Replacement,Replace plumbing in existing layout.,1,7700,0.75,%,13475,95
+Plumbing,Kitchen,Full Gut Replacement - 1 Sink,Replace kitchen plumbing fixtures.,1,3850,0.75,%,6737.5,95
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install floor and wall tiles.,1,4600,0.8,%,8280,95
+Tile,Bathroom 2,Tile Installation,Install floor and wall tiles.,1,4600,0.8,%,8280,95
+Tile,Kitchen,Tile Installation,Install kitchen floor tiles.,1,2800,0.8,%,5040,90
+,,,Section Total,,,,,21600.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Wall and Ceiling Work,Repair and preparation of walls and ceilings.,405.8 sf,6,0.75,%,1826.1,85
+,,,Section Total,,,,,1826.10,
+
+,,,Overall Subtotal,,,,,175399.24,
+,,,General Conditions (10%),,,,,17539.92,
+,,,Grand Total,,,,,192939.16,

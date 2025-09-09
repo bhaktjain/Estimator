@@ -1,0 +1,41 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Kitchen Cabinet Fabrication and Installation,Install new fully-custom kitchen cabinetry,8.7 LF,$1200/LF,0.75,%,18262.5,92
+Cabinetry,Kitchen,Install Kitchen cabinets,Installation of new standard kitchen cabinets,10 FT,$7600/UNIT,0.75,%,13300,85
+,,,,,,,,31562.50,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Install new quartz countertops,12.6 SF,Calculated,0.75,%,3191.5,88
+,,,,,,,,3191.50,
+Demolition,,,,,,,,,
+Demolition,Full Apartment,General Demolition,Demolition of existing structures in kitchen and bathroom,543.0 SF,$11/SF,0.75,%,4775.25,95
+Demolition,Bathroom,Full Gut,Complete demolition of bathroom area including removal of fixtures and finishes.,51 SF,"3,300",0.75,%,5775,90
+,,,,,,,,10550.25,
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Full Rewiring,Complete rewiring of electrical systems throughout apartment,543.0 SF,$17/SF,0.75,%,16141.25,95
+Electrical,Kitchen,New Washer and Dryer (2 X DEDICATED LINES),Install dedicated electrical lines for new washer and dryer,1 UNIT,$1650/UNIT,0.75,%,2888,85
+,,,,,,,,19029.25,
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Flooring Installation,Installation of new hardwood flooring throughout apartment,543 SF,$6/SF,0.75,%,5700,80
+,,,,,,,,5700.00,
+HVAC,,,,,,,,,
+HVAC,Full Apartment,Installation of AC Unit,Install new AC unit for apartment cooling.,1 UNIT,$8250/UNIT,0.55,%,14397.5,85
+,,,,,,,,14397.50,
+Painting,,,,,,,,,
+Painting,Full Apartment,Interior Painting,Repaint interior walls and ceilings,1640.3 SF,$10.3/SF,0.75,%,29636.78,90
+,,,,,,,,29636.78,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Tub to Shower Conversion,Convert existing tub to a shower unit,1 UNIT,$1375/UNIT,0.75,%,2406.25,90
+Plumbing,Kitchen,Plumbing Full Gut,Full gut of existing plumbing to new location with single sink,1 UNIT,$3850/UNIT,0.75,%,6737.5,90
+Plumbing,Bathroom,Full Gut Replacement,Replacement of all plumbing fixtures and lines in bathroom,51 SF,$7700/UNIT,0.75,%,13475,95
+Plumbing,Bathroom,Full Gut Replacement - Existing Location,Replacement of all plumbing fixtures and piping within the existing location.,51 SF,"9,900",0.75,%,17325,85
+,,,,,,,,39943.75,
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation - Floors,Install floor tiles in the bathroom,51.1 SF,$2300/UNIT,0.80,%,4140,90
+Tile,Kitchen,Tile Backsplash,Installation of tile backsplash in kitchen,10 FT,$1650/UNIT,0.75,%,2888,90
+,,,,,,,,7028.00,
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Bathroom,New Moisture-Resistant Drywall,Installation of moisture-resistant drywall in bathroom area,51.1 SF,$4/SF,0.75,%,357.21,85
+,,,,,,,,357.21,
+,,,,,,,,161396.74,
+,,,General Conditions (10%),,,,,16139.67,
+,,,Grand Total,,,,,177536.41,

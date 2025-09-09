@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/Users/bhakt/Desktop/custom gpt/send_files_to_chatgpt_text.py", line 177, in <module>
+    main()
+    ~~~~^^
+  File "/Users/bhakt/Desktop/custom gpt/send_files_to_chatgpt_text.py", line 61, in main
+    raise ValueError("OpenAI API key must be provided via --api_key or OPENAI_API_KEY environment variable.")
+ValueError: OpenAI API key must be provided via --api_key or OPENAI_API_KEY environment variable.

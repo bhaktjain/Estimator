@@ -1,0 +1,11 @@
+{
+  "status": "error",
+  "message": "Invalid JSON format: Expecting value: line 1 column 1 (char 0). Please check your JSON file.",
+  "files": {},
+  "metadata": {
+    "start_time": "2025-08-21T19:03:38.499268",
+    "transcript_file": "/var/folders/6f/sts_5ctx6dxctwk9z85ympcw0000gn/T/renovation_estimate_7ho6f6mb/transcript.json",
+    "polycam_file": "/var/folders/6f/sts_5ctx6dxctwk9z85ympcw0000gn/T/renovation_estimate_7ho6f6mb/polycam.pdf",
+    "max_tokens": "3000"
+  }
+}

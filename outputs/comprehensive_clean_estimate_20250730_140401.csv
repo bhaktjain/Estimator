@@ -1,0 +1,51 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install new kitchen cabinets,"Provide and install new kitchen cabinets, including upper cabinets.",22 LF,$600 per LF (Standard),0.75,%,16511.25,90
+,,,Section Total,,,,,16511.25,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop installation,Install new quartz countertops,50 SF,$2000,0.75,%,4375,89
+,,,Section Total,,,,,4375.00,
+
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Full gut,Entire apartment gut for renovation,1396.1 SF,$11 per sq ft,0.75,%,15356.1,95
+,,,Section Total,,,,,15356.10,
+
+Doors,,,,,,,,,
+Doors,General,Replace interior doors,Replace all existing interior doors with new pre-hung doors.,5 UNIT,$550 per UNIT,0.75,%,4812.5,85
+,,,Section Total,,,,,4812.50,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewire apartment,Full electrical rewiring of the apartment.,1341.5 SF,$17 per SF,0.75,%,38238.375,90
+,,,Section Total,,,,,38238.38,
+
+Flooring,,,,,,,,,
+Flooring,"Kitchen, Living Room, Bedroom 1, Bedroom 2, Other",Install new flooring,Installation of new flooring throughout the apartment except for bathrooms.,1135.7 SF,$6 per SF,0.75,%,10221.175,85
+Flooring,Full Apartment,New flooring installation,Install engineered hardwood flooring,1341.5 SF,$6 per sq ft,0.75,%,9374.25,90
+Flooring,Living Room,Hardwood floor installation,Install new hardwood flooring,321 SF,$6 per sq ft,0.75,%,3367.5,86
+,,,Section Total,,,,,22962.92,
+
+Painting,,,,,,,,,
+Painting,General,Paint apartment,Paint all walls and ceilings throughout the apartment.,3006.1 SF (Walls),$10.3 per SF,0.75,%,34094.5125,90
+,,,Section Total,,,,,34094.51,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 2,Full Gut Replacement,Replace all plumbing fixtures in existing location,32.3 SF,$7700,0.75,%,13475,92
+Plumbing,"Bathroom 1, Bathroom 2",Modernize bathrooms,Update fixtures and convert tub to shower.,2 UNIT,$7700 per UNIT,0.75,%,26950,90
+Plumbing,Bathroom 1,Full Gut Replacement,Replace all plumbing fixtures in existing location,35.5 SF,$7700,0.75,%,13475,92
+,,,Section Total,,,,,53900.00,
+
+Tile,,,,,,,,,
+Tile,"Bathroom 1, Bathroom 2",Install new tiled floor,Installation of large format tiles in both bathrooms.,67.8 SF,"$2,000 (Bathroom Floors)",0.8,%,9472.5,90
+Tile,Bathroom 1,Tile Installation,Install floor and wall tiles,35.5 SF,$4250,0.8,%,7650,85
+,,,Section Total,,,,,17122.50,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Remove popcorn ceiling,Removal of all popcorn ceilings throughout the apartment.,1341.5 SF,$11 per SF,0.75,%,16530.375,90
+Walls & Ceilings,Full Apartment,Drywall installation,Install new drywall throughout the apartment,3006.1 SF,$4 per sq ft,0.75,%,21042.85,88
+Walls & Ceilings,Living Room,Drywall installation,Install new drywall on all walls and ceilings,515.8 SF,$4.95 per sq ft,0.75,%,2238.61,85
+,,,Section Total,,,,,39811.83,
+
+,,,Overall Subtotal,,,,,247185.00,
+,,,General Conditions (10%),,,,,24718.50,
+,,,Grand Total,,,,,271903.50,

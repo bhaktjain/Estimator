@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install New Cabinets,Installation of new kitchen cabinets.,12 LF,7600,0.75,%,15960,90
+Cabinetry,Kitchen,Install New Kitchen Cabinets,Installation of new kitchen cabinets to specification.,99 SF,Install Kitchen cabinets 0 > 10FT,0.75,%,13300,85
+Cabinetry,Kitchen,Cabinet installation,Installation of custom kitchen cabinetry.,99.0 SF,$850 per LF - Semi-Custom,0.75,%,84150,85
+,,,,,,,,113410.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install New Countertops,Installation of new kitchen countertops.,10 LF,2000,0.75,%,3500,90
+Countertops,Kitchen,Countertop installation,Installation of quartz kitchen countertops.,10 LF,$97 per sq ft,0.75,%,4350,85
+,,,,,,,,7850.00,
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Removal of Popcorn Ceiling,Remove all popcorn ceilings throughout the apartment.,1341.5 SF,N/A,0.75,%,13415,90
+Demolition,Kitchen,Kitchen Full Gut,Full gut of existing kitchen to prepare for renovation.,1 UNIT,3300,0.75,%,5775,95
+Demolition,Bathroom 1,Bathroom Gut,Full gut of Bathroom 1 for renovation.,1 UNIT,2750,0.70,%,4675,90
+Demolition,Bathroom 2,Bathroom Gut,Full gut of Bathroom 2 for renovation.,1 UNIT,2750,0.70,%,4675,90
+Demolition,Living Room,Wall Demolition,Demolish existing walls to create open space or for reconfiguration.,515.8 SF,Full gut price / sq ft - HYBRID,0.70,%,5673.80,85
+Demolition,Bathroom 1,Full Gut,"Complete demolition and removal of all fixtures, finishes, and surfaces.",1 UNIT,Bathroom Full gut 0 > 60 sf,0.70,%,2640,85
+Demolition,Full Apartment,Full gut,"Complete demolition of the apartment including existing walls, fixtures, and finishes.",1341.5 SF,$11 per sq ft - Hybrid,0.75,%,16391.25,90
+,,,,,,,,53245.05,
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Full Rewiring,Rewiring the entire apartment.,1341.5 SF,17,0.75,%,39871,90
+,,,,,,,,39871.00,
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Remove and Install New Flooring,Install new flooring throughout except bathrooms.,1272.2 SF,6,0.75,%,13379,90
+Flooring,Bathrooms,Bathroom Tile Flooring,New tile flooring for both bathrooms.,67.8 SF,23,0.80,%,1250.40,85
+,,,,,,,,14629.40,
+Painting,,,,,,,,,
+Painting,Full Apartment,Walls and Ceilings Painting,Paint all walls and ceilings.,3006.1 SF,10.3,0.75,%,54215.48,90
+,,,,,,,,54215.48,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Plumbing Replacement,Replace plumbing fixtures in Bathroom 1.,36 SF,7700,0.75,%,13475,85
+Plumbing,Bathroom 2,Plumbing Replacement,Replace plumbing fixtures in Bathroom 2.,32 SF,7700,0.75,%,13475,85
+Plumbing,Bathroom 1,Full Gut Replacement,Replace all plumbing fixtures and lines within existing location.,1 UNIT,Full Gut Replacement - existing location 0 - 60 sf,0.70,%,13100,85
+Plumbing,Bathroom 1,Full gut replacement,"Replacement of all fixtures including sink, toilet, and bathtub.",35.5 SF,$7700,0.75,%,7700,85
+Plumbing,Bathroom 2,Full gut replacement,"Replacement of all fixtures including sink, toilet, and bathtub.",32.3 SF,$7700,0.75,%,7700,85
+,,,,,,,,55450.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Floor Tile Installation,Install new floor tiles and grout.,35.5 SF,Tile Installation Bathroom - Floors,0.80,%,3600,85
+Tile,Bathroom 2,Floor and wall tile installation,Installation of ceramic tiles on the floor and walls.,32.3 SF,$2400,0.80,%,2400,85
+,,,,,,,,6000.00,
+,,,,,,,,344670.93,
+,,,General Conditions (10%),,,,,34467.09,
+,,,Grand Total,,,,,379138.02,

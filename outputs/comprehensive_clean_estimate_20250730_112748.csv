@@ -1,0 +1,65 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,99 sf,1650,0.75,%,285862.5,100
+,,,Section Total,,,,,285862.50,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Fabricate and install kitchen cabinets,Installation of standard kitchen cabinets,12 lf,600,0.75,%,12600,100
+,,,Section Total,,,,,12600.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Apartment,Final cleaning,Commercial cleaning for the apartment,1341.5 sf,1925,0.75,%,1925,100
+,,,Section Total,,,,,1925.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install Quartz Countertops,Fabricate and install quartz countertops,99 sf,97,0.75,%,13103,100
+,,,Section Total,,,,,13103.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,Demolition of existing kitchen,99 sf,2500,0.75,%,4375,100
+Demolition,Bathroom 1,Full gut,Demolition of existing bathroom 1,36 sf,2200,0.75,%,3850,100
+Demolition,Bathroom 2,Full gut,Demolition of existing bathroom 2,32 sf,2200,0.75,%,3850,100
+Demolition,Living Room,Full Gut Demolition,"Demolish existing room features, including walls and floor for renovation.",321 sf,7,0.75,%,3939.75,90
+,,,Section Total,,,,,16014.75,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring,Full apartment electrical rewiring,1341.5 sf,17,0.75,%,39811.125,100
+,,,Section Total,,,,,39811.12,
+
+Flooring,,,,,,,,,
+Flooring,Apartment,Remove popcorn ceiling and make the floor even,Self-leveling and floor preparation,321 sf,6,0.75,%,3371.5,100
+,,,Section Total,,,,,3371.50,
+
+Painting,,,,,,,,,
+Painting,Apartment,Full apartment painting,"Paint walls, ceilings, and trim",1341.5 sf,10.3,0.75,%,17313.975,100
+,,,Section Total,,,,,17313.97,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut,Plumbing for full kitchen gut,1 unit,3850,0.75,%,6737.5,100
+Plumbing,Bathroom 1,Full gut,Plumbing for full bathroom gut,1 unit,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full gut,Plumbing for full bathroom gut,1 unit,7700,0.75,%,13475,100
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install floor and wall tiles in Bathroom 1.,35 sf,2600,0.8,%,4940,90
+Tile,Bathroom 2,Tile Installation,Install floor and wall tiles in Bathroom 2.,32 sf,2600,0.8,%,4940,90
+Tile,Kitchen,Kitchen Floor Tile Installation,Installation of floor tiles in kitchen,99 sf,2400,0.80,%,427680.0,100
+,,,Section Total,,,,,437560.00,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Installation of new baseboards throughout apartment,1341.5 lf,4,0.75,%,9390.5,100
+,,,Section Total,,,,,9390.50,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Skim coating,Skim coating for walls and ceilings,321 sf,6,0.75,%,3371.5,100
+,,,Section Total,,,,,3371.50,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,35.5 sf,1900,0.75,%,118037.5,100
+Waterproofing,Bathroom 2,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,32.3 sf,1900,0.75,%,107397.49999999999,100
+Waterproofing,Kitchen,Waterproofing Installation,Install waterproofing membrane on kitchen floors,99 sf,1250,0.75,%,216562.5,100
+,,,Section Total,,,,,441997.50,
+
+,,,Overall Subtotal,,,,,1316008.85,
+,,,General Conditions (10%),,,,,131600.89,
+,,,Grand Total,,,,,1447609.74,

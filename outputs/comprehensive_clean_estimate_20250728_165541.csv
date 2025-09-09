@@ -1,0 +1,44 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets 0 > 10FT,Standard kitchen cabinet installation,1,7600,0.75,%,13300,95
+,,,Section Total,,,,,13300.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full Gut,Complete kitchen demolition,1,3300,0.75,%,5775,100
+Demolition,Bathroom 1,Full gut,Full gut of bathroom 0 - 60 sf,1 unit,2200,0.75,%,3850,90
+Demolition,Closet 1,Full Gut,Full demolition of Closet 1,1,3300,0.75,%,5775,85
+Demolition,Apartment,Full Gut,General apartment demolition,1396.1,11,0.75,%,26896.925,90
+,,,Section Total,,,,,42296.93,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apartment,Complete electrical rewiring for the apartment,1396.1,17,0.75,%,41520.775,100
+Electrical,Kitchen,New dedicated line,"Install new dedicated electrical line, Kitchen",1,495,0.75,%,866.25,70
+Electrical,Bathroom 1,Underfloor heating Install,Install heating under bathroom floor,1,2750,0.75,%,4812.5,85
+,,,Section Total,,,,,47199.53,
+
+Flooring,,,,,,,,,
+Flooring,Apartment,Remove popcorn ceiling and leveling,Remove existing popcorn ceilings and level floors,1341.5 sf,6,0.75,%,14012.25,80
+,,,Section Total,,,,,14012.25,
+
+Kitchen Cabinets,,,,,,,,,
+Kitchen Cabinets,Kitchen,Install Kitchen Cabinets,Install kitchen cabinets upto 10 FT,1,7600,0.75,%,13300,80
+,,,Section Total,,,,,13300.00,
+
+Painting,,,,,,,,,
+Painting,Apartment,Paint entire apartment,Paint all rooms within the apartment,1396.1,10.3,0.75,%,24868.78525,90
+,,,Section Total,,,,,24868.79,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Complete plumbing replacement for Bathroom 1,1,9900,0.75,%,17325,95
+Plumbing,Bathroom 1,Tub to shower conversion,Replacing tub with shower,1 unit,1375,0.75,%,2406.25,85
+Plumbing,Kitchen,Full gut plumbing,Plumbing for kitchen full gut,1 unit,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,26468.75,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Wall tile installation,1,4100,0.80,%,7380,95
+Tile,Kitchen,Tile Backsplash (SML),Small backsplash installation,1,1650,0.80,%,2970,90
+,,,Section Total,,,,,10350.00,
+
+,,,Overall Subtotal,,,,,191796.24,
+,,,General Conditions (10%),,,,,19179.62,
+,,,Grand Total,,,,,210975.86,

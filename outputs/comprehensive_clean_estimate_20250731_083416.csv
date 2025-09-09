@@ -1,0 +1,31 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Installation of new kitchen cabinets,Supply and installation of kitchen cabinets throughout,10 FT,Install Kitchen cabinets 0 > 10FT,0.75,%,,95
+Cabinetry,Kitchen,Kitchen Cabinets Installation,Installation of standard kitchen cabinets up to 8ft,8 LF,$600,0.75,%,"8,400.00",90
+Cabinetry,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets,12.4 LF,Supply/Fabricate kitchen cabinets SEMI-CUSTOM,0.75,%,12.4 * 850 * 1.75,95
+,,,,,,,,8400.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop installation,Fabrication and installation of new kitchen countertops.,16 SF,Fabricate and install - per sq/ft,0.75,%,,95
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Full gut demolition,"Full gut demolition of apartment including removal of existing flooring, popcorn ceiling, and non-load-bearing walls.",1341.5 SF,Full gut price / sq ft - HYBRID,0.75,%,,95
+Doors,,,,,,,,,
+Doors,Full Apartment,Replacement of interior doors,Installation of new prehung doors throughout the apartment.,10 UNIT,Stardard door Prehung,0.75,%,,95
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full rewiring of the apartment to meet modern electrical standards.,1341.5 SF,Rewiring Full Apt - Electrical - per sq ft,0.75,%,,95
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new hardwood flooring,"Installation of hardwood flooring throughout the apartment, excluding bathrooms.",1341.5 SF,Install hardwood (straight plank),0.75,%,,95
+Flooring,Living Room,Install Engineered Wood Flooring,Installation of new engineered wood flooring,321 SF,$6,0.75,%,"3,366.00",95
+,,,,,,,,3366.00,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1 & 2,Tub to shower conversion,Convert existing tubs to showers.,2 UNIT,Bathroom - Tub to shower conversion,0.75,%,,95
+Plumbing,Bathroom 2,Bathroom Plumbing Replacement,Full gut replacement for bathroom plumbing,32.3 SF,"$7,700",0.75,%,"13,475.00",95
+,,,,,,,,13475.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1 & 2,Wall and floor tiling,Installation of tiles in bathrooms including large format options.,67.8 SF,Tile Installation Bathroom - Floors,0.80,%,,95
+Tile,Bathroom 2,Wall and Floor Tile Installation,Install ceramic tiles on bathroom walls and floors,205.4 SF,$6,0.80,%,"4,179.60",95
+,,,,,,,,4179.60,
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Skim coating,Removal of popcorn ceiling and skim coating walls and ceilings.,3006.1 SF,Supply and Install skim coating - Ceilings,0.75,%,,95
+,,,,,,,,29420.60,
+,,,General Conditions (10%),,,,,2942.06,
+,,,Grand Total,,,,,32362.66,

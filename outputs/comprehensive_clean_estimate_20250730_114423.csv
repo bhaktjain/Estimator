@@ -1,0 +1,52 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,99.0 sf,1650,0.75,%,285862.5,100
+,,,Section Total,,,,,285862.50,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install new kitchen cabinets,Install standard kitchen cabinets,10 LF,7600,0.75,%,13300,95%
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz countertop,Install quartz countertop,99 sf,97,0.75,%,13103,95%
+,,,Section Total,,,,,13103.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Demolish existing bathroom,1 unit,2200,0.75,%,3850,95%
+Demolition,Bathroom 2,Full gut,Demolish existing bathroom,1 unit,2200,0.75,%,3850,95%
+Demolition,Kitchen,Full gut,Demolish existing kitchen,1 unit,2500,0.75,%,4375,90%
+,,,Section Total,,,,,12075.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full apartment electrical rewiring,1341.5 sf,17,0.75,%,39870.875,90%
+,,,Section Total,,,,,39870.88,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full gut replacement,Replace plumbing fixtures and lines,1 unit,7700,0.75,%,13475,95%
+Plumbing,Bathroom 2,Full gut replacement,Replace plumbing fixtures and lines,1 unit,7700,0.75,%,13475,95%
+Plumbing,Kitchen,Full gut replacement,Replace plumbing for existing kitchen layout,1 unit,3850,0.75,%,6738,90%
+,,,Section Total,,,,,33688.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Floor tile,Install tile on bathroom floor,35.5 sf,2000,0.8,%,3400,90%
+Tile,Bathroom 2,Floor tile,Install tile on bathroom floor,32.3 sf,2000,0.8,%,3400,90%
+Tile,Kitchen,Kitchen Floor Tile Installation,Installation of floor tiles in kitchen,99.0 sf,2400,0.80,%,427680.0,100
+,,,Section Total,,,,,434480.00,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Installation of new baseboards throughout apartment,1341.5 lf,4,0.75,%,9390.5,100
+,,,Section Total,,,,,9390.50,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Walls & Ceilings Work,"Installation of moisture-resistant drywall, tape, plaster, sand preparation",1341.5 sf,6,0.75,%,14085.75,100
+,,,Section Total,,,,,14085.75,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,35.5 sf,1900,0.75,%,118037.5,100
+Waterproofing,Bathroom 2,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,32.3 sf,1900,0.75,%,107397.49999999999,100
+Waterproofing,Kitchen,Waterproofing Installation,Install waterproofing membrane on kitchen floors,99.0 sf,1250,0.75,%,216562.5,100
+,,,Section Total,,,,,441997.50,
+
+,,,Overall Subtotal,,,,,1297853.12,
+,,,General Conditions (10%),,,,,129785.31,
+,,,Grand Total,,,,,1427638.44,

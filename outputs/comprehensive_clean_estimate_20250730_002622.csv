@@ -1,0 +1,46 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Supply and install standard kitchen cabinets.,16 LF,600,0.75,%,16800,100
+,,,Section Total,,,,,16800.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Commercial Cleaning,Commercial cleaning after construction.,1 UNIT,1925,0.75,%,3368.75,100
+,,,Section Total,,,,,3368.75,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop,Installation of quartz countertops in the kitchen.,99 SF,97,0.75,%,13103,100
+,,,Section Total,,,,,13103.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full Gut,Demolition of existing kitchen fixtures and substrates.,1 UNIT,2500,0.75,%,4375,100
+Demolition,Bathroom 1,Full Gut,Demolition of existing bathroom fixtures and substrates.,1 UNIT,2200,0.75,%,3850,100
+Demolition,Bathroom 2,Full Gut,Demolition of existing bathroom fixtures and substrates.,1 UNIT,2200,0.75,%,3850,100
+,,,Section Total,,,,,12075.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Electrical rewiring for the full apartment.,1341.5 SF,17,0.75,%,39868.75,100
+,,,Section Total,,,,,39868.75,
+
+Painting,,,,,,,,,
+Painting,Entire Apartment,Painting,1 coat primer + 2 coats paint,1341.5 sf,10.3,0.75,%,24168.0375,90
+,,,Section Total,,,,,24168.04,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full Gut,Plumbing adjustments for a new kitchen layout.,1 UNIT,3850,0.75,%,6737.5,100
+Plumbing,Bathroom 1,Full Gut Replacement,Plumbing replacement for bathroom fixtures.,1 UNIT,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full Gut Replacement,Plumbing replacement for bathroom fixtures.,1 UNIT,7700,0.75,%,13475,100
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Installation of tiles on bathroom walls and floors.,1 UNIT,4600,0.80,%,8280,100
+Tile,Kitchen,Tile Installation,Installation of floor tiles in the kitchen.,1 UNIT,2400,0.80,%,4200,100
+,,,Section Total,,,,,12480.00,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Install Waterproofing,Install waterproofing on bathroom floors and walls.,1 UNIT,1900,0.75,%,3325,100
+Waterproofing,Kitchen,Install Waterproofing,Install waterproofing on kitchen floors.,1 UNIT,1250,0.75,%,2187.5,100
+,,,Section Total,,,,,5512.50,
+
+,,,Overall Subtotal,,,,,161063.54,
+,,,General Conditions (10%),,,,,16106.35,
+,,,Grand Total,,,,,177169.89,

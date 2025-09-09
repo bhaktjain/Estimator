@@ -1,0 +1,40 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets 0 > 10FT,Installation of new kitchen cabinets,1,7600,0.75,%,13300,85
+,,,Section Total,,,,,13300.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full Gut,Full gut demolition of bathroom,51.1 sf,2750,0.75,%,4812.5,100
+Demolition,Kitchen,Full gut,"Complete demolition of kitchen area, including removal of cabinets and appliances",1,2500,0.75,%,4375,90
+,,,Section Total,,,,,9187.50,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apt,Full apartment rewiring using total livable area,543 sf,17,0.75,%,16160.25,100
+,,,Section Total,,,,,16160.25,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install new engineered,Engineered flooring installation,247.8 sf,6,0.75,%,3114.7,100
+,,,Section Total,,,,,3114.70,
+
+Painting,,,,,,,,,
+Painting,General,Painting,Painting all rooms,543,10.3,0.75,%,9793.73,95
+,,,Section Total,,,,,9793.73,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Full gut replacement in bathroom,51.1 sf,8800,0.75,%,15400,100
+Plumbing,Bathroom,Tub to shower conversion,Conversion of existing bathtub to a shower,1,1375,0.75,%,2406.25,85
+Plumbing,Kitchen Area (Other 1),Full Gut - existing location - 1 sink,Full gut plumbing work for kitchen (1 sink),1,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,24543.75,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation Walls,Tile installation on bathroom walls,1,2600,0.80,%,4940,90
+,,,Section Total,,,,,4940.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,"Install new 5/8"" drywall wall board",Drywall installation based on wall area,514.4 sf,4,0.75,%,3592,90
+Walls & Ceilings,Bathroom,"Install new 5/8"" drywall wall board",Drywall installation based on wall area,265.1 sf,4,0.75,%,1851,90
+,,,Section Total,,,,,5443.00,
+
+,,,Overall Subtotal,,,,,86482.93,
+,,,General Conditions (10%),,,,,8648.29,
+,,,Grand Total,,,,,95131.22,

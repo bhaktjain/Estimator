@@ -1,0 +1,32 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets 11 > 15 FT,Installation of kitchen cabinets between 11 and 15 ft,1,9200,0.75,%,16100,95
+,,,Section Total,,,,,16100.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop - Quartz,Install quartz kitchen countertop,1,2000,0.75,%,3500,90
+,,,Section Total,,,,,3500.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Bathroom Full Gut,Full gut of bathroom 60 > 80 sf,1,2750,0.75,%,4812.5,90
+Demolition,Kitchen,Full Gut,Complete gut of kitchen over 10 ft,1,3300,0.75,%,5775,100
+,,,Section Total,,,,,10587.50,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apt,Rewiring full apartment for updates,590.7,17,0.75,%,17583.37,85
+Electrical,Kitchen,Under cabinet lighting,Install under cabinet lighting - per 15ft,1,1650,0.75,%,2887.5,90
+,,,Section Total,,,,,20470.87,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Full gut replacement - existing location 80-100 sf,1,9900,0.75,%,17325,90
+Plumbing,General,Washer Dryer New Location,Relocation of washer dryer to new location,1,3850,0.75,%,6737.5,85
+Plumbing,Kitchen,Full Gut - existing location - 1 sink,"Plumbing work for kitchen full gut, existing location with 1 sink",1,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,30800.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation Bathroom - Floors,Install tile on bathroom floors,1,2300,0.8,%,4140,95
+,,,Section Total,,,,,4140.00,
+
+,,,Overall Subtotal,,,,,85598.37,
+,,,General Conditions (10%),,,,,8559.84,
+,,,Grand Total,,,,,94158.21,

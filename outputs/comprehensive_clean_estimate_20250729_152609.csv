@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of kitchen cabinets,99.0 sf,7600,0.75,%,13325,90
+,,,Section Total,,,,,13325.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Fabricate and install countertop,Fabricate and install quartz countertop,99.0 sf,97,0.75,%,16875,90
+,,,Section Total,,,,,16875.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,"Demolition of the bathroom including ceiling, floor, and walls",35.5 sf,2200,0.75,%,3850,90
+Demolition,Bathroom 2,Full gut,"Demolition of the bathroom including ceiling, floor, and walls",32.3 sf,2200,0.75,%,3850,90
+Demolition,Kitchen,Full gut,"Demolition of the kitchen including ceiling, floor, and walls",99.0 sf,2500,0.75,%,4375,90
+Demolition,Apartment,Full gut,Complete demolition of the apartment for renovation.,1341.5 sf,11,0.75,%,14739.125,90
+,,,Section Total,,,,,26814.12,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewiring for entire apartment (1341.5 sf),1341.5 sf,17,0.75,%,39853.37,95
+,,,Section Total,,,,,39853.37,
+
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install Vinyl Flooring,Installation of vinyl flooring throughout the apartment,1341.5 sf,6,0.75,%,14095,90
+,,,Section Total,,,,,14095.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full gut replacement,Complete plumbing replacement in existing location,35.5 sf,7700,0.75,%,13475,90
+Plumbing,Bathroom 2,Convert tub to shower,Conversion of bathtub to shower,1 unit,1375,0.75,%,2406,85
+Plumbing,Bathroom 2,Full Gut Replacement - existing location,Complete plumbing replacement for Bathroom 2.,1 unit,7700,0.75,%,13475,85
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Kitchen plumbing full gut for 1 sink (99.0 sf),99.0 sf,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,36093.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Floor and wall tile installation,35.5 sf,4250,0.80,%,7650,85
+Tile,Bathroom 2,Tile Installation,Floor and wall tile installation,32.3 sf,4250,0.80,%,7650,85
+,,,Section Total,,,,,15300.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Apartment,"Install new 5/8"" drywall wall board","Installation of new 5/8"" drywall wall board throughout the apartment.",3006.1 sf,4,0.75,%,21042.3,85
+,,,Section Total,,,,,21042.30,
+
+,,,Overall Subtotal,,,,,183398.29,
+,,,General Conditions (10%),,,,,18339.83,
+,,,Grand Total,,,,,201738.12,

@@ -1,0 +1,62 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,25 sf,TILE-10,0.80,%,1650,100
+,,,Section Total,,,,,1650.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Kitchen Cabinets Installation,Install semi-custom kitchen cabinets.,12.4 LF,Install Kitchen cabinets 11 > 15 FT,0.75,%,9200,90
+,,,Section Total,,,,,9200.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Post-Construction Cleanup,Full apartment cleanup after construction.,1341.5 SF,Apartment 1200 > 1800 sf,0.75,%,1925,90
+,,,Section Total,,,,,1925.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop Installation,Install new quartz countertops in the kitchen.,50 SF,Quartz,0.75,%,"1,500 + (50 * 97) + 2,000",90
+,,,Section Total,,,,,0.00,
+
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Flooring Demo,Demo and remove concrete flooring.,1341.5 SF,4,0.75,%,4 * 1341.5,85
+Demolition,Bathroom 1,Demolition,Full gut of Bathroom 1,35.5 SF,"$2,200",0.75,%,2200,90
+Demolition,Bathroom 2,Demolition,Full gut of Bathroom 2,32.3 SF,"$2,200",0.75,%,2200,90
+Demolition,Kitchen,Full gut demolition,Demolition of kitchen for renovation,1 UNIT,"$2,500",0.75,%,"$4,350",85
+,,,Section Total,,,,,4400.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full apartment rewiring for all electrical systems.,1341.5 SF,Rewiring Full Apt - Electrical - per sq ft,0.75,%,17 * 1341.5,95
+Electrical,Kitchen,"New Outlets, Switches, and Lighting","Installation of new outlets, switches, and lighting positions.",99 SF,Switch New location,0.75,%,(440 + 25) * anticipated quantity,85
+,,,Section Total,,,,,0.00,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Full Apartment Painting,Paint all rooms and spaces with Benjamin Moore Regal Select.,1341.5 SF,New *Benjamin Moore regal select,0.75,%,10.3 * 1341.5,90
+,,,Section Total,,,,,0.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Convert Tub to Shower,Convert existing tub space to a modern shower.,1 UNIT,Bathroom - Tub to shower conversion,0.75,%,1375,85
+Plumbing,Bathroom 2,Plumbing fixture installation,"Installation of new sink, toilet, and bathtub",1 SET,"$7,700",0.75,%,"$13,475",85
+Plumbing,Kitchen,Plumbing fixture installation,Installation of new sink and plumbing hookups,1 UNIT,"$3,850",0.75,%,"$6,738",85
+,,,Section Total,,,,,1375.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Large Format Tile Installation,Install large format tiles throughout the bathroom.,35.5 SF,Tile Installation Bathroom - Floors,0.8,%,2300,85
+Tile,Bathroom 2,Tile Installation,Installation of floor and wall tiles,32.3 SF,"$2,600",0.8,%,"$2,581",85
+Tile,Kitchen,Tile Backsplash,Installation of tile backsplash,10 FT,"$1,650",0.8,%,"$2,970",85
+,,,Section Total,,,,,2300.00,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Installation of new baseboards throughout apartment,1341.5 lf,TRIM-01,0.75,%,11,100
+,,,Section Total,,,,,11.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Popcorn Ceiling Removal,Remove popcorn ceiling throughout the apartment.,1341.5 SF,Full gut price / sq ft - HYBRID,0.75,%,11 * 1341.5,90
+Walls & Ceilings,Full Apartment,Drywall Refinishing,Install new drywall and skim coat throughout the apartment.,3006.1 SF,Supply and Install skim coating - Walls,0.75,%,6 * 3006.1,90
+,,,Section Total,,,,,0.00,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing,Install waterproofing for floors and walls,35.5 SF,"$1,900",0.75,%,1900,95
+Waterproofing,Bathroom 2,Waterproofing,Install waterproofing for floors and walls,32.3 SF,"$1,900",0.75,%,1900,95
+,,,Section Total,,,,,3800.00,
+
+,,,Overall Subtotal,,,,,24661.00,
+,,,General Conditions (10%),,,,,2466.10,
+,,,Grand Total,,,,,27127.10,

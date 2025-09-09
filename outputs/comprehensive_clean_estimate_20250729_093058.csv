@@ -1,0 +1,48 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Kitchen Cabinets Installation,Install kitchen cabinets 0 > 10FT,1,7600,0.75,%,13300,100
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop - Quartz,Supply and install quartz kitchen countertop,1,5500,0.75,%,9625,85
+,,,Section Total,,,,,9625.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Full gut of bathroom,1,2200,0.75,%,3850,100
+Demolition,Kitchen,Full gut,Demolition and removal,1,2500,0.75,%,4375,100
+,,,Section Total,,,,,8225.00,
+
+Doors,,,,,,,,,
+Doors,General,Standard Door Prehung,Installation of prehung standard doors,2,550,0.75,%,1925,80
+,,,Section Total,,,,,1925.00,
+
+Electrical,,,,,,,,,
+Electrical,Whole Apartment,Rewiring,Complete rewiring of the apartment,1341.5,17,0.75,%,39899.625,95
+,,,Section Total,,,,,39899.62,
+
+Flooring,,,,,,,,,
+Flooring,Whole Apartment,Install Hardwood Floor,Install new hardwood flooring throughout the apartment,1341.5,6,0.75,%,14070,90
+,,,Section Total,,,,,14070.00,
+
+Painting,,,,,,,,,
+Painting,Entire Apartment,Painting,Paint using Benjamin Moore,1396.1,10.3,0.70,%,24772.675,100
+,,,Section Total,,,,,24772.67,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Replacement of existing plumbing,1,7700,0.75,%,13475,90
+Plumbing,Bathroom 1,Tub to Shower Conversion,Convert bathtub to shower in Bathroom 1,1,1375,0.75,%,2406.25,85
+Plumbing,Kitchen,Full Gut - Existing Location - 1 Sink,Complete plumbing for kitchen gut with 1 sink,1,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,22618.75,
+
+Tile,,,,,,,,,
+Tile,Kitchen,Tile Installation,Install tiles in Kitchen,1,2400,0.80,%,4480,85
+Tile,Bathroom 1,Tile Installation - Walls,Bathroom wall tile installation,1,4100,0.80,%,7380,90
+,,,Section Total,,,,,11860.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,"Install 5/8"" Drywall Wall Board","Install standard 5/8"" drywall for walls",300,4,0.75,%,2100,75
+,,,Section Total,,,,,2100.00,
+
+,,,Overall Subtotal,,,,,148396.05,
+,,,General Conditions (10%),,,,,14839.60,
+,,,Grand Total,,,,,163235.65,

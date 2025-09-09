@@ -1,0 +1,47 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Appliances Removal,Remove and dispose old appliances,Remove and safely dispose of all old appliances,1,0,0.75,%,4000,85
+Demolition,Bathroom 1,Full Gut,Complete demolition of the bathroom.,1,2200,0.75,%,3850,95
+Demolition,Kitchen,Full Gut,Complete demolition of the kitchen.,1,2500,0.75,%,4375,95
+,,,Section Total,,,,,12225.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewiring of the entire apartment.,1341.5,17,0.75,%,39992.375,95
+Electrical,Kitchen,Install recessed lighting,Install recessed lighting in kitchen.,3,165,0.75,%,865.75,80
+,,,Section Total,,,,,40858.12,
+
+Flooring,,,,,,,,,
+Flooring,Apartment,Install hardwood flooring,New hardwood flooring throughout the apartment.,1396.1,6,0.75,%,14675.025,90
+,,,Section Total,,,,,14675.02,
+
+Kitchen,,,,,,,,,
+Kitchen,Kitchen,Install kitchen cabinets,Install new kitchen cabinets over 10 ft.,1,7600,0.75,%,13300,95
+Kitchen,Kitchen,Full kitchen renovation,"Includes cabinets, countertops, flooring, and backsplash.",1,5000,0.75,%,8750,90
+,,,Section Total,,,,,22050.00,
+
+Kitchen Cabinets,,,,,,,,,
+Kitchen Cabinets,Kitchen,Install Kitchen Cabinets,Install cabinets in the kitchen.,1,7600,0.75,%,13300,95
+,,,Section Total,,,,,13300.00,
+
+Painting,,,,,,,,,
+Painting,Apartment,Painting Walls and Ceilings,Painting all the walls and ceilings using Benjamin Moore regal select.,1341.5,10.3,0.75,%,24168.675,90
+,,,Section Total,,,,,24168.67,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Full gut replacement including plumbing fixtures.,1,7700,0.75,%,13475,95
+Plumbing,Bathroom 1,Convert tub to shower,Convert existing bathtub to shower.,1,1375,0.75,%,2406.25,85
+Plumbing,Kitchen,Full Gut,Full gut replacement including sink plumbing.,1,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,22618.75,
+
+Stone,,,,,,,,,
+Stone,Kitchen,Countertop Installation,Install quartz countertops in kitchen.,1,5500,0.75,%,9625,90
+,,,Section Total,,,,,9625.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Installs tile on bathroom walls and floors.,1,4600,0.80,%,8280,95
+Tile,Kitchen,Tile Installation Kitchen Flooring,Install new kitchen tiling for flooring.,1,2400,0.80,%,4320,85
+,,,Section Total,,,,,12600.00,
+
+,,,Overall Subtotal,,,,,172120.58,
+,,,General Conditions (10%),,,,,17212.06,
+,,,Grand Total,,,,,189332.63,

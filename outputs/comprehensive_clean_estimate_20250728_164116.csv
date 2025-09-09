@@ -1,0 +1,51 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of kitchen cabinets 0 > 10FT,1,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop,Supply and install kitchen countertop,1 unit,5500,0.75,%,9625,90
+Countertops,Kitchen,Kitchen Countertop,Supply and installation of quartz countertop,1,2000,0.75,%,5750,85
+,,,Section Total,,,,,15375.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Complete demolition of Bathroom 1,1 unit,2200,0.75,%,3850,95
+Demolition,Kitchen,Full gut,Complete demolition of Kitchen,1 unit,3300,0.75,%,5775,95
+,,,Section Total,,,,,9625.00,
+
+Electrical,,,,,,,,,
+Electrical,Apartment-wide,Rewiring,Rewiring entire apartment,1341.5 sf,17,0.75,%,39986.375,90
+Electrical,Apartment,Rewiring Full Apt,Complete electrical rewiring of the apartment,136,17,0.75,%,4046,90
+Electrical,General,Rewiring,Full apartment rewiring,1,17,0.75,%,13845,85
+,,,Section Total,,,,,57877.38,
+
+Flooring,,,,,,,,,
+Flooring,Apartment-wide,Install new engineered flooring,Install new engineered flooring throughout the apartment,1341.5 sf,6,0.75,%,14062.5,85
+Flooring,Apartment,Install LVT Flooring,Install luxury vinyl tile flooring throughout the apartment,1341.5,6,0.75,%,14097.75,85
+Flooring,General,Install hardwood,Installation of new engineered hardwood flooring,1,6,0.75,%,2625,85
+,,,Section Total,,,,,30785.25,
+
+Painting,,,,,,,,,
+Painting,Entire apartment,Painting,Paint entire apartment using Benjamin Moore regal select,1341.5 sf,10.3,0.75,%,24096.375,85
+Painting,Apartment,Painting,Paint all walls and ceilings,1341.5,10.3,0.75,%,24120.675,85
+Painting,General,New Paint,Supply and installation of Benjamin Moore regal select,1,10.3,0.75,%,5800,90
+,,,Section Total,,,,,54017.05,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Tub to shower conversion,Convert tub to shower in Bathroom 1,1 unit,1375,0.75,%,2406.25,95
+Plumbing,Bathroom 1,Full gut replacement,Complete plumbing replacement in existing location,1,7700,0.75,%,13475,90
+Plumbing,Kitchen,Full gut,Complete plumbing for existing location with 1 sink,1,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,22618.75,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation Walls,Tile installation on walls in Bathroom 1,1 unit,2600,0.80,%,4680,90
+Tile,Kitchen,Tile Backsplash,Install tile backsplash in kitchen,10,1650,0.80,%,2970,90
+,,,Section Total,,,,,7650.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Skim coating,Supply and install skim coating on walls,321 sf,6,0.75,%,3371.25,80
+,,,Section Total,,,,,3371.25,
+
+,,,Overall Subtotal,,,,,214619.67,
+,,,General Conditions (10%),,,,,21461.97,
+,,,Grand Total,,,,,236081.64,

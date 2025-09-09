@@ -1,0 +1,55 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install kitchen cabinets,Standard kitchen cabinet installation,9.8,7600,0.75,%,55608,90
+,,,Section Total,,,,,55608.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Fabricate and install,Installation of kitchen countertop,9.8,125,0.75,%,2697.5,85
+Countertops,Kitchen,Kitchen Countertop,Quartz Countertop in Kitchen,9.8,97,0.75,%,1662.65,85
+,,,Section Total,,,,,4360.15,
+
+Demolition,,,,,,,,,
+Demolition,General,Full gut,Full apartment demolition,1396.1,11,0.75,%,16056.69,95
+Demolition,Kitchen,Full gut,Demolish entire kitchen,1,2500,0.75,%,4375,95
+Demolition,Bathroom 1,Full gut,Demolish entire bathroom,1,2200,0.75,%,3850,95
+,,,Section Total,,,,,24281.69,
+
+Doors,,,,,,,,,
+Doors,General,Pocket door,Installation of pocket doors,1,1320,0.75,%,2310,80
+,,,Section Total,,,,,2310.00,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring,Full apartment electrical rewiring,1396.1,17,0.75,%,24079.7,90
+Electrical,Full Apt,Rewiring,Rewiring Full Apt - Electrical,1341.5,17,0.75,%,39879.25,100
+Electrical,Total Livable Area,Rewiring,Rewire entire apartment,1396,17,0.75,%,41433,95
+,,,Section Total,,,,,105391.95,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install new engineered,Installation of engineered flooring in Living Room,136,6,0.75,%,1428,85
+,,,Section Total,,,,,1428.00,
+
+Painting,,,,,,,,,
+Painting,Full Apt,New Benjamin Moore regal select,Painting across apartment,1341.5,10.3,0.75,%,24229.95,100
+Painting,Total Livable Area,Painting,Paint entire apartment,1396,10.3,0.75,%,15812,95
+,,,Section Total,,,,,40041.95,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full gut replacement,Full gut replacement in existing location,21,7700,0.75,%,13475,90
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Full gut plumbing for kitchen,1,3850,0.75,%,6737.5,80
+,,,Section Total,,,,,20212.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install tile for bathroom 1 walls and floors,21,2600,0.80,%,5988,90
+,,,Section Total,,,,,5988.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,"Install new 5/8"" drywall wall board",Installation of new drywall on walls,1341.5,4,0.75,%,9370.5,85
+,,,Section Total,,,,,9370.50,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing,Waterproofing installation in Bathroom 1,21,1900,0.75,%,3487.5,85
+,,,Section Total,,,,,3487.50,
+
+,,,Overall Subtotal,,,,,272480.24,
+,,,General Conditions (10%),,,,,27248.02,
+,,,Grand Total,,,,,299728.26,

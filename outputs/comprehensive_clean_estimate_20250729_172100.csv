@@ -1,0 +1,63 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen (Other 1),Tile Backsplash (SML),Installation of small-sized backsplash tile.,1,1650,0.75,%,2887.5,80%
+,,,Section Total,,,,,2887.50,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Supply and install new kitchen cabinets for the kitchen area.,10,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Final commercial cleaning of the entire apartment.,543.0,1925,0.75,%,3368.75,100
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Post-renovation cleaning for the entire apartment.,1,1375,0.75,%,2406.25,90%
+Commercial Cleaning,Full Apartment,Final Clean,Commercial cleaning based on size,543 sf,1375,0.75,%,2406.25,85
+,,,Section Total,,,,,8181.25,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen (Other 1),Kitchen Countertop - Quartz,Supply and installation of quartz kitchen countertops.,1,5500,0.75,%,9625,85%
+Countertops,Kitchen,Fabricate and install,Quartz countertop installation,9.5 ft,1940.5,0.75,%,16117.75,80
+,,,Section Total,,,,,25742.75,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full gut,Demolition of entire bathroom area.,1,2200,0.75,%,3850,95
+Demolition,Kitchen,Full gut,"Demolition of existing kitchen, including cabinets, counters, plumbing fixtures, appliances, and wall substrates.",1,3300,0.75,%,5775,100
+,,,Section Total,,,,,9625.00,
+
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Rewiring,Rewiring the entire apartment's electrical systems.,543.0,17,0.75,%,16131.25,100
+,,,Section Total,,,,,16131.25,
+
+Flooring,,,,,,,,,
+Flooring,Entire Apartment,Install new engineered flooring,Installation of new engineered flooring throughout the apartment.,590.7,6,0.75,%,6219.45,85%
+Flooring,Living Room,Install new engineered flooring,Install new engineered flooring in the living room.,247.8,6,0.75,%,2592.9,100
+,,,Section Total,,,,,8812.35,
+
+Painting,,,,,,,,,
+Painting,Entire Apartment,Standard Painting,"Standard painting for all walls, ceilings, and trim.",543,10.3,0.75,%,9796.12,85%
+,,,Section Total,,,,,9796.12,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Complete replacement of all plumbing for the bathroom.,1,7700,0.75,%,13475,100
+Plumbing,Kitchen,Full Gut Replacement,Complete plumbing replacement for kitchen including sink relocation as needed.,1,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,20212.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation Bathroom - Walls,Installation of wall tiles in the bathroom.,1,2600,0.8,%,4680,85%
+Tile,Kitchen,Tile Installation,Installation of floor tiles,83 sf,2400,0.8,%,12800,85
+,,,Section Total,,,,,17480.00,
+
+Trim,,,,,,,,,
+Trim,Entire Apartment,Baseboard Installation,Installation of baseboards throughout the apartment.,1640.3,5,0.75,%,14353.13,80%
+,,,Section Total,,,,,14353.13,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Entire Apartment,"Install new 5/8"" drywall wall board",Supply and install new drywall for all walls.,1640.3,4,0.75,%,11452.25,100
+,,,Section Total,,,,,11452.25,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom,Install waterproofing floors and walls,Waterproofing the floor and walls of the bathroom.,1,2250,0.75,%,3937.5,90%
+,,,Section Total,,,,,3937.50,
+
+,,,Overall Subtotal,,,,,161911.60,
+,,,General Conditions (10%),,,,,16191.16,
+,,,Grand Total,,,,,178102.76,

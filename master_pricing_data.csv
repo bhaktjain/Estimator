@@ -1,0 +1,188 @@
+Item Code,Description,Size/Type,Unit,Labor,Material,Category,Subcategory,Notes,Margin,Minimum
+CLEN-01,Commercial Cleaning - Apartment,Up to 600 sf,UNIT,825.00,N/A,Cleaning,Commercial,,0.75,750.00
+CLEN-02,Commercial Cleaning - Apartment,600 - 1200 sf,UNIT,1375.00,N/A,Cleaning,Commercial,,0.75,750.00
+CLEN-03,Commercial Cleaning - Apartment,1200 - 1800 sf,UNIT,1925.00,N/A,Cleaning,Commercial,,0.75,750.00
+CLEN-04,Commercial Cleaning - Apartment,1800 - 2500 sf,UNIT,2750.00,N/A,Cleaning,Commercial,,0.75,750.00
+CLEN-05,Commercial Cleaning - Apartment,2500 sf +,UNIT,4400.00,N/A,Cleaning,Commercial,,0.75,750.00
+DEMO-01,Demolition - Kitchen - Full gut,0 > 10 ft,UNIT,2500.00,0.00,Demolition,Kitchen,,0.75,4000.00
+DEMO-02,Demolition - Kitchen - Full gut,10 ft+,UNIT,3300.00,0.00,Demolition,Kitchen,,0.75,4000.00
+DEMO-03,Demolition - Bathroom - Full gut,0 > 60 sf,UNIT,2200.00,0.00,Demolition,Bathroom,,0.75,4000.00
+DEMO-04,Demolition - Bathroom - Full gut,60 > 80 sf,UNIT,2750.00,0.00,Demolition,Bathroom,,0.75,4000.00
+DEMO-05,Demolition - Bathroom - Full gut,80 > 100+ sf,UNIT,3300.00,0.00,Demolition,Bathroom,,0.75,4000.00
+DEMO-06,Demolition - Powder Room - Full gut,N/A,UNIT,1375.00,0.00,Demolition,General,,0.75,4000.00
+DEMO-07,Demolition - General,Up to 600 sf,SF,7.00,0.00,Demolition,General,$4 per sq ft for demo and removal only,0.75,4000.00
+DEMO-08,Demolition - General,600 - 1200 sf,SF,7.00,0.00,Demolition,General,$4 per sq ft for demo and removal only,0.75,4000.00
+DEMO-09,Demolition - General,1200 - 1800 sf,SF,5.00,0.00,Demolition,General,,0.75,4000.00
+DEMO-10,Demolition - General,1800 - 2500 sf,SF,4.00,0.00,Demolition,General,,0.75,4000.00
+DEMO-11,Demolition - General,2500 sf +,SF,4.00,0.00,Demolition,General,,0.75,4000.00
+DEMO-12,Full gut price / sq ft - HYBRID,N/A,SF,11.00,TBD,Demolition,General,,0.75,4000.00
+WATR-01,Install waterproofing floors and walls,0 > 60 sf,UNIT,1900.00,N/A,Waterproofing,Bathroom,Supply and Install,0.75,1750.00
+WATR-02,Install waterproofing floors and walls,60 > 80 sf,UNIT,2100.00,N/A,Waterproofing,Bathroom,Supply and Install,0.75,1750.00
+WATR-03,Install waterproofing floors and walls,80 > 100+ sf,UNIT,2250.00,N/A,Waterproofing,Bathroom,Supply and Install,0.75,1750.00
+WATR-04,Install waterproofing floors,Unit,UNIT,1250.00,N/A,Waterproofing,Kitchen,Supply and Install,0.75,1750.00
+TILE-01,Tile Installation Bathroom - Walls,0 > 60 sf,UNIT,2600.00,N/A,Tile,Bathroom,Install,0.80,4250.00
+TILE-02,Tile Installation Bathroom - Floors,0 > 60 sf,UNIT,2000.00,N/A,Tile,Bathroom,Install,0.80,4250.00
+TILE-03,Tile Installation Bathroom - Walls,60 > 80 sf,UNIT,3400.00,N/A,Tile,Bathroom,Install,0.80,4250.00
+TILE-04,Tile Installation Bathroom - Floors,60 > 80 sf,UNIT,2300.00,N/A,Tile,Bathroom,Install,0.80,4250.00
+TILE-05,Tile Installation Bathroom - Walls,80 > 100 sf,UNIT,4100.00,N/A,Tile,Bathroom,Install,0.80,4250.00
+TILE-06,Tile Installation Bathroom - Floors,80 > 100 sf,UNIT,2700.00,N/A,Tile,Bathroom,Install,0.80,4250.00
+TILE-07,Tile Installation Kitchen Flooring,Flooring,UNIT,2400.00,N/A,Tile,Kitchen,Install,0.80,4250.00
+TILE-08,Tile Installation Kitchen,Standard,UNIT,2800.00,N/A,Tile,Kitchen,Install,0.80,4250.00
+TILE-09,Tile Installation Kitchen - LGE,Standard,UNIT,3300.00,N/A,Tile,Kitchen,Install,0.80,4250.00
+TILE-10,Tile Backsplash (SML),10 ft,UNIT,1650.00,N/A,Tile,Kitchen,Install,0.80,4250.00
+TILE-11,Tile Backsplash (LGE),10 ft +,UNIT,2200.00,N/A,Tile,Kitchen,Install,0.80,4250.00
+CARP-01,Framing - New Walls,Standard,LF,45.00,N/A,Carpentry,Framing,,0.75,2000.00
+CARP-02,Drywall Installation,Standard,SF,8.00,N/A,Carpentry,Drywall,Measured from wall area,0.75,2000.00
+CARP-03,Ceiling Work,Standard,SF,10.00,N/A,Carpentry,Ceiling,Measured from ceiling area,0.75,2000.00
+CARP-05,Install new moisture resistant drywall,0 > 60 SF,UNIT,1225.00,N/A,Carpentry,Bathroom,Supply and Install,0.75,2000.00
+CARP-06,Install new moisture resistant drywall,60 > 80 SF,UNIT,2200.00,N/A,Carpentry,Bathroom,Supply and Install,0.75,2000.00
+CARP-07,Install new moisture resistant drywall,80 > 100 SF,UNIT,3475.00,N/A,Carpentry,Bathroom,Supply and Install,0.75,2000.00
+CARP-08,Install new moisture resistant drywall,0 > 10 FT,UNIT,1375.00,N/A,Carpentry,Kitchen,Supply and Install,0.75,2000.00
+CARP-09,Install new moisture resistant drywall,10 FT +,UNIT,1925.00,N/A,Carpentry,Kitchen,Supply and Install,0.75,2000.00
+CARP-10,Install new 5/8" drywall wall board,N/A,SF,4.00,N/A,Carpentry,General,Supply and Install,0.75,2000.00
+CARP-11,Install new 5/8" drywall ceiling board,N/A,SF,4.95,N/A,Carpentry,General,Supply and Install,0.75,2000.00
+CARP-12,Install new 5/8" drywall quadrock,N/A,SF,7.70,N/A,Carpentry,General,Supply and Install,0.75,2000.00
+TRIM-01,Baseboard Installation,Standard,LF,5.00,6.00,Carpentry,Trim,Supply and Install,0.75,1500.00
+TRIM-02,Crown Molding,Standard,LF,9.00,8.00,Carpentry,Trim,Supply and Install,0.75,1500.00
+TRIM-03,Flush baseboards,Standard,LF,17.00,8.00,Carpentry,Trim,Supply and Install,0.75,1500.00
+DOOR-01,Standard door,Prehung,UNIT,550.00,N/A,Carpentry,Doors,Install,0.75,1500.00
+DOOR-02,Pocket door (includes framing and drywall),Prehung,UNIT,1320.00,N/A,Carpentry,Doors,Install,0.75,1500.00
+DOOR-03,Double door,Prehung,UNIT,825.00,N/A,Carpentry,Doors,Install,0.75,1500.00
+DOOR-04,Bifold double door,Prehung,UNIT,825.00,N/A,Carpentry,Doors,Install,0.75,1500.00
+DOOR-05,Pivot door,Custom,UNIT,1100.00,N/A,Carpentry,Doors,Install,0.75,1500.00
+WIND-01,Window Installation,Standard,EA,450.00,N/A,Carpentry,Windows,,0.75,1500.00
+KITC-01,Kitchen Cabinets,Standard,LF,N/A,600.00,Kitchen,Cabinetry,Measured from cabinet length,0.75,5000.00
+KITC-02,Countertop - Quartz,Standard,SF,N/A,85.00,Kitchen,Countertops,Measured from counter area,0.75,5500.00
+KITC-03,Backsplash Tile,Standard,SF,N/A,25.00,Kitchen,Backsplash,Measured from backsplash area,0.75,5000.00
+KITC-06,Install Kitchen cabinets,0 > 10FT,UNIT,7600.00,N/A,Kitchen Cabinets,General,Install,0.75,5000.00
+KITC-07,Install Kitchen cabinets,11 > 15 FT,UNIT,9200.00,N/A,Kitchen Cabinets,General,Install,0.75,5000.00
+KITC-08,Install Kitchen cabinets,16 > 20FT,UNIT,10900.00,N/A,Kitchen Cabinets,General,Install,0.75,5000.00
+KITC-09,Install Kitchen cabinets,20 FT +,UNIT,12500.00,N/A,Kitchen Cabinets,General,Install,0.75,5000.00
+KITC-10,Supply/Fabricate kitchen cabinets,STANDARD,LF,N/A,800.00,Kitchen,Cabinetry,Supply - 24 x $800 = $19,200,0.75,5000.00
+KITC-11,Supply/Fabricate kitchen cabinets,SEMI-CUSTOM,LF,N/A,850.00,Kitchen,Cabinetry,Supply,0.75,5000.00
+KITC-12,Supply/Fabricate kitchen cabinets,FULLY-CUSTOM,LF,N/A,1200.00,Kitchen,Cabinetry,Supply,0.75,5000.00
+KITC-13,Upper Cabinets (add height here),STANDARD,LF,N/A,800.00,Kitchen,Cabinetry,Supply,0.75,5000.00
+KITC-14,Island Cost (min 4ft - $600),STANDARD,LF,N/A,2400.00,Kitchen,Cabinetry,Supply,0.75,5000.00
+KITC-15,Pantry pull-lift unit,0 > 3FT,UNIT,1800.00,N/A,Kitchen,Cabinetry,Supply and Install,0.75,5000.00
+KITC-16,Panelized Fridge,N/A,UNIT,1200.00,N/A,Kitchen,Appliances,Install,0.75,5000.00
+KITC-17,Panelized Dishwasher,N/A,UNIT,1200.00,N/A,Kitchen,Appliances,Install,0.75,5000.00
+KITC-18,External Vendor coordination (if client is using out of network kit),N/A,UNIT,4500.00,N/A,Kitchen,Cabinetry,Install,0.75,5000.00
+PLMB-01,Full Gut Replacement - existing location,0 > 60 sf,UNIT,7700.00,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-02,Full Gut Replacement - existing location,60 > 80 sf,UNIT,8800.00,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-03,Full Gut Replacement - existing location,80 > 100 sf,UNIT,9900.00,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-04,Full Gut / relocation,0 > 60 sf,UNIT,8800.00,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-05,Full Gut / relocation,60 > 80 sf,UNIT,9900.00,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-06,Full Gut / relocation,80 > 100 sf,UNIT,12100.00,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-07,Bathroom - Tub to shower conversion,N/A,UNIT,1375.00,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-08,Plumbing at new location,QUOTE,UNIT,TBD,N/A,Plumbing,Bathroom,Supply and Install,0.75,3500.00
+PLMB-09,Full gut - existing location - 1 sink,0 > 10 ft,UNIT,3850.00,N/A,Plumbing,Kitchen,Supply and Install,0.75,3500.00
+PLMB-10,Full gut - existing location - 2 sink,0 > 10 ft,UNIT,4950.00,N/A,Plumbing,Kitchen,Supply and Install,0.75,3500.00
+PLMB-11,Full gut - new location - 1 sink,10 ft +,UNIT,6050.00,N/A,Plumbing,Kitchen,Supply and Install,0.75,3500.00
+PLMB-12,Kitchen - new location - 2 sink,10 ft +,UNIT,7150.00,N/A,Plumbing,Kitchen,Supply and Install,0.75,3500.00
+PLMB-13,New Sink Installation,Standard,EA,750.00,N/A,Plumbing,Fixtures,,0.75,3500.00
+PLMB-14,New Toilet Installation,Standard,EA,650.00,N/A,Plumbing,Fixtures,,0.75,3500.00
+PLMB-15,New Shower Installation,Standard,EA,1800.00,N/A,Plumbing,Fixtures,,0.75,3500.00
+PLMB-16,Washer Dryer - Replace existing,N/A,UNIT,2200.00,N/A,Plumbing,General,Install only,0.75,3500.00
+PLMB-17,Washer Dryer - Relocation,N/A,UNIT,3350.00,N/A,Plumbing,General,Install only,0.75,3500.00
+PLMB-18,Washer Dryer - New Location,N/A,UNIT,3350.00,N/A,Plumbing,General,Install only,0.75,3500.00
+PLMB-19,Radiators Installation (steam),N/A,UNIT,550.00,N/A,Plumbing,General,Install only,0.75,3500.00
+PLMB-20,Radiators Installation (water),N/A,UNIT,550.00,N/A,Plumbing,General,Install only,0.75,3500.00
+PLMB-21,Boiler replacement - request sub pricing,QUOTE,UNIT,TBD,N/A,Plumbing,General,Supply and Install,0.75,3500.00
+ELEC-01,New Outlet,Standard,EA,125.00,N/A,Electrical,Outlets,,0.75,3500.00
+ELEC-02,New Light Fixture,Standard,EA,175.00,N/A,Electrical,Lighting,,0.75,3500.00
+ELEC-03,New Electrical Panel,Standard,EA,2500.00,N/A,Electrical,Panel,,0.75,3500.00
+ELEC-04,Switch,Existing location,UNIT,55.00,25.00,Electrical,Switches,Supply and Install,0.75,3500.00
+ELEC-05,Light fixture,Standard,UNIT,165.00,N/A,Electrical,Lighting,Install,0.75,3500.00
+ELEC-06,Outlet,Standard,UNIT,55.00,25.00,Electrical,Outlets,Supply and Install,0.75,3500.00
+ELEC-07,GFI,Standard,UNIT,55.00,25.00,Electrical,Outlets,Supply and Install,0.75,3500.00
+ELEC-08,Pendant lighting,Standard,UNIT,165.00,N/A,Electrical,Lighting,Install,0.75,3500.00
+ELEC-09,Recessed lighting,Standard,UNIT,165.00,25.00,Electrical,Lighting,Supply and Install,0.75,3500.00
+ELEC-10,Switch,New location,UNIT,440.00,25.00,Electrical,Switches,Supply and Install,0.75,3500.00
+ELEC-11,Light fixture,New location,UNIT,440.00,25.00,Electrical,Lighting,Install,0.75,3500.00
+ELEC-12,Outlet,New location,UNIT,440.00,25.00,Electrical,Outlets,Supply and Install,0.75,3500.00
+ELEC-13,GFI,New location,UNIT,440.00,25.00,Electrical,Outlets,Supply and Install,0.75,3500.00
+ELEC-14,Pendant lighting,New location,UNIT,440.00,N/A,Electrical,Lighting,Install,0.75,3500.00
+ELEC-15,Recessed lighting,New location,UNIT,440.00,25.00,Electrical,Lighting,Supply and Install,0.75,3500.00
+ELEC-16,Rewiring Full Apt - Electrical - per sq ft,Standard,SF,17.00,N/A,Electrical,Rewiring,Supply and Install,0.75,3500.00
+ELEC-17,Electrical Panel Replacement,Existing location,UNIT,3300.00,N/A,Electrical,Panel,Supply and Install,0.75,3500.00
+ELEC-18,Electrical Panel Replacement,New location,UNIT,4950.00,N/A,Electrical,Panel,Supply and Install,0.75,3500.00
+ELEC-19,Underfloor heating Install,Standard,UNIT,2750.00,N/A,Electrical,Heating,Install,0.75,3500.00
+ELEC-20,Underfloor heating Supply,Standard,UNIT,0.00,1000.00,Electrical,Heating,Supply,0.75,3500.00
+ELEC-21,New dedicated line,Standard,UNIT,495.00,N/A,Electrical,Wiring,Supply and Install,0.75,3500.00
+ELEC-22,Steam Machine,Standard,UNIT,3850.00,N/A,Electrical,Appliances,Install,0.75,3500.00
+ELEC-23,New Washer and Dryer (2 X DEDICATED LINES),Standard,UNIT,1500.00,N/A,Electrical,Appliances,Install,0.75,3500.00
+ELEC-24,Undercabinet Lighting - per 15ft,Standard,UNIT,1500.00,N/A,Electrical,Lighting,Install,0.75,3500.00
+ELEC-25,Service upgrade - Get pricing,QUOTE,QUOTE,38500.00,N/A,Electrical,Service,Supply and Install,0.75,3500.00
+BATH-01,Bathroom Vanity,Standard,EA,950.00,N/A,Bathroom,Fixtures,,0.75,1000.00
+BATH-02,Bathroom Floor Tile,Standard,SF,18.00,N/A,Bathroom,Flooring,Measured from floor area,0.80,4250.00
+BATH-03,Bathroom Wall Tile,Standard,SF,20.00,N/A,Bathroom,Wall,Measured from wall area,0.80,4250.00
+BATH-04,Bathroom Slabs - stone bench,Standard,SF,120.00,100.00,Bathroom,Stone,Install,0.75,5500.00
+BATH-05,Bathroom Slabs - niche ledge,Standard,SF,120.00,100.00,Bathroom,Stone,Install,0.75,5500.00
+BATH-06,Bathroom Slabs - door saddle,Standard,SF,120.00,100.00,Bathroom,Stone,Install,0.75,5500.00
+FINSH-01,Painting - Walls,Standard,SF,3.50,N/A,Finishes,Painting,Measured from wall area,0.75,1500.00
+FINSH-02,Painting - Ceiling,Standard,SF,4.00,N/A,Finishes,Painting,Measured from ceiling area,0.75,1500.00
+FINSH-03,Flooring - Hardwood,Standard,SF,12.00,N/A,Finishes,Flooring,Measured from floor area,0.75,1500.00
+FINSH-04,Flooring - Tile,Standard,SF,18.00,N/A,Finishes,Flooring,Measured from floor area,0.75,1500.00
+FINSH-05,New "Benjamin Moore regal select (calculated on FLOOR AREA),N/A,SF,10.50,N/A,Finishes,Painting,Supply and Install,0.75,1500.00
+FINSH-06,Install new engineered,N/A,SF,6.00,N/A,Finishes,Flooring,Install,0.75,1500.00
+FINSH-07,Install hardwood (straight plank),N/A,SF,6.00,N/A,Finishes,Flooring,Install,0.75,1500.00
+FINSH-08,Install hardwood (chevron),N/A,SF,6.00,N/A,Finishes,Flooring,Install,0.75,1500.00
+FINSH-09,Install new LVT Flooring,N/A,SF,6.00,N/A,Finishes,Flooring,Install,0.75,1500.00
+FINSH-10,Install Vinyl Flooring,N/A,SF,6.00,N/A,Finishes,Flooring,Install,0.75,1500.00
+FINSH-11,Install & Refinish Hardwood,N/A,SF,12.00,N/A,Finishes,Flooring,Install,0.75,1500.00
+FINSH-12,Sand/Refinish wood flooring,N/A,SF,5.00,N/A,Finishes,Flooring,Install,0.75,1500.00
+FINSH-13,Acoustic Flooring Underlayment,N/A,SF,2.00,4.00,Finishes,Flooring,Supply and Install,0.75,1500.00
+FINSH-14,Subfloor replacement,N/A,SF,3.00,5.00,Finishes,Flooring,Supply and Install,0.75,1500.00
+FINSH-15,Self leveling (Concrete/Cement),N/A,SF,3.00,N/A,Finishes,Flooring,Supply and Install,0.75,1500.00
+FINSH-16,Floor leveling (sistering joists & new subfloor),N/A,SF,6.00,7.00,Finishes,Flooring,Supply and Install,0.75,1500.00
+FINSH-17,Supply and Install skim coating - Walls,N/A,SF,6.00,N/A,Finishes,Walls,Supply and Install,0.75,1500.00
+FINSH-18,Supply and Install skim coating - Ceilings,N/A,SF,6.00,N/A,Finishes,Ceilings,Supply and Install,0.75,1500.00
+APPL-01,Refrigerator,Standard,EA,1200.00,N/A,Appliances,Kitchen,,0.75,1000.00
+APPL-02,Range/Oven,Standard,EA,950.00,N/A,Appliances,Kitchen,,0.75,1000.00
+APPL-03,Dishwasher,Standard,EA,750.00,N/A,Appliances,Kitchen,,0.75,1000.00
+APPL-04,Microwave,Standard,EA,450.00,N/A,Appliances,Kitchen,,0.75,1000.00
+MISC-01,Permits and Fees,Standard,LS,1500.00,N/A,Miscellaneous,Administrative,,0.75,1000.00
+MISC-02,Cleanup,Standard,LS,750.00,N/A,Miscellaneous,Cleanup,,0.75,1000.00
+MISC-03,Waste Removal,Standard,LS,1200.00,N/A,Miscellaneous,Disposal,,0.75,1000.00
+MISC-04,Tub Reglazing,N/A,UNIT,650.00,N/A,Miscellaneous,Bathroom,,0.75,1000.00
+MISC-05,Stair refinishing (12 treads/cost per flight),N/A,UNIT,1200.00,N/A,Miscellaneous,Stairs,,0.75,1000.00
+MISC-06,Stair tread replacement (per tread),N/A,UNIT,330.00,N/A,Miscellaneous,Stairs,,0.75,1000.00
+MISC-07,New stair structure (straight flight),N/A,UNIT,N/A,N/A,Miscellaneous,Stairs,,0.75,1000.00
+MISC-08,Handrail Installation (wood) material excluded,N/A,UNIT,N/A,N/A,Miscellaneous,Stairs,,0.75,1000.00
+MISC-09,Accessory Installation,N/A,UNIT,550.00,N/A,Miscellaneous,Accessories,Install,0.75,1000.00
+MISC-10,Custom Radiator Cover - (never only a 3ft x 6ft),N/A,N/A,1000.00,2000.00,Miscellaneous,Millwork,Supply and Install,0.75,2500.00
+MISC-11,Prefabricated Radiator Covers - Use this link for pricing,N/A,N/A,500.00,1000.00,Miscellaneous,Millwork,Supply and Install,0.75,2500.00
+MISC-12,Bookcase - (-6ft x 8ft),N/A,N/A,1000.00,4000.00,Miscellaneous,Millwork,Supply and Install,0.75,2500.00
+MISC-13,New standard closet interior (2 shelves + hanging rod),N/A,N/A,1155.00,N/A,Miscellaneous,Closets,Supply and Install,0.75,2500.00
+MISC-14,Add scope for 3 shelves and a rod,N/A,N/A,N/A,N/A,Miscellaneous,Closets,Supply and Install,0.75,2500.00
+MISC-15,PTAC Unit replacement,N/A,QUOTE,2750.00,3500.00,Miscellaneous,HVAC,Supply and Install,0.75,1000.00
+MISC-16,Split unit and compressor - request sub pricing,N/A,QUOTE,8250.00,8000.00,Miscellaneous,HVAC,Supply and Install,0.75,1000.00
+MISC-17,ADD RADIATOR COVER COSTS,N/A,N/A,0.00,N/A,Miscellaneous,HVAC,,0.75,1000.00
+MISC-18,Rigging & Crane (includes permitting, road shut down),N/A,QUOTE,11000.00,N/A,Miscellaneous,HVAC,Supply and Install,0.75,1000.00
+MISC-19,Sprinkler Head Replacement,N/A,UNIT,550.00,N/A,Miscellaneous,Mechanical,Supply and Install,0.75,1000.00
+MISC-20,Sprinkler Line Replacement,N/A,N/A,N/A,N/A,Miscellaneous,Mechanical,Supply and Install,0.75,1000.00
+MISC-21,Prefab - Glass Enclosure,N/A,QUOTE,900.00,N/A,Miscellaneous,Glazing,Supply and Install,0.75,1000.00
+MISC-22,Fixed Single panel,N/A,QUOTE,1500.00,N/A,Miscellaneous,Glazing,Supply and Install,0.75,1000.00
+MISC-23,Panel and Door (one fixed, one door),N/A,QUOTE,2500.00,N/A,Miscellaneous,Glazing,Supply and Install,0.75,1000.00
+MISC-24,Shower Enclosure (two fixed panels, one door),N/A,QUOTE,3500.00,N/A,Miscellaneous,Glazing,Supply and Install,0.75,1000.00
+INSL-01,Batt - Fire Rated,N/A,SF,N/A,1.70,Insulation,General,Supply and Install,0.75,1000.00
+INSL-02,Sound insulation,N/A,SF,2.00,3.00,Insulation,General,Supply and Install,0.75,1000.00
+INSL-03,Spray foam insulation,N/A,SF,QUOTE,N/A,Insulation,General,Supply and Install,0.75,1000.00
+FRAM-01,Install metal framing (8-10 ft high),N/A,LF,77.00,N/A,Metal Framing,General,Supply and Install,0.75,2000.00
+FRAM-02,Install dropped ceiling (sq ft),N/A,SF,9.00,N/A,Metal Framing,General,Supply and Install,0.75,2000.00
+FRAM-03,Install mounted metal ceiling framing,N/A,SF,6.00,N/A,Metal Framing,General,Supply and Install,0.75,2000.00
+FRAM-04,Frame new soffit (perimeter or interior),max - 18"w x 18' LF,LF,55.00,N/A,Metal Framing,General,Supply and Install,0.75,2000.00
+STON-01,Kitchen Countertop - (108 x 26 per slab),QUARTZ,N/A,N/A,3000.00,Stone,Kitchen,Supply,0.75,5500.00
+STON-02,Fabricate and install - Kitchen Countertop,N/A,SF,97.00,N/A,Stone,Kitchen,Install,0.75,5500.00
+STON-03,Bathroom Slabs - stone bench,N/A,SF,145.00,N/A,Stone,Bathroom,Install,0.75,5500.00
+STON-04,Bathroom Slabs - niche ledge,N/A,SF,145.00,N/A,Stone,Bathroom,Install,0.75,5500.00
+STON-05,Bathroom Slabs - door saddle,N/A,SF,145.00,N/A,Stone,Bathroom,Install,0.75,5500.00
+STON-06,Stone window sill (3ft),N/A,UNIT,145.00,400.00,Stone,General,Supply and Install,0.75,5500.00
+STON-07,Kitchen Countertop - (108 x 26 per slab),MARBLE,N/A,#VALUE!,4000.00,Stone,Kitchen,Supply,0.75,5500.00
+STON-08,Stone window sill (3ft),N/A,UNIT,120.00,300.00,Stone,General,Supply and Install,0.75,5500.00
+GENL-01,General Conditions - $125k > $150k,N/A,N/A,N/A,N/A,General Conditions,General,,0.75,1000.00
+GENL-02,General Conditions - $150k > $200k,N/A,N/A,N/A,N/A,General Conditions,General,,0.75,1000.00
+GENL-03,General Conditions - $200k > $250k,N/A,N/A,N/A,N/A,General Conditions,General,,0.75,1000.00
+GENL-04,General Conditions - $250k +,N/A,N/A,N/A,N/A,General Conditions,General,,0.75,1000.00
+GENL-05,Client Living through renovation - 5%,N/A,N/A,N/A,N/A,Living in arrangement,General,,0.75,1000.00
+GENL-06,Phased renovation - General Conditions = 15% of project value,N/A,N/A,N/A,N/A,Living in arrangement,General,,0.75,1000.00

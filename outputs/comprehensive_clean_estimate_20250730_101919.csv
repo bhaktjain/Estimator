@@ -1,0 +1,44 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,High-quality kitchen cabinets,Installation of standard kitchen cabinetry.,6 LF,600,0.75,%,6300,80
+,,,Section Total,,,,,6300.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full Gut,Full demolition of existing kitchen components.,99 sf,33.3,0.75,%,"2,750",95
+Demolition,Bathroom 1,Full gut demolition,Complete removal of existing finishes and fixtures in Bathroom 1.,36 sf,2200,0.75,%,3850,90
+Demolition,Bathroom 2,Full gut demolition,Complete removal of existing finishes and fixtures in Bathroom 2.,32 sf,2200,0.75,%,3850,90
+,,,Section Total,,,,,7700.00,
+
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Full apartment rewiring,Rewiring of entire apartment electrics.,1341.5 sf,17,0.75,%,39802.125,95
+,,,Section Total,,,,,39802.12,
+
+Flooring,,,,,,,,,
+Flooring,Entire Apartment,Install Hardwood,Installation of new hardwood flooring throughout.,1341.5 sf,6,0.75,%,"12,073.50",85
+Flooring,Living Room,New flooring installation,Installation of new engineered flooring.,321 sf,6,0.75,%,3361.5,80
+,,,Section Total,,,,,3361.50,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Living Room,Drywall installation,Installation of drywall in the living room.,405.8 sf,4.95,0.75,%,3514.4925,85
+Needs to Review,Bathroom 1,Tile Installation,Installation of tiles in Bathroom 1.,35.5 sf,4250,0.80,%,7650,85
+,,,Section Total,,,,,11164.49,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Complete plumbing and fixture replacement.,36 sf,"7,700",0.75,%,"13,475",90
+Plumbing,Bathroom 2,Full Gut Replacement,Complete plumbing and fixture replacement.,32 sf,"7,700",0.75,%,"12,650",90
+Plumbing,Kitchen,Full gut plumbing,Replacement of kitchen plumbing with one sink.,1 unit,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,6737.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Floor Tile Installation,Installation of floor tiles.,35.5 sf,"2,000",0.8,%,"4,250",90
+Tile,Bathroom 2,Floor Tile Installation,Installation of floor tiles.,32.3 sf,"2,000",0.8,%,"4,250",90
+Tile,Kitchen,Floor Tile Installation,Installation of floor tiles.,99 sf,"2,400",0.8,%,"5,280",90
+,,,Section Total,,,,,0.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Remove Popcorn Ceiling,Removal of popcorn ceiling texture.,321 sf,11,0.75,%,"4,078.50",90
+,,,Section Total,,,,,0.00,
+
+,,,Overall Subtotal,,,,,75065.62,
+,,,General Conditions (10%),,,,,7506.56,
+,,,Grand Total,,,,,82572.18,

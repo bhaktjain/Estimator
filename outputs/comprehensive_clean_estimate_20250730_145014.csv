@@ -1,0 +1,70 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,25 sf,TILE-10,0.80,%,1650,100
+,,,Section Total,,,,,1650.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install new cabinetry,Install new custom kitchen cabinetry,16 LF,"$9,200 (over 10 feet)",0.75,%,Calculated based on quantity,90
+Cabinetry,Closet 1,Install closet organizers,Install new shelves and rods in closets,21 SF,"$1,155",0.75,%,Calculated based on quantity,85
+,,,Section Total,,,,,0.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Post-Construction Cleaning,Thorough cleaning after construction completion of the entire apartment.,1341.5 SF,Apartment 1200 > 1800 sf,0.75,%,1925,95
+,,,Section Total,,,,,1925.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop Installation,Install new quartz countertops,54 SF,Kitchen Countertop - (10ft x 5ft per slab) QUARTZ,0.75,%,8164,90
+,,,Section Total,,,,,8164.00,
+
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Full Gut Demolition,Complete gut renovation including removal of all existing structures.,1341.5 SF,Hybrid Full gut price / sq ft - HYBRID,0.75,%,14895.75,90
+,,,Section Total,,,,,14895.75,
+
+Doors,,,,,,,,,
+Doors,Bedroom 1,Interior Door Installation,Install new interior doors,2 UNIT,Stardard door Prehung,0.75,%,1100,85
+,,,Section Total,,,,,1100.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full apartment electrical rewiring,1341.5 SF,$17 (per SF),0.75,%,Calculated based on quantity,90
+,,,Section Total,,,,,0.00,
+
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new flooring,Install new flooring throughout the apartment excluding bathrooms,1341.5 SF,$6 (per SF),0.75,%,Calculated based on quantity,90
+Flooring,Bathroom 1,Tile Floor,Install new tile floor,35.5 SF,"$2,300",0.75,%,Calculated based on quantity,85
+Flooring,Bathroom 2,Tile Floor,Install new tile floor,32.3 SF,"$2,300",0.75,%,Calculated based on quantity,85
+,,,Section Total,,,,,0.00,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Painting,Paint walls and ceilings throughout the apartment,1341.5 SF,$10.3 (per SF),0.75,%,Calculated based on quantity,90
+,,,Section Total,,,,,0.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Modernize Bathroom,"Update fixtures, including potential shower conversion",35.5 SF,"$8,800",0.75,%,Calculated based on quantity,85
+Plumbing,Bathroom 1,Full Gut Plumbing,Full replacement of plumbing fixtures,35.5 SF,Full Gut Replacement - existing location 0 - 60 sf,0.75,%,7700,85
+Plumbing,Bathroom 2,Modernize Bathroom,"Update fixtures, including potential shower conversion",32.3 SF,"$8,800",0.75,%,Calculated based on quantity,85
+Plumbing,Bathroom 2,Full Gut Plumbing,Full replacement of plumbing fixtures,32.3 SF,Full Gut Replacement - existing location 0 - 60 sf,0.75,%,7700,85
+,,,Section Total,,,,,15400.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install floor and wall tiles,35.5 SF,Tile Installation Bathroom - Floors,0.8,%,2000,85
+Tile,Kitchen,Backsplash Installation,Install kitchen backsplash,99 SF,Tile Backsplash (LGE) 10 ft +,0.8,%,2220,85
+Tile,Kitchen,Tile Backsplash Installation,Install small tile backsplash in kitchen.,10 FT,Tile Backsplash (SML) 10 ft,0.8,%,2970,85
+,,,Section Total,,,,,7190.00,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Installation of new baseboards throughout apartment,1341.5 lf,TRIM-01,0.75,%,11,100
+,,,Section Total,,,,,11.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Remove popcorn ceiling,Remove existing popcorn texture from ceiling,1341.5 SF,$11 (per SF),0.75,%,Calculated based on quantity,90
+Walls & Ceilings,Living Room,Drywall Installation,Install new drywall on walls and ceilings,321 SF,"Install new 5/8"" drywall ceiling board",0.75,%,1584.45,85
+,,,Section Total,,,,,1584.45,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Install Waterproofing,Waterproof floors and walls,35.5 SF,Install waterproofing floors and walls 0 > 60 sf,0.75,%,1900,90
+Waterproofing,Bathroom 2,Install Waterproofing,Waterproof floors and walls,32.3 SF,Install waterproofing floors and walls 0 > 60 sf,0.75,%,1900,90
+,,,Section Total,,,,,3800.00,
+
+,,,Overall Subtotal,,,,,55720.20,
+,,,General Conditions (10%),,,,,5572.02,
+,,,Grand Total,,,,,61292.22,

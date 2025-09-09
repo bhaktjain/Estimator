@@ -1,0 +1,232 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: archive_non_pipeline_20250909_091152/Polycam1.pdf
+[SUCCESS] Extracted 5643 characters from archive_non_pipeline_20250909_091152/Polycam1.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250909_092749_147d5da7/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5985 characters from chunked_outputs/run_20250909_092749_147d5da7/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 44420 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Demolition",
+          "description": "Full gut of kitchen including cabinet removal, countertop removal, appliance disconnection, flooring removal, backsplash removal, electrical and plumbing disconnection, debris removal, and protection of adjacent areas.",
+          "quantity": "10 LF",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Plumbing",
+          "description": "Full gut plumbing for existing kitchen location with 1 sink.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,850 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Electrical",
+          "description": "Rough electrical wiring, GFCI outlet installation, under-cabinet lighting, pendant light installation, range hood electrical, island electrical, dimmer switch installation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Cabinets",
+          "description": "Installation of standard kitchen cabinets up to 10 LF.",
+          "quantity": "10 LF",
+          "unit_cost": "$7,600 per UNIT",
+          "markup": "0.75",
+          "subtotal": "13300",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Countertops",
+          "description": "Fabrication and installation of quartz countertops.",
+          "quantity": "20 SF",
+          "unit_cost": "$97 per SF",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Backsplash",
+          "description": "Installation of kitchen backsplash tile.",
+          "quantity": "10 LF",
+          "unit_cost": "$2,200 per UNIT",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Flooring",
+          "description": "Installation of new kitchen flooring.",
+          "quantity": "83 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "871.5",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom Renovation",
+      "items": [
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Demolition",
+          "description": "Full gut of bathroom including removal of old fixtures, tile, vanity, and flooring.",
+          "quantity": "51 SF",
+          "unit_cost": "$2,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3850",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Plumbing",
+          "description": "Full gut plumbing for existing bathroom location.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$7,700 per UNIT",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Electrical",
+          "description": "Rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, switch installation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Tile Work",
+          "description": "Installation of bathroom floor and wall tiles.",
+          "quantity": "51 SF",
+          "unit_cost": "$2,600 per UNIT",
+          "markup": "0.80",
+          "subtotal": "4680",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Fixtures",
+          "description": "Installation of vanity, mirror, towel bars, toilet paper holder, shower doors, medicine cabinet.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,375 per UNIT",
+          "markup": "0.75",
+          "subtotal": "2406.25",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Living Room Renovation",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Flooring",
+          "description": "Installation of new hardwood flooring.",
+          "quantity": "248 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "2604",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Painting",
+          "description": "Painting of walls and ceiling.",
+          "quantity": "248 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "4467",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Electrical",
+          "description": "Installation of outlets, switches, light fixtures, ceiling fans.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Flooring",
+          "description": "Installation of new flooring.",
+          "quantity": "78 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "819",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Painting",
+          "description": "Painting of walls and ceiling.",
+          "quantity": "78 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "1404.75",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Electrical",
+          "description": "Installation of outlets, switches, light fixtures, ceiling fans.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Commercial Cleaning",
+          "description": "Post-construction cleaning for the entire apartment.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,375 per UNIT",
+          "markup": "0.75",
+          "subtotal": "2406.25",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

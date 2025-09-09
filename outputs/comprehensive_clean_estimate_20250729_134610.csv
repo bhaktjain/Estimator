@@ -1,0 +1,32 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Install cabinets 0 > 10FT.,1,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop,Install quartz countertop in kitchen.,849.57,97,0.75,%,144781.37,90
+,,,Section Total,,,,,144781.37,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,Demolition of existing kitchen components for rework.,106.4 sf,11,0.75,%,1309.8,90
+Demolition,Bathroom 1,Full gut,Demolition 80 > 100+ sf bathroom.,1,3300,0.75,%,5775,90
+,,,Section Total,,,,,7084.80,
+
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Rewiring,Electrical rewiring for entire apartment.,1341.5 sf,17,0.75,%,3989.85,95
+,,,Section Total,,,,,3989.85,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Complete plumbing overhaul.,21 sf,7700,0.75,%,7700,90
+Plumbing,Bathroom 1,Tub to shower conversion,Conversion of bathtub to shower in Bathroom 1,1,1375,0.75,%,2406.25,85
+Plumbing,Kitchen,Full gut,Existing location plumbing for 1 sink.,1,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,16843.75,
+
+Tile,,,,,,,,,
+Tile,Kitchen,Tile Installation,Tile installation for kitchen flooring 60 - 80 sf.,1,2400,0.80,%,4320,90
+Tile,Bathroom 1,Tile Installation,Tile installation for bathroom walls 80 - 100 sf.,1,4100,0.80,%,7380,95
+,,,Section Total,,,,,11700.00,
+
+,,,Overall Subtotal,,,,,197699.77,
+,,,General Conditions (10%),,,,,19769.98,
+,,,Grand Total,,,,,217469.75,

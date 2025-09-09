@@ -1,0 +1,42 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Installation of kitchen cabinets,1,9200,0.75,%,16100,85
+,,,Section Total,,,,,16100.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Fabricate and install,Quartz kitchen countertops installation,30,97,0.75,%,5107.5,80
+Countertops,Kitchen,Countertop installation,Installation of new kitchen countertops.,38 linear feet,97,0.75,%,6781.5,75
+,,,Section Total,,,,,11889.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Bathroom demolition,Full gut of bathroom for renovation,1 unit,2200,0.75,%,3850,90
+Demolition,Kitchen,Full gut,Demolition of existing kitchen,11,3300,0.75,%,5775,90
+,,,Section Total,,,,,9625.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Full rewiring,Rewiring of the entire apartment.,543 sf,17,0.75,%,16184.25,95
+Electrical,Living Room,New lighting,Installation of recessed lighting,4,440,0.75,%,3080,80
+,,,Section Total,,,,,19264.25,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Full Apartment,Split unit and compressor installation,Modernize and install new HVAC split unit system.,1 unit,8250,0.6,%,14850,85
+,,,Section Total,,,,,14850.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Full plumbing replacement in bathroom,1,9900,0.75,%,17325,90
+Plumbing,Bathroom,Bathroom plumbing,Replacement of existing fixtures in bathroom.,1 unit,7700,0.75,%,13475,85
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Full plumbing gut for kitchen sink,1,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,37537.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation - Floor,Installation of bathroom floor tiles,51.1,2700,0.80,%,5512.8,90
+Tile,Kitchen,Tile Installation - Flooring,Installation of kitchen floor tiles,83,2400,0.80,%,5960,85
+,,,Section Total,,,,,11472.80,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Wall and ceiling repairs,Repair and possible re-skimming of walls and ceilings.,1640.3 sf,6,0.75,%,17487.48,85
+,,,Section Total,,,,,17487.48,
+
+,,,Overall Subtotal,,,,,138226.03,
+,,,General Conditions (10%),,,,,13822.60,
+,,,Grand Total,,,,,152048.63,

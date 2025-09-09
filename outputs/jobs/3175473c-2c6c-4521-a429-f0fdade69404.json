@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "message": "Renovation estimation completed successfully",
+  "files": {
+    "excel_file": "/Users/bhakt/Desktop/custom gpt/chunked_outputs/run_20250821_193025_aae377b0/comprehensive_clean_estimate_final.xlsx",
+    "csv_file": "/Users/bhakt/Desktop/custom gpt/chunked_outputs/run_20250821_193025_aae377b0/comprehensive_clean_estimate_final.csv"
+  },
+  "metadata": {
+    "duration_seconds": 385.87,
+    "final_estimate": ""
+  }
+}

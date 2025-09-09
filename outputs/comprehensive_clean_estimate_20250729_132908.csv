@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of kitchen cabinets,9.8,7600,0.75,%,5000,95
+,,,Section Total,,,,,5000.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop Installation,Installation of quartz countertops in kitchen,9.8,97,0.75,%,5500,95
+,,,Section Total,,,,,5500.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,Kitchen full gut,1,2500,0.75,%,4375,90
+Demolition,Bathroom 1,Bathroom Full Gut,Full gut of Bathroom 1,21,2200,0.75,%,4000,100
+Demolition,General,Full gut,Full gut of rooms up to 600 sf,600,7,0.75,%,4200,90
+,,,Section Total,,,,,12575.00,
+
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Rewiring Full Apt,Complete electrical rewiring,1341.5,17,0.75,%,3500,100
+,,,Section Total,,,,,3500.00,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install New Hardwood Flooring,Installation of hardwood flooring in living room,136,6,0.75,%,1500,100
+,,,Section Total,,,,,1500.00,
+
+Painting,,,,,,,,,
+Painting,Entire Apartment,Painting,"Painting entire apartment, including walls",1341.5,10.3,0.75,%,1500,100
+,,,Section Total,,,,,1500.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Full plumbing replacement in Bathroom 1,1,7700,0.75,%,7700,100
+Plumbing,Bathroom 1,Tub to shower conversion,Conversion of tub to shower,1,1375,0.75,%,2406.25,85
+,,,Section Total,,,,,10106.25,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation Bathroom Walls,Install wall tiles in Bathroom 1,21,2600,0.80,%,4250,100
+,,,Section Total,,,,,4250.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Drywall installation,"Install new 5/8"" drywall",321,4,0.75,%,2800,90
+,,,Section Total,,,,,2800.00,
+
+,,,Overall Subtotal,,,,,46731.25,
+,,,General Conditions (10%),,,,,4673.12,
+,,,Grand Total,,,,,51404.38,

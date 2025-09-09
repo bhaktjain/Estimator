@@ -1,0 +1,69 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,99 sf,1650,0.75,%,1650,100
+,,,Section Total,,,,,1650.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Installation of new kitchen cabinetry.,99,7600,0.75,%,47000,100
+,,,Section Total,,,,,47000.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,General,Apartment Cleaning,Commercial cleaning of apartment post-renovation.,1341.5,1925,0.75,%,3375,100
+,,,Section Total,,,,,3375.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Marble Countertop,Fabricate and install marble countertops.,99,125,0.75,%,17365.25,100
+,,,Section Total,,,,,17365.25,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Demolition of existing fixtures and finishes.,1 unit,2200,0.75,%,3300,100
+Demolition,Bathroom 2,Full gut,Demolition of existing fixtures and finishes.,1 unit,2200,0.75,%,3300,100
+Demolition,Kitchen,Full gut,"Demolition of existing cabinetry, countertops, and appliances.",1 unit,2500,0.75,%,4125,100
+,,,Section Total,,,,,10725.00,
+
+Doors,,,,,,,,,
+Doors,General,Sliding Door Installation,Installation of new sliding doors for enhanced space utility.,2,1320,0.75,%,4620,85
+,,,Section Total,,,,,4620.00,
+
+Electrical,,,,,,,,,
+Electrical,General,Rewiring Full Apt,Rewiring electrical throughout the apartment.,1341.5,17,0.75,%,39886.25,100
+,,,Section Total,,,,,39886.25,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Living Room,Custom Storage Solutions,Installation of custom storage units in unused spaces.,321 sf,1500,0.75,%,562.5,80
+Needs to Review,General,Wall Construction,Modification and construction of additional walls for space reconfiguration.,200 sf,4,0.75,%,1400,75
+,,,Section Total,,,,,1962.50,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Replace existing plumbing fixtures and lines.,1 unit,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full Gut Replacement,Replace existing plumbing fixtures and lines.,1 unit,7700,0.75,%,13475,100
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Replace plumbing for kitchen.,1 unit,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,33687.50,
+
+Project Management,,,,,,,,,
+Project Management,General,Project Management & Coordination,"Dedicated project manager, daily site cleaning, insurance, protection, garbage removal",1 unit,5000,0.75,%,5000,100
+,,,Section Total,,,,,5000.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Install new wall tiles.,35.5,2600,0.80,%,4680,100
+Tile,Bathroom 2,Tile Installation - Walls,Install new wall tiles.,32.3,2600,0.80,%,4680,100
+Tile,Kitchen,Tile Installation - Flooring,Install new kitchen floor tiles.,99,2400,0.80,%,5184,100
+,,,Section Total,,,,,14544.00,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Installation of new baseboards throughout apartment,1341.5 lf,4,0.75,%,4,100
+,,,Section Total,,,,,4.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Walls & Ceilings Work,"Installation of moisture-resistant drywall, tape, plaster, sand preparation",1341.5 sf,6,0.75,%,6,100
+,,,Section Total,,,,,6.00,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,35.5 sf,1900,0.75,%,1900,100
+Waterproofing,Bathroom 2,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,32.3 sf,1900,0.75,%,1900,100
+Waterproofing,Kitchen,Waterproofing Installation,Install waterproofing membrane on kitchen floors,99 sf,1250,0.75,%,1250,100
+,,,Section Total,,,,,5050.00,
+
+,,,Overall Subtotal,,,,,184875.50,
+,,,General Conditions (10%),,,,,18487.55,
+,,,Grand Total,,,,,203363.05,

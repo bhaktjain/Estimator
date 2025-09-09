@@ -1,0 +1,29 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of new kitchen cabinetry as per design.,10 FT,"$7,600",0.75,%,133000.0,95
+,,,,,,,,133000.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop Installation,Installation of quartz countertops in the kitchen.,16 SF,$97/SF,0.75,%,8841.0,95
+,,,,,,,,8841.00,
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Full Gut Demolition,"Demolition of existing fixtures, walls, and finishes in the full apartment including the kitchen and bathroom.",543 SF,$7/SF,0.75,%,6686,95
+Demolition,Bathroom,Full Gut Demolition,Tear out existing bathroom fixtures and finishes.,1 UNIT,"$2,200",0.75,%,3850,95
+,,,,,,,,10536.00,
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Full Apartment Electrical Rewire,"Complete rewiring of apartment including installation of new outlets, switches, and a new electrical panel.",543 SF,$17/SF,0.75,%,16158.75,95
+,,,,,,,,16158.75,
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install Engineered Wood Flooring,Install new engineered wood flooring throughout.,543 SF,$6,0.75,%,5707,90
+,,,,,,,,5707.00,
+Painting,,,,,,,,,
+Painting,Full Apartment,Interior Painting,Painting of all walls and ceilings with Benjamin Moore Regal Select.,543 SF,$10.3/SF,0.75,%,9709.15,95
+,,,,,,,,9709.15,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Bathroom Plumbing Replacement,"Replacement of plumbing fixtures including sink, toilet, and relevant piping.",51 SF,Full Gut Replacement,0.75,%,7700,95
+,,,,,,,,7700.00,
+Tile,,,,,,,,,
+Tile,Bathroom,Bathroom Tile Installation,Installation of new floor and wall tiles in the bathroom.,51 SF,Bathroom Floor & Walls,0.8,%,5740,95
+,,,,,,,,5740.00,
+,,,,,,,,197391.90,
+,,,General Conditions (10%),,,,,19739.19,
+,,,Grand Total,,,,,217131.09,

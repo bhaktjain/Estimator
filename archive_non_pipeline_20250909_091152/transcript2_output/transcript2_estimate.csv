@@ -1,0 +1,30 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Closet,New standard closet interior,Installation of new shelving and hanging rods in closets.,2 Units,$1155 per unit,0.75,%,4031.25,90
+,,,,,,,,4031.25,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Install new countertops in the kitchen.,45 SF,"($1,500 installation + $97/SF × SF + $2,000 material) × 1.75 markup",Special,%,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Apartment,Full gut,"Full gut of the apartment including removal of popcorn ceiling, flooring, and cabinetry.",1341.5 SF,$11 per SF,0.75,%,25827.375,95
+Demolition,Kitchen,Full Gut,Complete demolition of existing kitchen fixtures and finishes.,99 SF,$11 per SF,0.75,%,1916.25,95
+Demolition,Bathroom 1,Full Gut,Complete demolition of existing bathroom fixtures and finishes.,35.5 SF,$92.96 per UNIT,0.75,%,2840.25,95
+,,,,,,,,30583.88,
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring,Full rewiring of apartment including outlets and switches.,1341.5 SF,$17 per SF,0.75,%,39846.375,95
+,,,,,,,,39846.38,
+Flooring,,,,,,,,,
+Flooring,Apartment,Flooring Installation,Install new hardwood flooring throughout the apartment.,1341.5 SF,$6 per SF,0.75,%,14066.25,95
+,,,,,,,,14066.25,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 2,Full Gut Replacement,"Complete plumbing replacement including sink, toilet, and bathtub.",32.3 SF,$7700 per unit,0.75,%,13475,95
+Plumbing,Bathroom 1,Tub to shower conversion,Convert existing bathtub to shower in Bathroom 1.,1 UNIT,$1375 per UNIT,0.75,%,2406.25,90
+,,,,,,,,15881.25,
+Tile Work,,,,,,,,,
+Tile Work,Kitchen,Tile Installation - Flooring,Installation of new floor tiles in the kitchen.,99 SF,$2400 per unit,0.80,%,7452,95
+Tile Work,Bathroom 1,Tile Installation,Tile installation for Bathroom 1 floor and walls.,35.5 SF,$5600 per UNIT,0.80,%,8064,90
+Tile Work,Bathroom 2,Tile Installation,Tile installation for Bathroom 2 floor and walls.,32.3 SF,$4850 per UNIT,0.80,%,6968,90
+,,,,,,,,22484.00,
+,,,,,,,,140656.75,
+,,,General Conditions (10%),,,,,14065.68,
+,,,Grand Total,,,,,154722.42,

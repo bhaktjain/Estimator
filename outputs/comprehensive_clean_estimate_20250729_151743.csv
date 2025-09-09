@@ -1,0 +1,33 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,New Kitchen Cabinet Installation,Installation of kitchen cabinets.,99 sf,9200,0.75,%,16150,85
+Cabinetry,Kitchen,Supply/Fabricate and Install - SEMI-CUSTOM,Semi-custom kitchen cabinetry,99,850,0.75,%,14831.25,80
+,,,Section Total,,,,,30981.25,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,New Kitchen Countertops,Installation of new kitchen countertops.,99 sf,97,0.75,%,16707.75,85
+,,,Section Total,,,,,16707.75,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full Gut,Demolition of the entire bathroom,35.5,2200,0.75,%,5775,95
+Demolition,Bathroom 2,Full Gut,Demolition of the entire bathroom,32.3,2200,0.75,%,5775,95
+Demolition,Kitchen,Full Gut,Demolition of the existing kitchen,99,3300,0.75,%,5775,95
+,,,Section Total,,,,,17325.00,
+
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Apartment Rewiring,Rewiring of full apartment electrical systems.,1341.5 sf,17,0.75,%,39950.875,95
+,,,Section Total,,,,,39950.88,
+
+Flooring,,,,,,,,,
+Flooring,Entire Apartment,Install Hardwood Flooring,New hardwood flooring throughout the apartment.,1341.5 sf,6,0.75,%,14056.5,85
+,,,Section Total,,,,,14056.50,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Bathroom 1 plumbing replacement.,35.5 sf,7700,0.75,%,13475,90
+Plumbing,Bathroom 2,Full Gut Replacement,Bathroom 2 plumbing replacement.,32.3 sf,7700,0.75,%,13475,90
+Plumbing,Kitchen,Full Gut - Existing Location,Replacement of kitchen plumbing,1,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,33687.50,
+
+,,,Overall Subtotal,,,,,152708.88,
+,,,General Conditions (10%),,,,,15270.89,
+,,,Grand Total,,,,,167979.76,

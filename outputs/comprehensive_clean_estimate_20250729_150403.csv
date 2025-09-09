@@ -1,0 +1,33 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Kitchen Cabinets,Installation of kitchen cabinets up to 10 ft,99 sf,7600,0.75,%,13300,100
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop,Quartz kitchen countertops,99 sf,97,0.75,%,17372.25,100
+,,,Section Total,,,,,17372.25,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full Gut,Demolition of entire bathroom,35.5,2200,0.75,%,4000,90%
+Demolition,Bathroom 2,Full Gut,Demolition of entire bathroom,32.3,2200,0.75,%,4000,90%
+Demolition,Full Apartment,Demolition,Full apartment demolition based on total area,1341.5 sf,4,0.75,%,5366,100
+,,,Section Total,,,,,13366.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewiring entire apartment electrical system,1341.5 sf,17,0.75,%,39966.25,100
+,,,Section Total,,,,,39966.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Bathroom 1 full gut replacement for existing bathroom,1 unit,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full Gut Replacement,Bathroom 2 full gut replacement for existing bathroom,1 unit,7700,0.75,%,13475,100
+Plumbing,Kitchen,Full Gut - Existing Location - 1 Sink,Full gut of kitchen plumbing,1 unit,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation Walls,Installation of bathroom wall tiles,36 sf,2600,0.80,%,4680,100
+Tile,Bathroom 2,Tile Installation Walls,Installation of bathroom wall tiles,32 sf,2600,0.80,%,4680,100
+,,,Section Total,,,,,9360.00,
+
+,,,Overall Subtotal,,,,,127052.00,
+,,,General Conditions (10%),,,,,12705.20,
+,,,Grand Total,,,,,139757.20,

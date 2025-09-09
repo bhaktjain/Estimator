@@ -1,0 +1,31 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install kitchen cabinets,Install cabinets in kitchen.,99 sf,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Demolish and remove existing bathroom components.,36 sf,2200,0.75,%,3857.5,90
+Demolition,Kitchen,Full gut,Demolish and remove existing kitchen components.,99 sf,3300,0.75,%,5775,90
+,,,Section Total,,,,,9632.50,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewire entire apartment.,1341 sf,17,0.75,%,39841.25,100
+,,,Section Total,,,,,39841.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Tub to shower conversion,Convert existing tub to shower.,1 unit,1375,0.75,%,2406.25,85
+Plumbing,Bathroom 1,Full Gut Replacement,Replacing all plumbing fixtures,36,7700,0.75,%,13475,85
+Plumbing,Kitchen,Full gut - existing location,Full gut of plumbing fixtures - Kitchen,99,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,22618.75,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Wall tile installation,Install tiles on bathroom walls.,36 sf,2600,0.80,%,4680,95
+,,,Section Total,,,,,4680.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Skim coat,Skim coat all walls and ceilings.,321 sf,6,0.75,%,3369,85
+,,,Section Total,,,,,3369.00,
+
+,,,Overall Subtotal,,,,,93441.50,
+,,,General Conditions (10%),,,,,9344.15,
+,,,Grand Total,,,,,102785.65,

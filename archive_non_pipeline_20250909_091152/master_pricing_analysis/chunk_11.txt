@@ -1,0 +1,5 @@
+Bathroom
+Install waterproofing floors and walls 0 > 60 sf UNIT $1,900 N/A Supply and Install
+ADD ROOM COMBOS
+Install waterproofing floors and walls 60 > 80 sf UNIT $2,100 N/A Supply and Install
+Install waterproofing floors and walls 80 > 100+ sf UNIT $2,250 N/A Supply and Install

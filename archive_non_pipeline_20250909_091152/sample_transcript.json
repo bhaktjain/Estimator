@@ -1,0 +1,16 @@
+{
+  "project": "Kitchen Renovation",
+  "text": "Kitchen renovation details including removal of old cabinets, installation of new custom cabinets, granite countertops, new appliances including refrigerator, stove, and dishwasher. Electrical work includes new lighting fixtures, under-cabinet lighting, and GFCI outlets. Plumbing work includes new sink, garbage disposal, and updated water lines. Flooring will be replaced with ceramic tile. Backsplash installation with subway tile. All demolition and cleanup included.",
+  "room": "kitchen",
+  "measurements": "15x12 feet",
+  "scope": [
+    "cabinets",
+    "countertops", 
+    "appliances",
+    "electrical",
+    "plumbing",
+    "flooring",
+    "backsplash"
+  ]
+}
+

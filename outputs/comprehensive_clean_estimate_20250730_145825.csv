@@ -1,0 +1,65 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Install tile backsplash above counters,10 LF,10 ft $1650,0.75,%,1650,85
+,,,Section Total,,,,,1650.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,New Cabinetry Installation,Install new kitchen cabinets,16 LF,Unit $10900,0.75,%,19075,85
+,,,Section Total,,,,,19075.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Post-Construction Cleaning,Complete cleaning after construction,1341.5 SF,N/A,0.75,%,1925,90
+,,,Section Total,,,,,1925.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install Marble Countertops,Install new marble countertops in kitchen.,99 SF,"1,375 + $4,000 Material",0.75,%,Calculated total,85
+,,,Section Total,,,,,0.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,Complete removal of existing kitchen.,1 UNIT,"$2,500",0.75,%,4375,90
+,,,Section Total,,,,,4375.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full rewiring of apartment,1341.5 SF,SF $17,0.75,%,22705.5,90
+,,,Section Total,,,,,22705.50,
+
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install New Flooring,Install consistent flooring throughout except bathrooms.,"1,396.1 SF",$6 SF,0.75,%,Calculated total based on measurement,90
+,,,Section Total,,,,,0.00,
+
+Needs to Review,,,,,,,,,
+Needs to Review,General,Project Management,Coordinating all aspects of project execution.,1 UNIT,"$1,000",0.75,%,1750,95
+,,,Section Total,,,,,1750.00,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Full Apartment Painting,"Paint walls, ceilings, and trim in the full apartment.",1341.5 SF,$10.3,0.75,%,24167.81,90
+,,,Section Total,,,,,24167.81,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Replace all plumbing fixtures and rough-in,35.5 SF,Unit $7700,0.75,%,7700,90
+Plumbing,Bathroom 2,Full Gut Replacement,Replace all plumbing fixtures and rough-in,32.3 SF,Unit $7700,0.75,%,7700,90
+,,,Section Total,,,,,15400.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install ceramic tiles on bathroom floor and walls.,35.5 SF,"$2,000",0.8,%,6385,90
+Tile,Bathroom 2,Tile Installation,Install ceramic tiles on bathroom floor and walls.,32.3 SF,"$2,000",0.8,%,6385,90
+,,,Section Total,,,,,12770.00,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Install new baseboards throughout the apartment.,300.6 LF,$5,0.75,%,2620.5,85
+,,,Section Total,,,,,2620.50,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Wall Removal,Demolish non-load-bearing walls for reconfiguration,N/A,UNIT,0.75,%,4000,90
+Walls & Ceilings,Full Apartment,Remove Popcorn Ceiling,Remove all popcorn ceiling throughout the apartment.,N/A,N/A,0.75,%,Calculated total,85
+Walls & Ceilings,Full Apartment,Drywall Installation,Install new drywall where walls were removed and reconfigured,3006.1 SF,SF $4,0.75,%,15030.5,85
+,,,Section Total,,,,,19030.50,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Floor and Wall Waterproofing,Waterproof all floor and wall surfaces,35.5 SF,UNIT $1900,0.75,%,1900,90
+Waterproofing,Bathroom 2,Floor and Wall Waterproofing,Waterproof all floor and wall surfaces,32.3 SF,UNIT $1750,0.75,%,1750,90
+,,,Section Total,,,,,3650.00,
+
+,,,Overall Subtotal,,,,,129119.31,
+,,,General Conditions (10%),,,,,12911.93,
+,,,Grand Total,,,,,142031.24,

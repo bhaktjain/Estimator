@@ -1,0 +1,9 @@
+{
+  "transcript_json": {
+    "content": "Kitchen renovation: new cabinets, countertops, flooring. Bathroom: new tile, vanity, fixtures. Living room: new paint, flooring. Bedrooms: new paint, flooring."
+  },
+  "polycam_base64": "JVBERi0xLjQKMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMiAwIFIKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1R5cGUgL1BhZ2VzCi9LaWRzIFs2IDAgUiAxNjA2IDAgUiAzMjIxIDAgUiAzNTcxIDAgUiA0NTg2IDAgUiA1NTU5IDAgUiA2NTI1IDAgUiA4MzEyIDAgUiA4NjM2IDAgUiA5ODk2IDAgUiAxMDE4MiAwIFIgMTEyMDYgMCBSIDExNDg0IDAgUiAxMTgzNSAwIFJdCi9Db3VudCAxNAo+PgplbmRvYmoKMyAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMiAwIFIKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL1R5cGUgL0ZvbnQKL1N1YnR5cGUgL1R5cGUxCi9CYXNlRm9udCAvVGltZXMtUm9tYW5lCi9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nCj4+CmVuZG9iago1IDAgb2JqCj4+CmVuZG9iag==",
+  "response_mode": "file",
+  "max_tokens": 3000
+}
+

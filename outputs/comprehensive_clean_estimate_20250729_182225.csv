@@ -1,0 +1,46 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Installation of kitchen cabinets exceeding 10 FT,1,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Full cleaning of the apartment post-renovation.,1,1375,0.75,%,2406.25,100
+,,,Section Total,,,,,2406.25,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz countertop installation,Installation of quartz kitchen countertops.,12.4,97,0.75,%,2107,90
+,,,Section Total,,,,,2107.00,
+
+Demolition,,,,,,,,,
+Demolition,General,Full Gut Demo,"Full gut demolition of the entire apartment, excluding exterior walls.",1341.5,11,0.75,%,14861.25,90
+Demolition,Bathroom 1,Full gut,Complete gut of Bathroom 1,1,2200,0.75,%,3850,90
+Demolition,Bathroom 2,Full gut,Complete gut of Bathroom 2,1,2200,0.75,%,3850,90
+Demolition,Kitchen,Full gut,Complete gut of kitchen area exceeding 10 ft,1,3300,0.75,%,5775,90
+,,,Section Total,,,,,28336.25,
+
+Electrical,,,,,,,,,
+Electrical,General,Rewiring,Rewiring of the entire apartment based on total livable floor area.,1341.5,17,0.75,%,39975.88,95
+,,,Section Total,,,,,39975.88,
+
+Flooring,,,,,,,,,
+Flooring,General,Install new LVT Flooring,Installation of new LVT flooring throughout the apartment,1341.5,6,0.75,%,14162.25,90
+,,,Section Total,,,,,14162.25,
+
+Painting,,,,,,,,,
+Painting,General,Painting,Complete apartment painting with Benjamin Moore regal select,1341.5,10.3,0.75,%,24154.46875,90
+,,,Section Total,,,,,24154.47,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Plumbing,Plumbing replacement for Bathroom 1.,1,7700,0.75,%,13475,90
+Plumbing,Bathroom 2,Full Gut Plumbing,Plumbing replacement for Bathroom 2.,1,7700,0.75,%,13475,90
+Plumbing,Kitchen,Full gut with 1 sink,"Complete plumbing gut for kitchen, one sink replacement",1,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Wall tile installation for Bathroom 1,1,2600,0.80,%,4680,90
+Tile,Bathroom 2,Tile Installation - Walls,Wall tile installation for Bathroom 2,1,2600,0.80,%,4680,90
+,,,Section Total,,,,,9360.00,
+
+,,,Overall Subtotal,,,,,167489.60,
+,,,General Conditions (10%),,,,,16748.96,
+,,,Grand Total,,,,,184238.56,

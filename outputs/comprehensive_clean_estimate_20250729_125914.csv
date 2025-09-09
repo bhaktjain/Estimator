@@ -1,0 +1,48 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install kitchen cabinets,Installation of kitchen cabinets,9.8 sf,7600,0.75,%,13300.0,90
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Fabricate and install kitchen countertop,Fabrication and installation of kitchen countertop,9.8 sf,125,0.75,%,2142.5,85
+,,,Section Total,,,,,2142.50,
+
+Demolition,,,,,,,,,
+Demolition,General,Full gut apartment,Full gut demolition of the apartment,1396.1 sf,5,0.75,%,8756.75,90
+Demolition,Bathroom 1,Bathroom Full Gut,Full gut of bathroom up to 60 sf,21,2200,0.75,%,4000,90
+Demolition,Kitchen,Kitchen Full Gut,Full gut of kitchen over 10 ft,9.8,3300,0.75,%,4000,85
+,,,Section Total,,,,,16756.75,
+
+Doors,,,,,,,,,
+Doors,General,Replace doors,Replacement of all interior doors,10 units,825,0.75,%,14437.5,90
+,,,Section Total,,,,,14437.50,
+
+Electrical,,,,,,,,,
+Electrical,General,Rewiring full apartment,Rewiring of the entire apartment,1396.1 sf,17,0.75,%,41588.47,95
+,,,Section Total,,,,,41588.47,
+
+Flooring,,,,,,,,,
+Flooring,General,Install new hardwood flooring,Installation of new hardwood flooring throughout the apartment,1396.1 sf,6,0.75,%,24531.75,90
+,,,Section Total,,,,,24531.75,
+
+Painting,,,,,,,,,
+Painting,General,Paint entire apartment,Painting of the entire apartment including walls and ceilings,1396.1 sf,10.3,0.75,%,31527.13,90
+,,,Section Total,,,,,31527.13,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Tub to shower conversion,Conversion of bathtub to shower,21 sf,1375,0.75,%,2406.25,85
+Plumbing,Bathroom 1,Full Gut - Existing Location,Full gut replacement for plumbing,21,7700,0.75,%,3500,85
+Plumbing,Kitchen,Full Gut - Existing Location - 1 Sink,Plumbing full gut in kitchen for existing sink,9.8,3850,0.75,%,3500,80
+,,,Section Total,,,,,9406.25,
+
+Tile,,,,,,,,,
+Tile,Kitchen,Tile installation,Tile flooring installation,9.8 sf,2400,0.80,%,4315.2,85
+,,,Section Total,,,,,4315.20,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Install new drywall ceiling,Installing new drywall on ceilings throughout,1341.5 sf,4.95,0.75,%,10099.91,90
+,,,Section Total,,,,,10099.91,
+
+,,,Overall Subtotal,,,,,168105.46,
+,,,General Conditions (10%),,,,,16810.55,
+,,,Grand Total,,,,,184916.01,

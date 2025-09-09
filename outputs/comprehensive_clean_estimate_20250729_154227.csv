@@ -1,0 +1,53 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash,Installation of backsplash tile,1 unit,1650,0.75,%,2887.5,100
+,,,Section Total,,,,,2887.50,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of kitchen cabinets,10 FT,7600,0.75,%,13300,100
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop,Supply and install kitchen countertop,25 LF,2000,0.75,%,43750,100
+,,,Section Total,,,,,43750.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full Gut,Demolition of bathroom up to 60 sf,1 unit,2200,0.75,%,3850,100
+Demolition,Bathroom 2,Full Gut,Demolition of bathroom up to 60 sf,1 unit,2200,0.75,%,3850,100
+Demolition,Kitchen,Full Gut,Demolition of kitchen up to 10 ft,1 unit,2500,0.75,%,4375,100
+,,,Section Total,,,,,12075.00,
+
+Doors,,,,,,,,,
+Doors,Full Apartment,Standard door Prehung,Installation of standard prehung doors,4 units,550,0.75,%,3850,85
+,,,Section Total,,,,,3850.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full apartment rewiring,1341.5 sf,17,0.75,%,24051.25,100
+,,,Section Total,,,,,24051.25,
+
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new engineered flooring,Installation of new engineered flooring throughout,1341.5 sf,6,0.75,%,13414.5,100
+,,,Section Total,,,,,13414.50,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Painting,Painting with new Benjamin Moore regal select,1341.5 sf,10.3,0.75,%,22990.88,100
+,,,Section Total,,,,,22990.88,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Full gut replacement of bathroom plumbing,1 unit,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full Gut Replacement,Full gut replacement of bathroom plumbing,1 unit,7700,0.75,%,13475,100
+Plumbing,Kitchen,Full Gut,"Full gut kitchen plumbing, 1 sink",1 unit,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation Floor,Installation of bathroom floor tile,1 unit,2000,0.80,%,4250,100
+Tile,Bathroom 2,Tile Installation Floor,Installation of bathroom floor tile,1 unit,2000,0.80,%,4250,100
+,,,Section Total,,,,,8500.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Drywall Installation,"Installation of new 5/8"" drywall wall board",405.8 sf,4,0.75,%,2839.35,100
+,,,Section Total,,,,,2839.35,
+
+,,,Overall Subtotal,,,,,181345.98,
+,,,General Conditions (10%),,,,,18134.60,
+,,,Grand Total,,,,,199480.58,

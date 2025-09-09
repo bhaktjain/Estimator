@@ -1,0 +1,52 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Installation of kitchen cabinets 11-15 FT,1,9200,0.75,%,28175.0,100
+,,,Section Total,,,,,28175.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Post-construction commercial cleaning,1 unit,1925,0.75,%,5895.31,100
+,,,Section Total,,,,,5895.31,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop,Install quartz countertop,99,97,0.75,%,20480.25,100
+,,,Section Total,,,,,20480.25,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,Demolition of existing kitchen elements,1,3300,0.75,%,10106.25,100
+Demolition,Bathroom 1,Full gut,Demolition of existing bathroom elements,1,2750,0.75,%,8421.88,100
+Demolition,Bathroom 2,Full gut,Demolition of existing bathroom elements,1,2200,0.75,%,6737.5,100
+,,,Section Total,,,,,25265.63,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apt,Full apartment electrical rewiring,1341.5,17,0.75,%,69893.03,100
+,,,Section Total,,,,,69893.03,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install new engineered flooring,Installation of engineered flooring in living room,321 sf,6,0.75,%,5900.56,85
+,,,Section Total,,,,,5900.56,
+
+Painting,,,,,,,,,
+Painting,Entire Apartment,Painting,Painting of entire apartment,1341.5 sf,10.3,0.75,%,42063.44,90
+,,,Section Total,,,,,42063.44,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Plumbing Full gut,Full gut plumbing for kitchen,1,3850,0.75,%,11790.62,100
+Plumbing,Bathroom 1,Plumbing Full gut,Full gut plumbing for bathroom,1,7700,0.75,%,23581.25,100
+Plumbing,Bathroom 2,Plumbing Full gut,Full gut plumbing for bathroom,1,7700,0.75,%,23581.25,100
+,,,Section Total,,,,,58953.12,
+
+Tile,,,,,,,,,
+Tile,Kitchen,Floor Tile,Tile installation for kitchen floor,99 sf,2400,0.8,%,7776.0,85
+Tile,Bathroom 1,Wall Tile,Tile installation for bathroom 1 walls,1 unit,2600,0.8,%,8424.0,85
+Tile,Bathroom 2,Wall Tile,Tile installation for bathroom 2 walls,1 unit,2600,0.8,%,8424.0,85
+,,,Section Total,,,,,24624.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Kitchen,Drywall,Install moisture resistant drywall in kitchen,1 unit,1925,0.75,%,5895.31,85
+Walls & Ceilings,Bathroom 1,Drywall,Install moisture resistant drywall in bathroom 1,1 unit,1925,0.75,%,5895.31,85
+Walls & Ceilings,Bathroom 2,Drywall,Install moisture resistant drywall in bathroom 2,1 unit,1925,0.75,%,5895.31,85
+,,,Section Total,,,,,17685.93,
+
+,,,Overall Subtotal,,,,,298936.27,
+,,,General Conditions (10%),,,,,29893.63,
+,,,Grand Total,,,,,328829.90,

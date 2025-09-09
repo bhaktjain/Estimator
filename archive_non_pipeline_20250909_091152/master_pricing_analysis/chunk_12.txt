@@ -1,0 +1,27 @@
+Kitchen
+Install waterproofing floors Unit UNIT $1,250 N/A Supply and Install
+Tile *Minimum Price = $4,250
+Target Margin = 80% Size/Type Unit Labor Material Category
+Tile Installation Bathroom - Walls 0 - 60 sf $2,600 N/A Install
+Tile Installation Bathroom - Floors $2,000 N/A Install
+Tile Installation Bathroom - Walls 60 - 80 sf $3,400 N/A Install
+Tile Installation Bathroom - Floors $2,300 N/A Install
+Tile Installation Bathroom - Walls 80 - 100 sf $4,100 N/A Install
+Tile Installation Bathroom - Floors $2,700 N/A Install
+Tile Installation Kitchen Flooring - 60 - 80 sf Flooring $2,400 N/A Install
+Tile Installation Kitchen $2,800 N/A Install
+Tile Installation Kitchen - LGE $3,300 N/A Install
+Tile Backsplash (SML) 10 ft $1,650 N/A Install
+Tile Backsplash (LGE) 10 ft + $2,200 N/A Install
+Skim coating *Minimum Price = $2,000
+Target Margin = 65% Size/Type Unit Labor Material Category
+Supply and Install skim coating - Walls N/A SF $6 N/A Supply and Install
+Supply and Install skim coating - Ceilings N/A SF $6 N/A Supply and Install
+Doors *Minimum Price = N/A
+Target Margin = 70% Size/Type Unit Labor Material Category
+Stardard door Prehung UNIT $550 N/A Install
+Pocket door (includes framing and drywall) Prehung UNIT $1,320 N/A Install
+Double door Prehung UNIT $825 N/A Install
+Bifold double door Prehung UNIT $825 N/A Install
+Pivot door Custom UNIT $1,100 N/A Install
+FLush/Taped doors***

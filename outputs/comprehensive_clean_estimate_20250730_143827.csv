@@ -1,0 +1,85 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile backsplash installation,Install tile backsplash in the kitchen.,10 FT,"Tile Backsplash (SML) 10 ft $1,650",0.75,%,"1,650",85
+,,,Section Total,,,,,0.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install new cabinetry,Installation of new kitchen cabinets and pantry units.,99 SF,"Install Kitchen cabinets 11 > 15 FT UNIT $9,200",0.75,%,"9,200",90
+,,,Section Total,,,,,0.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Post-renovation cleaning,Final cleaning to remove construction debris and dust.,1341.5 SF,"Apartment 1,200 > 1,800 sf $1,925",0.75,%,"1,925",90
+,,,Section Total,,,,,0.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install marble countertop,Installation of a marble countertop in the kitchen.,50 SF,Fabricate and install - SF $125,0.75,%,"10,750",90
+,,,Section Total,,,,,0.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Demolition,Full gut demolition of Bathroom 1.,36 SF,"Full gut 0 > 60 sf unit $2,200",0.75,%,"2,200",90
+Demolition,Bathroom 2,Demolition,Full gut demolition of Bathroom 2.,32 SF,"Full gut 0 > 60 sf unit $2,200",0.75,%,"2,200",90
+Demolition,Kitchen,Demolition,Full gut demolition of Kitchen.,99 SF,"Full gut 0 > 10 ft UNIT $2,500",0.75,%,"2,500",90
+Demolition,Full Apartment,Demolition,"Full gut renovation for the apartment up to 1,800 sq ft.",1341.5 SF,N/A,0.75,%,4000,95
+Demolition,Full Apartment,Floor demo,Removal of existing flooring throughout the apartment.,1341.5 SF,$4 per sq for floor demo and removal only,0.75,%,"5,366",85
+,,,Section Total,,,,,4000.00,
+
+Doors,,,,,,,,,
+Doors,Full Apartment,Replace all interior doors,Replace and install new interior doors.,6 UNIT,Stardard door Prehung UNIT $550,0.75,%,"3,300",85
+,,,Section Total,,,,,0.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Electrical rewiring,Complete rewiring of electrical systems throughout the apartment.,1341.5 SF,Rewiring Full Apt - Electrical - per sq ft SF $17,0.75,%,"22,806",95
+Electrical,Kitchen,Install microwave and vent,Installation of new microwave including vent setup.,1 UNIT,Install price from electrician - quoted separately,0.75,%,"2,500",85
+,,,Section Total,,,,,0.00,
+
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new engineered wood flooring,Install new wood flooring throughout the apartment.,1341.5 SF,Install new engineered N/A SF $6,0.75,%,"8,049",90
+Flooring,Living Room,Install Hardwood,Installation of new hardwood flooring in living room.,321 SF,$6/SF,0.75,%,1926,85
+,,,Section Total,,,,,1926.00,
+
+General,,,,,,,,,
+General,Full Apartment,Project management,Management and coordination of renovation works.,1 UNIT,General Conditions - project value markup,0.75,%,"2,500",90
+,,,Section Total,,,,,0.00,
+
+Miscellaneous,,,,,,,,,
+Miscellaneous,General,Permit Acquisition,Obtaining necessary permits for renovation work.,X UNIT,Miscellaneous,0.75,%,TBD,85
+,,,Section Total,,,,,0.00,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Full Apartment,Radiator Installation,Installation of steam radiators as needed.,1341.5 SF,Radiators Installation (steam),0.75,%,TBD,85
+,,,Section Total,,,,,0.00,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Interior painting,Paint all walls and ceilings with Benjamin Moore paint.,1341.5 SF (floor area),New *Benjamin Moore regal select (calculated on FLOOR AREA) SF $10.3,0.75,%,"13,805",90
+,,,Section Total,,,,,0.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Update plumbing for fixtures,"Install plumbing for a new sink, toilet, and shower in Bathroom 1.",1 UNIT,"Bathroom Full Gut Replacement - existing location 0 - 60 sf Unit $7,700",0.75,%,"7,700",90
+Plumbing,Bathroom 2,Update plumbing for fixtures,"Install plumbing for a new sink, toilet, and shower in Bathroom 2.",1 UNIT,"Bathroom Full Gut Replacement - existing location 0 - 60 sf Unit $7,700",0.75,%,"7,700",90
+,,,Section Total,,,,,0.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Tile installation for walls and floors in Bathroom 1.,35.5 SF,"$2600 for walls, $2000 for floors",0.8,%,4600,90
+Tile,Bathroom 2,Tile Installation,Tile installation for walls and floors in Bathroom 2.,32.3 SF,"$2600 for walls, $2000 for floors",0.8,%,4600,90
+,,,Section Total,,,,,9200.00,
+
+Trim,,,,,,,,,
+Trim,Full Apartment,Install baseboards,Install new baseboards throughout the apartment.,450 LF,Baseboards N/A LF $6,0.75,%,"2,700",85
+,,,Section Total,,,,,0.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Popcorn ceiling removal,Remove popcorn ceilings throughout the apartment.,1341.5 SF,N/A (general labor cost from pricing sheet),0.75,%,Calculated total,85
+Walls & Ceilings,Full Apartment,Drywall Installation,"Installation of new 5/8"" drywall throughout entire apartment.",3006.1 SF,"Install new 5/8"" drywall wall board",0.75,%,"$12,024.40",85
+Walls & Ceilings,Bathroom 1,Install new drywall,Moisture-resistant drywall installation for Bathroom 1 walls and ceiling.,190.9 SF,"Install new moisture resistant drywall 0 > 60 SF UNIT $1,925",0.75,%,"3,851",90
+Walls & Ceilings,Bathroom 2,Install new drywall,Moisture-resistant drywall installation for Bathroom 2 walls and ceiling.,173.1 SF,"Install new moisture resistant drywall 0 > 60 SF UNIT $1,925",0.75,%,"3,851",90
+,,,Section Total,,,,,0.00,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing,Install waterproofing in Bathroom 1.,36 SF,"Install waterproofing floors and walls 0 > 60 sf UNIT $1,900",0.75,%,"1,900",90
+Waterproofing,Bathroom 2,Waterproofing,Install waterproofing in Bathroom 2.,32 SF,"Install waterproofing floors and walls 0 > 60 sf UNIT $1,900",0.75,%,"1,900",90
+Waterproofing,Kitchen,Waterproofing,Install waterproofing in Kitchen floors.,99 SF,"Install waterproofing floors Unit UNIT $1,250",0.75,%,"1,250",85
+,,,Section Total,,,,,0.00,
+
+,,,Overall Subtotal,,,,,15126.00,
+,,,General Conditions (10%),,,,,1512.60,
+,,,Grand Total,,,,,16638.60,

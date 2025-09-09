@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Supply/Fabricate kitchen cabinets,Install kitchen cabinets (16 > 20FT),1,10900,0.75,%,19075,100
+,,,Section Total,,,,,19075.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop,Kitchen Countertop - MARBLE,1,4000,0.75,%,7000,100
+,,,Section Total,,,,,7000.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full gut,Full gut of bathroom (80 to 100+ sf),1,3300,0.75,%,5775,100
+Demolition,Kitchen,Full gut,Full gut of kitchen (10 ft +),1,3300,0.75,%,5775,100
+Demolition,Apartment,Full gut demo,"Demolition for apartment up to 2,500 sf",1,4,0.75,%,10000,90
+,,,Section Total,,,,,21550.00,
+
+Electrical,,,,,,,,,
+Electrical,Kitchen,New Washer and Dryer (2 X DEDICATED LINES),Install dedicated washer and dryer lines,1,1650,0.75,%,2887.5,100
+,,,Section Total,,,,,2887.50,
+
+Painting,,,,,,,,,
+Painting,General,New *Benjamin Moore regal select,Painting all areas with Benjamin Moore regal select,1,1500,0.75,%,2625,100
+,,,Section Total,,,,,2625.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Tub to shower conversion,Convert tub to shower,1,1375,0.75,%,2406.25,100
+Plumbing,Bathroom,Full Gut Replacement - existing location,60 - 80 sf Bathroom Plumbing Full Gut,1,8800,0.75,%,15400,90
+Plumbing,Kitchen,Full gut,Full gut at existing location (1 sink),1,3850,0.75,%,6737.5,100
+Plumbing,General,Washer Dryer - New Location,Install new washer dryer location,1,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,31281.25,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation - Walls,Tile installation on bathroom walls (80 - 100 sf),1,4100,0.80,%,7380,100
+Tile,Kitchen,Tile Installation - Flooring,Tile installation in kitchen flooring,1,2400,0.80,%,4320,100
+,,,Section Total,,,,,11700.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,"Install new 5/8"" drywall wall board","Install new 5/8"" drywall wall board",1,4,0.75,%,2000,90
+Walls & Ceilings,General,"Install new 5/8"" drywall ceiling board","Install new 5/8"" drywall ceiling board",1,4.95,0.75,%,2000,90
+,,,Section Total,,,,,4000.00,
+
+,,,Overall Subtotal,,,,,100118.75,
+,,,General Conditions (10%),,,,,10011.88,
+,,,Grand Total,,,,,110130.62,

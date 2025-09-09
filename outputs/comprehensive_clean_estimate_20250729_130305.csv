@@ -1,0 +1,46 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Install new kitchen cabinets,9.8,7600,0.75,%,7500,100
+,,,Section Total,,,,,7500.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Fabricate and Install Countertops,Fabricate and install kitchen countertops,321,97,0.75,%,27847.5,100
+,,,Section Total,,,,,27847.50,
+
+Demolition,,,,,,,,,
+Demolition,General,Full gut apartment,Full demolition of the apartment,1341.5,11,0.75,%,14765.25,85
+Demolition,Bathroom 1,Full gut,"Complete removal of all existing fixtures, cabinets, etc.",21,2200,0.75,%,4000,100
+Demolition,Kitchen,Full gut,Removal of cabinetry and fixtures,9.8,3300,0.75,%,4000,100
+,,,Section Total,,,,,22765.25,
+
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Rewiring Full Apt,Complete electrical rewiring,1341.5,17,0.75,%,4000,100
+,,,Section Total,,,,,4000.00,
+
+Flooring,,,,,,,,,
+Flooring,General,Install new hardwood flooring,Hardwood flooring installation across all rooms,1396.1,6,0.75,%,20941.8,80
+,,,Section Total,,,,,20941.80,
+
+Painting,,,,,,,,,
+Painting,Entire Apartment,Painting,Apply paint to walls and ceiling,1341.5,10.3,0.75,%,10300,100
+,,,Section Total,,,,,10300.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Replace all plumbing fixtures,21,7700,0.75,%,3500,100
+Plumbing,Bathroom 2,Shower/tub replacement,Install new shower/tub in Bathroom 2,157,735,0.75,%,5517.38,85
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Replace kitchen plumbing,9.8,3850,0.75,%,3500,100
+,,,Section Total,,,,,12517.38,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Install new tiles on walls,21,2600,0.80,%,4250,100
+Tile,Kitchen,Tile Installation - Floor,Install new kitchen floor tiles,9.8,2400,0.80,%,4250,100
+,,,Section Total,,,,,8500.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Skim coating walls,Skim coating throughout all walls,1341.5,6,0.75,%,14011.5,75
+Walls & Ceilings,General,Ceiling work,Ceiling refinishing,1341.5,4.95,0.75,%,11541.38,75
+,,,Section Total,,,,,25552.88,
+
+,,,Overall Subtotal,,,,,139924.81,
+,,,General Conditions (10%),,,,,13992.48,
+,,,Grand Total,,,,,153917.29,

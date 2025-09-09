@@ -1,0 +1,38 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Install new kitchen cabinets.,12.4 LF,$600 per LF,0.75,%,13050,90
+Cabinetry,Kitchen,Supply and Install Kitchen Cabinets,Installation of fully-custom kitchen cabinetry.,12.4 LF,"$1,200/LF",0.75,%,26040,95
+Cabinetry,Kitchen,Install Kitchen cabinets 0 > 10FT,Installation of new kitchen cabinets,1 UNIT,"$7,600",0.75,%,13300,95
+,,,,,,,,52390.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop Install,Install new quartz countertops.,45 SF,$97 per SF,0.75,%,7357.5,95
+,,,,,,,,7357.50,
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Popcorn Ceiling Removal,Remove popcorn ceiling throughout the apartment.,1341.5 SF,$11 per SF,0.75,%,25964.3125,95
+Demolition,Full Apartment,Demolition,Full gut of kitchen and bathrooms.,1396.1 SF,$11/SF,0.75,%,21334.80,95
+Demolition,Kitchen,Full gut,Demolition of existing kitchen structures,1 UNIT,"$3,300",0.75,%,5775,95
+Demolition,Bathroom 1,Full gut,Demolition of existing bathroom structures,1 UNIT,"$2,200",0.75,%,3850,95
+,,,,,,,,56924.11,
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full apartment electrical rewiring.,1341.5 SF,$17 per SF,0.75,%,39907.6875,95
+,,,,,,,,39907.69,
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new engineered,Installation of new engineered flooring,1341.5 SF,$6,0.75,%,14046.75,95
+,,,,,,,,14046.75,
+Painting,,,,,,,,,
+Painting,Full Apartment,Interior Painting,Painting walls and ceilings throughout the apartment.,3006.1 SF,$10.3/SF,0.75,%,54184.73,95
+,,,,,,,,54184.73,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Tub to Shower Conversion,Convert bathtub to shower and update plumbing fixtures.,1 UNIT,"$1,375",0.75,%,2406.25,90
+Plumbing,Kitchen,Sink Plumbing Update,Update plumbing for a single kitchen sink.,1 UNIT,"$3,850",0.75,%,6737.5,85
+Plumbing,Bathroom 1,Full Gut Replacement,Replacement of all plumbing fixtures and fittings.,35.5 SF,"$8,800",0.75,%,15400,95
+Plumbing,Bathroom 2,Full Gut Replacement,Replacement of all plumbing fixtures and fittings.,32.3 SF,"$7,700",0.75,%,13475,95
+Plumbing,Bathroom 1,Full gut - existing location,Plumbing setup for new bathroom fixtures,1 UNIT,"$7,700",0.75,%,13475,95
+,,,,,,,,51493.75,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Installation of floor and wall tiles.,35.5 SF,"$2,600",0.80,%,9360,95
+Tile,Bathroom 2,Tile Installation,Installation of floor and wall tiles.,32.3 SF,"$2,600",0.80,%,9360,95
+,,,,,,,,18720.00,
+,,,,,,,,295024.53,
+,,,General Conditions (10%),,,,,29502.45,
+,,,Grand Total,,,,,324526.98,

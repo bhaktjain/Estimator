@@ -1,0 +1,29 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Kitchen Cabinets,Fabricate and install kitchen cabinets.,Install Kitchen cabinets 0 > 10FT UNIT,Install Kitchen cabinets 0 > 10FT UNIT,0.75,%,13300,90
+Cabinetry,Kitchen,Supply/Fabricate kitchen cabinets,Install standard kitchen cabinets,8 LF,$600,0.75,%,12600,90
+Cabinetry,Other 1 (Kitchen),Install Kitchen cabinets,"Installation of new kitchen cabinets, including upper and base cabinets.",29.6 LF,Supply/Fabricate kitchen cabinets FULLY-CUSTOM,0.75,%,34991,95
+,,,,,,,,60891.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop Installation,Fabricate and install new quartz countertops.,83 SF,Kitchen Countertop - (10ft x 5ft per slab) QUARTZ,0.75,%,11444.75,95
+,,,,,,,,11444.75,
+Demolition,,,,,,,,,
+Demolition,Full Apartment,General Demolition,Removal of existing fixtures and general demolition tasks throughout the apartment.,590.7 SF,Full gut price / sq ft - HYBRID,0.75,%,4534.375,95
+Demolition,Kitchen,Full gut,Tear out existing kitchen setup,One,"2,500",0.75,%,8750,95
+,,,,,,,,13284.38,
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Full Apartment Rewiring,"Complete rewiring of the apartment, including all necessary upgrades.",543 SF,Rewiring Full Apt - Electrical - per sq ft,0.75,%,8582.75,95
+,,,,,,,,8582.75,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Bathroom Plumbing,Upgrade and replace the bathroom plumbing fixtures.,51.1 SF,Bathroom - Tub to shower conversion,0.75,%,2406.25,90
+Plumbing,Bathroom,Full gut replacement,Replacement of all existing plumbing fixtures and installations within the bathroom.,51.1 SF,Full Gut Replacement - existing location 0 - 60 sf,0.75,%,13475,95
+,,,,,,,,15881.25,
+Tile,,,,,,,,,
+Tile,Bathroom,Bathroom Floor Tiling,Install new floor tile in the bathroom.,51.1 SF,Tile Installation Bathroom - Floors,0.80,%,3705,90
+,,,,,,,,3705.00,
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Drywall Installation,"Install new 5/8"" drywall wall board throughout.",1640.3 SF,"Install new 5/8"" drywall wall board",0.75,%,11520.225,95
+,,,,,,,,11520.23,
+,,,,,,,,125309.35,
+,,,General Conditions (10%),,,,,12530.94,
+,,,Grand Total,,,,,137840.29,

@@ -1,0 +1,45 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of 11 > 15 ft kitchen cabinets,1,9200,0.75,%,16100,85
+,,,Section Total,,,,,16100.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Demolition of Bathroom 1,21,3300,0.75,%,5775,100
+Demolition,Kitchen,Full gut,Demolition of Kitchen,9.8,2500,0.75,%,4375,100
+,,,Section Total,,,,,10150.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewiring of the entire apartment,1341.5,17,0.75,%,39993.875,100
+,,,Section Total,,,,,39993.88,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install engineered hardwood,Install new flooring,136,6,0.75,%,1428,85
+,,,Section Total,,,,,1428.00,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Kitchen,Supply/Fabricate kitchen cabinets,Standard kitchen cabinets,9.8,600,0.75,%,10350,100
+Needs to Review,Kitchen,Kitchen Countertop - Quartz,Supply and install quartz countertop,9.8,97,0.75,%,1670.5,100
+,,,Section Total,,,,,12020.50,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Painting Walls,Painting with Benjamin Moore regal select,1341.5,10.3,0.7,%,23133.45,90
+,,,Section Total,,,,,23133.45,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full gut replacement,Full gut replacement of Bathroom 1,21,7700,0.75,%,13475,100
+Plumbing,Bathroom 1,Tub to shower conversion,Convert tub to shower,1,1375,0.75,%,2406.25,90
+Plumbing,Kitchen,Full gut existing location - 1 sink,Full gut of Kitchen plumbing,9.8,3850,0.75,%,6725,100
+,,,Section Total,,,,,22606.25,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Tile installation on bathroom walls,21,2600,0.80,%,4914,100
+Tile,Kitchen,Tile Installation - Kitchen Flooring,Installation of tiles on kitchen floors,1,2400,0.8,%,4320,80
+,,,Section Total,,,,,9234.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Ceiling removal,Remove popcorn ceiling,1341.5,4.95,0.75,%,7562.4375,80
+,,,Section Total,,,,,7562.44,
+
+,,,Overall Subtotal,,,,,142228.51,
+,,,General Conditions (10%),,,,,14222.85,
+,,,Grand Total,,,,,156451.36,

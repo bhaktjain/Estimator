@@ -1,0 +1,52 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of kitchen cabinets 11 to 15 ft,1 unit,9200,0.75,%,16100,90
+,,,Section Total,,,,,16100.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install Countertops,Fabricate and install Quartz countertops,50 sf,97,0.75,%,8500,90
+,,,Section Total,,,,,8500.00,
+
+Demolition,,,,,,,,,
+Demolition,Apartment,Popcorn Ceiling Removal,Remove popcorn ceiling throughout the apartment.,1341.5,4,0.75,%,4683.5,80
+Demolition,Apartment,Full Gut,Demolition of existing structures,1800 sf,4,0.75,%,5400,80
+Demolition,Apartment,Concrete Floor Leveling,Make concrete floor as even as possible in apartments with over 10 ft.,106,3300,0.75,%,9712.5,75
+Demolition,Bathroom 1,Full Gut,Demolish existing bathroom structures,1,3300,0.75,%,5775,95
+Demolition,Kitchen,Full Gut,Complete demolition of Kitchen 10+ ft,1 unit,3300,0.75,%,5775,90
+,,,Section Total,,,,,31346.00,
+
+Electrical,,,,,,,,,
+Electrical,Kitchen,Rewiring Full Apt,Full rewiring of the apartment for kitchen.,106,17,0.75,%,3160.75,85
+Electrical,Bathroom 1,Light Fixture Installation,Install new light fixtures in bathroom.,2,165,0.75,%,577.5,75
+Electrical,Apartment,Rewiring Full Apt,Rewire full apartment electrically,1800 sf,17,0.75,%,26775,90
+Electrical,Full Apartment,Rewiring,Complete electrical rewiring per sq ft,1341.5 sf,17,0.75,%,39971.125,85
+,,,Section Total,,,,,70484.38,
+
+Flooring,,,,,,,,,
+Flooring,Apartment,Install Hardwood Flooring,Install new engineered hardwood flooring throughout the apartment.,1341.5,6,0.75,%,14090.75,80
+,,,Section Total,,,,,14090.75,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Bathroom 1,Install Light Fixture,Install bathroom lighting fixture,1,165,0.75,%,288.75,90
+,,,Section Total,,,,,288.75,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Painting,New paint with Benjamin Moore - full apartment,1341.5 sf,10.3,0.75,%,24171.375,90
+,,,Section Total,,,,,24171.38,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 2,Bathroom Plumbing,Update bathroom plumbing without moving existing fixtures.,1,7700,0.75,%,13475,90
+Plumbing,Bathroom 1,Full Gut Replacement,Replace bathroom plumbing at existing location,1,9900,0.75,%,17325,90
+Plumbing,Bathroom 1,Modernize Bathroom,Convert tub to shower and update plumbing fixtures.,1,1375,0.75,%,2406.25,85
+Plumbing,Kitchen,Full Gut,Supply and install for kitchen full gut - 1 sink,1 unit,3850,0.75,%,6738,90
+Plumbing,Kitchen,Kitchen Plumbing,Plumbing upgrades for new kitchen layout and fixtures.,1,4950,0.75,%,8741.25,85
+,,,Section Total,,,,,48685.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Tile installation for bathroom walls 80-100 sf,1 unit,4100,0.80,%,7380,90
+Tile,Kitchen,Tile Flooring,Tile installation for kitchen flooring 60-80 sf,1 unit,2400,0.80,%,4320,90
+,,,Section Total,,,,,11700.00,
+
+,,,Overall Subtotal,,,,,225366.75,
+,,,General Conditions (10%),,,,,22536.68,
+,,,Grand Total,,,,,247903.42,

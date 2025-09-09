@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Install standard kitchen cabinets up to 10 feet.,8 ft,7600,0.75,%,13300,85
+,,,Section Total,,,,,13300.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Professional cleaning post renovation.,1,1375,0.5,%,2062.5,100
+Commercial Cleaning,Full Apartment,Final cleaning,Comprehensive cleaning of the apartment post-renovation.,543.0 sf,1375,0.50,%,2062.5,95
+,,,Section Total,,,,,4125.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz countertop,Supply and install quartz countertops.,10 sf,97,0.75,%,1847.5,80
+,,,Section Total,,,,,1847.50,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full gut demolition,"Demolish existing bathroom fixtures, tiles, and finishes.",51.1 sf,3300,0.75,%,5775,90
+Demolition,Kitchen,Partial gut,Demolition of kitchen elements like backsplash and some cabinets.,1 unit,2500,0.75,%,4375,75
+,,,Section Total,,,,,10150.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewire entire apartment to modern codes and safety standards.,543.0 sf,17,0.75,%,16125.75,95
+,,,Section Total,,,,,16125.75,
+
+Flooring,,,,,,,,,
+Flooring,Entire Apartment,Install new engineered flooring,Installation of new engineered flooring throughout apartment.,543,6,0.75,%,5710.5,90
+,,,Section Total,,,,,5710.50,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Painting,Painting of the entire apartment.,543,10.3,0.75,%,9772.95,85
+,,,Section Total,,,,,9772.95,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Replacement of existing plumbing in bathroom.,1,9900,0.75,%,17325,90
+Plumbing,Kitchen,Relocate Washer Dryer,Install new water and waste lines for washer and dryer relocation.,1 unit,3850,0.75,%,6737.5,80
+,,,Section Total,,,,,24062.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile installation,Install new tile in bathroom floor and walls.,51.1 sf,4200,0.80,%,7650,90
+,,,Section Total,,,,,7650.00,
+
+,,,Overall Subtotal,,,,,92744.20,
+,,,General Conditions (10%),,,,,9274.42,
+,,,Grand Total,,,,,102018.62,

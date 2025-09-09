@@ -1,0 +1,40 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of semi-custom kitchen cabinets.,15,9200,0.75,%,16100,85
+,,,Section Total,,,,,16100.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Commercial Cleaning,Post-construction cleaning for the entire apartment.,1341.5,1925,0.75,%,1925,100
+,,,Section Total,,,,,1925.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop,Supply and install quartz countertops.,99,97,0.75,%,13653,95
+,,,Section Total,,,,,13653.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full Gut,Demolition and removal of existing kitchen components.,1,3300,0.75,%,5610,90
+Demolition,Bathroom 1,Full Gut,Demolition and removal of existing bathroom components.,1,2200,0.75,%,3740,90
+Demolition,Bathroom 2,Full Gut,Demolition and removal of existing bathroom components.,1,2200,0.75,%,3740,90
+,,,Section Total,,,,,13090.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Complete rewiring of the apartment.,1341.5,17,0.75,%,38791.25,95
+,,,Section Total,,,,,38791.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut - existing location,Replacement of kitchen sink plumbing.,1,3850,0.75,%,6737.5,90
+Plumbing,Bathroom 1,Full Gut,Plumbing replacement for existing location.,1,7700,0.75,%,13090,90
+Plumbing,Bathroom 2,Full Gut,Plumbing replacement for existing location.,1,7700,0.75,%,13090,90
+,,,Section Total,,,,,32917.50,
+
+Tile,,,,,,,,,
+Tile,Kitchen,Tile Installation,Installation of kitchen floor tiles.,99,2400,0.8,%,26784,90
+,,,Section Total,,,,,26784.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Skim Coating,Skim coat for walls and ceiling preparation.,515.8,6,0.75,%,5341.95,80
+,,,Section Total,,,,,5341.95,
+
+,,,Overall Subtotal,,,,,148602.70,
+,,,General Conditions (10%),,,,,14860.27,
+,,,Grand Total,,,,,163462.97,

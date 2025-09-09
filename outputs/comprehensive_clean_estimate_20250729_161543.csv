@@ -1,0 +1,46 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Install standard kitchen cabinets,1,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install Kitchen Countertops,Install quartz kitchen countertops,16,97,0.75,%,2736,90
+,,,Section Total,,,,,2736.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full Gut,Complete gut of bathroom,1,2200,0.75,%,3850,100
+Demolition,Kitchen,Full gut,Demolition of kitchen fixtures and finishes.,1,2500,0.75,%,4375,90
+,,,Section Total,,,,,8225.00,
+
+Electrical,,,,,,,,,
+Electrical,Total Livable Area,Rewiring Full Apartment,Rewiring of entire apartment's electrical system.,543,17,0.75,%,16157.25,95
+Electrical,Apartment-wide,Rewiring,Rewiring of entire apartment,543,17,0.75,%,16150,100
+,,,Section Total,,,,,32307.25,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install hardwood,Install hardwood flooring in the living room.,247.8,6,0.75,%,2602.65,90
+Flooring,Apartment-wide,Install Hardwood Flooring,Install new engineered hardwood flooring,543,6,0.75,%,5700,100
+,,,Section Total,,,,,8302.65,
+
+Needs to Review,,,,,,,,,
+Needs to Review,General,Split unit and compressor,Install split unit AC with compressor.,1,8250,0.60,%,13200,80
+,,,Section Total,,,,,13200.00,
+
+Painting,,,,,,,,,
+Painting,Apartment-wide,Paint Walls & Ceilings,Painting using Benjamin Moore regal select,543,10.3,0.75,%,9788,100
+,,,Section Total,,,,,9788.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Replace all bathroom plumbing fixtures,1,7700,0.75,%,13475,100
+Plumbing,Other 1,Washer Dryer Installation,Install new washer and dryer unit.,1,3850,0.75,%,6737.5,85
+Plumbing,Kitchen,Full gut,Replace kitchen plumbing fixtures,1,3850,0.75,%,6738,85
+,,,Section Total,,,,,26950.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation,Tile floors and walls in bathroom,1,4400,0.80,%,7920,100
+Tile,Kitchen,Tile Installation,Tile installation in kitchen area.,1,2400,0.80,%,4320,85
+,,,Section Total,,,,,12240.00,
+
+,,,Overall Subtotal,,,,,127049.40,
+,,,General Conditions (10%),,,,,12704.94,
+,,,Grand Total,,,,,139754.34,

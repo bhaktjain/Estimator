@@ -1,0 +1,38 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Installation of new kitchen cabinetry,11-15 FT,9200,0.75,%,16100,85
+,,,Section Total,,,,,16100.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop - Quartz,Installation of quartz kitchen countertops,1,2000,0.75,%,3500,90
+,,,Section Total,,,,,3500.00,
+
+Demolition,,,,,,,,,
+Demolition,General Apartment,Full gut,Complete gut of entire apartment up to 1200 sf,1200 sf,7,0.75,%,6835,90
+Demolition,Kitchen,Full gut,Complete gut of kitchen area,1,3300,0.75,%,5775,95
+Demolition,Closet,Partial Demolition,Demolition for closet reconfiguration.,1,4000,0.75,%,7000,85
+,,,Section Total,,,,,19610.00,
+
+Electrical,,,,,,,,,
+Electrical,General Apartment,Rewiring Full Apt,Complete rewiring of entire apartment,1200 sf,17,0.75,%,35700,90
+Electrical,General,Rewiring Full Apt,Full rewiring of apartment electrical systems.,1396.1,17,0.75,%,41689.7375,95
+Electrical,Bathroom 1,Underfloor Heating,Install and supply underfloor heating.,1,3750,0.75,%,6562.5,90
+Electrical,Apartment-wide,Rewiring,Full apartment electrical rewiring per sq ft,1396.1,17,0.75,%,41617.875,80
+,,,Section Total,,,,,125570.11,
+
+Flooring,,,,,,,,,
+Flooring,General Apartment,Install new engineered flooring,Installation of engineered flooring throughout apartment,1000 sf,6,0.75,%,10500,92
+,,,Section Total,,,,,10500.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Full gut replacement of existing plumbing in bathroom.,1,7700,0.75,%,13475,90
+Plumbing,Kitchen,Full gut - existing location,"Full gut at existing location, includes one sink",1,3850,0.75,%,6737.5,88
+,,,Section Total,,,,,20212.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation Walls,Install new tiles on bathroom walls.,1,2600,0.80,%,4680,95
+,,,Section Total,,,,,4680.00,
+
+,,,Overall Subtotal,,,,,200172.61,
+,,,General Conditions (10%),,,,,20017.26,
+,,,Grand Total,,,,,220189.87,

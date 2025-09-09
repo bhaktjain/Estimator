@@ -1,0 +1,42 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of kitchen cabinets.,9.8,7600,0.75,%,13300,100
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop,Installation of quartz kitchen countertops.,9.8,2000,0.75,%,17150,100
+,,,Section Total,,,,,17150.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,Complete demolition of the kitchen.,9.8,2500,0.75,%,4375,100
+Demolition,Bathroom 1,Full gut,Complete demolition of the bathroom.,21,3300,0.75,%,5775,100
+,,,Section Total,,,,,10150.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewiring entire apartment.,1341.5,17,0.75,%,39979.75,100
+,,,Section Total,,,,,39979.75,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install new engineered,Install new engineered flooring,136,6,0.75,%,1428,85
+,,,Section Total,,,,,1428.00,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,New paint,Use Benjamin Moore regal select based on floor area,1341.5,10.3,0.75,%,24092.55,90
+,,,Section Total,,,,,24092.55,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut,Full plumbing gut for kitchen with 1 sink,1,3850,0.75,%,6737.5,85
+Plumbing,Bathroom 1,Full Gut Replacement,Full gut and replacement of plumbing in Bathroom 1.,1,7700,0.75,%,13475,90
+,,,Section Total,,,,,20212.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Installation of bathroom tiles on walls and floors.,21,2600,0.80,%,4940,80
+,,,Section Total,,,,,4940.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,New drywall wall board,"Installation of new 5/8"" drywall wall board",1341.5,4,0.75,%,9370,90
+,,,Section Total,,,,,9370.00,
+
+,,,Overall Subtotal,,,,,140622.80,
+,,,General Conditions (10%),,,,,14062.28,
+,,,Grand Total,,,,,154685.08,

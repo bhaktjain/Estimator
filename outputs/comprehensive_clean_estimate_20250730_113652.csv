@@ -1,0 +1,57 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,99 sf,1650,0.75,%,285862.5,100
+,,,Section Total,,,,,285862.50,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Install new kitchen cabinets,11 ft,9200,0.75,%,16100,75
+,,,Section Total,,,,,16100.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Final cleaning based on total apartment area,1341.5 sf,1925,0.75,%,3468.75,85
+,,,Section Total,,,,,3468.75,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz countertop,Installation of a quartz countertop in the kitchen.,99,97,0.75,%,15176.75,100
+,,,Section Total,,,,,15176.75,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,"Demolition of existing kitchen structure including cabinetry, countertops, and fixtures.",1,3300,0.75,%,5775,100
+Demolition,Bathroom 1,Full gut,"Demolition of existing bathroom structure including tiles, vanity, and fixtures.",1,2200,0.75,%,3850,100
+Demolition,Bathroom 2,Full gut,"Demolition of existing bathroom structure including tiles, vanity, and fixtures.",1,2200,0.75,%,3850,100
+,,,Section Total,,,,,13475.00,
+
+Electrical,,,,,,,,,
+Electrical,Overall,Full apartment rewiring,Complete rewiring of the apartment.,1341.5,17,0.75,%,38598.25,100
+Electrical,Entire Apartment,Rewiring Full Apt,Rewire full apartment per Polycam total livable area,1341.5 sf,17,0.75,%,39868.75,85
+,,,Section Total,,,,,78467.00,
+
+Painting,,,,,,,,,
+Painting,Entire Apartment,Painting,Paint entire apartment,1341.5 sf,10.3,0.75,%,24078.75,85
+,,,Section Total,,,,,24078.75,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut plumbing,Replacement of kitchen plumbing for existing location with one sink.,1,3850,0.75,%,6737.5,100
+Plumbing,Bathroom 1,Full gut plumbing,Replacement of bathroom plumbing at existing location.,1,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full gut plumbing,Replacement of bathroom plumbing at existing location.,1,7700,0.75,%,13475,100
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile installation,Installation of wall tiles in bathroom.,35.5,2600,0.8,%,4960,100
+Tile,Bathroom 2,Tile installation,Installation of wall tiles in bathroom.,32.3,2600,0.8,%,4960,100
+Tile,Kitchen,Tile installation,Installation of floor tiles in kitchen.,99,2800,0.8,%,5040,100
+,,,Section Total,,,,,14960.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Walls & Ceilings Work,"Installation of moisture-resistant drywall, tape, plaster, sand preparation",1341.5 sf,6,0.75,%,14085.75,100
+,,,Section Total,,,,,14085.75,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,35.5 sf,1900,0.75,%,118037.5,100
+Waterproofing,Bathroom 2,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,32.3 sf,1900,0.75,%,107397.49999999999,100
+Waterproofing,Kitchen,Waterproofing Installation,Install waterproofing membrane on kitchen floors,99 sf,1250,0.75,%,216562.5,100
+,,,Section Total,,,,,441997.50,
+
+,,,Overall Subtotal,,,,,941359.50,
+,,,General Conditions (10%),,,,,94135.95,
+,,,Grand Total,,,,,1035495.45,

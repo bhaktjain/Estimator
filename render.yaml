@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: renovation-estimation-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn -k uvicorn.workers.UvicornWorker archive_non_pipeline_20250909_091152.app_fastapi:app --timeout 600
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: WEB_CONCURRENCY
+        value: 1
+    autoDeploy: true

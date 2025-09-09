@@ -1,0 +1,65 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,25 sf,TILE-10,0.80,%,1650,100
+,,,Section Total,,,,,1650.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Install new kitchen cabinets,10 FT,"Install Kitchen cabinets 0 > 10FT UNIT $7,600",0.75,%,"$13,300",90
+,,,Section Total,,,,,0.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Post-renovation cleaning,Complete cleaning after renovation completion.,1341 SF,"Apartment 1,200 > 1,800 sf $1,925",0.75,%,"$1,925",95
+,,,Section Total,,,,,0.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop,Fabricate and install new quartz countertop,40 SF,97,0.75,%,"$8,360",90
+,,,Section Total,,,,,0.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full gut,Complete demolition of Bathroom 1,35.5 SF,"$2,200 (0 > 60 SF)",0.75,%,"$3,850",95
+Demolition,Bathroom 2,Full gut,Complete demolition of Bathroom 2,32.3 SF,"$2,200 (0 > 60 SF)",0.75,%,"$3,850",95
+Demolition,Kitchen,Full gut,Complete demolition of kitchen area,99 SF,"$3,300 (10 ft +)",0.75,%,"$4,950",95
+,,,Section Total,,,,,0.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring Full Apt,Complete rewiring of the apartment.,1341.5 SF,SF $17,0.75,%,"$22,805.75",95
+Electrical,Kitchen,Install new lighting fixtures,Install and wire new lighting fixtures in kitchen,42.9 LF,Recessed lighting UNIT $440,0.75,%,3320,85
+,,,Section Total,,,,,3320.00,
+
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new hardwood flooring,Install hardwood floors throughout the entire apartment,1341.5 SF,Install hardwood (straight plank) N/A SF $6,0.75,%,14014.13,90
+,,,Section Total,,,,,14014.13,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Painting,Painting of entire apartment,1341.5 SF,$10.3 per sq/ft,0.75,%,"$23,104.56",90
+,,,Section Total,,,,,0.00,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Replacement of all plumbing fixtures and lines,35.5 SF,"$7,700 (0 - 60 SF)",0.75,%,"$13,475",95
+Plumbing,Bathroom 2,Full Gut Replacement,Replacement of all plumbing fixtures and lines,32.3 SF,"$7,700 (0 - 60 SF)",0.75,%,"$13,475",95
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Replacement of plumbing fixtures and connections,1 UNIT,"$3,850",0.75,%,"$6,737.50",90
+,,,Section Total,,,,,0.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls and Floors,Installation of new tiles on walls and floors,35.5 SF,"Tile Installation Bathroom - Floors $2,000
+Tile Installation Bathroom - Walls 0 - 60 sf $2,600",0.8,%,"$7,140",90
+Tile,Bathroom 2,Tile Installation - Walls and Floors,Installation of new tiles on walls and floors,32.3 SF,"Tile Installation Bathroom - Floors $2,000
+Tile Installation Bathroom - Walls 0 - 60 sf $2,600",0.8,%,"$7,140",90
+,,,Section Total,,,,,0.00,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Installation of new baseboards throughout apartment,1341.5 lf,TRIM-01,0.75,%,11,100
+,,,Section Total,,,,,11.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Remove popcorn ceiling,Remove popcorn ceiling throughout apartment,1341.5 SF,Unit $7,0.75,%,7045.88,95
+,,,Section Total,,,,,7045.88,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing floors and walls,Install waterproofing membrane,35.5 SF,"Install waterproofing floors and walls 0 > 60 sf $1,900",0.75,%,"$3,325",90
+Waterproofing,Bathroom 2,Waterproofing floors and walls,Install waterproofing membrane,32.3 SF,"Install waterproofing floors and walls 0 > 60 sf $1,900",0.75,%,"$3,325",90
+,,,Section Total,,,,,0.00,
+
+,,,Overall Subtotal,,,,,26041.01,
+,,,General Conditions (10%),,,,,2604.10,
+,,,Grand Total,,,,,28645.11,

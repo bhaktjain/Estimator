@@ -1,0 +1,13 @@
+Kitchen Cabinets *Cabinet Minimum Cost Price = $5,000
+Target Margin = 75% Size/Type Unit Labor Material Category
+Supply/Fabricate kitchen cabinets (upto 8ft) STANDARD LF N/A $600 Supply Supply - 24 x $800 = $19,200
+Supply/Fabricate kitchen cabinets SEMI-CUSTOM LF N/A $850 Supply Install = $6,500
+Supply/Fabricate kitchen cabinets FULLY-CUSTOM LF N/A $1,200+ Supply $25,700
+Upper Cabinets (add height here) STANDARD LF N/A $250 Supply
+Island Cost (min 4ft - $600) STANDARD LF N/A $2,400 Supply
+Install Kitchen cabinets 0 > 10FT UNIT $7,600 N/A Install $43,690.0
+Install Kitchen cabinets 11 > 15 FT UNIT $9,200 N/A Install
+Install Kitchen cabinets 16 > 20FT UNIT $10,900 N/A Install
+Install Kitchen cabinets 20 FT + UNIT N/A Install
+Panelized Fridge N/A UNIT $1,200 N/A Install
+Panelized Dishwasher N/A UNIT $1,200 N/A Install

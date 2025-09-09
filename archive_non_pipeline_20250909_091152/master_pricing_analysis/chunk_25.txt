@@ -1,0 +1,22 @@
+Stairs *Minimum Price = $500
+Target Margin = 90% Size/Type Unit Labor Material Category
+Stair refinishing (12 treads) cost per flight N/A UNIT $1,200 N/A N/A
+Stair tread replacement (per tread) UNIT $330
+New stair structure (straight flight) UNIT
+Handrail Installation (wood) material excluded UNIT N/A
+General Conditions *Minimum Margin = 7%
+Target Margin = 8.5% Size/Type Unit Labor Material Category
+$125K > $150k N/A N/A N/A
+$150k > $200k N/A N/A N/A
+$200k > $250k N/A N/A N/A
+$250k + N/A N/A N/A
+Living in arrangement *Minimum Margin = 7%
+Size/Type Unit Labor Material Category
+Client Living through renovation - 4% N/A N/A N/A
+Phased renovation - General Conditions = 15% of
+project value
+ADD IN MATERIAL
+- Tile
+- Flooring
+- Plumbing finishes
+- Electrical

@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install kitchen cabinets,Installation of kitchen cabinets.,16,"10,900",0.75,%,19075,85
+,,,Section Total,,,,,19075.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,General,Commercial cleaning,Full commercial cleaning service.,1,2750,0.75,%,4812.5,90
+,,,Section Total,,,,,4812.50,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz countertops,Installation of quartz countertops.,99,97,0.75,%,13103,90
+,,,Section Total,,,,,13103.00,
+
+Demolition,,,,,,,,,
+Demolition,General,Full gut,Demolition of existing structures.,1,7,0.75,%,1341.5,95
+Demolition,Kitchen,Kitchen full gut,Complete kitchen demolition.,1,"2,500",0.75,%,4375,90
+Demolition,Bathroom 1,Bathroom full gut,Demolition of bathroom 1.,1,"2,200",0.75,%,3850,85
+Demolition,Bathroom 2,Bathroom full gut,Demolition of bathroom 2.,1,"2,200",0.75,%,3850,85
+,,,Section Total,,,,,13416.50,
+
+Electrical,,,,,,,,,
+Electrical,General,Rewiring full apartment,Complete electrical rewiring.,1341.5,17,0.75,%,39891.25,95
+,,,Section Total,,,,,39891.25,
+
+Painting,,,,,,,,,
+Painting,General,Painting,Interior painting.,1341.5,10.3,0.75,%,24080.87,95
+,,,Section Total,,,,,24080.87,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Complete plumbing for kitchen.,1,"3,850",0.75,%,6737.5,90
+Plumbing,Bathroom 1,Full gut replacement,Complete bathroom 1 plumbing.,1,"7,700",0.75,%,13475,90
+Plumbing,Bathroom 2,Full gut replacement,Complete bathroom 2 plumbing.,1,"7,700",0.75,%,13475,90
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Kitchen,Tile installation kitchen flooring,Installation of kitchen floor tiles.,99,28,0.80,%,5544,85
+Tile,Bathroom 1,Tile installation bathroom,Installation of bathroom wall and floor tiles.,35.5,28,0.80,%,4980,85
+Tile,Bathroom 2,Tile installation bathroom,Installation of bathroom wall and floor tiles.,32.3,28,0.80,%,4520,85
+,,,Section Total,,,,,15044.00,
+
+,,,Overall Subtotal,,,,,163110.62,
+,,,General Conditions (10%),,,,,16311.06,
+,,,Grand Total,,,,,179421.68,

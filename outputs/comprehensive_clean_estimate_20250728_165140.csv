@@ -1,0 +1,50 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install kitchen cabinets,Install cabinets in kitchen,1,9200,0.75,%,16100,100
+,,,Section Total,,,,,16100.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop Quartz,Quartz kitchen countertop installation,50,97,0.75,%,8505,95
+,,,Section Total,,,,,8505.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,Remove everything in the kitchen area,1,2500,0.75,%,4375,100
+Demolition,Bathroom 1,Full gut,Remove everything in the bathroom area,1,3300,0.75,%,5775,100
+Demolition,General,Full Gut,Full gut for apartment up to 2500 sf,1,4,0.75,%,4000,80
+Demolition,Apartment,Full gut,"Demolition of apartment space over 2,500 sf",1,4,0.75,%,4000,100
+,,,Section Total,,,,,18150.00,
+
+Electrical,,,,,,,,,
+Electrical,General,Rewiring Full Apt,Rewire entire apartment,1341.5,17,0.75,%,39957.9375,100
+Electrical,General,Underfloor Heating Install,Install underfloor heating,1,2750,0.75,%,4812.5,85
+Electrical,Apartment,Rewiring,Full apartment rewiring per square foot,1341.5,17,0.75,%,39831.375,95
+,,,Section Total,,,,,84601.81,
+
+Flooring,,,,,,,,,
+Flooring,General,Floor leveling,Level all floors using concrete/cement,1341.5,3,0.75,%,7035.9375,100
+,,,Section Total,,,,,7035.94,
+
+Painting,,,,,,,,,
+Painting,General,New Paint,Apply new Benjamin Moore regal select paint,1400,10.3,0.75,%,18055,85
+Painting,Apartment,New *Benjamin Moore regal select,Painting entire apartment,1341.5,10.3,0.75,%,24478.85,95
+,,,Section Total,,,,,42533.85,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Replace all plumbing fixtures and pipes.,1,9900,0.75,%,17325,100
+Plumbing,Bathroom 1,Tub to shower conversion,Conversion of bathtub to shower,1,1375,0.75,%,2406.25,85
+Plumbing,Kitchen,Full gut - existing location - 2 sink,Replace kitchen plumbing with 2 sinks,1,4950,0.75,%,8663,100
+,,,Section Total,,,,,28394.25,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation - Walls,Install wall tiles in bathroom,100,4100,0.8,%,7380,100
+Tile,Kitchen,Tile Installation Kitchen,Install kitchen tiles,106,2800,0.8,%,5040,100
+,,,Section Total,,,,,12420.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Skim Coating,Supply and install skim coating on walls,1400,6,0.75,%,8400,85
+Walls & Ceilings,Apartment,Skim coating,Skim coating on walls,1341.5,6,0.75,%,14010.75,85
+,,,Section Total,,,,,22410.75,
+
+,,,Overall Subtotal,,,,,240151.60,
+,,,General Conditions (10%),,,,,24015.16,
+,,,Grand Total,,,,,264166.76,

@@ -1,0 +1,56 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile backsplash installation,Install kitchen backsplash tiles,10,1650,0.75,%,1650,100
+,,,Section Total,,,,,1650.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install kitchen cabinets,Installation of new kitchen cabinets (11 > 15 LF),1,9200,0.75,%,9200,100
+,,,Section Total,,,,,9200.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Post-renovation cleaning,Professional cleaning upon completion of renovation,1,1925,0.75,%,1925,100
+,,,Section Total,,,,,1925.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz countertop,Fabricate and install quartz countertop for kitchen,99,97,0.75,%,14453,100
+,,,Section Total,,,,,14453.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut demolition,Demolition of existing kitchen fixtures and finishes,1,3300,0.75,%,3300,100
+Demolition,Bathroom 1,Full Gut Demolition,Demolish existing bathroom fixtures and finishes.,35.5 sf,7,0.75,%,291.375,90
+Demolition,Bathroom 2,Full Gut Demolition,Demolish existing bathroom fixtures and finishes.,32.3 sf,7,0.75,%,265.575,90
+,,,Section Total,,,,,3856.95,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment Rewiring,Electrical Rewiring,Rewiring entire apartment for standard electrical needs.,1341.5 sf,17,0.75,%,39938.25,100
+,,,Section Total,,,,,39938.25,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Bathroom 1,Full gut (35.5 sf),Demolition and renovation of bathroom fixtures and finishes,35.5,7700,0.75,%,7700,100
+Needs to Review,Bathroom 2,Full gut (32.3 sf),Demolition and renovation of bathroom fixtures and finishes,32.3,7700,0.75,%,7700,100
+,,,Section Total,,,,,15400.00,
+
+Painting,,,,,,,,,
+Painting,Whole Apartment,Painting,Interior painting for the apartment,1341.5 sf,10.3,0.75,%,24016.88,85
+,,,Section Total,,,,,24016.88,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut plumbing,Replace plumbing fixtures in existing kitchen location,1,3850,0.75,%,3850,100
+Plumbing,Bathroom 1,Full Gut Plumbing,Supply and install plumbing fixtures for bathroom.,35.5 sf,7700,0.75,%,13475,90
+Plumbing,Bathroom 2,Full Gut Plumbing,Supply and install plumbing fixtures for bathroom.,32.3 sf,7700,0.75,%,13475,90
+,,,Section Total,,,,,30800.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Bathroom wall and floor tile installation,35.5 sf,2600,0.80,%,8290,85
+Tile,Bathroom 2,Tile Installation,Bathroom wall and floor tile installation,32.3 sf,2600,0.80,%,8290,85
+Tile,Kitchen,Tile installation,Install tile flooring in the kitchen,99,2400,0.80,%,2400,100
+,,,Section Total,,,,,18980.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Apartment,Skim Coating,Skim coating walls for a smooth finish.,3006.1 sf,6,0.75,%,31563.225,90
+Walls & Ceilings,Apartment,Ceiling Work,Ceiling repair and refinishing across the apartment.,1341.5 sf,6,0.75,%,14076.075,90
+,,,Section Total,,,,,45639.30,
+
+,,,Overall Subtotal,,,,,205859.38,
+,,,General Conditions (10%),,,,,20585.94,
+,,,Grand Total,,,,,226445.32,

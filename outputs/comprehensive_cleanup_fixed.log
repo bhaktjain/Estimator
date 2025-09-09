@@ -1,0 +1,91 @@
+[INFO] Processing directory: chunked_outputs/run_20250909_092749_147d5da7
+[INFO] Processing CSV file: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final.csv
+[INFO] Read 16 items from CSV
+[INFO] Starting comprehensive cleanup with 16 items
+[INFO] After basic cleaning: 16 items
+[INFO] Recategorizing 16 items using reference CSV patterns
+[INFO] Recategorized 'kitchen electrical' from Appliances to Electrical
+[INFO] Recategorized 'kitchen cabinets' from Cabinetry & Storage to Cabinetry
+[INFO] Recategorized 'bedroom flooring' from Demolition to Flooring
+[INFO] After recategorization: 16 items
+[INFO] No OpenAI API key found, using local deduplication
+[INFO] Performing enhanced deduplication on 16 items
+[INFO] Processing category: Electrical with 3 items
+[INFO] Keeping unique item: Kitchen Electrical in Kitchen
+[INFO] Keeping unique item: Bathroom Electrical in Bathroom
+[INFO] Keeping unique item: Bedroom Electrical in Bedroom
+[INFO] Category 'Electrical': 3 -> 3 items
+[INFO] Processing category: Cabinetry with 1 items
+[INFO] Keeping unique item: Kitchen Cabinets in Kitchen
+[INFO] Category 'Cabinetry': 1 -> 1 items
+[INFO] Processing category: Countertops with 1 items
+[INFO] Keeping unique item: Kitchen Countertops in Kitchen
+[INFO] Category 'Countertops': 1 -> 1 items
+[INFO] Processing category: Demolition with 2 items
+[INFO] Keeping unique item: Kitchen Plumbing in Kitchen
+[INFO] Keeping unique item: Bathroom Plumbing in Bathroom
+[INFO] Category 'Demolition': 2 -> 2 items
+[INFO] Processing category: Flooring with 3 items
+[INFO] Keeping unique item: Bedroom Flooring in Bedroom
+[INFO] Removing duplicate: Bedroom Flooring in Bedroom
+[INFO] Keeping unique item: Kitchen Flooring in Kitchen
+[INFO] Category 'Flooring': 3 -> 2 items
+[INFO] Processing category: General Requirements with 1 items
+[INFO] Keeping unique item: Commercial Cleaning in Entire Apartment
+[INFO] Category 'General Requirements': 1 -> 1 items
+[INFO] Processing category: Painting & Wall Coverings with 1 items
+[INFO] Keeping unique item: Bedroom Painting in Bedroom
+[INFO] Category 'Painting & Wall Coverings': 1 -> 1 items
+[INFO] Processing category: Plumbing with 1 items
+[INFO] Keeping unique item: Bathroom Fixtures in Bathroom
+[INFO] Category 'Plumbing': 1 -> 1 items
+[INFO] Processing category: Tile with 2 items
+[INFO] Keeping unique item: Kitchen Flooring in Kitchen
+[INFO] Keeping unique item: Bathroom Tile Work in Bathroom
+[INFO] Category 'Tile': 2 -> 2 items
+[INFO] Processing category: Waterproofing with 1 items
+[INFO] Keeping unique item: Bathroom Waterproofing in Bathroom
+[INFO] Category 'Waterproofing': 1 -> 1 items
+[INFO] Enhanced deduplication complete: 16 -> 15 items
+[INFO] After local deduplication: 15 items
+[INFO] Prioritizing high-confidence items from 15 items
+[INFO] After prioritizing: 15 items
+[INFO] After prioritizing confidence: 15 items
+[INFO] Fixing total values for 15 items
+[INFO] After fixing total values: 15 items
+[INFO] Checking for full apartment vs smaller room conflicts in 15 items
+[INFO] Found apartment-level scope in 'General Requirements', removing 0 smaller items
+[INFO] After removing smaller rooms: 15 -> 15 items
+[INFO] After removing smaller rooms: 15 items
+[INFO] Merging overlapping items from 15 items
+[INFO] After merging: 15 items
+[INFO] After merging overlapping items: 15 items
+[INFO] Removing cross-category duplicates from 15 items
+[INFO] Cross-category deduplication complete: 15 -> 15 items
+[INFO] After removing cross-category duplicates: 15 items
+[INFO] Merging cabinetry categories in 15 items
+[INFO] Merged cabinetry categories: 15 -> 15 items
+[INFO] After merging cabinetry categories: 15 items
+[INFO] After comprehensive cleanup: 15 items
+[INFO] After comprehensive cleanup: 15 items
+[INFO] Writing final CSV: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final_final.csv
+[INFO] Final CSV written successfully: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final_final.csv
+[INFO] Final CSV written: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final_final.csv
+[INFO] Creating Excel file: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final_final.xlsx
+[INFO] Enhanced column widths: Section=30, Room=19, ItemName=30, Description=60
+[INFO] Dynamic column widths: Section=30, Room=19, ItemName=30, Description=60
+[DEBUG] Row 3: Description length 89, estimated 2 lines, height 36
+[INFO] Category 'Electrical' total: $19,985.25
+[INFO] Category 'Cabinetry & Storage' total: $13,300.00
+[INFO] Category 'Countertops' total: $13,763.75
+[INFO] Category 'Demolition' total: $20,212.50
+[INFO] Category 'Flooring' total: $1,690.50
+[INFO] Category 'Tile' total: $9,000.00
+[DEBUG] Row 38: Description length 64, estimated 2 lines, height 36
+[INFO] Category 'Plumbing' total: $2,406.25
+[INFO] Category 'Waterproofing' total: $3,325.00
+[INFO] Category 'Painting & Wall Coverings' total: $1,407.90
+[INFO] Category 'General Requirements' total: $2,406.25
+[INFO] Beautiful Excel file created successfully: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final_final.xlsx
+[INFO] Final Excel written: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final_final.xlsx
+[INFO] Comprehensive cleanup completed successfully!

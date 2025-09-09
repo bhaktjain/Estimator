@@ -1,0 +1,35 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Appliances Section,,,,,,,,,
+Appliances Section,Kitchen,Kitchen Electrical,"Install new electrical circuits for kitchen appliances, under-cabinet lighting, GFCI outlets, and pendant lights.",1 UNIT,$X per UNIT,0.75,%,Calculated total,90
+Backsplash Section,,,,,,,,,
+Backsplash Section,Kitchen,Kitchen Backsplash,"Tile preparation, installation, grout installation, tile sealing, and trim tiles for kitchen backsplash.",10 LF,$X per LF,0.75,%,Calculated total,90
+Cabinetry Section,,,,,,,,,
+Cabinetry Section,Kitchen,Kitchen Cabinets,"Supply and install semi-custom kitchen cabinets including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",15 LF,$X per LF,0.75,%,Calculated total,90
+Cabinetry Section,Kitchen,Kitchen Electrical,"Rough electrical wiring, kitchen lighting circuits, under-cabinet lighting, GFCI outlets, switch installation, panel upgrades, range hood electrical, kitchen island electrical, pendant light installation, dimmer switches.",1 UNIT,$X per UNIT,0.75,%,Calculated total,90
+Countertops Section,,,,,,,,,
+Countertops Section,Kitchen,Kitchen Countertops,"Fabricate and install quartz countertops including template creation, countertop fabrication, installation, edge treatments, and sink cutouts.",45 SF,$X per SF,0.75,%,Calculated total,90
+Demolition Section,,,,,,,,,
+Demolition Section,General,Flooring Removal,Remove existing flooring throughout the apartment.,"1,200 SF",$X per SF,0.75,%,Calculated total,90
+Electrical Section,,,,,,,,,
+Electrical Section,Bathroom 1,Bathroom Electrical,"Rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, switch installation, mirror lighting, heated floor electrical.",1 UNIT,$X per UNIT,0.75,%,Calculated total,90
+Electrical Section,Bedroom 1,Bedroom Electrical,"Install outlets, switches, and light fixtures.",1 UNIT,$X per UNIT,0.75,%,Calculated total,85
+Electrical Section,Living Room,Chandelier Installation,Install chandelier in the living room.,1 UNIT,$X per UNIT,0.75,%,Calculated total,85
+Electrical Section,Living Room,Indirect Lighting Installation,Install indirect lighting in the living room.,300 SF,$X per SF,0.75,%,Calculated total,85
+Flooring Section,,,,,,,,,
+Flooring Section,General,New Flooring Installation,Install new flooring throughout the apartment.,"1,200 SF",$X per SF,0.75,%,Calculated total,90
+General Requirements Section,,,,,,,,,
+General Requirements Section,General,Post-Construction Cleaning,Comprehensive cleaning after renovation completion.,"1,200 SF",$X per SF,0.75,%,Calculated total,95
+Painting & Wall Coverings Section,,,,,,,,,
+Painting & Wall Coverings Section,Bedroom 1,Bedroom Painting,Prepare and paint walls and ceiling.,150 SF,$X per SF,0.75,%,Calculated total,85
+Plumbing Section,,,,,,,,,
+Plumbing Section,Bathroom 1,Bathroom Plumbing,"Rough plumbing for toilet, sink, and shower. Install new fixtures and supply lines.",1 UNIT,$X per UNIT,0.75,%,Calculated total,90
+Plumbing Section,Bathroom 1,Bathroom Fixtures,"Install new vanity, mirror, towel bars, and shower doors.",1 UNIT,$X per UNIT,0.75,%,Calculated total,85
+Plumbing Section,Kitchen,Kitchen Plumbing,"Rough plumbing for sink, dishwasher, and fridge. Install new kitchen sink, garbage disposal, water supply lines, and drain lines.",1 UNIT,$X per UNIT,0.75,%,Calculated total,90
+Tile Section,,,,,,,,,
+Tile Section,Bathroom 1,Bathroom Tile Work,"Floor tile preparation, installation, wall tile installation, shower tile, grout installation, and tile sealing.",80 SF,$X per SF,0.75,%,Calculated total,90
+Tile Section,Kitchen,Install Kitchen Tile Flooring,"Subfloor preparation, tile installation, grout, and sealing.",60-80 SF,$X per SF,0.75,%,Calculated total,85
+Trims Section,,,,,,,,,
+Trims Section,General,Baseboard Replacement,Replace baseboards throughout the apartment.,400 LF,$X per LF,0.75,%,Calculated total,90
+Walls & Ceiling Section,,,,,,,,,
+Walls & Ceiling Section,Living Room,Drop Ceiling Installation,Install drop ceiling in the living room.,300 SF,$X per SF,0.75,%,Calculated total,85
+Walls & Ceiling Section,Living Room,Paint Walls and Ceiling,"Wall preparation, primer application, and painting.",200 SF,$X per SF,0.75,%,Calculated total,85

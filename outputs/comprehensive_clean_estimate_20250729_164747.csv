@@ -1,0 +1,56 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Other 1,Backsplash Installation,Install kitchen backsplash,10,1650,0.75,%,2000,80
+,,,Section Total,,,,,2000.00,
+
+Bathroom,,,,,,,,,
+Bathroom,Bathroom,Full Gut Replacement,Full gut and replacement of bathroom,1,7700,0.75,%,13475,95
+Bathroom,Bathroom,Wall Tile Installation,Install new wall tiles in the bathroom,51.1,2600,0.80,%,4250,90
+Bathroom,Bathroom,Vanity and Sink Replacement,Replace vanity and sink,1,,,%,1950,70
+,,,Section Total,,,,,19675.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Supply/Fabricate kitchen cabinets,Installation of semi-custom kitchen cabinets,6,850,0.75,%,8925,85
+Cabinetry,Other 1,Cabinet Installation,Install new kitchen cabinets,10,7600,0.75,%,13700,85
+,,,Section Total,,,,,22625.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop Installation,Supply and install quartz countertops,10,97,0.75,%,1690,80
+Countertops,Other 1,Countertop Installation,Install quartz kitchen countertops,12.1,97,0.75,%,5500,80
+,,,Section Total,,,,,7190.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut kitchen,Full gut of existing kitchen area,1,2500,0.75,%,4375,85
+Demolition,Bathroom,Full gut bathroom,Full gut of existing bathroom area,1,2200,0.75,%,3850,90
+,,,Section Total,,,,,8225.00,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apt,Full rewiring of the apartment,543.0 sf,17,0.75,%,8077.5,100
+,,,Section Total,,,,,8077.50,
+
+Kitchen,,,,,,,,,
+Kitchen,Other 1,Full gut - existing location - 1 sink,Full gut of kitchen area with 1 sink,1,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,6737.50,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Full Apartment,Install mini-split AC,Install ductless mini-split AC system,1,8250,0.60,%,13200,75
+Needs to Review,Living Room,Custom Storage Units,Installation of multiple storage solutions,5,1155,0.75,%,10093.75,85
+,,,Section Total,,,,,23293.75,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full gut bathroom plumbing,Replace all plumbing fixtures and relocate if necessary,1,7700,0.75,%,13475,90
+Plumbing,Kitchen,Full gut kitchen plumbing,Replace all kitchen plumbing fixtures and relocate if necessary,1,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,20212.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation,Install tile in bathroom walls,265.1,4.1,0.80,%,1245.64,90
+,,,Section Total,,,,,1245.64,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Skim Coat Walls,Apply skim coating on all walls,1640.3,6,0.75,%,17283.6,85
+Walls & Ceilings,Full Apartment,Skim Coat Ceilings,Apply skim coating on all ceilings,543,6,0.75,%,5725.8,85
+,,,Section Total,,,,,23009.40,
+
+,,,Overall Subtotal,,,,,142291.29,
+,,,General Conditions (10%),,,,,14229.13,
+,,,Grand Total,,,,,156520.42,

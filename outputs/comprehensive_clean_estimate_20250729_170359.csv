@@ -1,0 +1,52 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets 11 > 15 FT,Install standard kitchen cabinets.,12,9200,0.75,%,16100,85
+Cabinetry,Other 1,Install Kitchen Cabinets,Install standard kitchen cabinetry,10,7600,0.75,%,7600,90
+,,,Section Total,,,,,23700.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Fabricate and install - QUARTZ,Install quartz countertops.,12,2000,0.75,%,32500,85
+Countertops,Other 1,Countertop Installation,Install quartz kitchen countertop,10,97,0.75,%,1144.5,90
+,,,Section Total,,,,,33644.50,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut - Existing location,Full kitchen gut including cabinets and appliances.,1,2500,0.75,%,4375,90
+Demolition,Bathroom,Full gut,"Demolition, bathroom 51.1 sf",1,2200,0.75,%,4000,100
+,,,Section Total,,,,,8375.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring Full Apt,Electrical rewiring for 543 sf livable area,543,17,0.75,%,9309.75,100
+,,,Section Total,,,,,9309.75,
+
+Flooring,,,,,,,,,
+Flooring,Apartment,Install new LVT Flooring,Install LVT flooring throughout apartment.,543,6,0.75,%,5701.5,85
+,,,Section Total,,,,,5701.50,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Full Apartment,Commercial Cleaning,General cleaning for 543 sf apartment,1,1375,0.5,%,1375,100
+,,,Section Total,,,,,1375.00,
+
+Painting,,,,,,,,,
+Painting,Apartment,New *Benjamin Moore regal select,Paint entire apartment.,543,10.3,0.75,%,9796.725,85
+,,,Section Total,,,,,9796.73,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Plumbing replacement in bathroom 51.1 sf,1,7700,0.75,%,7700,100
+Plumbing,Kitchen,Full gut - Existing location - 1 sink,Full kitchen plumbing replacement.,1,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,14437.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation,Tile installation for bathroom walls and floors,1,4600,0.8,%,4600,100
+,,,Section Total,,,,,4600.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Wall skim coating,Skim coating walls 514.4 sf,514.4,6,0.75,%,2314.8,100
+,,,Section Total,,,,,2314.80,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom,Install waterproofing,Waterproofing bathroom floors and walls 51.1 sf,1,1900,0.75,%,1900,100
+,,,Section Total,,,,,1900.00,
+
+,,,Overall Subtotal,,,,,115154.78,
+,,,General Conditions (10%),,,,,11515.48,
+,,,Grand Total,,,,,126670.25,

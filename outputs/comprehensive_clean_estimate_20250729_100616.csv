@@ -1,0 +1,34 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen cabinets,Standard kitchen cabinet installation up to 10 ft,1,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install quartz countertop,Install 10ft x 5ft quartz countertop.,50,97,0.75,%,8487.5,85
+,,,Section Total,,,,,8487.50,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full gut,"Complete demolition of bathroom, new layout",1,3300,0.75,%,5775,95
+Demolition,Kitchen,Full gut,Complete demolition of kitchen,1,3300,0.75,%,5775,95
+,,,Section Total,,,,,11550.00,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apt,Complete rewiring of apartment,1500,17,0.75,%,44625,90
+Electrical,Washer Dryer,New dedicated line,Install new dedicated line for washer dryer.,2,495,0.75,%,866.25,90
+,,,Section Total,,,,,45491.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Full plumbing replacement in existing bathroom layout,1,9900,0.75,%,17325,95
+Plumbing,Bathroom,Tub to shower conversion,Convert existing tub to shower.,1,1375,0.75,%,2406.25,75
+Plumbing,Washer Dryer,New location,Relocate washer dryer.,1,3850,0.75,%,6737.5,80
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Full plumbing replacement in existing kitchen layout with 1 sink,1,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,33206.25,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation - Walls,Tile installation on bathroom walls,1,4100,0.80,%,7380,90
+Tile,Kitchen,Tile Backsplash (LGE),Large tile backsplash installation in kitchen,1,2200,0.80,%,3960,85
+,,,Section Total,,,,,11340.00,
+
+,,,Overall Subtotal,,,,,123375.00,
+,,,General Conditions (10%),,,,,12337.50,
+,,,Grand Total,,,,,135712.50,

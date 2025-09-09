@@ -1,0 +1,32 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install kitchen cabinets,Installation of semi-custom kitchen cabinets,11 LF,"$9,200",0.75,%,16100,93
+Cabinetry,Other,Kitchen Cabinets,Install new kitchen cabinetry,45.8 SF,"Install Kitchen cabinets 0 > 10FT, $7600",0.75,%,13300,95
+,,,,,,,,29400.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz countertop installation,Install quartz countertop,25 SF,$97/SF,0.75,%,7768.75,92
+Countertops,Other,Kitchen Countertop,Install new quartz countertops,83 SF,$97/SF,0.75,%,7732.25,95
+,,,,,,,,15501.00,
+Demolition,,,,,,,,,
+Demolition,Full Apartment,Full gut demolition,Full gut demolition of kitchen and bathroom,543 SF,$5/SF,0.75,%,4753.75,95
+,,,,,,,,4753.75,
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Electrical rewiring of the entire apartment,543 SF,"Rewiring Full Apt - Electrical - per sq ft, $17/SF",0.75,%,16116.75,95
+,,,,,,,,16116.75,
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new hardwood,Install new hardwood flooring across apartment,543 SF,$6/SF,0.75,%,5704.5,93
+Flooring,Living Room,Install Hardwood,Install new hardwood flooring,248 SF,$6/SF,0.75,%,2604,95
+,,,,,,,,8308.50,
+Painting,,,,,,,,,
+Painting,Full Apartment,Interior painting,Full interior painting with Benjamin Moore Regal Select,543 SF,$10.3/SF,0.75,%,9788.25,95
+,,,,,,,,9788.25,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Tub to shower conversion,Convert existing tub to shower,1 UNIT,"$1,375",0.75,%,2406.25,90
+Plumbing,Bathroom,Full Gut Replacement,Complete removal and installation of new plumbing fixtures,51 SF,"Full Gut Replacement - existing location 0 - 60 sf, $7700",0.75,%,13475,95
+,,,,,,,,15881.25,
+Tile,,,,,,,,,
+Tile,Bathroom,Tile installation,Install wall and floor tiles in bathroom,51 SF,"$4,100",0.80,%,7380,95
+,,,,,,,,7380.00,
+,,,,,,,,107129.50,
+,,,General Conditions (10%),,,,,10712.95,
+,,,Grand Total,,,,,117842.45,

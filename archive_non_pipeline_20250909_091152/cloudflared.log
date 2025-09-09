@@ -1,0 +1,108 @@
+{"level":"info","time":"2025-08-19T14:00:42Z","message":"Thank you for trying Cloudflare Tunnel. Doing so, without a Cloudflare account, is a quick way to experiment and try it out. However, be aware that these account-less Tunnels have no uptime guarantee, are subject to the Cloudflare Online Services Terms of Use (https://www.cloudflare.com/website-terms/), and Cloudflare reserves the right to investigate your use of Tunnels for violations of such terms. If you intend to use Tunnels in production you should use a pre-created named tunnel by following: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps"}
+{"level":"info","time":"2025-08-19T14:00:42Z","message":"Requesting new quick Tunnel on trycloudflare.com..."}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"|  Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):  |"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"|  https://locks-garmin-populations-l.trycloudflare.com                                      |"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"+--------------------------------------------------------------------------------------------+"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"Cannot determine default configuration path. No file [config.yml config.yaml] in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"Version 2025.8.0 (Checksum 387e5cb88e0f2db5f30bfd7639206bad63a49ba530661f3b3e98c60569938ce3)"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"GOOS: darwin, GOVersion: go1.24.6, GoArch: arm64"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"Settings: map[ha-connections:1 logfile:cloudflared.log metrics:127.0.0.1:0 no-autoupdate:true protocol:quic url:http://localhost:5000]"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"cloudflared will not automatically update if installed by a package manager."}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"Generated Connector ID: cc9f4a4d-7aae-4f12-b009-414d46bcebaf"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"Initial protocol quic"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"ICMP proxy will use 192.168.1.126 as source for IPv4"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"ICMP proxy will use fe80::1c12:fa1c:2af0:a14e in zone en0 as source for IPv6"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"Created ICMP proxy listening on 192.168.1.126:0"}
+{"level":"error","originCertPath":"","time":"2025-08-19T14:00:45Z","message":"Cannot determine default origin certificate path. No file cert.pem in [~/.cloudflared ~/.cloudflare-warp ~/cloudflare-warp /etc/cloudflared /usr/local/etc/cloudflared]. You need to specify the origin certificate path by specifying the origincert option in the configuration file, or set TUNNEL_ORIGIN_CERT environment variable"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"ICMP proxy will use 192.168.1.126 as source for IPv4"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"ICMP proxy will use fe80::1c12:fa1c:2af0:a14e in zone en0 as source for IPv6"}
+{"level":"info","time":"2025-08-19T14:00:45Z","message":"Starting metrics server on 127.0.0.1:54262/metrics"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T14:00:45Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"8057df01-a89f-492b-adce-b4490ac2dc01","connIndex":0,"location":"ord10","ip":"198.41.192.7","protocol":"quic","time":"2025-08-19T14:00:46Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.192.7","connIndex":0,"error":"context canceled","time":"2025-08-19T15:28:59Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T15:28:59Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T15:29:00Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T15:29:08Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"3ad73466-e49f-44e4-8569-55b47234a3ee","connIndex":0,"location":"ord10","ip":"198.41.192.7","protocol":"quic","time":"2025-08-19T15:29:08Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.192.7","connIndex":0,"error":"context canceled","time":"2025-08-19T15:40:59Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T15:40:59Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T15:40:59Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T15:41:00Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"a1277147-a4c8-45e8-afc0-e98325e1fa0f","connIndex":0,"location":"ord10","ip":"198.41.192.7","protocol":"quic","time":"2025-08-19T15:41:00Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.192.7","connIndex":0,"error":"context canceled","time":"2025-08-19T15:51:00Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T15:51:00Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T15:51:01Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T15:51:23Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"9dce6591-154d-4193-8ea8-8b86224818b4","connIndex":0,"location":"ord10","ip":"198.41.192.7","protocol":"quic","time":"2025-08-19T15:51:23Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.192.7","connIndex":0,"error":"timeout: no recent network activity","time":"2025-08-19T15:58:44Z","message":"Failed to serve tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.192.7","connIndex":0,"error":"timeout: no recent network activity","time":"2025-08-19T15:58:44Z","message":"Serve tunnel error"}
+{"level":"info","event":0,"ip":"198.41.192.7","connIndex":0,"time":"2025-08-19T15:58:44Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"timeout: no recent network activity","connIndex":0,"time":"2025-08-19T15:58:45Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T15:59:46Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"ed1e771e-b689-449d-9d3d-3076a7fa42eb","connIndex":0,"location":"ord12","ip":"198.41.200.113","protocol":"quic","time":"2025-08-19T15:59:46Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.200.113","connIndex":0,"error":"context canceled","time":"2025-08-19T16:20:12Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T16:20:12Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T16:20:13Z","message":"Connection terminated"}
+{"level":"error","error":"lookup region1.v2.argotunnel.com: i/o timeout","time":"2025-08-19T16:20:15Z","message":"Failed to refresh DNS local resolver"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T16:20:25Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"error","event":0,"ip":"198.41.200.113","connIndex":0,"error":"failed to dial to edge with quic: timeout: no recent network activity","time":"2025-08-19T16:20:30Z","message":"Failed to dial a quic connection"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T16:20:30Z","message":"Retrying connection in up to 4s"}
+{"level":"error","error":"failed to dial to edge with quic: timeout: no recent network activity","connIndex":0,"time":"2025-08-19T16:20:31Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.192.227","connIndex":0,"time":"2025-08-19T16:20:56Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"81ad71cb-05e4-4fd4-8dc4-ac6fbbf748a9","connIndex":0,"location":"ewr05","ip":"198.41.192.227","protocol":"quic","time":"2025-08-19T16:21:03Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.192.227","connIndex":0,"error":"context canceled","time":"2025-08-19T16:21:21Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.192.227","connIndex":0,"time":"2025-08-19T16:21:21Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T16:21:22Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.192.227","connIndex":0,"time":"2025-08-19T16:22:21Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"error","event":0,"ip":"198.41.192.227","connIndex":0,"error":"failed to dial to edge with quic: timeout: no recent network activity","time":"2025-08-19T16:22:26Z","message":"Failed to dial a quic connection"}
+{"level":"info","event":0,"ip":"198.41.192.227","connIndex":0,"time":"2025-08-19T16:22:26Z","message":"Retrying connection in up to 4s"}
+{"level":"error","error":"failed to dial to edge with quic: timeout: no recent network activity","connIndex":0,"time":"2025-08-19T16:22:27Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T16:22:30Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"error","event":0,"ip":"198.41.200.113","connIndex":0,"error":"failed to accept QUIC stream: timeout: no recent network activity","time":"2025-08-19T16:22:47Z","message":"Failed to serve tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.200.113","connIndex":0,"error":"failed to accept QUIC stream: timeout: no recent network activity","time":"2025-08-19T16:22:47Z","message":"Serve tunnel error"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T16:22:47Z","message":"Retrying connection in up to 8s"}
+{"level":"error","error":"failed to accept QUIC stream: timeout: no recent network activity","connIndex":0,"time":"2025-08-19T16:22:49Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T16:23:16Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"error","event":0,"ip":"198.41.200.113","connIndex":0,"error":"failed to dial to edge with quic: timeout: no recent network activity","time":"2025-08-19T16:23:21Z","message":"Failed to dial a quic connection"}
+{"level":"info","event":0,"ip":"198.41.200.113","connIndex":0,"time":"2025-08-19T16:23:21Z","message":"Retrying connection in up to 16s"}
+{"level":"error","error":"failed to dial to edge with quic: timeout: no recent network activity","connIndex":0,"time":"2025-08-19T16:23:26Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.192.67","connIndex":0,"time":"2025-08-19T16:24:15Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"error","event":0,"ip":"198.41.192.67","connIndex":0,"error":"failed to dial to edge with quic: write udp4 0.0.0.0:61401->198.41.192.67:7844: sendmsg: network is unreachable","time":"2025-08-19T16:24:15Z","message":"Failed to dial a quic connection"}
+{"level":"info","event":0,"ip":"198.41.192.67","connIndex":0,"time":"2025-08-19T16:24:15Z","message":"Retrying connection in up to 32s"}
+{"level":"error","error":"failed to dial to edge with quic: write udp4 0.0.0.0:61401->198.41.192.67:7844: sendmsg: network is unreachable","connIndex":0,"time":"2025-08-19T16:24:31Z","message":"Connection terminated"}
+{"level":"error","error":"lookup region1.v2.argotunnel.com on [::1]:53: read udp [::1]:61397->[::1]:53: read: connection refused","time":"2025-08-19T16:25:15Z","message":"Failed to refresh DNS local resolver"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T16:26:03Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"38d349be-f740-48c9-8f96-33a306dfbac1","connIndex":0,"location":"ewr08","ip":"198.41.200.233","protocol":"quic","time":"2025-08-19T16:26:03Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.200.233","connIndex":0,"error":"context canceled","time":"2025-08-19T18:40:44Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T18:40:44Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T18:40:46Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T18:41:01Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"0df215cb-7158-4c50-b9be-4219c737bae9","connIndex":0,"location":"ewr08","ip":"198.41.200.233","protocol":"quic","time":"2025-08-19T18:41:01Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.200.233","connIndex":0,"error":"context canceled","time":"2025-08-19T18:50:44Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T18:50:44Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T18:50:45Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T18:51:20Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"9df3aa6a-7c3a-44c8-ad29-f99a6ab940cf","connIndex":0,"location":"ewr08","ip":"198.41.200.233","protocol":"quic","time":"2025-08-19T18:51:20Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.200.233","connIndex":0,"error":"context canceled","time":"2025-08-19T19:42:15Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T19:42:15Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T19:42:15Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T19:42:20Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"be209e01-c629-4058-98ba-9c6a2983b35e","connIndex":0,"location":"ewr08","ip":"198.41.200.233","protocol":"quic","time":"2025-08-19T19:42:20Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.200.233","connIndex":0,"error":"context canceled","time":"2025-08-19T19:50:11Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T19:50:11Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T19:50:12Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T19:50:38Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"info","event":0,"connection":"40c1b6b0-55e1-4314-82fb-9c9fb0c53d8e","connIndex":0,"location":"ewr08","ip":"198.41.200.233","protocol":"quic","time":"2025-08-19T19:50:38Z","message":"Registered tunnel connection"}
+{"level":"error","event":0,"ip":"198.41.200.233","connIndex":0,"error":"context canceled","time":"2025-08-19T20:05:54Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T20:05:54Z","message":"Retrying connection in up to 1s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T20:05:55Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T20:06:07Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"error","event":0,"ip":"198.41.200.233","connIndex":0,"error":"context canceled","time":"2025-08-19T20:06:07Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T20:06:07Z","message":"Retrying connection in up to 4s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T20:06:08Z","message":"Connection terminated"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T20:09:03Z","message":"Tunnel connection curve preferences: [X25519MLKEM768 CurveP256]"}
+{"level":"error","event":0,"ip":"198.41.200.233","connIndex":0,"error":"context canceled","time":"2025-08-19T20:09:03Z","message":"Failed to serve tunnel connection"}
+{"level":"info","event":0,"ip":"198.41.200.233","connIndex":0,"time":"2025-08-19T20:09:03Z","message":"Retrying connection in up to 8s"}
+{"level":"error","error":"context canceled","connIndex":0,"time":"2025-08-19T20:09:06Z","message":"Connection terminated"}
+{"level":"info","time":"2025-08-19T20:10:21Z","message":"Initiating graceful shutdown due to signal terminated ..."}

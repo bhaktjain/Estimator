@@ -1,0 +1,39 @@
+Powder Room - Full gut N/A UNIT $1,375 $0 N/A
+Apartment Upto 600 sf UNIT $7 $0 N/A $4 per sq for floor demo and removal only
+Apartment 600 > 1,200 sf UNIT $7 N/A N/A
+Apartment 1,200 > 1,800 sf UNIT $5 N/A N/A
+Apartment 1,800 > 2,500 sf UNIT $4 N/A N/A
+Apartment 2,500 sf + UNIT $4 N/A N/A
+Full gut price / sq ft - HYBRID N/A SF $11 TBD TBD
+Electrical *Minimum Price = $3,500
+Target Margin = 70% Size/Type Unit Labor Material Category
+Switch Existing location UNIT $55 $25 Supply and install
+Light fixture UNIT $165 N/A Install
+Outlet UNIT $55 $25 Supply and install
+GFI UNIT $55 $25 Supply and install
+Pendant lighting UNIT $165 N/A Install
+Recessed lighting UNIT $165 $25 Supply and install
+Switch New location UNIT $440 $25 Supply and install
+Light fixture UNIT $440 $25 Install
+Outlet UNIT $440 $25 Supply and install
+GFI UNIT $440 $25 Supply and install
+Pendant lighting UNIT $440 N/A Install
+Recessed lighting UNIT $440 $25 Supply and install
+Rewiring Full Apt - Electrical - per sq ft SF $17 N/A Supply and install
+Electrical Panel Replacement Existing location UNIT $3,300 N/A Supply and install
+Electrical Panel Replacement New location UNIT $4,950 N/A Supply and install
+Underfloor heating Install UNIT $2,750 Install
+Underfloor heating Supply UNIT $0 $1,000 Supply
+New dedicated line UNIT $495 N/A Supply and install
+Steam Machine UNIT $3,850 N/A Install
+New Washer and Dryer (2 X DEDICATED LINES) UNIT $1,650 N/A Install
+Undercabinet Lighting - per 15ft UNIT $1,650 N/A Install
+add for points & insurence $0
+R KITCHEN REWIRING - S $0
+ADD CAT 6 $0
+Service upgrade - Get pricing QUOTE $38,500 N/A Supply and install
+HVAC dedicated lines - OBTAIN PRICING FROM
+Quote Quote N/A Install
+ELECTRICIAN
+Plumbing *Minimum Price = $3,500
+Avg Margin = 70% Size/Type Unit Labor Material Category

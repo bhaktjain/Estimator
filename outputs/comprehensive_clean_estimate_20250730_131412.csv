@@ -1,0 +1,62 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash Installation,Installation of tile backsplash above countertops,25 sf,1650,0.75,%,1650,100
+,,,Section Total,,,,,1650.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,"Install new kitchen cabinets, base and wall units.",10,760,0.75,%,23275.0,85
+,,,Section Total,,,,,23275.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Cleaning,Post-construction professional cleaning,1341.5,1925,0.75,%,5895.31,85
+,,,Section Total,,,,,5895.31,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop,Install quartz countertop,99,97,0.75,%,22930.25,95
+,,,Section Total,,,,,22930.25,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,"Demolish existing cabinetry, counters, plumbing fixtures, appliances, wall substrates",1,3300,0.75,%,10106.25,90
+Demolition,Bathroom 1,Full gut,"Demolish bathroom fixtures, tiles, and substrates",1,2200,0.75,%,6737.5,90
+Demolition,Bathroom 2,Full gut,"Demolish bathroom fixtures, tiles, and substrates",1,2200,0.75,%,6737.5,90
+,,,Section Total,,,,,23581.25,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full apartment electrical rewiring.,1341.5,17,0.75,%,69777.09,90
+Electrical,Bathroom 1,GFI Outlet Install,Install GFI outlets in bathroom,1,55,0.75,%,168.44,85
+Electrical,Bathroom 2,GFI Outlet Install,Install GFI outlets in bathroom,1,55,0.75,%,168.44,85
+,,,Section Total,,,,,70113.97,
+
+Painting,,,,,,,,,
+Painting,General,Painting,"Paint all walls, ceilings, and trims",1341.5,10.3,0.75,%,42063.39,90
+,,,Section Total,,,,,42063.39,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full Gut - Existing Location,New plumbing for one sink in the existing kitchen.,1,3850,0.75,%,11790.62,90
+Plumbing,Bathroom 1,Full Gut - Replacement,Replace bathroom plumbing fixtures.,1,7700,0.75,%,23581.25,90
+Plumbing,Bathroom 2,Full Gut - Replacement,Replace bathroom plumbing fixtures.,1,7700,0.75,%,23581.25,90
+,,,Section Total,,,,,58953.12,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Wall and Floor Tile,Install tiles on bathroom walls and floors,35.5,4250,0.8,%,9239.4,85
+Tile,Bathroom 2,Wall and Floor Tile,Install tiles on bathroom walls and floors,32.3,4250,0.8,%,9239.4,85
+Tile,Kitchen,Kitchen Floor Tile Installation,Installation of floor tiles in kitchen,25 sf,2400,0.80,%,2400,100
+,,,Section Total,,,,,20878.80,
+
+Trim,,,,,,,,,
+Trim,General,Baseboard Installation,Installation of new baseboards throughout apartment,1000 lf,4,0.75,%,4,100
+,,,Section Total,,,,,4.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,General,Drywall installation,Install new moisture-resistant drywall throughout,3006.1,4,0.75,%,36824.11,80
+,,,Section Total,,,,,36824.11,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,25 sf,1900,0.75,%,1900,100
+Waterproofing,Bathroom 2,Waterproofing Installation,Install waterproofing membrane on bathroom floors and walls,20 sf,1900,0.75,%,1900,100
+Waterproofing,Kitchen,Waterproofing Installation,Install waterproofing membrane on kitchen floors,25 sf,1250,0.75,%,1250,100
+,,,Section Total,,,,,5050.00,
+
+,,,Overall Subtotal,,,,,311219.20,
+,,,General Conditions (10%),,,,,31121.92,
+,,,Grand Total,,,,,342341.12,

@@ -1,0 +1,46 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Tile Backsplash,Install backsplash in the kitchen,99 sf,1650,0.75,%,3963,80
+,,,Section Total,,,,,3963.00,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Install new kitchen cabinets,1 unit,9200,0.75,%,16100,85
+,,,Section Total,,,,,16100.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Cleaning after construction,1341.5 sf,1925,0.75,%,3368.75,90
+,,,Section Total,,,,,3368.75,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertops Installation,Supply and install quartz countertops in the kitchen.,16,,0.75,%,4300,95
+,,,Section Total,,,,,4300.00,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Full Gut,"Complete demolition of the kitchen including cabinetry, counters, plumbing fixtures, and appliances.",1 unit,,0.75,%,3000,85
+Demolition,Bathroom 1,Full Gut,"Remove existing fixtures, tiles, and plumbing lines",35.5 sf,2200,0.75,%,4000,90
+Demolition,Bathroom 2,Full Gut,"Remove existing fixtures, tiles, and plumbing lines",32.3 sf,2200,0.75,%,4000,90
+,,,Section Total,,,,,11000.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring Full Apartment,Complete rewiring of the apartment to accommodate new electrical layouts.,1341.5,17,0.75,%,22805.25,90
+,,,Section Total,,,,,22805.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full Gut Plumbing,"Replace plumbing lines, install sink, and appliances hookups",1 unit,3850,0.75,%,6737.5,85
+Plumbing,Bathroom 1,Bathroom Full Gut Replacement,"Supply and install all new plumbing fixtures in Bathroom 1 including toilet, sink, and bathtub.",1 unit,,0.75,%,7700,90
+Plumbing,Bathroom 2,Bathroom Full Gut Replacement,"Supply and install all new plumbing fixtures in Bathroom 2 including toilet, sink, and bathtub.",1 unit,,0.75,%,7700,90
+,,,Section Total,,,,,22137.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install floor and wall tiles in bathroom,35.5 sf,2600,0.80,%,7650,80
+Tile,Kitchen,Tile Installation,Install tiles on kitchen floor,99 sf,2400,0.80,%,9600,85
+,,,Section Total,,,,,17250.00,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing,Install waterproofing for floors and walls,35.5 sf,1900,0.75,%,3325,80
+Waterproofing,Bathroom 2,Waterproofing,Install waterproofing for floors and walls,32.3 sf,1900,0.75,%,3325,80
+,,,Section Total,,,,,6650.00,
+
+,,,Overall Subtotal,,,,,107574.50,
+,,,General Conditions (10%),,,,,10757.45,
+,,,Grand Total,,,,,118331.95,

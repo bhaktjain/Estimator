@@ -1,0 +1,24 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full Gut,Full gut of existing bathroom,1,3300,0.75,%,5775,100
+Demolition,Bathroom 2,Full Gut,Full gut of existing bathroom,1,2200,0.75,%,3850,100
+Demolition,Kitchen,Full Gut,Full gut of kitchen,1,3300,0.75,%,5775,100
+,,,Section Total,,,,,15400.00,
+
+Electrical,,,,,,,,,
+Electrical,Apartment,Rewiring Full Apt,Complete rewiring of apartment,1341.5,17,0.75,%,39853.25,100
+,,,Section Total,,,,,39853.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Full gut plumbing replacement,1,9900,0.75,%,17325,100
+Plumbing,Bathroom 2,Full Gut Replacement,Full gut plumbing replacement,1,7700,0.75,%,13475,100
+,,,Section Total,,,,,30800.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation Walls,Tile installation on bathroom walls,1,4100,0.80,%,7380,100
+Tile,Bathroom 2,Tile Installation Walls,Tile installation on bathroom walls,1,2600,0.80,%,4680,100
+,,,Section Total,,,,,12060.00,
+
+,,,Overall Subtotal,,,,,98113.25,
+,,,General Conditions (10%),,,,,9811.33,
+,,,Grand Total,,,,,107924.57,

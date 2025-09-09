@@ -1,0 +1,42 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Appliances,,,,,,,,,
+Appliances,Kitchen,Kitchen Electrical,"Rewiring of kitchen including GFCI outlets, lighting circuits, and appliance connections.",543 SF,$17 per SF,0.75,,16141.125,95
+,,,,,,,,16141.12,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Installation of standard kitchen cabinets up to 10 LF.,10 LF,"$7,600 per UNIT",0.75,,13300,95
+,,,,,,,,13300.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,20 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Plumbing,Full gut plumbing for existing kitchen location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Demolition,Bathroom,Bathroom Plumbing,Full gut plumbing for existing bathroom location.,1 UNIT,"$7,700 per UNIT",0.75,,13475,95
+Demolition,Bedroom,Bedroom Flooring,"Installation of new flooring including subfloor preparation, transition strips, and closet flooring.",78 SF,$6 per SF,0.75,,819.00,90
+,,,,,,,,21031.50,
+Electrical,,,,,,,,,
+Electrical,Bathroom,Bathroom Electrical,Rewiring of bathroom including GFCI outlets and lighting.,51 SF,$17 per SF,0.75,,1518.375,95
+Electrical,Bedroom,Bedroom Electrical,"Installation of new outlets, switches, and light fixtures.",78 SF,$17 per SF,0.75,,2325.75,95
+,,,,,,,,3844.12,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Installation of new kitchen flooring.,83 SF,$6 per SF,0.75,,871.5,85
+Flooring,Bedroom,Bedroom Flooring,Installation of new hardwood flooring.,78 SF,$6 per SF,0.75,,819,95
+,,,,,,,,1690.50,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Commercial Cleaning,Post-construction cleaning for the entire apartment.,1 UNIT,"$1,375 per UNIT",0.75,,2406.25,95
+,,,,,,,,2406.25,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Bedroom Painting,Painting of walls and ceiling.,78 SF,$10.3 per SF,0.75,,1407.9,95
+,,,,,,,,1407.90,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Bathroom Fixtures,"Install new vanity, mirror, towel bars, and toilet paper holder.",1 UNIT,"$1,375 per UNIT",0.75,,2406.25,90
+,,,,,,,,2406.25,
+Tile,,,,,,,,,
+Tile,Kitchen,Kitchen Flooring,Installation of new tile flooring.,60 SF,"$2,400 per UNIT",0.80,,4320,95
+Tile,Bathroom,Bathroom Tile Work,Installation of new tile on bathroom walls and floors.,51 SF,"$2,600 per UNIT",0.80,,4680,95
+,,,,,,,,9000.00,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom,Bathroom Waterproofing,Installation of waterproofing for bathroom floors and walls.,51 SF,"$1,900 per UNIT",0.75,,3325,85
+,,,,,,,,3325.00,
+,,,,,,,,88316.40,
+,,,General Conditions (10%),,,,,8831.64,
+,,,Grand Total,,,,,97148.04,

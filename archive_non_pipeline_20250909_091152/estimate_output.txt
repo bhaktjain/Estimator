@@ -1,0 +1,221 @@
+```json
+{
+  "sections": [
+    {
+      "name": "Flooring",
+      "items": [
+        {
+          "room": "Open Office",
+          "scope_item": "Carpet Tile Installation",
+          "description": "Install Bentley Outside the Box carpet tiles with cushion backing in open office areas.",
+          "quantity": "8625 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "90562.5",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Corridors/Lounge",
+          "scope_item": "Engineered Wood Flooring Installation",
+          "description": "Install The Hudson Co. Walnut flat sawn engineered wood flooring in corridors and lounge bands.",
+          "quantity": "4875 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "51281.25",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Pantry",
+          "scope_item": "Porcelain Tile Installation",
+          "description": "Install Fireclay Quartzite Matte Star porcelain floor tile in the 4F pantry zone.",
+          "quantity": "225 SF",
+          "unit_cost": "$12 per SF",
+          "markup": "0.80",
+          "subtotal": "4860",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Restrooms",
+          "scope_item": "Porcelain Tile Installation",
+          "description": "Install Tilebar Rizo Silver Beige porcelain floor tile in all restroom floors on 4F & 5F.",
+          "quantity": "825 SF",
+          "unit_cost": "$12 per SF",
+          "markup": "0.80",
+          "subtotal": "17820",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Walls & Ceilings",
+      "items": [
+        {
+          "room": "Partitions",
+          "scope_item": "Metal Stud Framing",
+          "description": "Install new metal studs for partitions at 3-5/8\" @ 16\" o.c., 10' height.",
+          "quantity": "700 LF",
+          "unit_cost": "$77 per LF",
+          "markup": "0.75",
+          "subtotal": "94325",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Partitions",
+          "scope_item": "GWB Installation",
+          "description": "Install 5/8\" Type X GWB on both sides of partitions.",
+          "quantity": "12600 SF",
+          "unit_cost": "$4 per SF",
+          "markup": "0.75",
+          "subtotal": "88200",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Open Office",
+          "scope_item": "ACT Ceiling System",
+          "description": "Install 2x2 ACT ceiling system with Turf Pantheon look in open office ceiling zones.",
+          "quantity": "8625 SF",
+          "unit_cost": "$9 per SF",
+          "markup": "0.75",
+          "subtotal": "135468.75",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Meeting Rooms/Wellness/Corridors",
+          "scope_item": "GWB Ceilings",
+          "description": "Install flat and bulkhead GWB ceilings.",
+          "quantity": "2000 SF",
+          "unit_cost": "$4.95 per SF",
+          "markup": "0.75",
+          "subtotal": "17325",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Wall Finishes",
+      "items": [
+        {
+          "room": "General",
+          "scope_item": "Wall Painting",
+          "description": "Paint walls with Benjamin Moore Newburyport Blue and field whites.",
+          "quantity": "16800 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "302670",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Corridors",
+          "scope_item": "Trim/Door Painting",
+          "description": "Paint corridor door and trim packages with matching satin finish.",
+          "quantity": "1200 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "21645",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Feature Walls",
+          "scope_item": "Specialty Wallpaper Installation",
+          "description": "Install dark blue Art-Deco patterned specialty wallpaper on feature walls.",
+          "quantity": "800 SF",
+          "unit_cost": "$15 per SF",
+          "markup": "0.75",
+          "subtotal": "21000",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Doors & Hardware",
+      "items": [
+        {
+          "room": "General",
+          "scope_item": "Solid-Core Wood Doors",
+          "description": "Install solid-core wood doors for toilets, IT/Storage, Copy, Wellness, etc.",
+          "quantity": "20 EA",
+          "unit_cost": "$550 per UNIT",
+          "markup": "0.75",
+          "subtotal": "19250",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Office Fronts",
+          "scope_item": "Glass Office-Front Doors",
+          "description": "Install arched motif, single-leaf glass office-front doors.",
+          "quantity": "24 EA",
+          "unit_cost": "$825 per UNIT",
+          "markup": "0.75",
+          "subtotal": "34650",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Lighting & Electrical",
+      "items": [
+        {
+          "room": "Open Office",
+          "scope_item": "Round Flushmounts",
+          "description": "Install 6–8\" LED round flushmounts in open office grid.",
+          "quantity": "80 EA",
+          "unit_cost": "$165 per UNIT",
+          "markup": "0.75",
+          "subtotal": "23100",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Meeting Rooms/Corridors/Restrooms",
+          "scope_item": "Recessed Downlights",
+          "description": "Install 3\" recessed downlights in gypsum areas.",
+          "quantity": "60 EA",
+          "unit_cost": "$165 per UNIT",
+          "markup": "0.75",
+          "subtotal": "17325",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Plumbing Fixtures & Appliances",
+      "items": [
+        {
+          "room": "Restrooms",
+          "scope_item": "Water Closets",
+          "description": "Install Sloan CX (floor) / ST-2469 (wall) water closets.",
+          "quantity": "7 EA",
+          "unit_cost": "$550 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Restrooms",
+          "scope_item": "Restroom Lavatories",
+          "description": "Install Kohler Compass / Rejuvenation Atlanta restroom lavatories.",
+          "quantity": "8 EA",
+          "unit_cost": "$550 per UNIT",
+          "markup": "0.75",
+          "subtotal": "7700",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "General",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of all renovated areas post-construction.",
+          "quantity": "15000 SF",
+          "unit_cost": "$0.55 per SF",
+          "markup": "0.75",
+          "subtotal": "14343.75",
+          "confidence_score": "85"
+        }
+      ]
+    }
+  ]
+}
+```

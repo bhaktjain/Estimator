@@ -1,0 +1,276 @@
+[INFO] Processing directory: chunked_outputs/run_20250909_092749_147d5da7
+[INFO] Processing CSV file: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate.csv
+[INFO] Read 91 items from CSV
+[INFO] Starting comprehensive cleanup with 91 items
+[INFO] After basic cleaning: 91 items
+[INFO] Recategorizing 91 items using reference CSV patterns
+[INFO] Recategorized 'bathroom demolition' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom plumbing' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom electrical' from Bathroom Renovation to Electrical
+[INFO] Recategorized 'bathroom tile work' from Bathroom Renovation to Tile
+[INFO] Recategorized 'bathroom fixtures' from Bathroom Renovation to Cabinetry
+[INFO] Recategorized 'bathroom demolition' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom plumbing' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom electrical' from Bathroom Renovation to Electrical
+[INFO] Recategorized 'bathroom tile work' from Bathroom Renovation to Tile
+[INFO] Recategorized 'bathroom fixtures' from Bathroom Renovation to Plumbing
+[INFO] Recategorized 'bathroom demolition' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom plumbing' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom electrical' from Bathroom Renovation to Electrical
+[INFO] Recategorized 'bathroom tile work' from Bathroom Renovation to Tile
+[INFO] Recategorized 'bathroom demolition' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom plumbing' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom electrical' from Bathroom Renovation to Electrical
+[INFO] Recategorized 'bathroom tile work' from Bathroom Renovation to Tile
+[INFO] Recategorized 'bathroom waterproofing' from Bathroom Renovation to Waterproofing
+[INFO] Recategorized 'bathroom demolition' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom plumbing' from Bathroom Renovation to Demolition
+[INFO] Recategorized 'bathroom electrical' from Bathroom Renovation to Electrical
+[INFO] Recategorized 'bathroom tile work' from Bathroom Renovation to Tile
+[INFO] Recategorized 'bedroom flooring' from Bedroom Renovation to Flooring
+[INFO] Recategorized 'bedroom painting' from Bedroom Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'bedroom electrical' from Bedroom Renovation to Electrical
+[INFO] Recategorized 'bedroom flooring' from Bedroom Renovation to Flooring
+[INFO] Recategorized 'bedroom painting' from Bedroom Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'bedroom electrical' from Bedroom Renovation to Electrical
+[INFO] Recategorized 'bedroom flooring' from Bedroom Renovation to Flooring
+[INFO] Recategorized 'bedroom painting' from Bedroom Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'bedroom electrical' from Bedroom Renovation to Electrical
+[INFO] Recategorized 'bedroom flooring' from Bedroom Renovation to Flooring
+[INFO] Recategorized 'bedroom painting' from Bedroom Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'bedroom electrical' from Bedroom Renovation to Electrical
+[INFO] Recategorized 'bedroom flooring' from Bedroom Renovation to Demolition
+[INFO] Recategorized 'bedroom painting' from Bedroom Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'bedroom electrical' from Bedroom Renovation to Electrical
+[INFO] Recategorized 'commercial cleaning' from Commercial Cleaning to General Requirements
+[INFO] Recategorized 'post-construction cleaning' from Commercial Cleaning to General Requirements
+[INFO] Recategorized 'post-construction cleaning' from Commercial Cleaning to General Requirements
+[INFO] Recategorized 'post-construction cleaning' from Commercial Cleaning to General Requirements
+[INFO] Recategorized 'post-construction cleaning' from Commercial Cleaning to General Requirements
+[INFO] Recategorized 'kitchen demolition' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen plumbing' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen electrical' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen cabinets' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen countertops' from Kitchen Renovation to Countertops
+[INFO] Recategorized 'kitchen backsplash' from Kitchen Renovation to Backsplash
+[INFO] Recategorized 'kitchen flooring' from Kitchen Renovation to Flooring
+[INFO] Recategorized 'kitchen demolition' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen plumbing' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen electrical' from Kitchen Renovation to Appliances
+[INFO] Recategorized 'kitchen cabinets' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen countertops' from Kitchen Renovation to Countertops
+[INFO] Recategorized 'kitchen backsplash' from Kitchen Renovation to Backsplash
+[INFO] Recategorized 'kitchen flooring' from Kitchen Renovation to Tile
+[INFO] Recategorized 'kitchen demolition' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen plumbing' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen electrical' from Kitchen Renovation to Appliances
+[INFO] Recategorized 'kitchen cabinets' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen countertops' from Kitchen Renovation to Countertops
+[INFO] Recategorized 'kitchen backsplash' from Kitchen Renovation to Backsplash
+[INFO] Recategorized 'kitchen flooring' from Kitchen Renovation to Tile
+[INFO] Recategorized 'kitchen demolition' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen plumbing' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen electrical' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen cabinets installation' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen countertops' from Kitchen Renovation to Countertops
+[INFO] Recategorized 'kitchen backsplash' from Kitchen Renovation to Backsplash
+[INFO] Recategorized 'kitchen demolition' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen plumbing' from Kitchen Renovation to Demolition
+[INFO] Recategorized 'kitchen electrical' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen cabinets' from Kitchen Renovation to Cabinetry
+[INFO] Recategorized 'kitchen countertops' from Kitchen Renovation to Countertops
+[INFO] Recategorized 'kitchen backsplash' from Kitchen Renovation to Backsplash
+[INFO] Recategorized 'living room flooring' from Living Room Renovation to Flooring
+[INFO] Recategorized 'living room painting' from Living Room Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'living room electrical' from Living Room Renovation to Electrical
+[INFO] Recategorized 'living room flooring' from Living Room Renovation to Flooring
+[INFO] Recategorized 'living room painting' from Living Room Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'living room electrical' from Living Room Renovation to Electrical
+[INFO] Recategorized 'living room flooring' from Living Room Renovation to Flooring
+[INFO] Recategorized 'living room painting' from Living Room Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'living room electrical' from Living Room Renovation to Electrical
+[INFO] Recategorized 'living room flooring' from Living Room Renovation to Flooring
+[INFO] Recategorized 'living room painting' from Living Room Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'living room electrical' from Living Room Renovation to Electrical
+[INFO] Recategorized 'living room flooring' from Living Room Renovation to Demolition
+[INFO] Recategorized 'living room painting' from Living Room Renovation to Painting & Wall Coverings
+[INFO] Recategorized 'living room electrical' from Living Room Renovation to Electrical
+[INFO] After recategorization: 91 items
+[INFO] No OpenAI API key found, using local deduplication
+[INFO] Performing enhanced deduplication on 91 items
+[INFO] Processing category: Demolition with 22 items
+[INFO] Keeping unique item: Kitchen Demolition in Kitchen
+[INFO] Keeping unique item: Kitchen Plumbing in Kitchen
+[INFO] Removing duplicate: Kitchen Demolition in Kitchen
+[INFO] Removing duplicate: Kitchen Plumbing in Kitchen
+[INFO] Removing duplicate: Kitchen Demolition in Kitchen
+[INFO] Removing duplicate: Kitchen Plumbing in Kitchen
+[INFO] Keeping unique item: Bathroom Demolition in Bathroom
+[INFO] Keeping unique item: Bathroom Plumbing in Bathroom
+[INFO] Removing duplicate: Bathroom Demolition in Bathroom
+[INFO] Removing duplicate: Bathroom Plumbing in Bathroom
+[INFO] Removing duplicate: Bathroom Demolition in Bathroom
+[INFO] Removing duplicate: Bathroom Plumbing in Bathroom
+[INFO] Removing duplicate: Kitchen Demolition in Kitchen
+[INFO] Removing duplicate: Kitchen Plumbing in Kitchen
+[INFO] Removing duplicate: Kitchen Demolition in Kitchen
+[INFO] Removing duplicate: Kitchen Plumbing in Kitchen
+[INFO] Removing duplicate: Bathroom Demolition in Bathroom
+[INFO] Removing duplicate: Bathroom Plumbing in Bathroom
+[INFO] Removing duplicate: Bathroom Demolition in Bathroom
+[INFO] Removing duplicate: Bathroom Plumbing in Bathroom
+[INFO] Keeping unique item: Bedroom Flooring in Bedroom
+[INFO] Keeping unique item: Living Room Flooring in Living Room
+[INFO] Category 'Demolition': 22 -> 6 items
+[INFO] Processing category: Electrical with 15 items
+[INFO] Keeping unique item: Bathroom Electrical in Bathroom
+[INFO] Removing duplicate: Bathroom Electrical in Bathroom
+[INFO] Keeping unique item: Bedroom Electrical in Bedroom
+[INFO] Keeping unique item: Living Room Electrical in Living Room
+[INFO] Removing duplicate: Bathroom Electrical in Bathroom
+[INFO] Removing duplicate: Bathroom Electrical in Bathroom
+[INFO] Removing duplicate: Bedroom Electrical in Bedroom
+[INFO] Removing duplicate: Bedroom Electrical in Bedroom
+[INFO] Removing duplicate: Living Room Electrical in Living Room
+[INFO] Removing duplicate: Living Room Electrical in Living Room
+[INFO] Removing duplicate: Bathroom Electrical in Bathroom
+[INFO] Removing duplicate: Bedroom Electrical in Bedroom
+[INFO] Removing duplicate: Bedroom Electrical in Bedroom
+[INFO] Removing duplicate: Living Room Electrical in Living Room
+[INFO] Removing duplicate: Living Room Electrical in Living Room
+[INFO] Category 'Electrical': 15 -> 3 items
+[INFO] Processing category: Tile with 7 items
+[INFO] Keeping unique item: Kitchen Flooring in Kitchen
+[INFO] Keeping unique item: Bathroom Tile Work in Bathroom
+[INFO] Removing duplicate: Kitchen Flooring in Kitchen
+[INFO] Removing duplicate: Bathroom Tile Work in Bathroom
+[INFO] Removing duplicate: Bathroom Tile Work in Bathroom
+[INFO] Removing duplicate: Bathroom Tile Work in Bathroom
+[INFO] Removing duplicate: Bathroom Tile Work in Bathroom
+[INFO] Category 'Tile': 7 -> 2 items
+[INFO] Processing category: Cabinetry with 9 items
+[INFO] Keeping unique item: Kitchen Cabinets in Kitchen
+[INFO] Removing duplicate: Kitchen Cabinets in Kitchen
+[INFO] Keeping unique item: Kitchen Electrical in Kitchen
+[INFO] Removing duplicate: Kitchen Electrical in Kitchen
+[INFO] Removing duplicate: Kitchen Cabinets in Kitchen
+[INFO] Removing cabinetry duplicate in same room: Kitchen Cabinets Installation in Kitchen
+[INFO] Removing duplicate: Kitchen Cabinets in Kitchen
+[INFO] Removing duplicate: Kitchen Electrical in Kitchen
+[INFO] Keeping unique item: Bathroom Fixtures in Bathroom
+[INFO] Category 'Cabinetry': 9 -> 3 items
+[INFO] Processing category: Plumbing with 1 items
+[INFO] Keeping unique item: Bathroom Fixtures in Bathroom
+[INFO] Category 'Plumbing': 1 -> 1 items
+[INFO] Processing category: Waterproofing with 1 items
+[INFO] Keeping unique item: Bathroom Waterproofing in Bathroom
+[INFO] Category 'Waterproofing': 1 -> 1 items
+[INFO] Processing category: Flooring with 9 items
+[INFO] Keeping unique item: Bedroom Flooring in Bedroom
+[INFO] Keeping unique item: Living Room Flooring in Living Room
+[INFO] Removing duplicate: Bedroom Flooring in Bedroom
+[INFO] Removing duplicate: Bedroom Flooring in Bedroom
+[INFO] Removing duplicate: Bedroom Flooring in Bedroom
+[INFO] Removing duplicate: Living Room Flooring in Living Room
+[INFO] Removing duplicate: Living Room Flooring in Living Room
+[INFO] Removing duplicate: Living Room Flooring in Living Room
+[INFO] Keeping unique item: Kitchen Flooring in Kitchen
+[INFO] Category 'Flooring': 9 -> 3 items
+[INFO] Processing category: Painting & Wall Coverings with 10 items
+[INFO] Keeping unique item: Bedroom Painting in Bedroom
+[INFO] Keeping unique item: Living Room Painting in Living Room
+[INFO] Removing duplicate: Bedroom Painting in Bedroom
+[INFO] Removing duplicate: Bedroom Painting in Bedroom
+[INFO] Removing duplicate: Living Room Painting in Living Room
+[INFO] Removing duplicate: Living Room Painting in Living Room
+[INFO] Removing duplicate: Bedroom Painting in Bedroom
+[INFO] Removing duplicate: Bedroom Painting in Bedroom
+[INFO] Removing duplicate: Living Room Painting in Living Room
+[INFO] Removing duplicate: Living Room Painting in Living Room
+[INFO] Category 'Painting & Wall Coverings': 10 -> 2 items
+[INFO] Processing category: General Requirements with 5 items
+[INFO] Keeping unique item: Commercial Cleaning in Entire Apartment
+[INFO] Removing commercial cleaning duplicate in same room: Post-Construction Cleaning in Entire Apartment
+[INFO] Removing duplicate: Post-Construction Cleaning in Entire Apartment
+[INFO] Removing duplicate: Post-Construction Cleaning in Entire Apartment
+[INFO] Removing duplicate: Post-Construction Cleaning in Entire Apartment
+[INFO] Category 'General Requirements': 5 -> 1 items
+[INFO] Processing category: Countertops with 5 items
+[INFO] Keeping unique item: Kitchen Countertops in Kitchen
+[INFO] Removing duplicate: Kitchen Countertops in Kitchen
+[INFO] Removing duplicate: Kitchen Countertops in Kitchen
+[INFO] Removing duplicate: Kitchen Countertops in Kitchen
+[INFO] Removing duplicate: Kitchen Countertops in Kitchen
+[INFO] Category 'Countertops': 5 -> 1 items
+[INFO] Processing category: Backsplash with 5 items
+[INFO] Keeping unique item: Kitchen Backsplash in Kitchen
+[INFO] Removing duplicate: Kitchen Backsplash in Kitchen
+[INFO] Removing duplicate: Kitchen Backsplash in Kitchen
+[INFO] Removing duplicate: Kitchen Backsplash in Kitchen
+[INFO] Removing duplicate: Kitchen Backsplash in Kitchen
+[INFO] Category 'Backsplash': 5 -> 1 items
+[INFO] Processing category: Appliances with 2 items
+[INFO] Keeping unique item: Kitchen Electrical in Kitchen
+[INFO] Removing duplicate: Kitchen Electrical in Kitchen
+[INFO] Category 'Appliances': 2 -> 1 items
+[INFO] Enhanced deduplication complete: 91 -> 25 items
+[INFO] After local deduplication: 25 items
+[INFO] Prioritizing high-confidence items from 25 items
+[INFO] After prioritizing: 25 items
+[INFO] After prioritizing confidence: 25 items
+[INFO] Fixing total values for 25 items
+[INFO] After fixing total values: 25 items
+[INFO] Checking for full apartment vs smaller room conflicts in 25 items
+[INFO] Found apartment-level scope in 'General Requirements', removing 0 smaller items
+[INFO] After removing smaller rooms: 25 -> 25 items
+[INFO] After removing smaller rooms: 25 items
+[INFO] Merging overlapping items from 25 items
+[INFO] Keeping unique work: Kitchen Plumbing in kitchen
+[INFO] Skipping duplicate work type 'demolition' in kitchen: Kitchen Demolition
+[INFO] Keeping unique work: Bathroom Plumbing in bathroom
+[INFO] Skipping duplicate work type 'demolition' in bathroom: Bathroom Demolition
+[INFO] Keeping unique work: Bedroom Flooring in living area
+[INFO] Skipping duplicate work type 'demolition' in living area: Living Room Flooring
+[INFO] Keeping unique work: Bedroom Electrical in living area
+[INFO] Skipping duplicate work type 'electrical' in living area: Living Room Electrical
+[INFO] Keeping unique work: Kitchen Cabinets in kitchen
+[INFO] Merging subset work in same room: Kitchen Electrical into Kitchen Cabinets in kitchen
+[INFO] Keeping unique work: Bedroom Flooring in living area
+[INFO] Skipping duplicate work type 'flooring' in living area: Living Room Flooring
+[INFO] Keeping unique work: Bedroom Painting in living area
+[INFO] Skipping duplicate work type 'painting' in living area: Living Room Painting
+[INFO] After merging: 18 items
+[INFO] After merging overlapping items: 18 items
+[INFO] Removing cross-category duplicates from 18 items
+[INFO] Removed cross-category duplicate in same room: Kitchen Backsplash in Backsplash for kitchen tile
+[INFO] Removed cross-category duplicate in same room: Bathroom Fixtures in Cabinetry for bathroom plumbing
+[INFO] Cross-category deduplication complete: 18 -> 16 items
+[INFO] After removing cross-category duplicates: 16 items
+[INFO] Merging cabinetry categories in 16 items
+[INFO] Merged cabinetry categories: 16 -> 16 items
+[INFO] After merging cabinetry categories: 16 items
+[INFO] After comprehensive cleanup: 16 items
+[INFO] After comprehensive cleanup: 16 items
+[INFO] Writing final CSV: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final.csv
+[INFO] Final CSV written successfully: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final.csv
+[INFO] Final CSV written: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final.csv
+[INFO] Creating Excel file: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final.xlsx
+[INFO] Enhanced column widths: Section=30, Room=19, ItemName=30, Description=60
+[INFO] Dynamic column widths: Section=30, Room=19, ItemName=30, Description=60
+[DEBUG] Row 5: Description length 100, estimated 2 lines, height 36
+[INFO] Category 'Demolition' total: $21,031.50
+[INFO] Category 'Tile' total: $9,000.00
+[INFO] Category 'Cabinetry & Storage' total: $13,300.00
+[INFO] Category 'Flooring' total: $1,690.50
+[INFO] Category 'Countertops' total: $13,763.75
+[DEBUG] Row 32: Description length 89, estimated 2 lines, height 36
+[INFO] Category 'Appliances' total: $16,141.12
+[INFO] Category 'Electrical' total: $3,844.12
+[DEBUG] Row 43: Description length 64, estimated 2 lines, height 36
+[INFO] Category 'Plumbing' total: $2,406.25
+[INFO] Category 'Waterproofing' total: $3,325.00
+[INFO] Category 'Painting & Wall Coverings' total: $1,407.90
+[INFO] Category 'General Requirements' total: $2,406.25
+[INFO] Beautiful Excel file created successfully: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final.xlsx
+[INFO] Final Excel written: chunked_outputs/run_20250909_092749_147d5da7/comprehensive_clean_estimate_final.xlsx
+[INFO] Comprehensive cleanup completed successfully!

@@ -1,0 +1,71 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Install Backsplash,Tile backsplash installation in kitchen.,10,1650,0.75,%,2887.5,90
+,,,Section Total,,,,,2887.50,
+
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of cabinets in the kitchen.,10,7600,0.75,%,13300,90
+,,,Section Total,,,,,13300.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Commercial Cleaning,Final commercial cleaning after renovation,1,1375,0.75,%,2406.25,100
+,,,Section Total,,,,,2406.25,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop,Supply and fabricate quartz countertop,99.0,97,0.75,%,16845.75,90
+,,,Section Total,,,,,16845.75,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full Gut,Demolition for full gut of bathroom,1,2200,0.75,%,3850,100
+Demolition,Bathroom 2,Full Gut,Demolition for full gut of bathroom,1,2200,0.75,%,3850,100
+Demolition,Kitchen,Full Gut,Demolition for full gut of kitchen,1,2500,0.75,%,4375,100
+,,,Section Total,,,,,12075.00,
+
+Doors,,,,,,,,,
+Doors,General,Standard Door Installation,Installation of interior doors,2,550,0.75,%,1925,85
+,,,Section Total,,,,,1925.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Full apartment rewiring,1341.5,17,0.75,%,39893.75,100
+,,,Section Total,,,,,39893.75,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install Engineered Hardwood,Installation of hardwood flooring in Living Room.,321,6,0.75,%,3370.5,95
+,,,Section Total,,,,,3370.50,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,Painting,"Painting entire apartment, 1341.5 sf.",1341.5,10.3,0.75,%,24031.25,95
+,,,Section Total,,,,,24031.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Full Gut Replacement,Plumbing for full gut of bathroom,1,7700,0.75,%,13475,100
+Plumbing,Bathroom 2,Full Gut Replacement,Plumbing for full gut of bathroom,1,7700,0.75,%,13475,100
+Plumbing,Kitchen,Full Gut Existing Location,Plumbing for full gut of kitchen with 1 sink,1,3850,0.75,%,6737.5,100
+,,,Section Total,,,,,33687.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install bathroom tiles on walls,35.5,2600,0.8,%,5420,100
+Tile,Bathroom 2,Tile Installation,Install bathroom tiles on walls,32.3,2600,0.8,%,5420,100
+Tile,Kitchen,Tile Installation,"Installation of tiles in Kitchen, 99 sf.",99,2400,0.80,%,17220,95
+Tile,Kitchen,Backsplash,Install kitchen backsplash tiles,99,1650,0.8,%,4087.5,80
+,,,Section Total,,,,,32147.50,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Skim Coating,Skim coating walls and ceilings,403,6,0.75,%,4232.25,100
+Walls & Ceilings,Bedroom 1,Skim Coating,Skim coating walls and ceilings,451.3,6,0.75,%,4737.15,100
+Walls & Ceilings,Bedroom 2,Skim Coating,Skim coating walls and ceilings,280.5,6,0.75,%,2949.75,100
+Walls & Ceilings,Kitchen,Skim Coating,Skim coating walls and ceilings,174.7,6,0.75,%,1836.65,100
+Walls & Ceilings,Total Apartment,Skim Coating,Apply skim coating to all walls and ceilings,3006.1,6,0.75,%,31465.73,90
+,,,Section Total,,,,,45221.53,
+
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing,Install waterproofing in bathroom,1,1900,0.75,%,3325,100
+Waterproofing,Bathroom 1,Waterproofing Floors and Walls,Install waterproofing membrane in Bathroom 1,1,1900,0.75,%,3325,95
+Waterproofing,Bathroom 2,Waterproofing,Install waterproofing in bathroom,1,1900,0.75,%,3325,100
+Waterproofing,Bathroom 2,Waterproofing Floors and Walls,Install waterproofing membrane in Bathroom 2,1,1900,0.75,%,3325,95
+Waterproofing,Kitchen,Waterproofing,Install waterproofing in kitchen,1,1250,0.75,%,2187.5,100
+,,,Section Total,,,,,15487.50,
+
+,,,Overall Subtotal,,,,,243279.03,
+,,,General Conditions (10%),,,,,24327.90,
+,,,Grand Total,,,,,267606.93,

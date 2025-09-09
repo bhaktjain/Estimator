@@ -1,0 +1,53 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Supply & Install Kitchen Cabinets,Supply and install kitchen cabinets,1,7600,0.75,%,13300,95
+,,,Section Total,,,,,13300.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Install Quartz Countertop,Fabricate and install Quartz countertop,99,97,0.75,%,16991.25,95
+,,,Section Total,,,,,16991.25,
+
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut,"Remove all kitchen elements including cabinets, countertops, and fixtures.",99,2500,0.75,%,6250,100
+Demolition,Bathroom 1,Full gut,"Completely strip down all fixtures, tiles, and installations.",36,2200,0.75,%,7700,100
+Demolition,Bathroom 2,Full gut,"Completely strip down all fixtures, tiles, and installations.",40,2200,0.75,%,8800,100
+,,,Section Total,,,,,22750.00,
+
+Doors,,,,,,,,,
+Doors,General,Replace doors,Replace all doors including door frames.,10,550,0.75,%,9625,80
+,,,Section Total,,,,,9625.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring,Rewire the entire apartment to bring it up to current standards.,1341.5,17,0.75,%,39971.375,100
+,,,Section Total,,,,,39971.38,
+
+Flooring,,,,,,,,,
+Flooring,Full Apartment,Install new LVT flooring,Install luxury vinyl tile flooring throughout the apartment.,1341.5,6,0.75,%,14063.625,100
+,,,Section Total,,,,,14063.62,
+
+Painting,,,,,,,,,
+Painting,Full Apartment,New painting,Paint all walls and ceilings with new Benjamin Moore paint.,1341.5,10.3,0.75,%,27764.8125,100
+,,,Section Total,,,,,27764.81,
+
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut existing location,Remove all plumbing fixtures and prepare for new installations.,1,3850,0.75,%,6737.5,100
+Plumbing,Bathroom 1,Tub to shower conversion,Convert bathtub to shower including plumbing rerouting.,1,1375,0.75,%,2406.25,100
+Plumbing,Bathroom 1,Full Gut Replacement,Full gut plumbing replacement for bathroom,1,9900,0.75,%,17325,90
+Plumbing,Bathroom 2,Tub to shower conversion,Convert bathtub to shower including plumbing rerouting.,1,1375,0.75,%,2406.25,100
+Plumbing,Bathroom 2,Full Gut Replacement,"Full plumbing replacement, existing location, bathroom 2.",32,7700,0.75,%,"13,400",85
+,,,Section Total,,,,,28875.00,
+
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Install new tiles on walls and floors.,36,2600,0.8,%,7488,100
+Tile,Bathroom 2,Tile Installation,Install new tiles on walls and floors.,40,2600,0.8,%,8320,100
+Tile,Kitchen,Tile Installation,Tile installation on kitchen flooring,1,2800,0.80,%,5040,85
+,,,Section Total,,,,,20848.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Full Apartment,Skim coating,Apply skim coating to all walls and ceilings.,3006.1,6,0.75,%,31637.7675,100
+Walls & Ceilings,General,Skim coat walls and ceilings,Applying skim coat to walls and ceilings,1341.5,6,0.75,%,14006.25,90
+,,,Section Total,,,,,45644.02,
+
+,,,Overall Subtotal,,,,,239833.08,
+,,,General Conditions (10%),,,,,23983.31,
+,,,Grand Total,,,,,263816.39,

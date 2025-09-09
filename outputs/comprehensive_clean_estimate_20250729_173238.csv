@@ -1,0 +1,39 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Install Kitchen Cabinets,Installation of new kitchen cabinets.,10 ft,7600,0.75,%,13300,80
+,,,Section Total,,,,,13300.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Apartment,Standard Cleaning,Post-construction cleaning,1,1375,0.75,%,2406,100
+,,,Section Total,,,,,2406.00,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop,Installation of new kitchen countertops.,10 ft,2000,0.75,%,9875,85
+,,,Section Total,,,,,9875.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full Gut,Complete demolition of the bathroom.,1 unit,2200,0.75,%,3850,90
+Demolition,Kitchen,Full gut demolition,"Demolish existing kitchen cabinets, countertops, and appliances.",LF (based on kitchen layout),2500,0.75,%,4375,85
+,,,Section Total,,,,,8225.00,
+
+Electrical,,,,,,,,,
+Electrical,Apartment Wide,Rewiring,Full apartment rewire.,543 sf,17,0.75,%,16173.75,95
+,,,Section Total,,,,,16173.75,
+
+Flooring,,,,,,,,,
+Flooring,Living Room,Install new flooring,Installation of new engineered or hardwood flooring.,247.8 sf,6,0.75,%,2606.25,90
+,,,Section Total,,,,,2606.25,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Replace plumbing lines and fixtures in bathroom.,51.1 sf,7700,0.75,%,13475,95
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Replace all kitchen plumbing fixtures and lines.,1 unit,3850,0.75,%,6737.5,90
+,,,Section Total,,,,,20212.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Installation,Installation of bathroom wall and floor tiles.,51.1 sf,4250,0.80,%,6000,85
+Tile,Kitchen,Tile Installation,Installation of kitchen floor tiles.,83 sf,2400,0.80,%,3600,85
+,,,Section Total,,,,,9600.00,
+
+,,,Overall Subtotal,,,,,82398.50,
+,,,General Conditions (10%),,,,,8239.85,
+,,,Grand Total,,,,,90638.35,

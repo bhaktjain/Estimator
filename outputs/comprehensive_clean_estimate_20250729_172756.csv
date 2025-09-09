@@ -1,0 +1,42 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Supply/Fabricate kitchen cabinets,Supply and installation of kitchen cabinets.,16,600,0.75,%,16800,85
+,,,Section Total,,,,,16800.00,
+
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Full Apartment,Commercial Cleaning,Final cleaning service,,1375,0.75,%,2406.25,95
+,,,Section Total,,,,,2406.25,
+
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertop,Installation of quartz kitchen countertop.,16,2000,0.75,%,28000,85
+,,,Section Total,,,,,28000.00,
+
+Demolition,,,,,,,,,
+Demolition,Bathroom,Full gut,Demolition of existing bathroom fixtures and finishes.,51.1,3300,0.75,%,5775,90
+Demolition,Kitchen,Full gut,"Demolition of existing kitchen cabinets, countertops, and appliances.",45.8,3300,0.75,%,5775,85
+,,,Section Total,,,,,11550.00,
+
+Electrical,,,,,,,,,
+Electrical,Full Apartment,Rewiring Full Apartment,Complete electrical rewiring,543 sf,17,0.75,%,16172.25,95
+,,,Section Total,,,,,16172.25,
+
+Needs to Review,,,,,,,,,
+Needs to Review,Full Apartment,Mini-split AC system,Installation of mini-split air conditioning system.,1,8250,0.75,%,14437.5,80
+,,,Section Total,,,,,14437.50,
+
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Full Gut Replacement,Replacement of all plumbing fixtures and systems.,51.1,9900,0.75,%,17325,90
+Plumbing,Kitchen,Full gut - existing location - 1 sink,Plumbing for kitchen renovation including sink.,45.8,3850,0.75,%,6737.5,85
+,,,Section Total,,,,,24062.50,
+
+Tile,,,,,,,,,
+Tile,Bathroom,Bathroom Floor Tile Installation,Installation of floor tiles in the bathroom,51.1 sf,2000,0.80,%,7650,90
+,,,Section Total,,,,,7650.00,
+
+Walls & Ceilings,,,,,,,,,
+Walls & Ceilings,Living Room,Install new moisture resistant drywall,Installation of drywall on walls and ceiling.,514.4,4,0.75,%,3590.4,85
+,,,Section Total,,,,,3590.40,
+
+,,,Overall Subtotal,,,,,124668.90,
+,,,General Conditions (10%),,,,,12466.89,
+,,,Grand Total,,,,,137135.79,

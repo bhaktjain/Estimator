@@ -1,0 +1,22 @@
+Mechanical *Minimum Price = N/A
+Target Margin = 50-60% Size/Type Unit Labor Material Category
+Sprinkler Head Replacement N/A UNIT $550 N/A Supply and install
+Sprinkler Line Replacement Supply and install
+*Minimum
+Price = $1,500
+Glazing *Allowance
+Target Margin = 70% Size/Type Unit Labor Material Category
+Prefab - Glass Enclosure QUOTE $600 Supply and install
+Fixed Single panel QUOTE $1,500 Supply and install
+Panel and Door (one fixed, one door) QUOTE $2,500 Supply and install
+Shower Enclosure (two fixed panels, one door) QUOTE $3,500 Supply and install
+*Minimum
+Accessories Price = $900
+Target Margin = 70% Size/Type Unit Labor Material Category
+Accessory Installation N/A UNIT $550 N/A Install
+Miscelanoeus *Minimum Price = $500
+Target Margin = 90% Size/Type Unit Labor Material Category
+Tub Reglazing N/A UNIT $550 N/A N/A
+N/A N/A N/A
+N/A N/A N/A
+N/A N/A N/A
