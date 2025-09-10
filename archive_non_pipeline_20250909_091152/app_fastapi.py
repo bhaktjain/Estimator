@@ -5,7 +5,7 @@ Deployed for Power Automate integration
 """
 
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Body
-from fastapi.responses import FileResponse, JSONResponse
+from fastapi.responses import FileResponse, JSONResponse, Response
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Optional
@@ -733,10 +733,77 @@ async def get_job_result(job_id: str, include_base64: bool = False):
                 try:
                     with open(new_path, 'rb') as f:
                         file_content = f.read()
-                        file_base64 = base64.b64encode(file_content).decode('utf-8')
-                        response_data["files"]["excel_file_base64"] = file_base64
+                    
+                    # Return the Excel file content directly with proper headers
+                    return Response(
+                        content=file_content,
+                        media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        headers={
+                            "Content-Disposition": f"attachment; filename={new_filename}",
+                            "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                        }
+                    )
                 except Exception as e:
-                    response_data["error"] = f"Failed to encode file: {str(e)}"
+                    raise HTTPException(status_code=500, detail=f"Failed to read file: {str(e)}")
+            
+            # Clean up temp directory
+            try:
+                shutil.rmtree(job['temp_dir'])
+            except:
+                pass
+            
+            return response_data
+        else:
+            raise HTTPException(status_code=500, detail="Excel file not found in result")
+    else:
+        raise HTTPException(status_code=500, detail=f"Unknown job status: {job['status']}")
+
+@app.get("/result_json/{job_id}")
+async def get_job_result_json(job_id: str):
+    """Get the result of a completed async estimation job as JSON with base64 content."""
+    if job_id not in jobs:
+        raise HTTPException(status_code=404, detail="Job not found")
+    
+    job = jobs[job_id]
+    
+    if job['status'] == 'queued':
+        raise HTTPException(status_code=202, detail="Job is still queued")
+    elif job['status'] == 'processing':
+        raise HTTPException(status_code=202, detail="Job is still processing")
+    elif job['status'] == 'failed':
+        raise HTTPException(status_code=400, detail=f"Job failed: {job['message']}")
+    elif job['status'] == 'completed':
+        result = job['result']
+        
+        # Copy Excel file to accessible location
+        excel_file_path = result["files"].get("excel_file")
+        if excel_file_path and os.path.exists(excel_file_path):
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            filename = os.path.basename(excel_file_path)
+            name, ext = os.path.splitext(filename)
+            new_filename = f"{name}_{job_id}_{timestamp}{ext}"
+            new_path = os.path.join(OUTPUT_FOLDER, new_filename)
+            
+            shutil.copy2(excel_file_path, new_path)
+            
+            # Always include base64 content in this endpoint
+            try:
+                with open(new_path, 'rb') as f:
+                    file_content = f.read()
+                    file_base64 = base64.b64encode(file_content).decode('utf-8')
+            except Exception as e:
+                raise HTTPException(status_code=500, detail=f"Failed to encode file: {str(e)}")
+            
+            response_data = {
+                "status": "success",
+                "message": "Estimation completed successfully",
+                "files": {
+                    "excel_file": new_filename,
+                    "excel_file_base64": file_base64
+                },
+                "download_urls": {"excel_file": f"/download/{new_filename}"},
+                "metadata": result.get("metadata", {})
+            }
             
             # Clean up temp directory
             try:
