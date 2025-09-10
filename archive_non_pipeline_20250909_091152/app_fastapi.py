@@ -693,7 +693,7 @@ async def get_job_status(job_id: str):
     }
 
 @app.get("/result/{job_id}")
-async def get_job_result(job_id: str):
+async def get_job_result(job_id: str, include_base64: bool = False):
     """Get the result of a completed async estimation job."""
     if job_id not in jobs:
         raise HTTPException(status_code=404, detail="Job not found")
@@ -720,19 +720,31 @@ async def get_job_result(job_id: str):
             
             shutil.copy2(excel_file_path, new_path)
             
-            # Clean up temp directory
-            try:
-                shutil.rmtree(job['temp_dir'])
-            except:
-                pass
-            
-            return {
+            response_data = {
                 "status": "success",
                 "message": "Estimation completed successfully",
                 "files": {"excel_file": new_filename},
                 "download_urls": {"excel_file": f"/download/{new_filename}"},
                 "metadata": result.get("metadata", {})
             }
+            
+            # Include base64 content if requested
+            if include_base64:
+                try:
+                    with open(new_path, 'rb') as f:
+                        file_content = f.read()
+                        file_base64 = base64.b64encode(file_content).decode('utf-8')
+                        response_data["files"]["excel_file_base64"] = file_base64
+                except Exception as e:
+                    response_data["error"] = f"Failed to encode file: {str(e)}"
+            
+            # Clean up temp directory
+            try:
+                shutil.rmtree(job['temp_dir'])
+            except:
+                pass
+            
+            return response_data
         else:
             raise HTTPException(status_code=500, detail="Excel file not found in result")
     else:
