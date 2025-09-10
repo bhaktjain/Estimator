@@ -237,8 +237,10 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
         # Build the pipeline command
         master_pricing_pdf = "Master Pricing Sheet - Q1 - 2025 (2).pdf"
         prompt_file = "estimation_prompt.txt"
+        
+        # Use python3 directly (no venv activation needed on Render)
         cmd = (
-            f'source venv/bin/activate && python3 run_chunked_estimation.py '
+            f'python3 run_chunked_estimation.py '
             f'--transcript {shlex.quote(transcript_path)} '
             f'--polycam {shlex.quote(polycam_path)} '
             f'--master_pricing {shlex.quote(master_pricing_pdf)} '
