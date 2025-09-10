@@ -19,6 +19,9 @@ import requests
 import json
 from werkzeug.utils import secure_filename
 import base64
+import uuid
+import threading
+import time
 
 app = FastAPI(
     title="Renovation Estimation API",
@@ -44,12 +47,37 @@ MAX_CONTENT_LENGTH = 50 * 1024 * 1024  # 50MB max file size
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
+# Job storage for async processing
+jobs = {}  # In production, use Redis or database
+
 # Allowed file extensions
 ALLOWED_EXTENSIONS = {'pdf', 'json'}
 
 def allowed_file(filename):
     """Check if file has allowed extension."""
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+def process_estimation_async(job_id, transcript_path, polycam_path, api_key, max_tokens):
+    """Process estimation in background thread."""
+    try:
+        jobs[job_id]['status'] = 'processing'
+        jobs[job_id]['message'] = 'Starting estimation...'
+        
+        result = estimate_renovation(transcript_path, polycam_path, api_key, str(max_tokens))
+        
+        if result["status"] == "success":
+            jobs[job_id]['status'] = 'completed'
+            jobs[job_id]['result'] = result
+            jobs[job_id]['message'] = 'Estimation completed successfully'
+        else:
+            jobs[job_id]['status'] = 'failed'
+            jobs[job_id]['message'] = result.get("message", "Estimation failed")
+            
+    except Exception as e:
+        jobs[job_id]['status'] = 'failed'
+        jobs[job_id]['message'] = f"Error: {str(e)}"
+    finally:
+        jobs[job_id]['completed_at'] = datetime.now().isoformat()
 
 # Pydantic models for request/response
 class FlexibleEstimateRequest(BaseModel):
@@ -528,6 +556,188 @@ async def list_files():
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error listing files: {str(e)}")
 
+# Async estimation endpoints
+@app.post("/estimate_async")
+async def estimate_async(payload: FlexibleEstimateRequest = Body(...)):
+    """Submit async estimation request - returns job ID immediately."""
+    try:
+        job_id = str(uuid.uuid4())
+        
+        # Prepare files
+        temp_dir = tempfile.mkdtemp(prefix=f'async_estimate_{job_id}_')
+        transcript_path = None
+        polycam_path = None
+
+        try:
+            # Transcript resolution (same as estimate_json)
+            if payload.transcript_json is not None:
+                transcript_path = os.path.join(temp_dir, 'transcript.json')
+                with open(transcript_path, 'w', encoding='utf-8') as f:
+                    json.dump(payload.transcript_json, f, indent=2, ensure_ascii=False)
+            elif payload.transcript_base64:
+                try:
+                    text = base64.b64decode(payload.transcript_base64.encode('utf-8')).decode('utf-8')
+                    data = json.loads(text)
+                    transcript_path = os.path.join(temp_dir, 'transcript.json')
+                    with open(transcript_path, 'w', encoding='utf-8') as f:
+                        json.dump(data, f, indent=2, ensure_ascii=False)
+                except Exception:
+                    raise HTTPException(status_code=400, detail="Invalid transcript_base64")
+            elif payload.transcript_url:
+                try:
+                    r = requests.get(payload.transcript_url, timeout=60)
+                    r.raise_for_status()
+                    try:
+                        data = r.json()
+                        transcript_path = os.path.join(temp_dir, 'transcript.json')
+                        with open(transcript_path, 'w', encoding='utf-8') as f:
+                            json.dump(data, f, indent=2, ensure_ascii=False)
+                    except ValueError:
+                        transcript_path = os.path.join(temp_dir, 'transcript.json')
+                        with open(transcript_path, 'wb') as f:
+                            f.write(r.content)
+                except Exception as e:
+                    raise HTTPException(status_code=400, detail=f"Failed to fetch transcript_url: {str(e)}")
+            else:
+                raise HTTPException(status_code=400, detail="Provide transcript_json, transcript_base64, or transcript_url")
+
+            # Polycam resolution (same as estimate_json)
+            if payload.polycam_base64:
+                try:
+                    pdf_bytes = base64.b64decode(payload.polycam_base64.encode('utf-8'))
+                    polycam_path = os.path.join(temp_dir, 'polycam.pdf')
+                    with open(polycam_path, 'wb') as f:
+                        f.write(pdf_bytes)
+                except Exception:
+                    raise HTTPException(status_code=400, detail="Invalid polycam_base64")
+            elif payload.polycam_url:
+                try:
+                    r = requests.get(payload.polycam_url, stream=True, timeout=60)
+                    r.raise_for_status()
+                    polycam_path = os.path.join(temp_dir, 'polycam.pdf')
+                    with open(polycam_path, 'wb') as f:
+                        for chunk in r.iter_content(8192):
+                            if chunk:
+                                f.write(chunk)
+                except Exception as e:
+                    raise HTTPException(status_code=400, detail=f"Failed to download polycam_url: {str(e)}")
+            else:
+                raise HTTPException(status_code=400, detail="Provide polycam_url or polycam_base64")
+
+            # API key
+            api_key = payload.api_key or os.environ.get('OPENAI_API_KEY')
+            if not api_key:
+                raise HTTPException(status_code=400, detail="No API key provided")
+
+            # Initialize job
+            jobs[job_id] = {
+                'status': 'queued',
+                'message': 'Job queued for processing',
+                'created_at': datetime.now().isoformat(),
+                'temp_dir': temp_dir,
+                'transcript_path': transcript_path,
+                'polycam_path': polycam_path,
+                'api_key': api_key,
+                'max_tokens': payload.max_tokens or 3000
+            }
+
+            # Start background processing
+            thread = threading.Thread(
+                target=process_estimation_async,
+                args=(job_id, transcript_path, polycam_path, api_key, payload.max_tokens or 3000)
+            )
+            thread.daemon = True
+            thread.start()
+
+            return {
+                "status": "queued",
+                "job_id": job_id,
+                "message": "Estimation job queued successfully",
+                "check_status_url": f"/status/{job_id}",
+                "get_result_url": f"/result/{job_id}"
+            }
+
+        except HTTPException:
+            # Clean up temp directory on error
+            try:
+                shutil.rmtree(temp_dir)
+            except:
+                pass
+            raise
+        except Exception as e:
+            # Clean up temp directory on error
+            try:
+                shutil.rmtree(temp_dir)
+            except:
+                pass
+            raise HTTPException(status_code=500, detail=f"Error setting up async job: {str(e)}")
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Unexpected error: {str(e)}")
+
+@app.get("/status/{job_id}")
+async def get_job_status(job_id: str):
+    """Get the status of an async estimation job."""
+    if job_id not in jobs:
+        raise HTTPException(status_code=404, detail="Job not found")
+    
+    job = jobs[job_id]
+    return {
+        "job_id": job_id,
+        "status": job['status'],
+        "message": job['message'],
+        "created_at": job['created_at'],
+        "completed_at": job.get('completed_at')
+    }
+
+@app.get("/result/{job_id}")
+async def get_job_result(job_id: str):
+    """Get the result of a completed async estimation job."""
+    if job_id not in jobs:
+        raise HTTPException(status_code=404, detail="Job not found")
+    
+    job = jobs[job_id]
+    
+    if job['status'] == 'queued':
+        raise HTTPException(status_code=202, detail="Job is still queued")
+    elif job['status'] == 'processing':
+        raise HTTPException(status_code=202, detail="Job is still processing")
+    elif job['status'] == 'failed':
+        raise HTTPException(status_code=400, detail=f"Job failed: {job['message']}")
+    elif job['status'] == 'completed':
+        result = job['result']
+        
+        # Copy Excel file to accessible location
+        excel_file_path = result["files"].get("excel_file")
+        if excel_file_path and os.path.exists(excel_file_path):
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            filename = os.path.basename(excel_file_path)
+            name, ext = os.path.splitext(filename)
+            new_filename = f"{name}_{job_id}_{timestamp}{ext}"
+            new_path = os.path.join(OUTPUT_FOLDER, new_filename)
+            
+            shutil.copy2(excel_file_path, new_path)
+            
+            # Clean up temp directory
+            try:
+                shutil.rmtree(job['temp_dir'])
+            except:
+                pass
+            
+            return {
+                "status": "success",
+                "message": "Estimation completed successfully",
+                "files": {"excel_file": new_filename},
+                "download_urls": {"excel_file": f"/download/{new_filename}"},
+                "metadata": result.get("metadata", {})
+            }
+        else:
+            raise HTTPException(status_code=500, detail="Excel file not found in result")
+    else:
+        raise HTTPException(status_code=500, detail=f"Unknown job status: {job['status']}")
+
 @app.get("/")
 async def index():
     """API documentation."""
@@ -537,6 +747,9 @@ async def index():
         "endpoints": {
             "POST /estimate": "Submit renovation estimation request (multipart/form-data)",
             "POST /estimate_json": "Submit renovation estimation request (JSON body)",
+            "POST /estimate_async": "Submit async renovation estimation request (returns job ID immediately)",
+            "GET /status/{job_id}": "Check status of async estimation job",
+            "GET /result/{job_id}": "Get results of completed estimation job",
             "GET /health": "Health check",
             "GET /files": "List available output files",
             "GET /download/<filename>": "Download generated files",
