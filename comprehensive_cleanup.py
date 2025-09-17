@@ -181,14 +181,24 @@ def recategorize_items(items):
         new_category = None
         
         # HIGHEST PRIORITY - DEMOLITION (must come first!)
-        if ('gut' in name or 'gut' in description or
+        # Note: Do NOT classify as Demolition if the item is clearly plumbing-centric
+        # (e.g., "full gut plumbing" should remain under Plumbing).
+        demolition_trigger = (
+            'gut' in name or 'gut' in description or
             'demolition' in name or 'demolition' in description or
             'demo' in name or 'demo' in description or
             'remove all' in name or 'remove all' in description or
             'remove existing' in name or 'remove existing' in description or
             'tear out' in name or 'tear out' in description or
             'strip' in name or 'strip' in description or
-            'pre-construction' in name or 'pre-construction' in description) and 'flooring' not in name and 'flooring' not in description:
+            'pre-construction' in name or 'pre-construction' in description
+        )
+        plumbing_mentioned = (
+            'plumb' in name or 'plumb' in description or
+            'plumbing' in name or 'plumbing' in description
+        )
+
+        if demolition_trigger and not plumbing_mentioned:
             new_category = 'Demolition'
         
         # SECOND PRIORITY - Very specific items (only if not demolition)
@@ -215,7 +225,9 @@ def recategorize_items(items):
         elif ('waterproof' in name or 'waterproof' in description or
               'moisture' in name or 'membrane' in name or 'vapor barrier' in name):
             new_category = 'Waterproofing'
-        elif ('tile' in name or 'tile' in description and 'backsplash' not in name):
+        elif ('tile' in name or 'tile' in description) and \
+             ('backsplash' not in name) and \
+             ('demolition' not in name and 'demo' not in name and 'gut' not in name):
             new_category = 'Tile'
         
         # FOURTH PRIORITY - Construction work
@@ -1634,6 +1646,27 @@ def identify_work_type(item):
     desc = normalize_item_name(item.get('Description', ''))
     combined = f"{name} {desc}".lower()
     
+    # Check item name first for more specific categorization
+    if 'plumbing' in name.lower():
+        return 'plumbing'
+    if 'electrical' in name.lower():
+        return 'electrical'
+    if 'demolition' in name.lower() or 'demo' in name.lower():
+        return 'demolition'
+    if 'cabinet' in name.lower():
+        return 'cabinetry'
+    if 'countertop' in name.lower():
+        return 'countertop'
+    if 'tile' in name.lower():
+        return 'tile'
+    if 'flooring' in name.lower() or 'floor' in name.lower():
+        return 'flooring'
+    if 'paint' in name.lower():
+        return 'painting'
+    if 'backsplash' in name.lower():
+        return 'backsplash'
+    
+    # If item name doesn't give clear indication, check description
     work_types = {
         'demolition': ['demolition', 'demo', 'gut', 'remove', 'tear out', 'strip'],
         'electrical': ['electrical', 'wiring', 'outlet', 'switch', 'light', 'panel', 'rewiring'],
@@ -1806,8 +1839,13 @@ def main():
         print("[ERROR] No comprehensive clean CSV files found after aggregation")
         return
     
-    # Get the most recent CSV file
-    latest_csv = max(csv_files, key=os.path.getctime)
+    # Prefer the base aggregated CSV if present to ensure full item set
+    base_csv = os.path.join(latest_dir, 'comprehensive_clean_estimate.csv')
+    if base_csv in csv_files:
+        latest_csv = base_csv
+    else:
+        # Fallback to most recent
+        latest_csv = max(csv_files, key=os.path.getctime)
     print(f"[INFO] Processing CSV file: {latest_csv}")
     
     # Read the CSV file

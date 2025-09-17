@@ -60,7 +60,8 @@ def main():
     if not api_key:
         raise ValueError("OpenAI API key must be provided via --api_key or OPENAI_API_KEY environment variable.")
 
-    client = openai.OpenAI(api_key=api_key)
+    # Set API key for older OpenAI version
+    openai.api_key = api_key
     
     # Extract text content from all files
     file_contents = []
@@ -138,7 +139,7 @@ def main():
     print(f"[INFO] Total prompt length: {len(complete_prompt)} characters")
     
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4o",
             messages=[
                 {

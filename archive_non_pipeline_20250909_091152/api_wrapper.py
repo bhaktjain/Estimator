@@ -316,7 +316,7 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
         print(f"[API] ✅ Comprehensive cleanup completed. Output: {output[:200]}...")
         
         # Validate that cleanup actually produced output
-        if "Comprehensive cleanup completed successfully" not in output:
+        if "Comprehensive cleanup completed successfully" not in output and "Final Excel written" not in output:
             response["message"] = "Comprehensive cleanup may have failed - missing completion indicators"
             print(f"[API] ❌ Comprehensive cleanup may have failed - missing completion indicators")
             print(f"[API] Cleanup output: {output[:500]}...")
