@@ -51,7 +51,7 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 jobs = {}  # In production, use Redis or database
 
 # Allowed file extensions
-ALLOWED_EXTENSIONS = {'pdf', 'json'}
+ALLOWED_EXTENSIONS = {'pdf', 'json', 'txt'}
 
 def allowed_file(filename):
     """Check if file has allowed extension."""
@@ -127,7 +127,7 @@ async def estimate(
     Main estimation endpoint.
     
     Expected form data:
-    - transcript: PDF file (transcript)
+    - transcript: PDF, JSON, or TXT file (transcript)
     - polycam: PDF file (polycam measurements)
     - transcript_json: JSON transcript data (alternative to transcript file)
     - polycam_url: URL to polycam PDF (alternative to polycam file)
@@ -160,7 +160,7 @@ async def estimate(
             elif transcript:
                 # Handle uploaded transcript file
                 if not allowed_file(transcript.filename):
-                    raise HTTPException(status_code=400, detail="Invalid transcript file type. Only PDF and JSON files are allowed.")
+                    raise HTTPException(status_code=400, detail="Invalid transcript file type. Only PDF, JSON, and TXT files are allowed.")
                 
                 transcript_path = os.path.join(temp_dir, secure_filename(transcript.filename))
                 with open(transcript_path, 'wb') as f:
@@ -296,27 +296,41 @@ async def estimate_json(payload: FlexibleEstimateRequest = Body(...)):
             elif payload.transcript_base64:
                 try:
                     text = base64.b64decode(payload.transcript_base64.encode('utf-8')).decode('utf-8')
-                    data = json.loads(text)
-                    transcript_path = os.path.join(temp_dir, 'transcript.json')
-                    with open(transcript_path, 'w', encoding='utf-8') as f:
-                        json.dump(data, f, indent=2, ensure_ascii=False)
+                    # Try to parse as JSON first
+                    try:
+                        data = json.loads(text)
+                        transcript_path = os.path.join(temp_dir, 'transcript.json')
+                        with open(transcript_path, 'w', encoding='utf-8') as f:
+                            json.dump(data, f, indent=2, ensure_ascii=False)
+                    except json.JSONDecodeError:
+                        # If not JSON, save as plain text
+                        transcript_path = os.path.join(temp_dir, 'transcript.txt')
+                        with open(transcript_path, 'w', encoding='utf-8') as f:
+                            f.write(text)
                 except Exception:
-                    raise HTTPException(status_code=400, detail="Invalid transcript_base64 (must be base64-encoded JSON text)")
+                    raise HTTPException(status_code=400, detail="Invalid transcript_base64 (must be base64-encoded text)")
             elif payload.transcript_url:
                 try:
                     r = requests.get(payload.transcript_url, timeout=60)
                     r.raise_for_status()
-                    # If URL returns JSON text
+                    # Try to parse as JSON first
                     try:
                         data = r.json()
                         transcript_path = os.path.join(temp_dir, 'transcript.json')
                         with open(transcript_path, 'w', encoding='utf-8') as f:
                             json.dump(data, f, indent=2, ensure_ascii=False)
                     except ValueError:
-                        # Fallback: save as file
-                        transcript_path = os.path.join(temp_dir, 'transcript.json')
-                        with open(transcript_path, 'wb') as f:
-                            f.write(r.content)
+                        # If not JSON, check content type or save as text
+                        content_type = r.headers.get('content-type', '').lower()
+                        if 'text' in content_type or 'plain' in content_type:
+                            transcript_path = os.path.join(temp_dir, 'transcript.txt')
+                            with open(transcript_path, 'w', encoding='utf-8') as f:
+                                f.write(r.text)
+                        else:
+                            # Fallback: save as received
+                            transcript_path = os.path.join(temp_dir, 'transcript.txt')
+                            with open(transcript_path, 'wb') as f:
+                                f.write(r.content)
                 except Exception as e:
                     raise HTTPException(status_code=400, detail=f"Failed to fetch transcript_url: {str(e)}")
             else:
@@ -577,25 +591,40 @@ async def estimate_async(payload: FlexibleEstimateRequest = Body(...)):
             elif payload.transcript_base64:
                 try:
                     text = base64.b64decode(payload.transcript_base64.encode('utf-8')).decode('utf-8')
-                    data = json.loads(text)
-                    transcript_path = os.path.join(temp_dir, 'transcript.json')
-                    with open(transcript_path, 'w', encoding='utf-8') as f:
-                        json.dump(data, f, indent=2, ensure_ascii=False)
+                    # Try to parse as JSON first
+                    try:
+                        data = json.loads(text)
+                        transcript_path = os.path.join(temp_dir, 'transcript.json')
+                        with open(transcript_path, 'w', encoding='utf-8') as f:
+                            json.dump(data, f, indent=2, ensure_ascii=False)
+                    except json.JSONDecodeError:
+                        # If not JSON, save as plain text
+                        transcript_path = os.path.join(temp_dir, 'transcript.txt')
+                        with open(transcript_path, 'w', encoding='utf-8') as f:
+                            f.write(text)
                 except Exception:
                     raise HTTPException(status_code=400, detail="Invalid transcript_base64")
             elif payload.transcript_url:
                 try:
                     r = requests.get(payload.transcript_url, timeout=60)
                     r.raise_for_status()
+                    # Try to parse as JSON first
                     try:
                         data = r.json()
                         transcript_path = os.path.join(temp_dir, 'transcript.json')
                         with open(transcript_path, 'w', encoding='utf-8') as f:
                             json.dump(data, f, indent=2, ensure_ascii=False)
                     except ValueError:
-                        transcript_path = os.path.join(temp_dir, 'transcript.json')
-                        with open(transcript_path, 'wb') as f:
-                            f.write(r.content)
+                        # If not JSON, save as text
+                        content_type = r.headers.get('content-type', '').lower()
+                        if 'text' in content_type or 'plain' in content_type:
+                            transcript_path = os.path.join(temp_dir, 'transcript.txt')
+                            with open(transcript_path, 'w', encoding='utf-8') as f:
+                                f.write(r.text)
+                        else:
+                            transcript_path = os.path.join(temp_dir, 'transcript.txt')
+                            with open(transcript_path, 'wb') as f:
+                                f.write(r.content)
                 except Exception as e:
                     raise HTTPException(status_code=400, detail=f"Failed to fetch transcript_url: {str(e)}")
             else:
@@ -840,7 +869,7 @@ async def index():
                 "url": "/estimate",
                 "content_type": "multipart/form-data",
                 "parameters": {
-                    "transcript": "PDF file (transcript)",
+                    "transcript": "PDF, JSON, or TXT file (transcript)",
                     "polycam": "PDF file (polycam measurements)", 
                     "transcript_json": "JSON transcript data (alternative to transcript file)",
                     "polycam_url": "URL to polycam PDF (alternative to polycam file)",
@@ -856,8 +885,8 @@ async def index():
                 "content_type": "application/json",
                 "parameters": {
                     "transcript_json": "JSON transcript data (dict)",
-                    "transcript_base64": "Base64-encoded JSON text (alternative to transcript_json)",
-                    "transcript_url": "URL to JSON transcript (alternative to transcript_json)",
+                    "transcript_base64": "Base64-encoded text (JSON or plain text, auto-detected)",
+                    "transcript_url": "URL to transcript (JSON or TXT, auto-detected)",
                     "polycam_base64": "Base64-encoded PDF bytes",
                     "polycam_url": "URL to polycam PDF (alternative to polycam_base64)",
                     "api_key": "Optional: OpenAI API key (or set OPENAI_API_KEY env var)",

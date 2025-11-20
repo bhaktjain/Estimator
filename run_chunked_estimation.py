@@ -104,10 +104,10 @@ def main():
         
         # Determine transcript type by extension; do not read binary PDFs as text
         transcript_lower = str(args.transcript).lower()
-        if transcript_lower.endswith('.json'):
+        if transcript_lower.endswith('.json') or transcript_lower.endswith('.txt') or transcript_lower.endswith('.pdf'):
             transcript_to_process = args.transcript
         else:
-            # Assume PDF or other supported types handled by process_transcript
+            # Assume supported types handled by process_transcript
             transcript_to_process = args.transcript
         
         # Get the directory where this script is located

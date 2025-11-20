@@ -214,8 +214,36 @@ def process_json_transcript(json_path, output_dir, max_tokens):
         print(f"[ERROR] Failed to process JSON: {e}")
         return False
 
+def process_txt_transcript(txt_path, output_dir, max_tokens):
+    """Process plain text transcript"""
+    try:
+        with open(txt_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+        
+        if not text.strip():
+            print(f"[ERROR] No text found in file: {txt_path}")
+            return False
+        
+        print(f"[INFO] Read {len(text)} characters from text transcript")
+        
+        # Split into chunks
+        chunks = split_by_tokens(text, max_tokens)
+        
+        # Save chunks
+        for i, chunk in enumerate(chunks):
+            chunk_file = os.path.join(output_dir, f'chunk_{i+1}.txt')
+            with open(chunk_file, 'w', encoding='utf-8') as f:
+                f.write(chunk)
+        
+        print(f"[INFO] Created {len(chunks)} chunks from text file")
+        return True
+        
+    except Exception as e:
+        print(f"[ERROR] Failed to process text file: {e}")
+        return False
+
 def process_transcript(input_path, output_dir, max_tokens):
-    """Process transcript file (PDF or JSON)"""
+    """Process transcript file (PDF, JSON, or TXT)"""
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
     
@@ -224,13 +252,15 @@ def process_transcript(input_path, output_dir, max_tokens):
         return process_pdf_transcript(input_path, output_dir, max_tokens)
     elif input_path.lower().endswith('.json'):
         return process_json_transcript(input_path, output_dir, max_tokens)
+    elif input_path.lower().endswith('.txt'):
+        return process_txt_transcript(input_path, output_dir, max_tokens)
     else:
         print(f"[ERROR] Unsupported file type: {input_path}")
         return False
 
 def main():
-    parser = argparse.ArgumentParser(description="Process transcript files (PDF or JSON) with enhanced chunking")
-    parser.add_argument("input_file", help="Path to transcript file (PDF or JSON)")
+    parser = argparse.ArgumentParser(description="Process transcript files (PDF, JSON, or TXT) with enhanced chunking")
+    parser.add_argument("input_file", help="Path to transcript file (PDF, JSON, or TXT)")
     parser.add_argument("--output_dir", required=True, help="Output directory for chunks")
     parser.add_argument("--max_tokens", type=int, default=3000, help="Max tokens per chunk")
     args = parser.parse_args()
