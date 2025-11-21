@@ -59,9 +59,6 @@ def main():
     api_key = args.api_key or os.environ.get("OPENAI_API_KEY")
     if not api_key:
         raise ValueError("OpenAI API key must be provided via --api_key or OPENAI_API_KEY environment variable.")
-
-    # Set API key for older OpenAI version
-    openai.api_key = api_key
     
     # Extract text content from all files
     file_contents = []
@@ -134,12 +131,16 @@ def main():
             "- Polycam measurements unavailable: infer room areas and linear feet using standard residential assumptions (e.g., kitchen counter depth ~2.5 ft, small bath tile ~60-80 SF) and clearly tag them as assumed.\n"
         )
 
-    # Use Chat Completions API
+    # Use Chat Completions API (new OpenAI v1.0+ syntax)
     print("[INFO] Sending request to OpenAI Chat Completions API...")
     print(f"[INFO] Total prompt length: {len(complete_prompt)} characters")
     
     try:
-        response = openai.ChatCompletion.create(
+        # Create OpenAI client (new v1.0+ syntax)
+        from openai import OpenAI
+        client = OpenAI(api_key=api_key)
+        
+        response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
                 {
