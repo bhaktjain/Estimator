@@ -259,8 +259,8 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
         if transcript_size > 50000:  # 50KB
             print(f"[API] 📁 Large transcript detected - Using optimized processing")
         
-        # Set longer timeout for large files
-        timeout_seconds = 600 if transcript_size > 50000 else 300
+        # Set longer timeout for large files (increased for GPT processing time)
+        timeout_seconds = 1200 if transcript_size > 50000 else 600  # 20 minutes for large files
         
         # Build the pipeline command
         master_pricing_pdf = "Master Pricing Sheet - Q1 - 2025 (2).pdf"
@@ -283,6 +283,9 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
         env['OPENAI_API_KEY'] = api_key
         
         # Execute the pipeline with timeout
+        print(f"[API] ⏱️  Timeout set to {timeout_seconds} seconds ({timeout_seconds/60:.1f} minutes)")
+        print(f"[API] 🔄 Processing {transcript_size} bytes transcript - this may take several minutes...")
+        
         try:
             result = subprocess.run(
                 cmd,
@@ -296,8 +299,9 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
             output = result.stdout
             print(f"[API] ✅ Pipeline execution completed. Output: {output[:200]}...")
         except subprocess.TimeoutExpired:
-            response["message"] = f"Pipeline execution timed out after {timeout_seconds} seconds. Large transcript may need manual processing."
+            response["message"] = f"Pipeline execution timed out after {timeout_seconds} seconds ({timeout_seconds/60:.1f} minutes). The transcript is very large and GPT processing is taking longer than expected. Please try again or contact support."
             print(f"[API] ❌ Pipeline execution timed out after {timeout_seconds} seconds")
+            print(f"[API] 💡 Tip: Large transcripts with 10+ chunks can take 15-20 minutes to process")
             return response
         except subprocess.CalledProcessError as e:
             response["message"] = f"Pipeline execution failed: {e}"
