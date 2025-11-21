@@ -360,10 +360,28 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
                         first_chunk = os.path.join(latest_path, chunk_files[0])
                         try:
                             with open(first_chunk, 'r', encoding='utf-8') as f:
-                                chunk_content = f.read()[:500]
-                            print(f"[API] First chunk content sample: {chunk_content}")
-                        except:
-                            pass
+                                chunk_content = f.read()
+                            print(f"[API] First chunk content sample (first 1000 chars): {chunk_content[:1000]}")
+                            print(f"[API] First chunk total length: {len(chunk_content)} characters")
+                            
+                            # Check for refusal patterns
+                            refusal_patterns = [
+                                "cannot provide", "unable to provide", "I cannot", "I'm unable",
+                                "not able to", "insufficient information", "I apologize",
+                                "I don't have", "cannot create", "unable to create"
+                            ]
+                            for pattern in refusal_patterns:
+                                if pattern.lower() in chunk_content.lower():
+                                    print(f"[API] ⚠️ REFUSAL DETECTED: Found pattern '{pattern}' in GPT response")
+                                    break
+                            
+                            # Check if it has JSON
+                            if '```json' in chunk_content:
+                                print(f"[API] ✅ GPT returned JSON format")
+                            else:
+                                print(f"[API] ❌ GPT did NOT return JSON format - returned plain text instead")
+                        except Exception as e:
+                            print(f"[API] Error reading chunk file: {e}")
                 return response
             else:
                 response["message"] = "Comprehensive cleanup may have failed - missing completion indicators"
