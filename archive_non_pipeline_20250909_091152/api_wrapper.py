@@ -219,17 +219,45 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
             except Exception as e:
                 response["message"] = f"Failed to validate transcript JSON: {str(e)}"
                 return response
+                
+        elif transcript_ext == '.txt':
+            # Validate TXT transcript
+            try:
+                # Check if file is empty first
+                if os.path.getsize(transcript_path) == 0:
+                    response["message"] = "Transcript TXT file is empty"
+                    return response
+                
+                with open(transcript_path, 'r', encoding='utf-8') as f:
+                    content = f.read().strip()
+                    
+                if not content:
+                    response["message"] = "Transcript TXT file contains no content"
+                    return response
+                
+                if len(content) < 50:
+                    response["message"] = "Transcript TXT contains insufficient text content (minimum 50 characters required)"
+                    return response
+                    
+                print(f"[API] ✅ TXT transcript validated: {len(content)} characters")
+                    
+            except Exception as e:
+                response["message"] = f"Failed to validate transcript TXT: {str(e)}"
+                return response
         else:
-            response["message"] = f"Unsupported transcript file type: {transcript_ext}. Only PDF and JSON files are supported."
+            response["message"] = f"Unsupported transcript file type: {transcript_ext}. Only PDF, JSON, and TXT files are supported."
             return response
         
         # Step 1: Running estimation pipeline...
         print("[API] Step 1: Running estimation pipeline...")
+        print(f"[API] Transcript: {transcript_path} ({transcript_ext})")
+        print(f"[API] Polycam: {polycam_path}")
         
         # For large transcripts, show progress
         transcript_size = os.path.getsize(transcript_path)
+        print(f"[API] Transcript size: {transcript_size} bytes ({transcript_size/1024:.1f}KB)")
         if transcript_size > 50000:  # 50KB
-            print(f"[API] 📁 Large transcript detected: {transcript_size/1024:.1f}KB - Using optimized processing")
+            print(f"[API] 📁 Large transcript detected - Using optimized processing")
         
         # Set longer timeout for large files
         timeout_seconds = 600 if transcript_size > 50000 else 300
