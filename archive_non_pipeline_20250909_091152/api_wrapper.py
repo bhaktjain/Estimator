@@ -308,6 +308,7 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
         if "Estimation pipeline complete" not in output and "Next step: Run comprehensive cleanup" not in output:
             response["message"] = "Pipeline execution may have failed - missing completion indicators"
             print(f"[API] ❌ Pipeline may have failed - missing completion indicators in output")
+            print(f"[API] Pipeline output (first 1000 chars): {output[:1000]}")
             return response
         
         # Step 2: Find the latest output directory
@@ -345,10 +346,30 @@ def estimate_renovation(transcript_path, polycam_path, api_key, max_tokens="3000
         
         # Validate that cleanup actually produced output
         if "Comprehensive cleanup completed successfully" not in output and "Final Excel written" not in output:
-            response["message"] = "Comprehensive cleanup may have failed - missing completion indicators"
-            print(f"[API] ❌ Comprehensive cleanup may have failed - missing completion indicators")
-            print(f"[API] Cleanup output: {output[:500]}...")
-            return response
+            # Check if it's a "no items found" issue
+            if "No items found" in output or "WARNING" in output:
+                response["message"] = "GPT did not return properly formatted estimates. This usually means: 1) The transcript content was insufficient for estimation, 2) GPT refused to provide estimates, or 3) The response format was incorrect. Please check that your transcript contains detailed renovation scope information."
+                print(f"[API] ❌ GPT formatting issue detected")
+                print(f"[API] Cleanup output: {output[:1000]}")
+                
+                # Try to provide more specific guidance
+                if latest_path:
+                    chunk_files = [f for f in os.listdir(latest_path) if f.startswith('estimate_output_chunk_') and f.endswith('.txt')]
+                    if chunk_files:
+                        print(f"[API] Found {len(chunk_files)} chunk output files - checking first one for details...")
+                        first_chunk = os.path.join(latest_path, chunk_files[0])
+                        try:
+                            with open(first_chunk, 'r', encoding='utf-8') as f:
+                                chunk_content = f.read()[:500]
+                            print(f"[API] First chunk content sample: {chunk_content}")
+                        except:
+                            pass
+                return response
+            else:
+                response["message"] = "Comprehensive cleanup may have failed - missing completion indicators"
+                print(f"[API] ❌ Comprehensive cleanup may have failed - missing completion indicators")
+                print(f"[API] Cleanup output: {output[:1000]}")
+                return response
         
         # Step 4: Collect results
         print("[API] Step 4: Collecting results...")
