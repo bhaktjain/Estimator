@@ -1,0 +1,31 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Guest Bathroom,Full gut demolition,"Remove all fixtures, tiles, and flooring in the guest bathroom.",58 SF,"$2,200 per unit",0.75,nan,3850.0,95.0
+Demolition,Main Bathroom,Full gut demolition,"Remove all fixtures, tiles, and flooring in the main bathroom.",72 SF,"$2,750 per unit",0.75,nan,4812.5,95.0
+Demolition,Lounge Room,Wall removal and opening,Remove wall(s) and create opening in lounge room to make space less claustrophobic.,1 UNIT,"$2,200 per UNIT",0.75,nan,3850.0,90.0
+Demolition,Various,Wall removal and modification,Remove and modify walls as discussed to improve space flow.,1 UNIT,"$2,200 per UNIT",0.75,nan,3850.0,85.0
+,,,,,,,,16362.50,
+Electrical,,,,,,,,,
+Electrical,Guest Bathroom,Electrical rewiring,Rewire electrical systems in the guest bathroom.,58 SF,$17 per SF,0.75,nan,1727.5,90.0
+Electrical,Main Bathroom,Electrical rewiring,Rewire electrical systems in the main bathroom.,72 SF,$17 per SF,0.75,nan,2145.0,90.0
+,,,,,,,,3872.50,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-construction cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$1,925 per unit",0.75,nan,3368.75,95.0
+,,,,,,,,3368.75,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire Apartment,Interior painting,Paint all walls and ceilings throughout the apartment.,800 SF,$4.50 per SF,0.75,nan,6300.0,95.0
+,,,,,,,,6300.00,
+Plumbing,,,,,,,,,
+Plumbing,Guest Bathroom,Full gut plumbing,Install new plumbing fixtures and lines in the guest bathroom.,58 SF,"$7,700 per unit",0.75,nan,13475.0,95.0
+Plumbing,Main Bathroom,Full gut plumbing,Install new plumbing fixtures and lines in the main bathroom.,72 SF,"$8,800 per unit",0.75,nan,15400.0,95.0
+,,,,,,,,28875.00,
+Tile,,,,,,,,,
+Tile,Guest Bathroom,Tile installation,Install new tiles on walls and floors in the guest bathroom.,58 SF,"$2,600 per unit",0.8,nan,4680.0,95.0
+Tile,Main Bathroom,Tile installation,Install new tiles on walls and floors in the main bathroom.,72 SF,"$3,400 per unit",0.8,nan,6120.0,95.0
+,,,,,,,,10800.00,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Lounge Room,Drywall repair and finishing,Patch and finish drywall after wall removal in lounge room.,100 SF,$9 per SF,0.75,nan,1575.0,90.0
+,,,,,,,,1575.00,
+,,,,,,,,71153.75,
+,,,General Conditions (10%),,,,,7115.38,
+,,,Grand Total,,,,,78269.12,

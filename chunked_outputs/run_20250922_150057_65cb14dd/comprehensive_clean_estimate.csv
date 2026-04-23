@@ -1,0 +1,132 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom 1 Renovation,,,,,,,,,
+Bathroom 1 Renovation,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Bathroom 1 Renovation,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement at existing location for 60-80 SF.,1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Bathroom 1 Renovation,Bathroom 1,Bathroom Electrical,Installation of new electrical fixtures including vanity lighting and GFCI outlets.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+Bathroom 1 Renovation,Bathroom 1,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,80 SF,"$4,100 per 80 SF",0.80,,7380,90
+Bathroom 1 Renovation,Bathroom 1,Bathroom Fixtures,"Installation of new vanity, mirror, and shower doors.",1 UNIT,"$1,500 minimum",0.75,,2625,90
+,,,,,,,,36342.50,
+Bathroom 2 Renovation,,,,,,,,,
+Bathroom 2 Renovation,Bathroom 2,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Bathroom 2 Renovation,Bathroom 2,Bathroom Plumbing,Full gut plumbing replacement at existing location for 60-80 SF.,1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Bathroom 2 Renovation,Bathroom 2,Bathroom Electrical,Installation of new electrical fixtures including vanity lighting and GFCI outlets.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+Bathroom 2 Renovation,Bathroom 2,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,80 SF,"$4,100 per 80 SF",0.80,,7380,90
+Bathroom 2 Renovation,Bathroom 2,Bathroom Fixtures,"Installation of new vanity, mirror, and shower doors.",1 UNIT,"$1,500 minimum",0.75,,2625,90
+,,,,,,,,36342.50,
+Bathroom Renovation,,,,,,,,,
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,Full gut plumbing for bathroom with existing location.,1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Bathroom Renovation,Bathroom 1,Bathroom Electrical,Rewiring of bathroom including GFCI outlets and lighting.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,Installation of tile on bathroom walls and floors.,80 SF,"$3,400 per 60-80 SF",0.80,,6120,90
+Bathroom Renovation,Bathroom 1,Bathroom Fixtures,"Installation of new vanity, mirror, and fixtures.",1 UNIT,"$1,500 minimum",0.75,,2625,85
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Remove old fixtures, tile, vanity, flooring. Debris removal.",1 UNIT,"$2,200 per UNIT",0.75,,3850,90
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,"Rough plumbing, toilet installation, sink installation, shower/tub installation, supply lines, drain lines, vent lines.",1 UNIT,"$7,700 per UNIT",0.75,,13475,90
+Bathroom Renovation,Bathroom 1,Bathroom Electrical,"Rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, switch installation, mirror lighting, heated floor electrical.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,"Floor tile preparation, floor tile installation, wall tile installation, shower tile, grout installation, tile sealing.",80 SF,"$3,400 per 60-80 SF",0.80,,6120,90
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of old fixtures, tile, vanity, flooring, and debris removal.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,90
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,"Full gut plumbing replacement for existing location including toilet, sink, shower/tub installation, supply lines, drain lines, and vent lines.",1 UNIT,"$8,800 per UNIT",0.75,,15400,90
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,"Floor and wall tile installation including preparation, installation, grout, and sealing.",80 SF,"$3,400 per SF",0.80,,6120,85
+Bathroom Renovation,Bathroom 1,Bathroom Electrical,"Rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, switch installation, and mirror lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125,85
+,,,,,,,,97110.00,
+Bedroom Renovation,,,,,,,,,
+Bedroom Renovation,Bedroom 1,Bedroom Flooring,Installation of new hardwood flooring.,150 SF,$6 per SF,0.75,,1575,90
+Bedroom Renovation,Bedroom 1,Bedroom Painting,Painting of walls and ceiling.,150 SF,$10.3 per SF,0.75,,2707.5,90
+Bedroom Renovation,Bedroom 1,Bedroom Electrical,"Installation of new outlets, switches, and light fixtures.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Bedroom Renovation,Bedroom 1,Bedroom Trim,Installation of baseboards and crown molding.,80 LF,$5 per LF,0.75,,700,90
+,,,,,,,,11107.50,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Building,Post-construction cleaning,Comprehensive cleaning of the entire building after construction.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,85
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Post-construction cleaning of entire apartment.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Post-construction cleaning for entire apartment.,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,90
+Commercial Cleaning,Entire Apartment,Post-construction cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,85
+Commercial Cleaning,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of entire apartment post-renovation.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Post-construction cleaning for entire apartment.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,27431.25,
+Demolition,,,,,,,,,
+Demolition,Kitchen,Full gut demolition,"Removal of all kitchen cabinets, countertops, appliances, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Bathroom 1,Full gut demolition,"Complete removal of all bathroom fixtures, tiles, and flooring.",1 UNIT,"$2,200 per UNIT",0.75,,3850,95
+Demolition,Bathroom 2,Full gut demolition,"Complete removal of all bathroom fixtures, tiles, and flooring.",1 UNIT,"$2,200 per UNIT",0.75,,3850,95
+Demolition,Kitchen,Full gut demolition,"Remove all existing kitchen cabinets, countertops, appliances, flooring, backsplash, and disconnect electrical and plumbing.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Bathroom 1,Full gut demolition,"Remove all existing bathroom fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Demolition,Bathroom 2,Full gut demolition,"Remove all existing bathroom fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,28875.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Rewiring,Complete rewiring of kitchen electrical systems.,1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Bathroom 1,Electrical installation,Installation of new electrical fixtures and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Bathroom 2,Electrical installation,Installation of new electrical fixtures and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Kitchen,Kitchen rewiring,"Complete rewiring of kitchen including new circuits for appliances, lighting, and outlets.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Bathroom 1,Bathroom electrical,"Install new electrical for vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Bathroom 2,Bathroom electrical,"Install new electrical for vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+,,,,,,,,36750.00,
+Flooring,,,,,,,,,
+Flooring,Basement,New flooring installation,Installation of new flooring in the basement.,500 SF,$6 per SF,0.75,,5250,85
+Flooring,Living Room,Hardwood flooring installation,Install new hardwood flooring including subfloor preparation and trim installation.,500 SF,$6 per SF,0.75,,5250,90
+Flooring,Bedrooms,Hardwood flooring installation,Install new hardwood flooring including subfloor preparation and trim installation.,400 SF,$6 per SF,0.75,,4200,90
+,,,,,,,,14700.00,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with existing location for 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rewiring of kitchen including GFCI outlets, lighting circuits, and appliance connections.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Kitchen Renovation,Kitchen,Kitchen Flooring,Installation of new tile flooring in kitchen.,80 SF,"$2,400 per 60-80 SF",0.80,,4320,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,Installation of semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.5,90
+Kitchen Renovation,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Installation of large tile backsplash.,15 LF,"$2,200 per 10+ LF",0.80,,3960,90
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Remove old cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Debris removal and disposal.",1 UNIT,"$3,300 per UNIT",0.75,,5775,90
+Kitchen Renovation,Kitchen,Kitchen Plumbing,"Rough plumbing, kitchen sink installation, garbage disposal, water supply lines, drain lines, shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,90
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rough electrical, kitchen lighting circuits, under-cabinet lighting, GFCI outlets, switch installation, panel upgrades, range hood electrical, kitchen island electrical, pendant light installation, dimmer switches.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,"Base cabinet installation, wall cabinet installation, crown molding, cabinet hardware, soft-close hinges, drawer slides.",15 LF,$600 per LF,0.75,,15750,90
+Kitchen Renovation,Kitchen,Kitchen Countertops,"Template creation, countertop fabrication, countertop installation, edge treatments, sink cutouts.",45 SF,$97 per SF,0.75,,13763.75,90
+Kitchen Renovation,Kitchen,Kitchen Backsplash,"Tile preparation, tile installation, grout installation, tile sealing, trim tiles.",10 LF,"$2,200 per 10 LF",0.80,,3960,90
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing replacement at existing location for 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rewiring of kitchen including GFCI outlets, lighting circuits, and appliance connections.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,"Installation of new kitchen cabinets, semi-custom, 15 LF.",15 LF,$850 per LF,0.75,,22312.5,90
+Kitchen Renovation,Kitchen,Kitchen Countertops,"Fabrication and installation of quartz countertops, 45 SF.",45 SF,"($1,500 + $97/SF + $2,000) × 1.75",0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Installation of kitchen backsplash tile.,10 FT,"$2,200 per 10 FT",0.80,,3960,90
+Kitchen Renovation,Kitchen,Kitchen Flooring,"Installation of new kitchen flooring, 80 SF.",80 SF,$6 per SF,0.75,,840,90
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, backsplash, electrical disconnection, plumbing disconnection, debris removal, and protection of adjacent areas.",1 UNIT,"$3,300 per UNIT",0.75,,5775,90
+Kitchen Renovation,Kitchen,Kitchen Plumbing,"Full gut plumbing for existing location with 1 sink, including rough plumbing, kitchen sink installation, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,90
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rough electrical, kitchen lighting circuits, under-cabinet lighting, GFCI outlets, switch installation, panel upgrades, range hood electrical, kitchen island electrical, pendant light installation, dimmer switches.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,"Installation of kitchen cabinets including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",10 LF,$760 per LF,0.75,,13300,85
+Kitchen Renovation,Kitchen,Kitchen Countertops,"Fabrication and installation of kitchen countertops including template creation, edge treatments, and sink cutouts.",45 SF,$97 per SF,0.75,,13763.75,85
+Kitchen Renovation,Kitchen,Kitchen Backsplash,"Tile preparation, installation, grout installation, tile sealing, and trim tiles for kitchen backsplash.",10 FT,"$2,200 per FT",0.80,,3960,85
+,,,,,,,,224280.00,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,Installation of new hardwood flooring.,200 SF,$6 per SF,0.75,,2100,90
+Living Room Renovation,Living Room,Living Room Painting,Painting of walls and ceiling.,200 SF,$10.3 per SF,0.75,,3602.5,90
+Living Room Renovation,Living Room,Living Room Electrical,"Installation of outlets, switches, and light fixtures.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Living Room Renovation,Living Room,Living Room Trim,Installation of baseboards and crown molding.,100 LF,$14 per LF,0.75,,2450,85
+Living Room Renovation,Living Room,Living Room Flooring,"Subfloor preparation, hardwood installation, refinishing, trim installation, transition strips.",200 SF,$6 per SF,0.75,,2100,90
+Living Room Renovation,Living Room,Living Room Painting,"Wall preparation, primer application, paint walls, paint ceiling, touch-up work.",200 SF,$10.3 per SF,0.75,,3602.5,90
+Living Room Renovation,Living Room,Living Room Electrical,"Outlet installation, switch installation, light fixture installation, ceiling fans, dimmer switches, floor outlets, wall sconces.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Living Room Renovation,Living Room,Living Room Flooring,Installation of new hardwood flooring.,200 SF,$6 per SF,0.75,,2100,90
+Living Room Renovation,Living Room,Living Room Painting,Painting of walls and ceiling.,200 SF,$10.3 per SF,0.75,,3607.5,90
+Living Room Renovation,Living Room,Living Room Electrical,"Installation of new outlets, switches, and light fixtures.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Living Room Renovation,Living Room,Living Room Trim,Installation of baseboards and crown molding.,100 LF,$5 per LF,0.75,,875,90
+Living Room Renovation,Living Room,Living Room Flooring,"Subfloor preparation, hardwood installation, refinishing, trim installation, and transition strips.",200 SF,$6 per SF,0.75,,2100,85
+Living Room Renovation,Living Room,Living Room Painting,"Wall preparation, primer application, paint walls, paint ceiling, and touch-up work.",200 SF,$10.3 per SF,0.75,,3602.5,85
+Living Room Renovation,Living Room,Living Room Electrical,"Outlet installation, switch installation, light fixture installation, ceiling fans, dimmer switches, floor outlets, and wall sconces.",1 UNIT,"$3,500 per UNIT",0.75,,6125,85
+,,,,,,,,50640.00,
+Painting,,,,,,,,,
+Painting,Living Room,Painting,Paint walls and ceiling in the living room.,500 SF,$10.3 per SF,0.70,,9027.5,90
+Painting,Bedrooms,Painting,Paint walls and ceiling in the bedrooms.,400 SF,$10.3 per SF,0.70,,7222,90
+,,,,,,,,16249.50,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Full gut plumbing,Installation of new plumbing for kitchen sink and appliances.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,90
+Plumbing,Bathroom 1,Full gut plumbing,Installation of new plumbing for bathroom fixtures.,1 UNIT,"$7,700 per UNIT",0.75,,13475,90
+Plumbing,Bathroom 2,Full gut plumbing,Installation of new plumbing for bathroom fixtures.,1 UNIT,"$7,700 per UNIT",0.75,,13475,90
+Plumbing,Kitchen,Full gut plumbing,"Install new plumbing for kitchen sink, garbage disposal, water supply lines, and drain lines.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Plumbing,Bathroom 1,Full gut plumbing,"Install new plumbing for toilet, sink, shower/tub, supply lines, and drain lines.",1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Plumbing,Bathroom 2,Full gut plumbing,"Install new plumbing for toilet, sink, shower/tub, supply lines, and drain lines.",1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+,,,,,,,,71225.00,
+Sprinkler System,,,,,,,,,
+Sprinkler System,Entire Building,New sprinkler system installation,Installation of a new sprinkler system throughout the building.,1 UNIT,"$5,000 per UNIT",0.75,,8750,85
+,,,,,,,,8750.00,
+Tile Work,,,,,,,,,
+Tile Work,Kitchen,Tile backsplash installation,Install new tile backsplash in kitchen.,20 SF,"$2,200 per 10 SF",0.80,,3960,90
+Tile Work,Bathroom 1,Tile installation,Install new tile on bathroom floors and walls.,80 SF,"$4,100 per 80 SF",0.80,,7380,90
+Tile Work,Bathroom 2,Tile installation,Install new tile on bathroom floors and walls.,80 SF,"$4,100 per 80 SF",0.80,,7380,90
+,,,,,,,,18720.00,
+,,,,,,,,678523.25,
+,,,General Conditions (10%),,,,,67852.32,
+,,,Grand Total,,,,,746375.57,

@@ -1,0 +1,56 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Full Gut Demo,"Full removal of existing cabinets (12), countertops, backsplash, and island. Kitchen 226 SF. Disconnect and protect appliances and fixtures (DEMO-02: 10ft+).",1 UNIT,"$3,300 per UNIT",0.75,,5775.0,90
+Demolition,Backyard,Concrete Patio Demo,Demo existing concrete slab in backyard adjacent to future pool location. Estimated 300 SF (DEMO-07: up to 600 SF at $7/SF).,300 SF,$7.00 per SF,0.75,,3675.0,90
+Demolition,Kitchen / Laundry,Window Close-Out,"Close out existing kitchen window at W/D relocation area. Remove window, frame opening with wood/steel studs, insulate, install drywall interior and stucco patch exterior.",1 LS,"$1,500 per LS",0.75,,2625.0,90
+Demolition,Kitchen,Split AC Unit Removal,"Remove existing split unit AC system from kitchen. Disconnect refrigerant lines, remove indoor and outdoor units, cap lines, and patch wall penetrations.",1 LS,$800 per LS,0.75,,1400.0,90
+,,,,,,,,13475.00,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Kitchen,Kitchen Moisture-Resistant Drywall,Install new moisture-resistant drywall behind cabinets and backsplash area after full gut. 10ft+ kitchen run (CARP-09).,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,90
+,,,,,,,,3368.75,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Kitchen Plumbing - Existing Location,"Reconnect kitchen plumbing after gut. Sink stays at existing location. Supply, waste, and dishwasher connections (PLMB-09: 1 sink, existing location).",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,90
+Plumbing,Kitchen / Laundry,Washer/Dryer Plumbing - New Location,"Run hot/cold water supply lines, drain, and vent to new W/D location adjacent to kitchen. Relocated from garage. Includes drain box and shut-off valves (PLMB-18).",1 UNIT,"$3,350 per UNIT",0.75,,5862.5,90
+,,,,,,,,12600.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Kitchen Outlets & Switches - Existing,Reconnect kitchen outlets and switches at existing locations after gut. ~8 devices including GFI outlets at countertop (ELEC-06/04).,8 UNIT,$80 per UNIT,0.75,,1120.0,90
+Electrical,Kitchen,Kitchen Recessed Lighting,Install 6 recessed LED lights in kitchen ceiling (ELEC-09: $165 labor + $25 material per unit).,6 UNIT,$190 per UNIT,0.75,,1995.0,90
+Electrical,Kitchen,Undercabinet Lighting,Install LED undercabinet lighting along perimeter wall cabinets (ELEC-24: per 15ft run).,1 UNIT,"$1,500 per UNIT",0.75,,2625.0,90
+Electrical,Kitchen,Island Electrical - New Location,Install 2 new-location outlets on repositioned island for small appliances. Includes floor-run conduit (ELEC-12: $440 labor + $25 material).,2 UNIT,$465 per UNIT,0.75,,1627.5,90
+Electrical,Kitchen / Laundry,Washer/Dryer Electrical - New Location,"Install 2 dedicated circuits (120V washer, 240V dryer) at new W/D location next to kitchen (ELEC-23).",1 UNIT,"$1,500 per UNIT",0.75,,2625.0,90
+Electrical,Backyard,Pool Electrical,"Complete pool electrical: pump motor circuit, underwater LED light, timer/automation controls, GFI protection, equipment bonding. Dedicated sub-panel if needed.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+,,,,,,,,17867.50,
+Tile,,,,,,,,,
+Tile,Kitchen,Kitchen Backsplash,Install new tile backsplash in kitchen. ~30 SF coverage area across perimeter cabinets (TILE-11: 10ft+ kitchen).,1 UNIT,"$2,200 per UNIT",0.8,,3960.0,90
+,,,,,,,,3960.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Kitchen,Kitchen Painting,Paint kitchen walls and ceiling with Benjamin Moore Regal Select after renovation. 226 SF floor area (FINSH-05).,226 SF,$10.50 per SF,0.75,,4152.75,90
+,,,,,,,,4152.75,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Supply - Perimeter,Supply new standard-grade kitchen cabinets for perimeter walls (base + upper). ~20 LF per Polycam measurement of existing 11 perimeter cabinets (KITC-10: $800/LF).,20 LF,$800 per LF,0.75,,28000.0,90
+Cabinetry & Storage,Kitchen,Kitchen Island Cabinet Supply,"Supply new island cabinets for flipped position. Existing island is ~7.5 LF per Polycam (7'4.5"" wide). (KITC-14: $600/LF, min 4ft).",7.5 LF,$600 per LF,0.75,,7875.0,90
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Installation,Install all new kitchen cabinets including perimeter (base + wall) and island at flipped position. 20+ LF total run (KITC-09: 20ft+).,1 UNIT,"$12,500 per UNIT",0.75,,21875.0,90
+Cabinetry & Storage,Kitchen / Laundry,W/D Millwork Concealment Door,Custom millwork door to conceal washer/dryer in new location. Door style and finish to match new kitchen cabinets.,1 UNIT,"$1,800 per UNIT",0.75,,3150.0,90
+,,,,,,,,60900.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Slab Supply,"Supply quartz slab(s) for kitchen countertops. ~50 SF total coverage (perimeter + island). 2 slabs at 108""x26"" each (STON-01).",2 SLAB,"$3,000 per SLAB",0.75,,10500.0,90
+Countertops,Kitchen,Countertop Fabrication & Install - Perimeter,"Template, fabricate, and install quartz countertop on perimeter cabinets. Includes sink cutout and edge profile. ~30 SF (STON-02: $97/SF).",30 SF,$97 per SF,0.75,,5092.5,90
+Countertops,Kitchen,Countertop Fabrication & Install - Island,"Template, fabricate, and install quartz countertop on kitchen island at new flipped position. ~20 SF (STON-02: $97/SF).",20 SF,$97 per SF,0.75,,3395.0,90
+,,,,,,,,18987.50,
+General Requirements,,,,,,,,,
+General Requirements,Project,Building Permits & Fees,"Building permits for kitchen renovation, W/D relocation, window close-out, sliding door replacement, and deck/porch construction.",1 LS,"$2,000 per LS",0.75,,3500.0,90
+General Requirements,Project,Waste Removal & Dumpster,"Dumpster rental and debris disposal for kitchen demo, concrete demo, and general construction waste. Multiple hauls.",1 LS,"$2,000 per LS",0.75,,3500.0,90
+General Requirements,Project,Final Cleanup,"Post-construction cleaning of all affected areas. Property ~1,059 SF livable (CLEN-02: 600-1200 SF).",1 UNIT,"$1,375 per UNIT",0.75,,2406.25,90
+,,,,,,,,9406.25,
+Exterior,,,,,,,,,
+Exterior,Backyard,Deck / Porch Next to Pool,"Build new deck or porch adjacent to pool in backyard. Composite or pressure-treated wood construction. Includes framing, decking, and perimeter railing. ~250 SF.",250 SF,$40 per SF,0.75,,17500.0,90
+,,,,,,,,17500.00,
+Pool,,,,,,,,,
+Pool,Backyard,Inground Pool Construction,"Construct standard inground gunite/concrete pool in backyard. Includes excavation, steel/rebar, shotcrete shell, plumbing, waterline tile, coping, plaster finish, and equipment pad (pump, filter, salt chlorinator). Subcontracted. Permits and inspections included.",1 LS,"$42,000 per LS",0.75,,73500.0,90
+,,,,,,,,73500.00,
+Windows & Doors,,,,,,,,,
+Windows & Doors,Living Room,Replace Sliding Glass Door,"Supply and install new impact-rated sliding glass door to replace existing in living room. ~12ft wide opening per Polycam (11'9.3"" window). South Florida code requires impact-rated glazing.",1 UNIT,"$6,500 per UNIT",0.75,,11375.0,90
+,,,,,,,,11375.00,
+,,,,,,,,247092.75,
+,,,General Conditions (10%),,,,,24709.28,
+,,,Grand Total,,,,,271802.03,

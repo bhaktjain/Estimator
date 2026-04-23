@@ -1,0 +1,82 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Full Gut Demo,"Full removal of existing 7 cabinets, countertops, backsplash, sink, and all appliances (fridge, stove, dishwasher). Kitchen 86 SF, 11' run. Disconnect and protect utilities (DEMO-02: 10ft+).",1 UNIT,"$3,300 per UNIT",0.75,,5775.0,90
+Demolition,Bathroom,Bathroom Full Gut Demo,"Full removal of bathtub, vanity cabinet, sink, toilet, wall tiles, and floor tiles. Bathroom 30 SF per Polycam (DEMO-03: 0>60 SF).",1 UNIT,"$2,200 per UNIT",0.75,,3850.0,90
+Demolition,Living / Common Areas,Floor Tile Demo - Apartment & Balcony,"Remove existing floor tiles in living room (260 SF), laundry (35 SF), hallway (31 SF), entry (5 SF), and balcony (~46 SF). Total 377 SF. Kitchen and bathroom demo covered separately.",377 SF,$5 per SF,0.75,,3298.75,90
+Demolition,Kitchen,Kitchen Soffit Removal,"Remove existing soffit above kitchen area only to raise ceiling height. Keep living room soffit intact (contains AC, sprinkler, and duct systems). ~86 SF of soffit.",1 LS,"$1,500 per LS",0.75,,2625.0,90
+Demolition,Kitchen,Peninsula / Bar Structure Removal,Remove existing peninsula bar and supporting wall structure. Clear area for new extended kitchen layout with relocated peninsula.,1 LS,$800 per LS,0.75,,1400.0,90
+,,,,,,,,16948.75,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Kitchen,Kitchen Moisture-Resistant Drywall,Install new moisture-resistant drywall behind cabinets and backsplash area after full gut. 11' kitchen run (CARP-09: 10ft+).,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,90
+Walls & Ceiling,Bathroom,Bathroom Moisture-Resistant Drywall,Install new moisture-resistant drywall in bathroom. 30 SF bathroom (CARP-05: 0>60 SF).,1 UNIT,"$1,225 per UNIT",0.75,,2143.75,90
+Walls & Ceiling,Kitchen,Dropped Ceiling - Kitchen,"After soffit removal, install 3"" metal frame and drywall ceiling on concrete to run electrical for recessed LED lighting. ~86 SF (FRAM-02: $9/SF + CARP-11: $4.95/SF).",86 SF,$13.95 per SF,0.75,,2099.47,90
+Walls & Ceiling,Living Room,LED Ceiling Channel - Living Room,"Install 8""x8"" dropped drywall channel in center of living room ceiling for LED strip lighting. Run power from existing junction. ~20 LF.",1 LS,"$1,200 per LS",0.75,,2100.0,90
+Walls & Ceiling,Kitchen,Wall Extension for Peninsula Cabinets,Extend existing wall to accommodate new kitchen cabinet layout. Peninsula wall needs ~4 LF extension to hold upper cabinets flush to ceiling (CARP-01: $45/LF + drywall).,1 LS,$700 per LS,0.75,,1225.0,90
+Walls & Ceiling,Entire Apartment,Drywall Repair & Patching,"Touch-up and repair existing drywall throughout where demo work affected surfaces. Fill, spackle, and smooth finish. Prep for wallpaper or paint.",1 LS,"$1,500 per LS",0.75,,2625.0,90
+Walls & Ceiling,Bathroom,Pocket Door Installation,"Install pocket door at bathroom entry, replacing existing swing door. Includes framing, drywall, and hardware (DOOR-02: $1,320).",1 UNIT,"$1,320 per UNIT",0.75,,2310.0,90
+,,,,,,,,15871.97,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Bathroom Plumbing - Full Gut & Relocation,"Complete bathroom plumbing: relocate shower faucet to far end, rain head shower at opposite end, new linear drain. Connect to existing waste/supply. Bathroom 30 SF (PLMB-04: relocation, 0>60 SF).",1 UNIT,"$8,800 per UNIT",0.75,,15400.0,90
+Plumbing,Bathroom,Tub to Shower Conversion + Linear Drain,Convert existing bathtub drain/waste to walk-in shower configuration with linear drain. Includes drain relocation and new shower pan prep (PLMB-07 + linear drain).,1 LS,"$2,175 per LS",0.75,,3806.25,90
+Plumbing,Kitchen,Kitchen Plumbing - Sink Relocation,"Relocate kitchen sink from existing position to back wall (under window side). Run new hot/cold water supply lines and waste for new layout. Cooktop goes to peninsula. 11' kitchen (PLMB-11: new location, 10ft+).",1 UNIT,"$6,050 per UNIT",0.75,,10587.5,90
+,,,,,,,,29793.75,
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,"3"" LED Recessed Lights","Install 3"" multi-color switchable LED recessed lights (2700K-5000K, settling on 3000K). 6 in kitchen new ceiling (ELEC-09), 10 in living room/bath/other existing ceilings (ELEC-15). 16 total.",16 UNIT,$362 per UNIT,0.75,,10136.0,90
+Electrical,Kitchen / Living Room,"Pendant J-Boxes, Under-Cabinet & Cable","(2) pendant light J-boxes in kitchen/living area (ELEC-14), under-cabinet LED lighting for kitchen perimeter (ELEC-24), and cable/data routing across ceiling to far wall.",1 LS,"$2,880 per LS",0.75,,5040.0,90
+Electrical,Kitchen / Bathroom,"Outlets, GFI & Switches - New/Existing","(6) outlets and switches at new locations for kitchen layout changes (ELEC-12/10), (4) at existing locations for bathroom GFI and general use (ELEC-06/04). 10 devices total.",10 UNIT,$311 per UNIT,0.75,,5442.5,90
+Electrical,Kitchen,Dedicated Circuit - Electric Cooktop,Install new dedicated electrical circuit for electric cooktop on peninsula (ELEC-21: $495).,1 UNIT,$495 per UNIT,0.75,,866.25,90
+,,,,,,,,21484.75,
+Flooring,,,,,,,,,
+Flooring,Entire Apartment,Self-Leveling Compound - Floor Prep,"Apply self-leveling compound on concrete slab to achieve flat substrate for large format 48x48 tile. Required for 1/8"" over 10' tolerance. Allowance for ~250 SF of high spots (FINSH-15: $3/SF).",250 SF,$3 per SF,0.75,,1312.5,80
+,,,,,,,,1312.50,
+Tile,,,,,,,,,
+Tile,Kitchen,Kitchen Floor Tile - Large Format,Install 48x48 (2'x4') large format white floor tile in kitchen. 86 SF. Tile supplied by owner (TILE-07: kitchen flooring).,1 UNIT,"$2,400 per UNIT",0.8,,4320.0,90
+Tile,Living / Common / Balcony,Floor Tile - Large Format Apartment + Balcony,"Install 48x48 (2'x4') large format white tile throughout living room (260 SF), hallway (31 SF), laundry (35 SF), entry (5 SF), and balcony (~46 SF) uninterrupted. Total 377 SF. Tile selected by owner (FINSH-04: $18/SF).",377 SF,$18 per SF,0.8,,12214.8,90
+Tile,Bathroom,Bathroom Floor Tile,Install floor tile in bathroom. 30 SF. Tile selected by owner (TILE-02: 0>60 SF).,1 UNIT,"$2,000 per UNIT",0.8,,3600.0,90
+Tile,Bathroom,Bathroom Wall Tile,"Install wall tile in bathroom - full height in shower area, standard height elsewhere. 127 SF wall area (excl openings per Polycam). Tile selected by owner (TILE-01: 0>60 SF).",1 UNIT,"$2,600 per UNIT",0.8,,4680.0,90
+,,,,,,,,24814.80,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire Apartment,Ceiling Painting - Entire Apartment,"Paint all ceilings throughout apartment. 446 SF livable area. Prep, prime, and 2 coats (FINSH-02: $4/SF on ceiling area).",446 SF,$4 per SF,0.75,,3122.0,90
+Painting & Wall Coverings,Entire Apartment,Wall Priming & Prep for Wallpaper,"Level 2 finish and prime all walls for wallpaper installation. Client to decide paint vs wallpaper per area. Allowance covers full apartment priming (~1,004 SF wall area).",1 LS,"$2,500 per LS",0.75,,4375.0,80
+,,,,,,,,7497.00,
+Trims,,,,,,,,,
+Trims,Entire Apartment,Flush Baseboard Installation,"Install flush baseboards throughout apartment to match modern design aesthetic. ~130 LF (total perimeter minus openings, cabinets, and wet areas) (TRIM-03: $25/LF).",130 LF,$25 per LF,0.75,,5687.5,90
+,,,,,,,,5687.50,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Supply - Perimeter,"Supply standard-grade white oak handleless kitchen cabinets for perimeter walls (base + standard upper). ~9 LF. Integrated pull/track style, no visible handles (KITC-10: $800/LF).",9 LF,$800 per LF,0.75,,12600.0,90
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Supply - Peninsula,"Supply white oak handleless peninsula base cabinets. ~5 LF. Cooktop on peninsula (KITC-14: $600/LF, min 4ft).",5 LF,$600 per LF,0.75,,5250.0,90
+Cabinetry & Storage,Kitchen,"Kitchen Upper Cabinet Height Add (42-44"")","Extra height for upper cabinets to go flush to ceiling after soffit removal. Standard 30-36"" uppers extended to 42-44"". ~7 LF of uppers on perimeter wall (KITC-13: $800/LF).",7 LF,$800 per LF,0.75,,9800.0,90
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Installation,Install all new kitchen cabinets: perimeter base + upper (9 LF) and peninsula (5 LF). Total ~14 LF run (KITC-07: 11-15 FT).,1 UNIT,"$9,200 per UNIT",0.75,,16100.0,90
+Cabinetry & Storage,Kitchen,Kitchen Pantry Cabinet,Supply and install small pantry pull-out cabinet adjacent to panel-ready refrigerator (KITC-15: 0>3FT).,1 UNIT,"$1,800 per UNIT",0.75,,3150.0,90
+Cabinetry & Storage,Kitchen,Panelized Appliance Integration (Fridge + DW),"Custom panel integration for European-style panel-ready 24"" refrigerator and 18"" dishwasher to match white oak cabinetry (KITC-16 + KITC-17).",2 UNIT,"$1,200 per UNIT",0.75,,4200.0,90
+Cabinetry & Storage,Bathroom,Floating Vanity - White Oak with Drawers,Supply and install suspended/floating bathroom vanity with drawers. Same white oak as kitchen cabinets. Custom fabrication to match design.,1 UNIT,"$1,800 per UNIT",0.75,,3150.0,90
+Cabinetry & Storage,Laundry,Laundry Trackless Door + Veneer,Supply and install trackless concealment door for laundry area. Veneer finish to match kitchen cabinetry. Custom millwork.,1 UNIT,"$1,800 per UNIT",0.75,,3150.0,90
+Cabinetry & Storage,Bathroom,Bathroom Alcove Shelving,Install custom shelving in bathroom alcove/former closet area. Finish to complement bathroom design.,1 LS,"$1,000 per LS",0.75,,1750.0,90
+,,,,,,,,59150.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen / Bathroom,Quartz Slab Supply,"Supply (2) quartz slabs - white with subtle gold veins. For kitchen countertop (waterfall), quartz backsplash, and bathroom vanity top. 108""x26"" per slab (STON-01: $3,000/slab).",2 SLAB,"$3,000 per SLAB",0.75,,10500.0,90
+Countertops,Kitchen,Kitchen Countertop & Backsplash Fab/Install (Waterfall),"Template, fabricate, and install quartz countertop with waterfall edges on peninsula. Perimeter (~14 SF) + peninsula (~8.5 SF) + waterfall sides (~13 SF) + quartz backsplash (~20 SF) = ~55.5 SF. Includes sink cutout and edge profiles (STON-02: $97/SF + $1,500 waterfall premium).",55.5 SF,$124 per SF,0.75,,12046.12,90
+Countertops,Bathroom,Bathroom Vanity Top Fab/Install,"Template, fabricate, and install quartz vanity top matching kitchen. ~4 SF. Same material as kitchen countertop. Includes sink cutout (STON-02: $97/SF).",4 SF,$97 per SF,0.75,,679.0,90
+,,,,,,,,23225.12,
+Appliances,,,,,,,,,
+Appliances,Kitchen,Refrigerator Installation (European Panel-Ready),"Install European-style panel-ready refrigerator that fits in 24"" cabinet depth. Owner supplies appliance (APPL-01: $1,200).",1 EA,"$1,200 per EA",0.75,,2100.0,90
+Appliances,Kitchen,Electric Cooktop Installation,"Install electric cooktop on peninsula. Standard electric (not induction, no gas in building). Owner supplies appliance (APPL-02: $950).",1 EA,$950 per EA,0.75,,1662.5,90
+Appliances,Kitchen,Oven/Microwave Combo Installation,Install built-in oven/microwave combo unit in base cabinet. Owner supplies appliance (APPL-02: $950).,1 EA,$950 per EA,0.75,,1662.5,90
+Appliances,Kitchen,"Dishwasher Installation (18"" Compact)","Install compact 18"" dishwasher. Owner supplies appliance (APPL-03: $750).",1 EA,$750 per EA,0.75,,1312.5,90
+,,,,,,,,6737.50,
+General Requirements,,,,,,,,,
+General Requirements,Project,Building Permits & Fees,"City of Miami building permit for condo renovation (kitchen, bathroom, electrical, plumbing). Filing and inspection fees (MISC-01: $1,500).",1 LS,"$1,500 per LS",0.75,,2625.0,90
+General Requirements,Project,Waste Removal & Dumpster,"Dumpster rental and debris disposal for kitchen demo, bathroom demo, floor tile demo, and construction waste. Freight elevator right at unit (MISC-03: $1,200).",1 LS,"$1,200 per LS",0.75,,2100.0,90
+General Requirements,Project,Final Cleanup,Post-construction cleaning of entire apartment. 446 SF livable area (CLEN-01: up to 600 SF).,1 UNIT,$825 per UNIT,0.75,,1443.75,90
+,,,,,,,,6168.75,
+Accessories,,,,,,,,,
+Accessories,Bathroom,Frameless Shower Enclosure,"Supply and install frameless shower enclosure: fixed glass panel on right side, sliding door on left side. Tempered glass (MISC-23: panel and door).",1 UNIT,"$2,500 per UNIT",0.75,,4375.0,90
+Accessories,Bathroom,Shower Niche - Stone,Fabricate and install one good-size stone niche in shower area. Quartz to match countertop. ~3 SF (STON-04: $145/SF).,3 SF,$145 per SF,0.75,,761.25,90
+Accessories,Bathroom,Bathroom Accessories Installation,"Install bathroom accessories: towel bar, toilet paper holder, robe hook, mirror/medicine cabinet. Brushed bronze finish to complement quartz veining. 4 items (MISC-09: $550 each).",4 UNIT,$550 per UNIT,0.75,,3850.0,90
+,,,,,,,,8986.25,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom,Bathroom Waterproofing - Floors & Walls,Install waterproof membrane on bathroom shower floor and walls for tub-to-shower conversion. Required for walk-in shower with linear drain. 30 SF bathroom (WATR-01: 0>60 SF).,1 UNIT,"$1,900 per UNIT",0.75,,3325.0,90
+,,,,,,,,3325.00,
+,,,,,,,,231003.64,
+,,,General Conditions (10%),,,,,23100.36,
+,,,Grand Total,,,,,254104.00,

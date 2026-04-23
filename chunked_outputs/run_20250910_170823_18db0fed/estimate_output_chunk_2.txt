@@ -1,0 +1,9 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/240 West 98th - Polycam Report.pdf
+[SUCCESS] Extracted 6785 characters from /Users/bhakt/Downloads/240 West 98th - Polycam Report.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250910_170823_18db0fed/transcript_chunks/chunk_2.txt
+[SUCCESS] Read 5991 characters from chunked_outputs/run_20250910_170823_18db0fed/transcript_chunks/chunk_2.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 45832 characters
+[ERROR] API call failed: Incorrect API key provided: test-key. You can find your API key at https://platform.openai.com/account/api-keys.

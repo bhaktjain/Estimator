@@ -1,0 +1,312 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] 39 Lincoln Street Sloatsburg NY - 1st FL.pdf
+[SUCCESS] Extracted 20949 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] 39 Lincoln Street Sloatsburg NY - 1st FL.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250925_145009_527306c3/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5856 characters from chunked_outputs/run_20250925_145009_527306c3/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 59525 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Basement Renovation",
+      "items": [
+        {
+          "room": "Basement",
+          "scope_item": "Refinish Basement",
+          "description": "Complete refinishing of basement including walls and ceilings.",
+          "quantity": "500 SF",
+          "unit_cost": "$4 per SF",
+          "markup": "0.75",
+          "subtotal": "3500",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Close Crawl Space",
+          "description": "Close the crawl space on the right side of the entrance with concrete.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,000 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3500",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Rewire Basement",
+          "description": "Rewire the basement for better electrical organization.",
+          "quantity": "500 SF",
+          "unit_cost": "$17 per SF",
+          "markup": "0.75",
+          "subtotal": "14875",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Replace Staircase",
+          "description": "Replace the existing staircase in the basement.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "2100",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Tile Installation",
+          "description": "Install new tile flooring in the basement.",
+          "quantity": "500 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.80",
+          "subtotal": "5400",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "First Floor Renovation",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "New Kitchen Installation",
+          "description": "Install new kitchen including cabinets, countertops, and appliances.",
+          "quantity": "205 SF",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "90"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "Remove Walls",
+          "description": "Remove two walls to create an open concept.",
+          "quantity": "2 UNIT",
+          "unit_cost": "$2,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "8750",
+          "confidence_score": "85"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "Remove Mud Room",
+          "description": "Remove the mud room to expand the kitchen.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4375",
+          "confidence_score": "85"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "Level Floors",
+          "description": "Level the floors with the extension height of 5 inches.",
+          "quantity": "1319 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "13840.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "Install Hardwood Floor",
+          "description": "Install new hardwood flooring throughout the first floor.",
+          "quantity": "1319 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "13840.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "Replace Ceiling",
+          "description": "Replace the ceiling throughout the first floor.",
+          "quantity": "1319 SF",
+          "unit_cost": "$4.95 per SF",
+          "markup": "0.75",
+          "subtotal": "11468.1",
+          "confidence_score": "90"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "Replace Lights",
+          "description": "Replace lights throughout the first floor.",
+          "quantity": "10 UNIT",
+          "unit_cost": "$165 per UNIT",
+          "markup": "0.75",
+          "subtotal": "2887.5",
+          "confidence_score": "85"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "Replace Window with Sliding Door",
+          "description": "Replace the window in the front balcony with a sliding door.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4375",
+          "confidence_score": "85"
+        },
+        {
+          "room": "First Floor",
+          "scope_item": "New Washer/Dryer Room",
+          "description": "Install a new washer/dryer room.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,850 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Second Floor Renovation",
+      "items": [
+        {
+          "room": "Second Floor",
+          "scope_item": "Full Gut Bathrooms",
+          "description": "Full gut renovation of primary and secondary bathrooms.",
+          "quantity": "2 UNIT",
+          "unit_cost": "$9,900 per UNIT",
+          "markup": "0.75",
+          "subtotal": "34650",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Second Floor",
+          "scope_item": "Install New Floors",
+          "description": "Install new floors throughout the second floor.",
+          "quantity": "1000 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "10500",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Second Floor",
+          "scope_item": "Change Bedroom Layout",
+          "description": "Change the layout of the two bedrooms.",
+          "quantity": "2 UNIT",
+          "unit_cost": "$2,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "8750",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Second Floor",
+          "scope_item": "Replace Bedroom Ceiling",
+          "description": "Replace the ceiling in one bedroom.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,475 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4331.25",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Attic Renovation",
+      "items": [
+        {
+          "room": "Attic",
+          "scope_item": "Refinish Attic",
+          "description": "Refinish the attic with walls all around.",
+          "quantity": "500 SF",
+          "unit_cost": "$4 per SF",
+          "markup": "0.75",
+          "subtotal": "3500",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Attic",
+          "scope_item": "Sound Insulation",
+          "description": "Install sound insulation in the attic.",
+          "quantity": "500 SF",
+          "unit_cost": "$5 per SF",
+          "markup": "0.65",
+          "subtotal": "4125",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Attic",
+          "scope_item": "Floor Installation",
+          "description": "Install new flooring in the attic.",
+          "quantity": "500 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "5250",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Attic",
+          "scope_item": "New Staircase Installation",
+          "description": "Install a new staircase to the attic.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "2100",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Attic",
+          "scope_item": "Barn Door Installation",
+          "description": "Install a barn door in the attic.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,320 per UNIT",
+          "markup": "0.75",
+          "subtotal": "2310",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Attic",
+          "scope_item": "Lights Installation",
+          "description": "Install new lights in the attic.",
+          "quantity": "5 UNIT",
+          "unit_cost": "$165 per UNIT",
+          "markup": "0.75",
+          "subtotal": "1443.75",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "General Renovation",
+      "items": [
+        {
+          "room": "General",
+          "scope_item": "HVAC System Installation",
+          "description": "Install HVAC system for two floors.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$8,250 per UNIT",
+          "markup": "0.60",
+          "subtotal": "13200",
+          "confidence_score": "85"
+        },
+        {
+          "room": "General",
+          "scope_item": "Patch and Paint Walls",
+          "description": "Patch and paint walls throughout the house.",
+          "quantity": "3509 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.70",
+          "subtotal": "61712.55",
+          "confidence_score": "90"
+        },
+        {
+          "room": "General",
+          "scope_item": "Commercial Cleaning",
+          "description": "Post-construction commercial cleaning.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

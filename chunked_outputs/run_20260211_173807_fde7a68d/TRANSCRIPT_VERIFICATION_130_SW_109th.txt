@@ -1,0 +1,98 @@
+TRANSCRIPT VERIFICATION – 130 Southwest 109th Avenue, Miami
+================================================================
+Project: Post-fire/water damage rebuild. 3-bedroom apartment, 2,500 SF.
+Run: run_20260211_173807_fde7a68d
+Polycam: 2 files merged and used ([Polycam Spatial Report] 2_11_2026 (1).pdf, 2_11_2026.pdf).
+
+SCOPE FROM TRANSCRIPT (checklist)
+---------------------------------
+
+ELECTRICAL
+  [x] Replace 100% electricity (assume full rewire) – Estimate: Bathroom 1 electrical, Bedroom 1 electrical (consolidated from 3BR + living room in cleanup).
+  [ ] Bathroom 2 electrical – MISSING in final (was in GPT output; removed in dedup). ADDED in revised estimate.
+
+PLUMBING
+  [x] Everything same place – no layout change.
+  [x] Guest toilet, kitchen, faucets same place.
+  [x] Two bathrooms: toilet, sink, one with bath, one with shower. Vanity with sink.
+  [x] Kitchen plumbing. – Estimate: Bathroom 1 & 2 plumbing, Kitchen plumbing, Kitchen demolition. COVERED.
+
+DRYWALL / WALLS & CEILING
+  [x] “Whole apartment will need dry walls? Walls, ceiling, everywhere?” – Estimate had Kitchen Drywall only.
+  [ ] Whole-apartment drywall – MISSING. ADDED in revised estimate (Entire Apartment).
+
+INSULATION
+  [ ] “Everything will need isolation. Yeah, insulation.” – Not in estimate. ADDED in revised estimate.
+
+FLOORING
+  [x] Laminate floor throughout (rental, conservative).
+  [ ] Full 2,500 SF laminate – Estimate had Kitchen 100 SF + Bedroom 1 150 SF only. ADDED: Laminate entire apartment 2,500 SF and Stairs laminate.
+  [x] “Stairs – same thing, if we do laminate.” – ADDED in revised estimate.
+
+WINDOWS
+  [ ] Replace broken window glass only (same framing, no permit). “Replace the glass, call it a day.” – Not in estimate. ADDED in revised estimate.
+
+BATHROOMS
+  [x] Two bathrooms. Bath 1: bath + shower, new bath, floor, faucets, vanity, demo, tile to top. Remove drop-down seating (demo).
+  [x] Bath 2 (main): demo tiles, demo shower space, new shower. Small vanity with sink.
+  [x] Bathroom 1: demolition, plumbing, electrical, tile, fixtures.
+  [ ] Bathroom 2 tile work – MISSING in final (was in GPT output; removed in dedup). ADDED in revised estimate.
+  [ ] Bathroom 2 electrical – ADDED in revised estimate.
+
+STAIRCASE
+  [ ] “Struts for the staircase?” “No, this is still very good.” “Paint it. We’re going to paint it nice.” – Staircase paint. ADDED in revised estimate.
+
+KITCHEN
+  [x] Same layout. Demolition, plumbing, electrical, drywall, flooring, cabinets, countertops, backsplash.
+  [ ] Kitchen appliances (reinstall/connect) – Was in GPT output; removed in cleanup as “duplicate” of kitchen electrical. ADDED in revised estimate.
+
+CLOSETS
+  [ ] “Closets – drywall it, create the shape, create the space” / “just lines of paint” – Covered by whole-apartment drywall and paint if added.
+
+PAINTING
+  [x] Paint walls and ceiling (whole apartment implied).
+  [ ] Whole-apartment painting – Estimate had “Bedroom 1” only. ADDED: Entire Apartment painting (and staircase paint).
+
+CLEANING
+  [x] Post-construction cleaning. – Estimate: COVERED.
+
+TRIM
+  [x] Baseboards, crown (living room trim). – Estimate: COVERED.
+
+HVAC
+  [ ] “Maybe need to clean” ductwork – Optional; not in estimate. OK to omit.
+
+STRUCTURE
+  [x] No touch the structure. – No structural scope; OK.
+
+REVISED ESTIMATE ADDITIONS (applied)
+------------------------------------
+1. Kitchen Appliances – 1 UNIT @ $1,500 × 1.75 = $2,625
+2. Bathroom 2 Tile Work – 100 SF @ $15 × 1.80 = $2,700
+3. Bathroom 2 Electrical – 1 UNIT @ $800 × 1.75 = $1,400
+4. Whole apartment drywall – Walls & Ceiling, Entire Apartment
+5. Insulation – Entire apartment
+6. Whole apartment painting – Painting, Entire Apartment
+7. Laminate flooring – entire apartment 2,500 SF (or adjusted SF) + Stairs
+8. Staircase paint – Painting, Stairs
+9. Window glass replacement – broken units only
+
+FINAL CHECKS APPLIED (urgent pass):
+- Removed duplicate "Bedroom 1 Painting" (covered by Whole Apartment Painting).
+- Added Bathroom 2 Demolition per transcript ("demo the tiles, take out the demo all of the shower space").
+- Removed duplicate "Kitchen Drywall" (covered by Whole Apartment Drywall).
+- Recalculated: Walls & Ceiling $12,250; Subtotal $94,356.25; Grand Total $103,791.88.
+
+MEASUREMENT SOURCES & VERIFICATION
+----------------------------------
+- Apartment GLA: 2,500 SF — Transcript ("2,500 square feet"). Polycam (merged 2 files): livable floor areas ~607 + 620 + 644 + 661 ft² by scan; total project ~2,500 SF.
+- Kitchen: Transcript "five by six" → 30 SF. Estimate: Backsplash 30 SF ✓; Countertops 45 SF (perimeter × depth); Cabinets 20 LF (consistent with 5×6 layout).
+- Small bathroom: Transcript "Three by four" = 12 SF floor; "tile to the top" → wall tile. Estimate: 100 SF per bathroom = floor + wall tile (reasonable).
+- Small toilet: Transcript "Five by three" = 15 SF (not separately scoped; part of bathroom/trim).
+- Laminate flooring: 2,500 SF full apartment + 50 SF stairs — Transcript ("laminate throughout", "stairs same thing"); 50 SF stairs = estimate.
+- Windows: Transcript "replace the glass" (broken only), "another window that is broken" → 2 units ✓.
+- Drywall: 2,500 SF — Whole apartment; used apartment SF as proxy for ceiling + wall scope.
+- All unit prices and markups (75% / 80% tile) applied per Chapter master pricing. Countertop formula ($1,500 + $97/SF×SF + $2,000)×1.75 verified.
+- Category totals summed: $94,356.25. GC 10%: $9,435.63. Grand total: $103,791.88 ✓
+
+Verification complete. Measurements tied to transcript and Polycam. CSV and Excel generated. Polycam: 2 files merged and used.

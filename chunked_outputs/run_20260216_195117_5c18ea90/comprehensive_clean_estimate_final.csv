@@ -1,0 +1,47 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Entire House,Full Gut Demolition,"Complete demolition of interior and exterior elements as per plan, including removal of existing partitions, flooring, windows, doors, and stucco.",1 UNIT,"$4,000 per UNIT",0.75,,7000,95
+,,,,,,,,7000.00,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement for existing location.,1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for existing location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+,,,,,,,,22137.50,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,Installation of new electrical fixtures including GFCI outlets and lighting.,1 UNIT,"$3,500 minimum",0.75,,6125,95
+Electrical,Kitchen,Kitchen Electrical,"Rewiring of kitchen including GFCI outlets, lighting circuits, and appliance connections.",1 UNIT,"$3,500 minimum",0.75,,6125,95
+Electrical,Bedroom,Bedroom Electrical,Installation of new light fixtures and outlets.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+,,,,,,,,18375.00,
+Flooring,,,,,,,,,
+Flooring,Master Bedroom,Flooring Installation,Install new hardwood flooring.,119 SF,$6 per SF,0.75,,1252.5,90
+,,,,,,,,1252.50,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Installation of new wall and floor tiles.,80 SF,"$3,400 per 60-80 SF",0.80,,6120,90
+Tile,Kitchen,Kitchen Flooring,Installation of new tile flooring.,80 SF,"$2,400 per 60-80 SF",0.80,,4320,90
+,,,,,,,,10440.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Master Bedroom,Painting,Paint walls and ceiling.,119 SF,$10.3 per SF,0.75,,2144.78,90
+,,,,,,,,2144.78,
+Trims,,,,,,,,,
+Trims,Bedroom,Bedroom Trim,Installation of baseboards and crown molding.,40 LF,$5 per LF,0.75,,350,90
+,,,,,,,,350.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Installation,"Install new kitchen cabinets, including base and wall cabinets.",20 LF,$600 per LF,0.75,,21000,90
+,,,,,,,,21000.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,"Install new quartz countertops, including fabrication and installation (STON-02 + KITC-02).",45 SF,182 per SF,0.75,,14332.5,90
+,,,,,,,,14332.50,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash Installation,Install new tile backsplash.,20 SF,"$2,200 per 10 SF",0.80,,3960,90
+,,,,,,,,3960.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of the entire house post-renovation.,1 UNIT,2750 per UNIT,0.75,,4812.5,95
+General Requirements,Entire House,HVAC Semi-Central System,"Remove PTACs; install semi-central HVAC system (per transcript).",1 UNIT,16250 per UNIT,0.75,,28437.5,85
+General Requirements,Exterior,Hurricane Windows and Doors,"New hurricane-rated windows and doors (10 win + 3 door; 13 openings per transcript).",1 UNIT,6150 per UNIT,0.75,,10762.5,85
+General Requirements,Exterior,Exterior Stucco Redo,"New stucco post-elevation; cracks from moving (per transcript).",1 LUMP,8000,0.75,,14000,80
+,,,,,,,,58012.50,
+Structural Elevation,,,,,,,,,
+Structural Elevation,Entire House,House Elevation,"Elevate the house structure to meet FEMA requirements, raising the base flood elevation to 8 feet.",1 UNIT,"$50,000 per UNIT",0.75,,87500,90
+,,,,,,,,87500.00,
+,,,,,,,,246504.78,
+,,,General Conditions (10%),,,,,24650.48,
+,,,Grand Total,,,,,271155.26,

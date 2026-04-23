@@ -1,0 +1,54 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom 1 Renovation,,,,,,,,,
+Bathroom 1 Renovation,Bathroom 1,Bathroom Demolition,"Remove old fixtures, tile, vanity, and flooring. Debris removal.",6.5 m²,$50 per m²,0.75,nan,568.75,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Plumbing,"Install rough plumbing, toilet, sink, shower/tub, supply lines, and drain lines.",1 UNIT,$2500 per UNIT,0.75,nan,4375.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Electrical,"Install rough electrical, vanity lighting, exhaust fan, GFCI outlets, and switches.",1 UNIT,$1500 per UNIT,0.75,nan,2625.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Tile Work,"Install floor and wall tiles, including grout and sealing.",10 m²,$80 per m²,0.8,nan,1440.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Fixtures,"Install vanity, mirror, towel bars, toilet paper holder, and shower doors.",1 UNIT,$2000 per UNIT,0.75,nan,3500.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Finishing,"Paint walls and ceiling, caulking, trim installation, and final cleanup.",1 UNIT,$1000 per UNIT,0.75,nan,1750.0,90.0
+,,,,,,,,14258.75,
+Bathroom 2 Renovation,,,,,,,,,
+Bathroom 2 Renovation,Powder Room,Reconfigure Powder Room,"Convert existing full bath to powder room (toilet + sink), adjust walls and expand adjacent bath as discussed.",1 UNIT,"$8,000 per UNIT",0.75,,14000.0,85.0
+,,,,,,,,14000.00,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire House,Post-Construction Cleaning,"Comprehensive cleaning of all renovated areas, including dust removal, floor cleaning, and window washing.",236.7 m²,$5 per m²,0.75,nan,2076.38,85.0
+,,,,,,,,2076.38,
+Electrical,,,,,,,,,
+Electrical,Service,New Main Electrical Panel and Service Upgrade,Install new main electrical panel and service upgrade as required for insurance and added loads.,1 UNIT,"$3,500 per UNIT",0.75,,6125.0,85.0
+Electrical,Bedrooms,Bedroom Lighting and Junction Boxes (5 Bedrooms),"Add junction boxes and recessed/overhead lighting in all 5 bedrooms, including switches and dimmers.",5 UNIT,"$1,000 per UNIT",0.75,,8750.0,85.0
+,,,,,,,,14875.00,
+Exterior,,,,,,,,,
+Exterior,Front Porch,New Front Porch / Entry Deck,"Remove existing planting beds and create new front porch/entry deck in wood or stone, including steps and railings as needed.",20 m²,$400 per m²,0.75,,14000.0,85.0
+,,,,,,,,14000.00,
+Garage Conversion,,,,,,,,,
+Garage Conversion,Guest Suite,Convert Garage to Guest Suite,"Convert existing 4-car garage into guest suite with framing, insulation, drywall, finishes, flooring, and Murphy bed area.",1 UNIT,"$45,000 per UNIT",0.75,,78750.0,85.0
+,,,,,,,,78750.00,
+HVAC,,,,,,,,,
+HVAC,Entire House,HVAC Ductwork and Insulation Rework,"Rework and balance existing HVAC ductwork and insulation to serve the renovated layout and guest suite, assuming existing system has capacity.",1 UNIT,"$8,000 per UNIT",0.75,,14000.0,85.0
+,,,,,,,,14000.00,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Protect adjacent areas.",19 m²,$50 per m²,0.75,nan,1662.5,90.0
+Kitchen Renovation,Kitchen,Kitchen Plumbing,"Install rough plumbing, kitchen sink, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,$2000 per UNIT,0.75,nan,3500.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Install rough electrical, lighting circuits, under-cabinet lighting, GFCI outlets, switches, and panel upgrades.",1 UNIT,$3000 per UNIT,0.75,nan,5250.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Flooring,"Install engineered hardwood flooring, including subfloor preparation, underlayment, and trim.",19 m²,$100 per m²,0.75,nan,3325.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Cabinets,"Install base and wall cabinets, including crown molding and hardware.",13 LF,$500 per LF,0.75,nan,11375.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Countertops,"Install quartzite countertops, including template creation, fabrication, and installation.",19 m²,"($1,500 + $97×19 + $2,000) × 1.75",0.75,nan,13763.75,90.0
+Kitchen Renovation,Kitchen,Kitchen Backsplash,"Install tile backsplash, including grout and sealing.",10 m²,$80 per m²,0.8,nan,1440.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Appliances,"Install appliances, including electrical and gas connections.",1 UNIT,$1500 per UNIT,0.75,nan,2625.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Finishing,"Touch-up painting, hardware installation, final cleanup, caulking, and sealing.",1 UNIT,$1000 per UNIT,0.75,nan,1750.0,90.0
+,,,,,,,,44691.25,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,"Install engineered hardwood flooring, including subfloor preparation, underlayment, and trim.",41 m²,$100 per m²,0.75,nan,7175.0,90.0
+Living Room Renovation,Living Room,Living Room Painting,"Prepare walls, apply primer, paint walls and ceiling, and touch-up work.",41 m²,$20 per m²,0.75,nan,1435.0,90.0
+Living Room Renovation,Living Room,Living Room Electrical,"Install outlets, switches, light fixtures, ceiling fans, and dimmer switches.",1 UNIT,$2000 per UNIT,0.75,nan,3500.0,90.0
+Living Room Renovation,Living Room,Living Room Trim,"Install baseboards, crown molding, window casings, door casings, and quarter round.",41 m²,$15 per m²,0.75,nan,1076.25,90.0
+,,,,,,,,13186.25,
+Trim & Finish,,,,,,,,,
+Trim & Finish,Entire House,Remove Crown Molding and Install New Baseboards,"Remove all existing crown molding throughout the house and install new baseboards, including caulking and painting.",236.7 m²,$25 per m²,0.75,,10355.625,85.0
+,,,,,,,,10355.62,
+Whole House Flooring,,,,,,,,,
+Whole House Flooring,Entire House (beyond Kitchen & Living),Engineered Hardwood Flooring - Remaining Areas,"Install engineered hardwood flooring in remaining house areas (bedrooms, halls, other spaces), including subfloor prep, underlayment, and trim.",176.7 m²,$100 per m²,0.75,,30922.5,85.0
+,,,,,,,,30922.50,
+,,,,,,,,251115.76,
+,,,General Conditions (10%),,,,,25111.58,
+,,,Grand Total,,,,,276227.33,

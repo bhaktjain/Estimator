@@ -1,0 +1,54 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Demolition,Kitchen,Kitchen Demolition,"Complete demolition of existing kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Porch,Porch Demolition,"Complete removal of existing porch (per transcript).",1 LS,"$5,000 per LS",0.75,,8750,90
+,,,,,,,,19337.50,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement for existing bathroom location.,1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for existing kitchen location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+,,,,,,,,22137.50,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,Installation of new electrical fixtures including vanity lighting and GFCI outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Living Room,Living Room Electrical,"Installation of new outlets, switches, and light fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+,,,,,,,,12250.00,
+Flooring,,,,,,,,,
+Flooring,Living Room,Living Room Flooring,"Installation of new hardwood flooring (Polycam: LR1+LR2+Dining).",573 SF,$6 per SF,0.75,,6016.50,95
+Flooring,Mudroom,Mudroom Flooring & Finish,"Flooring and interior finish for new mudroom bump-out area (per transcript).",1 LS,"$2,500 per LS",0.75,,4375,85
+,,,,,,,,10391.50,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Installation of new wall and floor tiles (Polycam: Other 1).,59 SF,"$4,100 per 80-100 SF",0.80,,5442.75,95
+Tile,Kitchen,Kitchen Flooring,Installation of new tile flooring in kitchen (Polycam).,106 SF,"$2,400 per 60-80 SF",0.80,,5724,95
+,,,,,,,,11166.75,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Kitchen,Kitchen Painting,Prime and paint kitchen walls and ceiling (Polycam).,106 SF,$10.3 per SF,0.70,,1856.06,95
+Painting & Wall Coverings,Living Room,Living Room Painting,Painting of walls and ceiling (Polycam: LR1+LR2+Dining).,573 SF,$10.3 per SF,0.70,,10033.23,95
+,,,,,,,,11889.29,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets Installation,Installation of kitchen cabinets for 16 to 20 linear feet.,1 UNIT,"$10,900 per UNIT",0.75,,19075,95
+,,,,,,,,19075.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,45 SF,$97 per SF,0.75,,7638.75,95
+,,,,,,,,7638.75,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Installation of large tile backsplash.,10 FT,"$2,200 per 10 FT",0.80,,3960,95
+,,,,,,,,3960.00,
+Structural & Additions,,,,,,,,,
+Structural & Additions,Kitchen,Kitchen Bump-Out (6 ft),"Structural extension 6 ft; foundation, walls, roof tie-in (per transcript).",1 LS,"$30,000 per LS",0.75,,52500,85
+Structural & Additions,Mudroom,Mudroom Bump-Out (3 ft),"Structural extension 3 ft; foundation, walls, roof (per transcript).",1 LS,"$15,000 per LS",0.75,,26250,85
+,,,,,,,,78750.00,
+Exterior,,,,,,,,,
+Exterior,Porch,Porch Rebuild,"New porch slightly larger (~18 in per plans); rebuild after demo (per transcript).",1 LS,"$18,000 per LS",0.75,,31500,85
+,,,,,,,,31500.00,
+Crawl Space & Site,,,,,,,,,
+Crawl Space & Site,Basement,Crawl Space Enclosure,"Enclose crawl space, new door, steps moved ~3 ft, cinder block removal (per transcript).",1 LS,"$10,000 per LS",0.75,,17500,85
+,,,,,,,,17500.00,
+Windows & Skylights,,,,,,,,,
+Windows & Skylights,Kitchen,Skylights (Kitchen),"Skylights in kitchen (per transcript; confirm count/size on plans).",1 LS,"$3,000 per LS",0.75,,5250,80
+,,,,,,,,5250.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,4812.50,
+,,,,,,,,255658.79,
+,,,General Conditions (10%),,,,,25565.88,
+,,,Grand Total,,,,,281224.67,

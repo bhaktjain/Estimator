@@ -1,0 +1,42 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom 1 Renovation,,,,,,,,,
+Bathroom 1 Renovation,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+Bathroom 1 Renovation,Bathroom 1,Bathroom Plumbing,Full gut plumbing for existing location with double sinks and Japanese toilet.,1 UNIT,"$9,900 per UNIT",0.75,,17325.00,90
+Bathroom 1 Renovation,Bathroom 1,Bathroom Electrical,"Install new electrical outlets, lighting, and heated floor electrical.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Bathroom 1 Renovation,Bathroom 1,Bathroom Tile Work,Install large tile flooring and wall tiles with minimal grout lines.,106 SF,"$2,700 per SF",0.80,,5148.00,90
+Bathroom 1 Renovation,Bathroom 1,Bathroom Fixtures,"Install new vanity, double sinks, frameless glass shower door, and Japanese toilet.",1 UNIT,"$4,250 per UNIT",0.75,,7437.50,90
+,,,,,,,,41810.50,
+Bathroom 2 Renovation,,,,,,,,,
+Bathroom 2 Renovation,Bathroom 2,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.50,95
+Bathroom 2 Renovation,Bathroom 2,Bathroom Plumbing,Full gut plumbing for existing location with single sink and shower conversion.,1 UNIT,"$8,800 per UNIT",0.75,,15400.00,90
+Bathroom 2 Renovation,Bathroom 2,Bathroom Electrical,Install new electrical outlets and lighting.,1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Bathroom 2 Renovation,Bathroom 2,Bathroom Tile Work,Install large tile flooring and wall tiles with minimal grout lines.,60 SF,"$2,300 per SF",0.80,,4140.00,90
+Bathroom 2 Renovation,Bathroom 2,Bathroom Fixtures,"Install new vanity, single sink, frameless glass shower door.",1 UNIT,"$4,250 per UNIT",0.75,,7437.50,90
+,,,,,,,,37915.00,
+Bedroom Renovation,,,,,,,,,
+Bedroom Renovation,Bedroom 1,Bedroom Flooring,Install high-end laminate flooring throughout the bedroom.,180 SF,$6 per SF,0.75,,1890.00,90
+Bedroom Renovation,Bedroom 1,Bedroom Painting,Paint walls and ceiling with Benjamin Moore regal select.,180 SF,$10.3 per SF,0.75,,3244.50,90
+Bedroom Renovation,Bedroom 1,Bedroom Electrical,"Install new outlets, switches, and light fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Bedroom Renovation,Bedroom 1,Bedroom Trim,Install new baseboards and crown molding.,54 LF,$14 per LF,0.75,,1323.00,90
+,,,,,,,,12582.50,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$2,750 per UNIT",0.75,,4812.50,95
+,,,,,,,,4812.50,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Debris removal and disposal.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing for existing location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,90
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rough electrical, install lighting circuits, GFCI outlets, and under-cabinet lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,"Install semi-custom kitchen cabinets, including base and wall cabinets.",16 LF,$850 per LF,0.75,,23800.00,95
+Kitchen Renovation,Kitchen,Kitchen Countertops,"Install quartz countertops with no seams, except in corners.",45 SF,$97 per SF,0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Install large tile backsplash to minimize grout lines.,10 LF,"$2,200 per 10 LF",0.80,,3960.00,90
+Kitchen Renovation,Kitchen,Kitchen Flooring,Install high-end laminate flooring throughout the kitchen.,160 SF,$6 per SF,0.75,,1680.00,90
+,,,,,,,,61841.25,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,Install high-end laminate flooring throughout the living room.,770 SF,$6 per SF,0.75,,8085.00,90
+Living Room Renovation,Living Room,Living Room Painting,Paint walls and ceiling with Benjamin Moore regal select.,770 SF,$10.3 per SF,0.75,,13882.50,90
+Living Room Renovation,Living Room,Living Room Electrical,"Install new outlets, switches, and light fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Living Room Renovation,Living Room,Living Room Trim,Install new baseboards and crown molding.,132 LF,$14 per LF,0.75,,3234.00,90
+,,,,,,,,31326.50,
+,,,,,,,,190288.25,
+,,,General Conditions (10%),,,,,19028.83,
+,,,Grand Total,,,,,209317.08,

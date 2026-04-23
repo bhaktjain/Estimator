@@ -1,0 +1,31 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom Renovation,,,,,,,,,
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Remove existing fixtures, tile, and flooring.",1 UNIT,"$2,200 per unit",0.75,,3850,90
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,"Install new plumbing for sink, toilet, and shower.",1 UNIT,"$7,700 per unit",0.75,,13475,90
+Bathroom Renovation,Bathroom 1,Bathroom Electrical,"Install new electrical wiring, outlets, and lighting.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,Install new floor and wall tiles.,80 SF,"$4,100 per 80 SF",0.80,,7380,90
+,,,,,,,,30830.00,
+Bedroom Renovation,,,,,,,,,
+Bedroom Renovation,Bedroom 1,Bedroom Flooring,Install new hardwood flooring.,200 SF,$6 per SF,0.75,,2100,90
+Bedroom Renovation,Bedroom 1,Bedroom Painting,Paint walls and ceiling.,200 SF,$10.3 per SF,0.75,,3605,90
+Bedroom Renovation,Bedroom 1,Bedroom Electrical,Install new outlets and lighting fixtures.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+,,,,,,,,11830.00,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750 per unit",0.75,,4812.5,85
+,,,,,,,,4812.50,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, and flooring.",20 LF,"$2,500 per 10 LF",0.75,,8750,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Install new plumbing for sink and appliances.,1 UNIT,"$3,850 per unit",0.75,,6737.5,90
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Install new electrical wiring, outlets, and lighting.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,Install new kitchen cabinets.,20 LF,"$7,600 per 10 LF",0.75,,26600,95
+Kitchen Renovation,Kitchen,Kitchen Countertops,Install new quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Install new tile backsplash.,10 LF,"$2,200 per 10 LF",0.80,,3960,90
+,,,,,,,,65936.25,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,Install new hardwood flooring.,300 SF,$6 per SF,0.75,,3150,90
+Living Room Renovation,Living Room,Living Room Painting,Paint walls and ceiling.,300 SF,$10.3 per SF,0.75,,5407.5,90
+Living Room Renovation,Living Room,Living Room Electrical,Install new outlets and lighting fixtures.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+,,,,,,,,14682.50,
+,,,,,,,,128091.25,
+,,,General Conditions (10%),,,,,12809.12,
+,,,Grand Total,,,,,140900.38,

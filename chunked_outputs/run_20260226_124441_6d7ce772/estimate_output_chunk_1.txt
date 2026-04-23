@@ -1,0 +1,147 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: chunked_outputs/run_20260226_124441_6d7ce772/polycam_chunks/polycam.pdf
+[SUCCESS] Extracted 16219 characters from chunked_outputs/run_20260226_124441_6d7ce772/polycam_chunks/polycam.pdf
+[INFO] Processing file 3: chunked_outputs/run_20260226_124441_6d7ce772/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5941 characters from chunked_outputs/run_20260226_124441_6d7ce772/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 64274 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Demolition",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Flooring Demolition",
+          "description": "Demolition of existing flooring throughout the entire apartment.",
+          "quantity": "1183.1 SF",
+          "unit_cost": "$4 per SF",
+          "markup": "0.75",
+          "subtotal": "8271.725",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathrooms",
+          "scope_item": "Bathroom Fixtures and Vanity Demolition",
+          "description": "Removal of all bathroom fixtures, vanities, mirrors, and glass elements.",
+          "quantity": "2 UNITS",
+          "unit_cost": "$2200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "7700",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Flooring",
+      "items": [
+        {
+          "room": "Living Areas",
+          "scope_item": "Interlocking Wood Flooring Installation",
+          "description": "Installation of Brazilian Amor interlocking wood flooring throughout living areas.",
+          "quantity": "733.1 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "7693.725",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathrooms",
+          "scope_item": "Wood-Look Tile Installation",
+          "description": "Installation of tile that mimics wood in all bathrooms.",
+          "quantity": "208 SF",
+          "unit_cost": "$2,700 per bathroom",
+          "markup": "0.80",
+          "subtotal": "9720",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Kitchen",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Backsplash Installation",
+          "description": "Installation of new tile backsplash in the kitchen.",
+          "quantity": "15 SF",
+          "unit_cost": "$1650 per 10 SF",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Countertop Refresh",
+          "description": "Minor refresh of existing kitchen countertops.",
+          "quantity": "45 SF",
+          "unit_cost": "$97 per SF",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Bathrooms",
+      "items": [
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Vanity and Fixture Replacement",
+          "description": "Replacement of vanity and fixtures, including raising vanity height and considering double sinks.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$8800 per UNIT",
+          "markup": "0.75",
+          "subtotal": "15400",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Vanity and Fixture Replacement",
+          "description": "Replacement of vanity and fixtures, including raising vanity height.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$7700 per UNIT",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Electrical",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Electrical Rewiring",
+          "description": "Rewiring of the entire apartment to accommodate new fixtures and appliances.",
+          "quantity": "1183.1 SF",
+          "unit_cost": "$17 per SF",
+          "markup": "0.75",
+          "subtotal": "35252.175",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of the apartment post-renovation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

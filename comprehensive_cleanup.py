@@ -8,6 +8,23 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill, Border, Side, NamedStyle
 from openpyxl.utils.dataframe import dataframe_to_rows
 
+# Standard estimate section order (construction sequence)
+ESTIMATE_SECTION_ORDER = [
+    'Demolition',
+    'Walls & Ceiling',
+    'Plumbing',
+    'Electrical',
+    'Flooring',
+    'Tile',
+    'Painting & Wall Coverings',
+    'Trims',
+    'Cabinetry & Storage',
+    'Countertops',
+    'Backsplash',
+    'Appliances',
+    'General Requirements',
+]
+
 def read_csv_items(file_path):
     """Read CSV and return items as list of dictionaries."""
     items = []
@@ -83,8 +100,11 @@ def normalize_room_name(room_name):
         return 'kitchen'
     elif 'closet' in room:
         return 'closet'
-    elif 'living' in room or 'room' in room:
-        return 'living area'
+    # IMPORTANT: don't treat every '*room' (e.g. 'bedroom') as 'living area'
+    elif 'bedroom' in room:
+        return 'bedroom'
+    elif 'living room' in room or ('living' in room and 'room' in room):
+        return 'living room'
     elif 'office' in room:
         return 'office area'
     elif 'entry' in room or 'foyer' in room:
@@ -445,10 +465,12 @@ def enhanced_deduplication(items):
             description = item.get('Description', '').strip().lower()
             
             # Create different combinations for duplicate detection
+            # Duplicate detection should not drop the same scope across different rooms.
+            # Keep combinations room-scoped to avoid removing Bathroom 2 just because
+            # Bathroom 1 has a similar item/description.
             combinations = [
                 f"{room}|{item_name}",
                 f"{room}|{item_name}|{description}",
-                f"{item_name}|{description}"
             ]
             
             # Check if this item is a duplicate
@@ -816,11 +838,18 @@ def create_excel_file(items, output_file):
         if category:
             categories[category].append(item)
     
+    # Use standard section order, then any other categories alphabetically
+    ordered_categories = [c for c in ESTIMATE_SECTION_ORDER if c in categories]
+    for c in sorted(categories):
+        if c not in ordered_categories:
+            ordered_categories.append(c)
+    
     current_row = 2
     overall_subtotal = 0
     
     # Add items by category with professional formatting (matching reference image)
-    for category, category_items in categories.items():
+    for category in ordered_categories:
+        category_items = categories[category]
         # Add category header with professional styling
         category_cell = ws.cell(row=current_row, column=1, value=category)
         category_cell.style = subheader_style
@@ -955,7 +984,12 @@ def write_final_csv(items, output_file):
         
         overall_subtotal = 0
         
-        for category in sorted(categories):
+        # Use standard section order, then any other categories alphabetically
+        ordered_categories = [c for c in ESTIMATE_SECTION_ORDER if c in categories]
+        for c in sorted(categories):
+            if c not in ordered_categories:
+                ordered_categories.append(c)
+        for category in ordered_categories:
             # Add category header (only allowed keys)
             writer.writerow({k: (category if k == 'Category' else '') for k in fieldnames})
             

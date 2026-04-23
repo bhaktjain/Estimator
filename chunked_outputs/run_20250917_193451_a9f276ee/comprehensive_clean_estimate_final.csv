@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash,Installation of kitchen backsplash tile.,10 LF,"$2,200 per 10 LF",0.80,,3960.00,95
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Custom Cabinetry,Supply and install fully custom kitchen cabinets.,10 LF,"$1,200 per LF",0.75,,21000.00,95
+,,,,,,,,21000.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertops,Fabricate and install quartz countertops.,25 SF,"($1,500 installation + $97/SF × SF + $2,000 material) × 1.75",1.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",59 SF,"$2,500 per UNIT",0.75,,4375.00,95
+Demolition,Bathroom,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",365 SF,"$3,300 per UNIT",0.75,,5775.00,95
+,,,,,,,,10150.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Electrical,"Rewiring and installation of kitchen electrical systems including outlets, lighting, and appliances.",59 SF,$17 per SF,0.75,,1756.88,95
+Electrical,Bathroom,Electrical,Installation of bathroom electrical systems including lighting and outlets.,365 SF,$17 per SF,0.75,,10856.25,95
+Electrical,Bedroom,Electrical,Installation of bedroom electrical systems including outlets and lighting.,453 SF,$17 per SF,0.75,,13492.88,95
+,,,,,,,,26106.01,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Flooring,Installation of new kitchen flooring.,59 SF,$6 per SF,0.75,,619.50,95
+Flooring,Bathroom,Flooring,Installation of new bathroom flooring.,365 SF,$6 per SF,0.75,,3832.50,95
+Flooring,Bedroom,Flooring,Installation of new hardwood flooring.,453 SF,$6 per SF,0.75,,4763.25,95
+,,,,,,,,9215.25,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Commercial Cleaning,Post-construction cleaning of the entire apartment.,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,95
+,,,,,,,,3368.75,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Painting,Painting of bedroom walls and ceiling.,453 SF,$10.3 per SF,0.75,,8156.63,95
+,,,,,,,,8156.63,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for existing location with 1 sink.,1 UNIT,"$3,850 per unit",0.75,,6737.50,95
+Plumbing,Bathroom,Bathroom Plumbing,Full gut plumbing for existing location.,1 UNIT,"$9,900 per unit",0.75,,17325.00,95
+,,,,,,,,24062.50,
+Tile,,,,,,,,,
+Tile,Bathroom,Tile Work,Installation of bathroom floor and wall tiles.,365 SF,"$4,100 per UNIT",0.80,,7380.00,95
+,,,,,,,,7380.00,
+Trims,,,,,,,,,
+Trims,Bedroom,Trim,Installation of baseboards and crown molding.,453 LF,$5 per LF,0.75,,3963.75,95
+,,,,,,,,3963.75,
+,,,,,,,,131126.64,
+,,,General Conditions (10%),,,,,13112.66,
+,,,Grand Total,,,,,144239.30,

@@ -1,0 +1,50 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Installation of large tile backsplash.,15 LF,"$2,200 per 10+ LF",0.80,,3960,90
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Installation of semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.5,90
+,,,,,,,,22312.50,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Demolition,Kitchen,Full gut demolition,"Removal of all kitchen cabinets, countertops, appliances, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Bathroom 2,Full gut demolition,"Remove all existing bathroom fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,15400.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom electrical,"Install new electrical for vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Kitchen,Rewiring,Complete rewiring of kitchen electrical systems.,1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Bathroom 2,Bathroom Electrical,Installation of new electrical fixtures including vanity lighting and GFCI outlets.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+Electrical,Living Room,Living Room Electrical,"Installation of outlets, switches, and light fixtures.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+,,,,,,,,24500.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,"Installation of new kitchen flooring, 80 SF.",80 SF,$6 per SF,0.75,,840,90
+Flooring,Bedroom 1,Bedroom Flooring,Installation of new hardwood flooring.,150 SF,$6 per SF,0.75,,1575,90
+Flooring,Basement,New flooring installation,Installation of new flooring in the basement.,500 SF,$6 per SF,0.75,,5250,85
+,,,,,,,,7665.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Commercial Cleaning,Post-construction cleaning of entire apartment.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+General Requirements,Entire Building,Post-construction cleaning,Comprehensive cleaning of the entire building after construction.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,85
+,,,,,,,,9625.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Bedroom Painting,Painting of walls and ceiling.,150 SF,$10.3 per SF,0.75,,2707.5,90
+,,,,,,,,2707.50,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement at existing location for 60-80 SF.,1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with existing location for 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Plumbing,Bathroom 2,Full gut plumbing,Installation of new plumbing for bathroom fixtures.,1 UNIT,"$7,700 per UNIT",0.75,,13475,90
+,,,,,,,,35612.50,
+Sprinkler System,,,,,,,,,
+Sprinkler System,Entire Building,New sprinkler system installation,Installation of a new sprinkler system throughout the building.,1 UNIT,"$5,000 per UNIT",0.75,,8750,85
+,,,,,,,,8750.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,80 SF,"$4,100 per 80 SF",0.80,,7380,90
+,,,,,,,,7380.00,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,Installation of baseboards and crown molding.,80 LF,$5 per LF,0.75,,700,90
+,,,,,,,,700.00,
+,,,,,,,,152376.25,
+,,,General Conditions (10%),,,,,15237.62,
+,,,Grand Total,,,,,167613.88,

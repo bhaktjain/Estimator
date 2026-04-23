@@ -1,0 +1,70 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,"Tile preparation, tile installation, grout installation, tile sealing, trim tiles.",20 SF,"$2,200 per 10 SF",0.80,,3960,90
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets.,20 LF,$850 per LF,0.75,,29750,95
+,,,,,,,,29750.00,
+Carpentry,,,,,,,,,
+Carpentry,Master Bedroom / Garage,Garage Extension for Master Bedroom Expansion,"Construct extension on top of existing garage perimeter walls to expand master bedroom. Extension area: 170 SF (based on Polycam floor plan measurements). Includes structural framing, roof tie-in, insulation, drywall, flooring, electrical, and finishes. Extension built on garage foundation/walls.",170 SF,$350 per SF,0.75,,104125.00,95
+Carpentry,Master Bathroom,Master Bathroom Expansion and Closet Reconfiguration,"Expand master bathroom by removing/adjusting closet space, relocate closet to corner. Includes wall removal, new framing, drywall, and space reconfiguration.",80 SF,$200 per SF,0.75,,28000.00,90
+Carpentry,Basement,Basement Gym Renovation,"Update basement space for gym use. Remove wood paneling, install sheetrock with access panels for ductwork, improve lighting, paint, and basic finishes. Economical approach.",600 SF,$25 per SF,0.75,,26250.00,90
+,,,,,,,,158375.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,"Template creation, countertop fabrication, countertop installation, edge treatments, sink cutouts.",45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Remove old fixtures, tile, vanity, flooring, and debris.",46.6 SF,"$2,200 per UNIT",0.75,,3850,90
+Demolition,Basement,Basement Bar Removal and Demolition,"Remove existing bar area under stairs, remove old cabinetry, and prepare space for gym conversion.",1 UNIT,"$2,200 per UNIT",0.75,,3850.00,90
+Demolition,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Debris removal and disposal.",242 SF,$7 per SF,0.75,,2967.5,95
+,,,,,,,,10667.50,
+Doors & Windows,,,,,,,,,
+Doors & Windows,Entire House,Complete Door Replacement,"Replace all interior and exterior doors throughout house, including door frames, hardware, and fire-rated door to garage as required.",15 UNIT,$800 per UNIT,0.75,,21000.00,90
+,,,,,,,,21000.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Kitchen Electrical,"Rough electrical, kitchen lighting circuits, under-cabinet lighting, GFCI outlets, switch installation, panel upgrades, range hood electrical, kitchen island electrical, pendant light installation, dimmer switches.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Bathroom 1,Bathroom Electrical,"Rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, switch installation, mirror lighting, heated floor electrical.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Bedroom 1,Bedroom Electrical,"Outlet installation, switch installation, light fixtures, ceiling fans, closet lighting, bedside outlets, USB outlets.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Family Room,Family Room Recessed Lighting,Install recessed lighting throughout family room.,1 UNIT,"$2,500 per UNIT",0.75,,4375.00,90
+Electrical,Main Living Areas,Recessed Lighting Throughout,"Install recessed lighting throughout main living areas, kitchen, dining, and hallways as mentioned in walkthrough.",1 UNIT,"$4,000 per UNIT",0.75,,7000.00,90
+,,,,,,,,29750.00,
+Exterior,,,,,,,,,
+Exterior,Entire House,Complete Siding Replacement,"Replace entire siding throughout house. Remove old siding (brick look and existing siding), install new siding, trim, and flashing.",3000 SF,$18 per SF,0.75,,94500.00,95
+,,,,,,,,94500.00,
+Flooring,,,,,,,,,
+Flooring,Entire House (except basement),Whole-House Hardwood Flooring,"Install new hardwood flooring throughout entire house (kitchen, living, dining, bedrooms, hallways, family room) excluding basement. Remove carpet and existing flooring, install new hardwood with transitions and trims.",1750 SF,$6 per SF,0.75,,18375.00,90
+,,,,,,,,18375.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Commercial Cleaning,Post-construction cleaning for entire house.,1 UNIT,"$4,400 per UNIT",0.75,,7700,95
+,,,,,,,,7700.00,
+HVAC,,,,,,,,,
+HVAC,Basement,Boiler Replacement Assessment and Potential Replacement,"Assess existing boiler (2012) and replace if needed. Includes assessment, removal of old unit, installation of new boiler, and all connections.",1 UNIT,"$12,000 per UNIT",0.75,,21000.00,80
+HVAC,Exterior,AC Condenser Replacement Assessment and Potential Replacement,"Assess existing condenser (1999) showing signs of moisture/dampness and replace if needed. Includes assessment, removal, new unit installation, and connections.",1 UNIT,"$8,000 per UNIT",0.75,,14000.00,80
+,,,,,,,,35000.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Living Room,Living Room Painting,"Wall preparation, primer application, paint walls, paint ceiling, touch-up work.",360 SF,$10.3 per SF,0.75,,6489,90
+,,,,,,,,6489.00,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,"Rough plumbing, toilet installation, sink installation, shower/tub installation, supply lines, drain lines, vent lines.",1 UNIT,"$7,700 per UNIT",0.75,,13475,90
+Plumbing,Kitchen,Kitchen Plumbing,"Rough plumbing, kitchen sink installation, garbage disposal, water supply lines, drain lines, shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,90
+Plumbing,Powder Room,Powder Room Plumbing Update,Update plumbing fixtures and rough-in for powder room renovation.,1 UNIT,"$2,500 per UNIT",0.75,,4375.00,85
+,,,,,,,,24587.50,
+Roofing,,,,,,,,,
+Roofing,Entire House,Complete Roof Replacement,"Replace entire roof system (30 years old). Includes removal of old roofing, new shingles, flashing, gutters, and all associated work.",2500 SF,$12 per SF,0.75,,52500.00,95
+,,,,,,,,52500.00,
+Site Work,,,,,,,,,
+Site Work,Extension Area,Drainage Work for Extension,"Relocate and update drainage system for extension area. Currently running through extension location, needs to be rerouted.",1 UNIT,"$5,000 per UNIT",0.75,,8750.00,85
+,,,,,,,,8750.00,
+Structural,,,,,,,,,
+Structural,Kitchen / Dining,Kitchen Wall Opening and Structural Work,"Open wall between kitchen and dining room to create open concept. Includes structural assessment, beam installation if needed, and wall removal.",1 UNIT,"$10,000 per UNIT",0.75,,17500.00,85
+,,,,,,,,17500.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,"Floor tile preparation, floor tile installation, wall tile installation, shower tile, grout installation, tile sealing.",46.6 SF,"$2,600 per 60 SF",0.80,,4680,90
+Tile,Powder Room,Powder Room Tile Work,Install new tile flooring and wall tile in powder room.,35 SF,"$2,600 per 60 SF",0.80,,2730.00,85
+,,,,,,,,7410.00,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,"Baseboard installation, window casings, door casings, closet trim.",170 LF,$5 per LF,0.75,,1487.5,90
+,,,,,,,,1487.50,
+,,,,,,,,541565.25,
+,,,General Conditions (10%),,,,,54156.53,
+,,,Grand Total,,,,,595721.78,

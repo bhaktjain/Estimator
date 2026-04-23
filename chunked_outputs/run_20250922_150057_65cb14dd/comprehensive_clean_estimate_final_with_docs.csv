@@ -1,0 +1,68 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Installation of large tile backsplash.,15 LF,"$2,200 per 10+ LF",0.8,,3960.0,90.0
+,,,,,,,,3960.0,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Installation of semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.5,90.0
+,,,,,,,,22312.5,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95.0
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95.0
+Demolition,Kitchen,Full gut demolition,"Removal of all kitchen cabinets, countertops, appliances, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775.0,95.0
+Demolition,Bathroom 2,Full gut demolition,"Remove all existing bathroom fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95.0
+,,,,,,,,15400.0,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom electrical,"Install new electrical for vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,95.0
+Electrical,Kitchen,Rewiring,Complete rewiring of kitchen electrical systems.,1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90.0
+Electrical,Bathroom 2,Bathroom Electrical,Installation of new electrical fixtures including vanity lighting and GFCI outlets.,1 UNIT,"$3,500 minimum",0.75,,6125.0,90.0
+Electrical,Living Room,Living Room Electrical,"Installation of outlets, switches, and light fixtures.",1 UNIT,"$3,500 minimum",0.75,,6125.0,90.0
+,,,,,,,,24500.0,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,"Installation of new kitchen flooring, 80 SF.",80 SF,$6 per SF,0.75,,840.0,90.0
+Flooring,Bedroom 1,Bedroom Flooring,Installation of new hardwood flooring.,150 SF,$6 per SF,0.75,,1575.0,90.0
+Flooring,Basement,New flooring installation,Installation of new flooring in the basement.,500 SF,$6 per SF,0.75,,5250.0,85.0
+,,,,,,,,7665.0,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Commercial Cleaning,Post-construction cleaning of entire apartment.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95.0
+General Requirements,Entire Building,Post-construction cleaning,Comprehensive cleaning of the entire building after construction.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,85.0
+,,,,,,,,9625.0,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Bedroom Painting,Painting of walls and ceiling.,150 SF,$10.3 per SF,0.75,,2707.5,90.0
+,,,,,,,,2707.5,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement at existing location for 60-80 SF.,1 UNIT,"$8,800 per UNIT",0.75,,15400.0,95.0
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with existing location for 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95.0
+Plumbing,Bathroom 2,Full gut plumbing,Installation of new plumbing for bathroom fixtures.,1 UNIT,"$7,700 per UNIT",0.75,,13475.0,90.0
+,,,,,,,,35612.5,
+Sprinkler System,,,,,,,,,
+Sprinkler System,Entire Building,New sprinkler system installation,Installation of a new sprinkler system throughout the building.,1 UNIT,"$5,000 per UNIT",0.75,,8750.0,85.0
+,,,,,,,,8750.0,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,80 SF,"$4,100 per 80 SF",0.8,,7380.0,90.0
+,,,,,,,,7380.0,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,Installation of baseboards and crown molding.,80 LF,$5 per LF,0.75,,700.0,90.0
+,,,,,,,,700.0,
+,,,,,,,,152376.25,
+,,,General Conditions (10%),,,,,15237.62,
+,,,Grand Total,,,,,167613.88,
+Heating and Cooling,General,VRF heat recovery system (10-ton) installation,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,25000,0.75,Standard,43750.0,90.0
+Heating and Cooling,General,Ducted air handlers with pans & sensors,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,9 UNIT,1800,0.75,Standard,28350.0,90.0
+Heating and Cooling,General,Wi-Fi thermostats with temp sensors,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,9 UNIT,250,0.75,Standard,3937.5,90.0
+Ventilation,Bathrooms,"Ceiling bathroom exhaust fans, duct to roof, roof cap",Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,6 UNIT,650,0.75,Standard,6825.0,90.0
+Ventilation,Kitchen,900 CFM range hood ducted to roof,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,1200,0.75,Standard,2100.0,90.0
+Ventilation,Kitchen,600 CFM heated makeup air unit,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,3500,0.75,Standard,6125.0,90.0
+Ventilation,Laundry,Dryer vent to roof (4th floor),Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,750,0.75,Standard,1312.5,90.0
+Heating and Cooling,Bathrooms,Electric radiant floor heating mats (full baths),Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,3 ROOM,1200,0.8,Tile,6480.0,90.0
+Plumbing,Mechanical,AO Smith BTH-199 domestic hot water tank install,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,3800,0.75,Standard,6650.0,90.0
+Plumbing,Mechanical,Hot water recirculation pump and line,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,1200,0.75,Standard,2100.0,90.0
+Plumbing,Mechanical,Domestic water booster pump (allowance),Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,2500,0.75,Standard,4375.0,90.0
+Plumbing,Basement,Duplex sewage ejector system for powder room C06,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,3200,0.75,Standard,5600.0,90.0
+Plumbing,Incoming Services,New sanitary house trap and FAI,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,1800,0.75,Standard,3150.0,90.0
+Plumbing,Incoming Services,New storm piping and storm trap (allowance),Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,2200,0.75,Standard,3850.0,90.0
+Plumbing,Incoming Services,New NYC water meter,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,600,0.75,Standard,1050.0,90.0
+Plumbing,Incoming Services,New RPZA assembly with gravity drain,Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,950,0.75,Standard,1662.5,90.0
+Sprinkler System,Incoming Services,"New 2-1/2"" house control valve and DCDA",Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,1800,0.75,Standard,3150.0,90.0
+Sprinkler System,General,"Reliable riser valve set CR2-2.5"" incl. flow switch monitoring",Added per project documents (Plans/MEP/Room-by-Room/Fact Sheet).,1 UNIT,1950,0.75,Standard,3412.5,90.0

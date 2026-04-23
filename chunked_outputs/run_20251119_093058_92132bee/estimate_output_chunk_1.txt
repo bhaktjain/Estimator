@@ -1,0 +1,18 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: chunked_outputs/run_20251119_093058_92132bee/polycam_chunks/polycam.pdf
+[SUCCESS] Extracted 19258 characters from chunked_outputs/run_20251119_093058_92132bee/polycam_chunks/polycam.pdf
+[INFO] Processing file 3: chunked_outputs/run_20251119_093058_92132bee/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5749 characters from chunked_outputs/run_20251119_093058_92132bee/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 61372 characters
+[ERROR] API call failed: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+

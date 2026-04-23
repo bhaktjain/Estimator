@@ -1,0 +1,192 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/6 Galloway Court West Orange-Basement.pdf
+[SUCCESS] Extracted 2574 characters from /Users/bhakt/Downloads/6 Galloway Court West Orange-Basement.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250929_112749_821c0ec5/transcript_chunks/chunk_3.txt
+[SUCCESS] Read 5473 characters from chunked_outputs/run_20250929_112749_821c0ec5/transcript_chunks/chunk_3.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 40356 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Demolition",
+          "description": "Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Cabinets Installation",
+          "description": "Installation of new kitchen cabinets, assuming 15 LF of cabinets.",
+          "quantity": "15 LF",
+          "unit_cost": "$9,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "16100",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Countertops",
+          "description": "Fabrication and installation of new countertops, assuming 45 SF.",
+          "quantity": "45 SF",
+          "unit_cost": "$97 per SF",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Backsplash",
+          "description": "Installation of new kitchen backsplash.",
+          "quantity": "10 LF",
+          "unit_cost": "$2,200 per 10 LF",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Plumbing",
+          "description": "Full gut plumbing for kitchen with 1 sink.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,850 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Electrical",
+          "description": "Rewiring and installation of kitchen electrical components including outlets, switches, and lighting.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Master Bathroom Renovation",
+      "items": [
+        {
+          "room": "Master Bathroom",
+          "scope_item": "Bathroom Demolition",
+          "description": "Full gut of master bathroom including removal of fixtures, tile, and flooring.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Master Bathroom",
+          "scope_item": "Bathroom Plumbing",
+          "description": "Full gut plumbing for bathroom with relocation of fixtures.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$12,100 per UNIT",
+          "markup": "0.75",
+          "subtotal": "21175",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Master Bathroom",
+          "scope_item": "Bathroom Tile Work",
+          "description": "Installation of new tile on bathroom floors and walls.",
+          "quantity": "100 SF",
+          "unit_cost": "$4,100 per 80-100 SF",
+          "markup": "0.80",
+          "subtotal": "7380",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Master Bathroom",
+          "scope_item": "Bathroom Electrical",
+          "description": "Installation of bathroom electrical components including lighting and outlets.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Master Bathroom",
+          "scope_item": "Bathroom Waterproofing",
+          "description": "Installation of waterproofing systems for bathroom floors and walls.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,250 per UNIT",
+          "markup": "0.65",
+          "subtotal": "3712.5",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Bedroom",
+          "scope_item": "Flooring Installation",
+          "description": "Installation of new herringbone flooring in bedroom.",
+          "quantity": "200 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "2100",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Painting",
+          "description": "Painting of bedroom walls and ceiling.",
+          "quantity": "200 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.70",
+          "subtotal": "3507",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Basement Renovation",
+      "items": [
+        {
+          "room": "Basement",
+          "scope_item": "Basement Finishing",
+          "description": "Finishing of basement including flooring, walls, and ceiling.",
+          "quantity": "1359.9 SF",
+          "unit_cost": "$11 per SF",
+          "markup": "0.75",
+          "subtotal": "26148.225",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire House",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of all renovated areas post-construction.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$4,400 per UNIT",
+          "markup": "0.75",
+          "subtotal": "7700",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

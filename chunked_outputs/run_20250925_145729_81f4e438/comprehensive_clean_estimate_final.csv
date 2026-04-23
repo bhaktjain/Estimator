@@ -1,0 +1,52 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Attic Renovation,,,,,,,,,
+Attic Renovation,Attic,New Staircase Installation,Install new staircase to the attic.,1 UNIT,"$1,200 per UNIT",0.75,,2100.00,85
+Attic Renovation,Attic,Refinish Attic,Refinish the attic with walls all around.,548.6 SF,$4 per SF,0.75,,3830.05,85
+,,,,,,,,5930.05,
+Basement Renovation,,,,,,,,,
+Basement Renovation,Basement,Refinish Basement,Complete refinishing of basement including walls and ceilings.,548.6 SF,$4 per SF,0.75,,3830.05,90
+Basement Renovation,Basement,Replace Staircase,Replace existing basement staircase.,1 UNIT,"$1,200 per UNIT",0.75,,2100.00,85
+,,,,,,,,5930.05,
+Countertops,,,,,,,,,
+Countertops,First Floor,New Kitchen,"Install new kitchen including cabinets, countertops, and appliances.",1 UNIT,"$43,690 per UNIT",0.75,,76457.50,95
+,,,,,,,,76457.50,
+Demolition,,,,,,,,,
+Demolition,Second Floor,Full Gut Primary Bathroom,Full gut and renovation of primary bathroom.,1 UNIT,"$9,900 per UNIT",0.75,,17325.00,95
+,,,,,,,,17325.00,
+Doors,,,,,,,,,
+Doors,Attic,Barn Door Installation,Install barn door in the attic.,1 UNIT,"$1,320 per UNIT",0.75,,2310.00,85
+Doors,First Floor,Replace Window with Sliding Door,Replace the window in the front balcony with a sliding door.,1 UNIT,"$2,500 per UNIT",0.75,,4375.00,85
+,,,,,,,,6685.00,
+Electrical,,,,,,,,,
+Electrical,Attic,Lights Installation,Install lights in the attic.,5 UNIT,$165 per UNIT,0.75,,1443.75,90
+Electrical,First Floor,Replace Lights,Replace lights throughout the first floor.,10 UNIT,$165 per UNIT,0.75,,2887.50,90
+Electrical,Basement,Rewire Basement,Rewire the basement for better electrical organization.,548.6 SF,$17 per SF,0.75,,16347.45,90
+Electrical,Garage,Lighting Replacement,Replace existing lighting fixtures in the garage.,3 UNIT,$165 per UNIT,0.75,,866.25,85
+,,,,,,,,21544.95,
+First Floor Renovation,,,,,,,,,
+First Floor Renovation,First Floor,New Washer/Dryer Room,Install new washer and dryer room.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,85
+First Floor Renovation,First Floor,Remove Mud Room,Remove the mud room to expand kitchen area.,1 UNIT,"$2,500 per UNIT",0.75,,4375.00,85
+,,,,,,,,11112.50,
+Flooring,,,,,,,,,
+Flooring,Attic,Floor Installation,Install new flooring in the attic.,548.6 SF,$6 per SF,0.75,,5754.45,90
+Flooring,First Floor,Level Floors,Level floors with the extension height of 5 inches.,548.6 SF,$6 per SF,0.75,,5754.45,90
+Flooring,Second Floor,Install New Floors,Install new floors throughout the second floor.,548.6 SF,$6 per SF,0.75,,5754.45,90
+,,,,,,,,17263.35,
+General Requirements,,,,,,,,,
+General Requirements,General,Commercial Cleaning,Post-construction commercial cleaning.,1 UNIT,"$2,750 per UNIT",0.75,,4812.50,95
+,,,,,,,,4812.50,
+Heating and Cooling,,,,,,,,,
+Heating and Cooling,General,HVAC System Installation,Install HVAC system for two floors.,1 UNIT,"$16,500 per UNIT",0.60,,26400.00,85
+,,,,,,,,26400.00,
+Second Floor Renovation,,,,,,,,,
+Second Floor Renovation,Second Floor,Change Bedroom Layout,Change the layout of the two bedrooms.,2 UNIT,"$2,500 per UNIT",0.75,,8750.00,85
+,,,,,,,,8750.00,
+Tile,,,,,,,,,
+Tile,Basement,Tile Installation,Install new tile flooring in the basement.,548.6 SF,$6 per SF,0.80,,5912.64,90
+,,,,,,,,5912.64,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,General,Patch and Paint Walls,Patch walls and paint throughout the house.,548.6 SF,$10.3 per SF,0.70,,9630.21,90
+,,,,,,,,9630.21,
+,,,,,,,,217753.75,
+,,,General Conditions (10%),,,,,21775.38,
+,,,Grand Total,,,,,239529.13,

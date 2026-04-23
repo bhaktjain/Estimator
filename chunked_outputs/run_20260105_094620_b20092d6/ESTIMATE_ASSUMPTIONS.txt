@@ -1,0 +1,178 @@
+
+ESTIMATE ASSUMPTIONS - 466 California Rd
+========================================
+
+1. GARAGE EXTENSION MEASUREMENT
+   - Assumption: 170 SF extension area based on Polycam "Other" area on 1st floor
+   - Rationale: Polycam shows "Other 1" and "Other 2" as 170 ft2 each on 1st floor
+   - Note: Assumed one of these represents the garage footprint
+   - Verification Needed: Confirm actual garage dimensions from survey or site visit
+
+2. WHOLE-HOUSE FLOORING AREA
+   - Assumption: 1,750 SF total flooring area
+   - Rationale: Combined estimate from Polycam room measurements
+   - Includes: Kitchen, living, dining, bedrooms, hallways, family room
+   - Excludes: Basement (as stated in transcript)
+   - Verification Needed: Actual measured areas may vary
+
+3. ROOF AREA
+   - Assumption: 2,500 SF roof area
+   - Rationale: Estimated based on typical house size
+   - Verification Needed: Actual roof measurements from survey or inspection
+
+4. SIDING AREA
+   - Assumption: 3,000 SF total siding area
+   - Rationale: Estimated based on house exterior dimensions
+   - Verification Needed: Actual exterior wall measurements
+
+5. DOOR COUNT
+   - Assumption: 15 doors total (interior + exterior)
+   - Rationale: Standard count for house of this size
+   - Verification Needed: Actual door count from site survey
+
+6. BATHROOM 2 SCOPE
+   - Assumption: Bathroom 2 does NOT need full update
+   - Rationale: Transcript mentions "this bathroom full update" but unclear if refers to Bathroom 2
+   - Note: Polycam shows Bathroom 2 exists (29 ft2)
+   - Verification Needed: Confirm if Bathroom 2 needs updates
+
+7. HVAC REPLACEMENTS
+   - Assumption: Boiler (2012) and Condenser (1999) MAY need replacement
+   - Rationale: Transcript says "might need to be replaced" and "may need replacement"
+   - Note: Priced as assessment + potential replacement
+   - Verification Needed: Actual condition assessment required
+
+8. KITCHEN CABINET LINEAR FEET
+   - Assumption: 20 LF of kitchen cabinets
+   - Rationale: Estimated from Polycam kitchen area (242 SF)
+   - Verification Needed: Actual cabinet layout and measurements
+
+9. KITCHEN COUNTERTOP AREA
+   - Assumption: 45 SF countertop area
+   - Rationale: Estimated based on 20 LF cabinets × ~2.25 ft depth
+   - Verification Needed: Actual countertop measurements
+
+10. KITCHEN BACKSPLASH
+    - Assumption: 20 SF backsplash area
+    - Rationale: Estimated based on kitchen wall area
+    - Verification Needed: Actual backsplash measurements
+
+11. MASTER BATHROOM EXPANSION AREA
+    - Assumption: 80 SF expansion area
+    - Rationale: Estimated based on typical closet size being incorporated
+    - Verification Needed: Actual closet dimensions and expansion area
+
+12. BASEMENT GYM AREA
+    - Assumption: 600 SF basement gym area
+    - Rationale: Estimated based on typical basement size
+    - Verification Needed: Actual basement dimensions
+
+13. FAMILY ROOM AREA
+    - Assumption: 250 SF family room
+    - Rationale: Estimated from Polycam or typical room size
+    - Verification Needed: Actual family room measurements
+
+14. STRUCTURAL WORK SCOPE
+    - Assumption: Kitchen wall opening may require beam installation
+    - Rationale: Transcript mentions "structural element" and "may be some structural work"
+    - Note: Priced conservatively for potential beam work
+    - Verification Needed: Structural assessment after wall opening
+
+15. DRAINAGE WORK SCOPE
+    - Assumption: Drainage rerouting required for extension area
+    - Rationale: Transcript mentions "drainage. It's currently running here"
+    - Verification Needed: Actual drainage layout and requirements
+
+16. PAINTING AREAS
+    - Assumption: 360 SF for living room painting
+    - Rationale: Estimated based on room size
+    - Note: Other rooms may need painting but not explicitly mentioned
+    - Verification Needed: Complete painting scope for all renovated areas
+
+17. ELECTRICAL SCOPE
+    - Assumption: Standard electrical work per room as listed
+    - Rationale: Based on typical renovation electrical requirements
+    - Note: "Electrical likely needs updating" mentioned for basement
+    - Verification Needed: Full electrical assessment may reveal additional work
+
+18. TRIM LINEAR FEET
+    - Assumption: 170 LF trim work for Bedroom 1
+    - Rationale: Estimated based on room perimeter
+    - Note: Other rooms may need trim but not explicitly priced
+    - Verification Needed: Complete trim scope for all renovated areas
+
+19. POWDER ROOM AREA
+    - Assumption: 35 SF for powder room tile work
+    - Rationale: Estimated based on typical powder room size
+    - Verification Needed: Actual powder room dimensions
+
+20. BATHROOM 1 AREA
+    - Assumption: 46.6 SF for Bathroom 1 (from Polycam)
+    - Rationale: Extracted from Polycam measurements
+    - Verification Needed: Confirm this matches actual bathroom
+
+21. UNIT COSTS AND PRICING
+    - Assumption: All unit costs from master pricing sheet are current and applicable
+    - Rationale: Using provided master pricing data
+    - Verification Needed: Confirm pricing is current for Q1 2025
+
+22. MARKUP APPLICATION
+    - Assumption: Standard markups applied (75% most items, 80% tile, special countertop formula)
+    - Rationale: As specified in estimation instructions
+    - Verification Needed: Confirm markup rates are correct
+
+23. GENERAL CONDITIONS
+    - Assumption: 10% general conditions applied to subtotal
+    - Rationale: Standard practice
+    - Verification Needed: Confirm if this rate is appropriate
+
+24. EXTENSION FOUNDATION
+    - Assumption: Extension can be built on existing garage foundation/walls
+    - Rationale: Transcript says "extension on top of garage perimeter walls"
+    - Verification Needed: Structural engineer assessment of garage foundation capacity
+
+25. PERMIT AND DESIGN COSTS
+    - Assumption: Permit and design costs NOT included in estimate
+    - Rationale: Transcript mentions "3 months for plans and permits" as separate process
+    - Note: These are typically separate from construction estimate
+
+26. APPLIANCE COSTS
+    - Assumption: Kitchen appliances remain similar (stove, microwave, fridge)
+    - Rationale: Transcript states "basically the same"
+    - Note: No new appliance costs included
+    - Verification Needed: Confirm if any appliances need replacement
+
+27. WINDOW REPLACEMENT
+    - Assumption: Windows are in good shape and do not need replacement
+    - Rationale: Transcript explicitly states "Windows are good, good shape"
+    - Note: No window replacement included
+
+28. BASEMENT ELECTRICAL
+    - Assumption: Basement electrical update included in general electrical scope
+    - Rationale: Transcript mentions "electrical likely needs updating" for basement
+    - Note: Not separately itemized
+    - Verification Needed: May need dedicated basement electrical line item
+
+29. FLOORING LEVELING
+    - Assumption: Partial leveling only, not full floor leveling
+    - Rationale: Transcript says "I don't think we need full leveling. Just maybe in certain areas"
+    - Note: Minimal leveling cost included in flooring installation
+
+30. DUCTWORK RELOCATION
+    - Assumption: Ductwork relocation may be needed but scope is flexible
+    - Rationale: Transcript mentions "possibly relocate ducting if needed"
+    - Note: Not separately priced, may be included in bathroom expansion
+    - Verification Needed: Confirm actual ductwork requirements
+
+========================================
+RECOMMENDATIONS FOR ACCURACY:
+========================================
+
+1. Site visit to verify all measurements
+2. Structural engineer assessment for extension and wall opening
+3. HVAC professional assessment for boiler and condenser
+4. Electrical assessment for full scope
+5. Survey review for exact garage dimensions and extension feasibility
+6. Detailed measurements from Polycam floor plans for all rooms
+7. Confirm Bathroom 2 scope requirements
+8. Verify all unit costs are current

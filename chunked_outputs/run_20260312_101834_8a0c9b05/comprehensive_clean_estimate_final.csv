@@ -1,0 +1,64 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,General Areas,Demolition and removal of existing siding and sheathing,Demolition and removal of existing siding and sheathing at the exterior wall where the new extension will connect. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.,1 UNIT,"$54,285.00",,Allowance (proposal price incl. markup),54285.00,95
+Demolition,1st Floor - Powder Room,Demolition of powder room,"Demolition of powder room tiles, vanity, medicine cabinet, toilet, and fixtures. Debris removal and disposal included.",1 UNIT,"$1,375.00",0.75,,2406.25,95
+Walls & Ceiling,1st & 2nd Floor Extension Areas,New Interior Partition Walls Installation,"Frame all interior partition walls with 2×4 studs at 16"" OC, including top and bottom plates, blocking, and framing. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.",1 UNIT,"$60,390.00",,Allowance (proposal price incl. markup),60390.00,95
+Plumbing,1st Floor - Powder Room,Plumbing,Supply and install new water and waste line to main water supply and drainage at new locations.,1 UNIT,"$21,120.00",0.75,,36960.00,95
+Electrical,General Areas,Electrical,Supply and install (2) new electrical panels for panel upgrade for existing panel and separate 2nd floor sub-panel.,1 UNIT,"$34,155.00",0.75,,59771.25,95
+Flooring,1st Floor New Extension Area,New 1st Floor Flooring Installation,Supply and install 2x10 S.P.F. No.2 or better floor joists spaced at 16” O.C. as per proposed plans. Installation of hardwood flooring over the new subflooring. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.,580 SF,"$83,160.00",,Allowance (proposal price incl. markup),83160.00,95
+Tile,1st Floor - Powder Room,Tile floor installation,"Prepare the subfloor, ensuring it is suitable for tile installation. Installation of new floor tiles throughout the powder room.",1 UNIT,"$5,270.00",0.80,,9486.00,95
+Painting & Wall Coverings,1st & 2nd Floor Extension Areas,Painting,"Supply and apply 1 coat of primer and 2 coats of paint on walls, ceiling, frames, trim, doors, and baseboards throughout the new extension areas.",1 UNIT,"$15,040.00",0.75,,26320.00,95
+Trims,General Areas,New Baseboards Installation,Installation of new baseboards throughout the new extension areas.,1 UNIT,"$1,600.00",0.75,,2800.00,95
+General Requirements,General Areas,Final Cleaning,Professional post-construction cleaning of the entire house.,1 UNIT,"$4,500.00",0.75,,7875.00,95
+Accessories,1st Floor - Powder Room,Accessory Installation,"Install all finish accessories in the powder room (vanities, medicine cabinets, towel bars, toilet paper holders, etc).",1 UNIT,"$1,440.00",0.75,,2520.00,95
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of old fixtures, tile, vanity, flooring, and debris removal.",0-60 SF,"$2,200 per UNIT",0.75,,3850,95
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,"Full gut plumbing replacement for existing location including toilet, sink, shower/tub installation, supply lines, drain lines, and vent lines.",0-60 SF,"$7,700 per UNIT",0.75,,13475,95
+Bathroom Renovation,Bathroom 1,Bathroom Electrical,"Rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, switch installation, mirror lighting, and heated floor electrical.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,"Installation of floor and wall tiles, shower tile, grout installation, and tile sealing.",0-60 SF,"$2,600 per UNIT",0.80,,4680,95
+Bathroom Renovation,Bathroom 1,Bathroom Fixtures,"Installation of vanity, mirror, towel bars, toilet paper holder, shower doors, and medicine cabinet.",1 UNIT,$550 per UNIT,0.75,,962.5,95
+Commercial Cleaning,Entire Apartment,Commercial Cleaning,Post-construction cleaning of entire apartment.,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,95
+Concrete,New Extension Area,Foundation Wall & Footing Construction,"Excavate and install 24” x 12” continuous concrete footings minimum 3’-0” below grade. Provide (2) #6 continuous reinforcing bars and 3,500 PSI concrete. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.",60 LF,"$46,200.00",,Allowance (proposal price incl. markup),46200.00,95
+Doors,1st & 2nd Floor Extension Areas,New Doors Installation,"Installation of (1) new exterior sliding door, door frame, and door trim at the back of extension area on the 1st floor.",1 UNIT,"$9,405.00",0.75,,16458.75,95
+Extensions/Additions,1st & 2nd Floor Extension Areas,New Exterior Walls,"Supply and install 2""x6"" exterior wood stud walls at 16” O.C. per architectural drawings. Supply and install pressure-treated bottom plates anchored to floor framing and double top plates. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.",1 UNIT,"$99,000.00",,Allowance (proposal price incl. markup),99000.00,95
+Gutters,Roof Extension,New Roof Drainage,Supply and install new gutters and downspouts along roof edges of the new roof in the extension area. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.,1 UNIT,"$3,200.00",,Allowance (proposal price incl. markup),3200.00,95
+Heating and Cooling,2nd Floor,New HVAC System Installation,Provide and install new dedicated HVAC system to serve the second-floor extension. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.,1 UNIT,"$24,000.00",,Allowance (proposal price incl. markup),24000.00,95
+Interior Design Services,General Areas,Interior Design Fee,"Comprehensive design and material specification services, including finishes, fixtures, and element selections, as well as final renderings and construction drawings as per design scope. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.",1 UNIT,"$5,000.00",,Allowance (proposal price incl. markup),5000.00,95
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, backsplash, electrical disconnection, plumbing disconnection, debris removal, and protection of adjacent areas.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,"Full gut plumbing for existing location with 1 sink, including rough plumbing, sink installation, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rough electrical wiring, installation of kitchen lighting circuits, under-cabinet lighting, GFCI outlets, switch installation, panel upgrades, range hood electrical, kitchen island electrical, pendant light installation, and dimmer switches.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Kitchen Renovation,Kitchen,Kitchen Cabinets,"Installation of kitchen cabinets including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",11-15 FT,"$9,200 per UNIT",0.75,,16100,95
+Kitchen Renovation,Kitchen,Kitchen Countertops,"Fabrication and installation of quartz countertops including template creation, edge treatments, and sink cutouts.",45 SF,$97 per SF,Special Formula,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,"Tile preparation, installation, grouting, and sealing of kitchen backsplash.",10 FT,"$1,650 per 10 FT",0.80,,2970,95
+Kitchen Renovation,Kitchen,Kitchen Flooring,"Installation of new kitchen flooring including subfloor preparation, flooring installation, transition strips, floor trim, and underlayment.",60-80 SF,"$2,400 per UNIT",0.75,,4200,95
+Living Room Renovation,Living Room,Living Room Flooring,"Installation of new hardwood flooring including subfloor preparation, hardwood installation, refinishing, trim installation, and transition strips.",500 SF,$6 per SF,0.75,,5250,95
+Living Room Renovation,Living Room,Living Room Painting,"Wall preparation, primer application, painting of walls and ceiling, and touch-up work.",500 SF,$10.3 per SF,0.75,,9012.5,95
+Living Room Renovation,Living Room,Living Room Electrical,"Installation of outlets, switches, light fixtures, ceiling fans, dimmer switches, floor outlets, and wall sconces.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Living Room Renovation,Living Room,Living Room Trim,"Installation of baseboards, crown molding, window casings, door casings, and quarter round.",100 LF,$5 per LF,0.75,,875,95
+Siding,1st & 2nd Floor Extension Areas,Siding Installation,"Supply and install exterior wall siding to match existing home in material, profile, and color. NOTE: No direct master pricing code; allowance based on 'Initial Proposal - 44 Brookview Terrace' and Barnes bid set.",1 UNIT,"$27,200.00",,Allowance (proposal price incl. markup),27200.00,95
+Waterproofing,1st Floor - Powder Room,Waterproofing,Supply and Install new waterproofing membrane on powder room walls and powder room floor.,1 UNIT,"$3,630.00",0.75,,6352.50,95
+Windows,1st & 2nd Floor New Extension Areas,New Windows Installation,Installation of (5) new windows throughout the new extension areas as per the proposed plan.,1 UNIT,"$4,000.00",0.75,,7000.00,95
+,,,,,,,,56691.25,
+,,,,,,,,60390.00,
+,,,,,,,,36960.00,
+,,,,,,,,59771.25,
+,,,,,,,,83160.00,
+,,,,,,,,9486.00,
+,,,,,,,,26320.00,
+,,,,,,,,2800.00,
+,,,,,,,,7875.00,
+,,,,,,,,2520.00,
+,,,,,,,,29092.50,
+,,,,,,,,3368.75,
+,,,,,,,,46200.00,
+,,,,,,,,16458.75,
+,,,,,,,,99000.00,
+,,,,,,,,3200.00,
+,,,,,,,,24000.00,
+,,,,,,,,5000.00,
+,,,,,,,,55671.25,
+,,,,,,,,21262.50,
+,,,,,,,,27200.00,
+,,,,,,,,6352.50,
+,,,,,,,,7000.00,
+,,,,,,,,689779.75,
+,,,General Conditions (10%),,,,,68977.98,
+,,,Grand Total,,,,,758757.72,

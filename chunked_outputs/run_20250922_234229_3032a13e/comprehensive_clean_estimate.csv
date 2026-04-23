@@ -1,0 +1,38 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom Renovation,,,,,,,,,
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$2,200 per UNIT",0.75,,3850.00,95
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,Full gut plumbing for bathroom with existing location.,1 UNIT,"$7,700 per UNIT",0.75,,13475.00,95
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,80 SF,"$4,100 per 80 SF",0.80,,7380.00,90
+Bathroom Renovation,Bathroom 2,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$2,200 per UNIT",0.75,,3850.00,95
+Bathroom Renovation,Bathroom 2,Bathroom Plumbing,Full gut plumbing for bathroom with existing location.,1 UNIT,"$7,700 per UNIT",0.75,,13475.00,95
+Bathroom Renovation,Bathroom 2,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,60 SF,"$3,400 per 60 SF",0.80,,6120.00,90
+,,,,,,,,48150.00,
+Bedroom Renovation,,,,,,,,,
+Bedroom Renovation,Bedroom 1,Floor Refinishing,Sand and refinish existing wood flooring.,189.5 SF,$5 per SF,0.75,,1659.13,95
+Bedroom Renovation,Bedroom 1,Painting,Repaint walls and ceiling with Benjamin Moore regal select.,189.5 SF,$10.3 per SF,0.75,,3418.31,95
+Bedroom Renovation,Bedroom 1,Electrical,Installation of recessed lighting and outlets.,5 UNIT,$165 per UNIT,0.75,,1443.75,90
+Bedroom Renovation,Bedroom 2,Floor Refinishing,Sand and refinish existing wood flooring.,110.6 SF,$5 per SF,0.75,,968.75,95
+Bedroom Renovation,Bedroom 2,Painting,Repaint walls and ceiling with Benjamin Moore regal select.,110.6 SF,$10.3 per SF,0.75,,1994.93,95
+Bedroom Renovation,Bedroom 2,Electrical,Installation of recessed lighting and outlets.,5 UNIT,$165 per UNIT,0.75,,1443.75,90
+,,,,,,,,10928.62,
+General Renovation,,,,,,,,,
+General Renovation,General,Baseboard Replacement,Replace baseboards throughout the apartment.,300 LF,$5 per LF,0.75,,2625.00,90
+General Renovation,General,Door Hardware Replacement,Replace door hardware throughout the apartment.,10 UNIT,$55 per UNIT,0.75,,962.50,90
+General Renovation,General,Commercial Cleaning,Post-construction cleaning of the entire apartment.,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,95
+,,,,,,,,6956.25,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with existing location for 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,95
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rewiring and installation of kitchen electrical including outlets, GFCI, and lighting circuits.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+Kitchen Renovation,Kitchen,Kitchen Cabinets,Installation of semi-custom kitchen cabinets including base and wall cabinets.,15 LF,$850 per LF,0.75,,22312.50,90
+Kitchen Renovation,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,90
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Installation of kitchen backsplash tile.,10 LF,"$2,200 per 10 LF",0.80,,3960.00,90
+,,,,,,,,58673.75,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Floor Refinishing,Sand and refinish existing wood flooring.,275.8 SF,$5 per SF,0.75,,2406.50,95
+Living Room Renovation,Living Room,Painting,Repaint walls and ceiling with Benjamin Moore regal select.,275.8 SF,$10.3 per SF,0.75,,4976.85,95
+Living Room Renovation,Living Room,Electrical,Installation of recessed lighting and outlets.,5 UNIT,$165 per UNIT,0.75,,1443.75,90
+,,,,,,,,8827.10,
+,,,,,,,,133535.72,
+,,,General Conditions (10%),,,,,13353.57,
+,,,Grand Total,,,,,146889.29,

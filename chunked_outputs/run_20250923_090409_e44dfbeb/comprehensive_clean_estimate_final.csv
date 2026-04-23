@@ -1,0 +1,68 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,"Tile preparation, tile installation, grout installation, tile sealing, trim tiles.",10 FT,"$1,650 per 10 FT",0.8,nan,2970.0,95.0
+,,,,,,,,2970.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,"Installation of base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, drawer slides.",11 LF,$850 per LF,0.75,nan,16362.5,95.0
+,,,,,,,,16362.50,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabricate and install quartz countertops.,45 SF,$97 per SF,0.75,nan,13763.75,95.0
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of old fixtures, tile, vanity, flooring, and debris removal.",1 UNIT,"$2,200 per UNIT",0.75,nan,3850.0,95.0
+Demolition,Bathroom 2,Bathroom Demolition,"Remove old fixtures, tile, vanity, flooring, and debris.",1 UNIT,"$2,200 per UNIT",0.75,nan,3850.0,95.0
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, backsplash, electrical disconnection, plumbing disconnection, debris removal, and protection of adjacent areas.",276 SF,$7 per SF,0.75,nan,3387.0,95.0
+Demolition,Entry/Hallway,Entry Flooring,"Subfloor preparation, flooring installation, transition strips.",60 SF,$6 per SF,0.75,nan,630.0,95.0
+,,,,,,,,11717.00,
+Doors,,,,,,,,,
+Doors,Entire Apartment,Replace All Doors,Replace all interior doors with standard prehung doors.,8 UNIT,$550 per UNIT,0.75,nan,7700.0,90.0
+,,,,,,,,7700.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, switch installation, mirror lighting, heated floor electrical.",1 UNIT,"$3,500 per UNIT",0.75,nan,6125.0,95.0
+Electrical,Bathroom 2,Bathroom Electrical,Installation of bathroom electrical including vanity lighting and GFCI outlets.,1 UNIT,"$3,500 minimum",0.75,nan,6125.0,90.0
+Electrical,Kitchen,Kitchen Electrical,"Rewiring and installation of kitchen electrical including outlets, GFCI, and lighting.",1 UNIT,"$3,500 minimum",0.75,nan,6125.0,90.0
+Electrical,Bedroom 1,Bedroom Electrical,"Outlet installation, switch installation, light fixtures, ceiling fans, closet lighting, bedside outlets, USB outlets.",1 UNIT,"$3,500 per UNIT",0.75,nan,6125.0,95.0
+Electrical,Entry/Hallway,Entry Electrical,"Outlet installation, switch installation, light fixture installation.",1 UNIT,"$3,500 per UNIT",0.75,nan,6125.0,95.0
+Electrical,Living Room,Living Room Electrical,"Outlet installation, switch installation, light fixture installation, ceiling fans, dimmer switches, floor outlets, wall sconces.",1 UNIT,"$3,500 per UNIT",0.75,nan,6125.0,95.0
+Electrical,Bedroom 2,Bedroom Electrical,"Installation of outlets, switches, and light fixtures.",1 UNIT,"$3,500 minimum",0.75,nan,6125.0,90.0
+Electrical,Bedroom 1,Recessed lighting installation,"Install 4 recessed LED lights incl. wiring, switching, and trims",4 EA,$275 per EA,0.75,%,1925.00,95
+Electrical,Bedroom 1,Pendant lighting installation,"Install 1 pendant light incl. box, support, and connection",1 EA,$550 per EA,0.75,%,962.50,95
+Electrical,Bedroom 2,Recessed lighting installation,"Install 4 recessed LED lights incl. wiring, switching, and trims",4 EA,$275 per EA,0.75,%,1925.00,95
+Electrical,Bedroom 2,Pendant lighting installation,"Install 1 pendant light incl. box, support, and connection",1 EA,$550 per EA,0.75,%,962.50,95
+,,,,,,,,48650.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,"Install new engineered flooring, approximately 100 square feet.",100 SF,$6 per SF,0.75,nan,1050.0,90.0
+Flooring,Bedroom 1,Floor Refinishing,Sand and refinish existing wood flooring.,189.5 SF,$5 per SF,0.75,nan,1657.81,90.0
+Flooring,Living Room,Living Room Flooring,"Install new hardwood flooring, approximately 244.5 square feet.",244.5 SF,$6 per SF,0.75,nan,2568.75,90.0
+Flooring,Bedroom 2,Floor Refinishing,Sand and refinish existing wood flooring in Bedroom 2.,110.6 SF,$5 per SF,0.75,nan,968.25,90.0
+,,,,,,,,6244.81,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Commercial Cleaning,Post-construction cleaning for entire apartment.,1 UNIT,"$1,925 per UNIT",0.75,nan,3368.75,95.0
+,,,,,,,,3368.75,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire Apartment,Repaint Apartment,Repaint entire apartment including walls and ceilings.,983.6 SF,$10.3 per SF,0.75,nan,17723.55,90.0
+,,,,,,,,17723.55,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Tub to Shower Conversion,Convert existing tub to a standing shower.,1 UNIT,"$1,375 per UNIT",0.75,nan,2406.25,95.0
+Plumbing,Bathroom 2,Bathroom Plumbing,"Rough plumbing, toilet installation, sink installation, shower/tub installation, supply lines, drain lines, vent lines.",1 UNIT,"$7,700 per UNIT",0.75,nan,13475.0,95.0
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for existing location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,nan,6737.5,95.0
+Plumbing,Bathroom 1,Wall-mounted toilet installation,Install wall-mounted toilet with concealed carrier; connect supply and waste,1 UNIT,"$2,200 per UNIT",0.75,%,3850.00,95
+Plumbing,Bathroom 2,Shower to Tub conversion,Convert shower to tub including drain relocation and supply adjustments,1 UNIT,"$4,400 per UNIT",0.75,%,7700.00,90
+Plumbing,Bathroom 2,Wall-mounted toilet installation,Install wall-mounted toilet with concealed carrier; connect supply and waste,1 UNIT,"$2,200 per UNIT",0.75,%,3850.00,95
+,,,,,,,,38018.75,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,"Floor tile preparation, floor tile installation, wall tile installation, shower tile, grout installation, tile sealing.",60 SF,"$2,600 per 60 SF",0.8,nan,4680.0,95.0
+Tile,Bathroom 2,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,34 SF,"$2,600 per SF",0.8,nan,4680.0,95.0
+,,,,,,,,9360.00,
+Trims,,,,,,,,,
+Trims,Entire Apartment,Replace All Baseboards,Replace all baseboards throughout the apartment.,983.6 LF,$5 per LF,0.75,nan,8606.5,90.0
+,,,,,,,,8606.50,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Bathroom 1,Wall-to-Wall Mirror Installation,Install a wall-to-wall mirror.,1 UNIT,"$1,200 per UNIT",0.75,nan,2100.0,85.0
+Walls & Ceiling,Bedroom 1,Dropped Ceiling Installation,Install new dropped ceiling in Bedroom 1.,189.5 SF,$9 per SF,0.75,nan,2986.88,90.0
+Walls & Ceiling,Living Room,Dropped Ceiling Installation,Install new dropped ceiling in the living room.,244.5 SF,$9 per SF,0.75,nan,3850.88,90.0
+Walls & Ceiling,Bedroom 2,Dropped Ceiling Installation,Install new dropped ceiling in Bedroom 2.,110.6 SF,$9 per SF,0.75,nan,1742.63,90.0
+,,,,,,,,10680.39,
+,,,,,,,,195166.00,
+,,,General Conditions (10%),,,,,19516.60,
+,,,Grand Total,,,,,214682.60,

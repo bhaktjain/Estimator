@@ -1,0 +1,9 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: chunked_outputs/run_20251119_093134_09387624/polycam_chunks/polycam.pdf
+[SUCCESS] Extracted 19258 characters from chunked_outputs/run_20251119_093134_09387624/polycam_chunks/polycam.pdf
+[INFO] Processing file 3: chunked_outputs/run_20251119_093134_09387624/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5749 characters from chunked_outputs/run_20251119_093134_09387624/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 61372 characters
+[ERROR] API call failed: Invalid response object from API: '{\n  "error": {\n    "message": "Incorrect API key provided: sk-proj-*******************************************************************************************************************************************************jncA. You can find your API key at https://platform.openai.com/account/api-keys.",\n    "type": "invalid_request_error",\n    "code": "invalid_api_key",\n    "param": null\n  }\n}' (HTTP response code was 401)

@@ -1,0 +1,252 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] 11_13_2025.pdf
+[SUCCESS] Extracted 18322 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] 11_13_2025.pdf
+[INFO] Processing file 3: chunked_outputs/run_20251114_093537_446536ca/transcript_chunks/chunk_2.txt
+[SUCCESS] Read 5977 characters from chunked_outputs/run_20251114_093537_446536ca/transcript_chunks/chunk_2.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 55670 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Kitchen Demolition",
+          "description": "Full gut of kitchen including cabinet removal, countertop removal, appliance disconnection, flooring removal, backsplash removal, electrical and plumbing disconnection, debris removal, and protection of adjacent areas.",
+          "quantity": "18 m²",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Kitchen Cabinets Installation",
+          "description": "Installation of new kitchen cabinets including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",
+          "quantity": "9.1 LF",
+          "unit_cost": "$9,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "16100",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Kitchen Countertops",
+          "description": "Fabrication and installation of new kitchen countertops including template creation, edge treatments, and sink cutouts.",
+          "quantity": "22.75 SF",
+          "unit_cost": "($1,500 installation + $97/sqft × SF + $2,000 material) × 1.75",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Kitchen Backsplash",
+          "description": "Installation of kitchen backsplash including tile preparation, installation, grouting, sealing, and trim tiles.",
+          "quantity": "10 LF",
+          "unit_cost": "$2,200 per UNIT",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Kitchen Flooring",
+          "description": "Installation of new kitchen flooring including subfloor preparation, flooring installation, transition strips, and floor trim.",
+          "quantity": "18 m²",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "1890",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Kitchen Electrical",
+          "description": "Installation of kitchen electrical systems including rough electrical, lighting circuits, under-cabinet lighting, GFCI outlets, switches, and panel upgrades.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Kitchen Plumbing",
+          "description": "Installation of kitchen plumbing systems including rough plumbing, sink installation, garbage disposal, water supply lines, and drain lines.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,850 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom Renovation",
+      "items": [
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Demolition",
+          "description": "Full gut of bathroom including removal of old fixtures, tile, vanity, flooring, and debris removal.",
+          "quantity": "8.2 m²",
+          "unit_cost": "$2,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3850",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Plumbing",
+          "description": "Installation of bathroom plumbing systems including rough plumbing, toilet, sink, shower/tub installation, supply lines, and drain lines.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$7,700 per UNIT",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Electrical",
+          "description": "Installation of bathroom electrical systems including rough electrical, vanity lighting, exhaust fan, GFCI outlets, and switch installation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Tile Work",
+          "description": "Installation of bathroom tile including floor and wall tile, shower tile, grout installation, and tile sealing.",
+          "quantity": "8.2 m²",
+          "unit_cost": "$2,600 per UNIT",
+          "markup": "0.80",
+          "subtotal": "4680",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Fixtures",
+          "description": "Installation of bathroom fixtures including vanity, mirror, towel bars, toilet paper holder, and shower doors.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,375 per UNIT",
+          "markup": "0.75",
+          "subtotal": "2406.25",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Living Room Renovation",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Flooring",
+          "description": "Installation of new living room flooring including subfloor preparation, hardwood installation, refinishing, and trim installation.",
+          "quantity": "35 m²",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "3675",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Painting",
+          "description": "Painting of living room walls and ceiling including wall preparation, primer application, and touch-up work.",
+          "quantity": "35 m²",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "6318.75",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Electrical",
+          "description": "Installation of living room electrical systems including outlet installation, switch installation, light fixture installation, and ceiling fans.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Trim",
+          "description": "Installation of living room trim including baseboards, crown molding, window casings, and door casings.",
+          "quantity": "35 m",
+          "unit_cost": "$5 per LF",
+          "markup": "0.75",
+          "subtotal": "306.25",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Flooring",
+          "description": "Installation of new bedroom flooring including subfloor preparation, flooring installation, and transition strips.",
+          "quantity": "18 m²",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "1890",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Painting",
+          "description": "Painting of bedroom walls and ceiling including wall preparation, primer application, and touch-up work.",
+          "quantity": "18 m²",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "3243.75",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Electrical",
+          "description": "Installation of bedroom electrical systems including outlet installation, switch installation, and light fixtures.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Trim",
+          "description": "Installation of bedroom trim including baseboards, window casings, and door casings.",
+          "quantity": "18 m",
+          "unit_cost": "$5 per LF",
+          "markup": "0.75",
+          "subtotal": "157.5",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of the entire apartment post-renovation.",
+          "quantity": "145 m²",
+          "unit_cost": "$1,925 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3368.75",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

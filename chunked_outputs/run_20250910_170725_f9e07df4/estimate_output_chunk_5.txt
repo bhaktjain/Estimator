@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/bhakt/Desktop/custom gpt/send_files_to_chatgpt_text.py", line 177, in <module>
+    main()
+    ~~~~^^
+  File "/Users/bhakt/Desktop/custom gpt/send_files_to_chatgpt_text.py", line 63, in main
+    client = openai.OpenAI(api_key=api_key)
+             ^^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'OpenAI'

@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash Installation,Install new tile backsplash to match updated kitchen design.,30 SF,"$2,200",0.80,,3960.00,90
+,,,,,,,,3960.00,
+Basement Renovation,,,,,,,,,
+Basement Renovation,Basement,Mini Wine Cellar Setup,Install mini wine cellar with climate control.,1 UNIT,"$3,500",0.75,,6125.00,85
+,,,,,,,,6125.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets Installation,"Installation of new kitchen cabinets including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",20 LF,"$10,900 per UNIT",0.75,,19075,90
+,,,,,,,,19075.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Install new quartz countertops with waterfall design.,50 SF,$97 per SF,1.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",35 SF,"$2,200 per unit",0.75,,3850.00,90
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, and flooring.",244.6 SF,"$3,300 per unit",0.75,,5775.00,95
+Demolition,Bedroom,Flooring Installation,"Installation of new flooring including subfloor preparation, flooring installation, transition strips, and closet flooring.",159 SF,$6 per SF,0.75,,1672.5,85
+,,,,,,,,11297.50,
+Electrical,,,,,,,,,
+Electrical,Master Bathroom,Bathroom Electrical,"Installation of bathroom electrical systems including rough electrical, vanity lighting, exhaust fan installation, GFCI outlets, and switch installation.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Kitchen,Electrical Reallocation,Reallocate electrical outlets and control panel due to wall removal.,1 UNIT,"$3,500 minimum",0.75,,6125.00,85
+Electrical,Basement,Theater Room Setup,Prepare basement for theater room setup including electrical and soundproofing.,1 UNIT,"$5,000",0.75,,8750.00,85
+Electrical,Bedroom,Electrical Installation,"Installation of bedroom electrical systems including outlet installation, switch installation, light fixtures, and ceiling fans.",1 UNIT,"$3,500 per UNIT",0.75,,6125,85
+,,,,,,,,27125.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Installation of new kitchen flooring.,244.6 SF,$6 per SF,0.75,,2569.95,90
+,,,,,,,,2569.95,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$1,925 for 1,200-1,800 sf",0.75,,3368.75,95
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$4,400",0.75,,7700.00,95
+,,,,,,,,11068.75,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Painting,"Painting of bedroom walls and ceiling including wall preparation, primer application, and touch-up work.",159 SF,$10.3 per SF,0.75,,2865.75,85
+,,,,,,,,2865.75,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Double Vanity Installation,Install new double vanity with plumbing connections.,1 UNIT,"$8,800",0.75,,15400.00,90
+,,,,,,,,15400.00,
+Tile,,,,,,,,,
+Tile,Master Bathroom,Bathroom Tile Work,"Installation of bathroom tile including floor tile preparation, installation, wall tile installation, shower tile, grouting, and sealing.",80 SF,"$4,100 per UNIT",0.80,,7380,90
+,,,,,,,,7380.00,
+,,,,,,,,120630.70,
+,,,General Conditions (10%),,,,,12063.07,
+,,,Grand Total,,,,,132693.77,

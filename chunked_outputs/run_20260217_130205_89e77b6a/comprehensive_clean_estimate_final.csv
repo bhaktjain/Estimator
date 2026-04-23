@@ -1,0 +1,69 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",80 SF,"$2,750 per UNIT",0.75,,4812.5,95
+Demolition,Bathroom 2,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Demolition,Kitchen,Demolition,"Full gut of kitchen including removal of existing cabinets, countertops, appliances, and flooring.",210 SF,$7 per SF,0.75,,2572.5,95
+,,,,,,,,12197.50,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Living Area,Fifth Room Partition & Framing,Frame and drywall new partition wall to create fifth room off living area.,15 LF,$45 per LF,0.75,,1181.25,80
+,,,,,,,,1181.25,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Plumbing Rough-In,Rough plumbing for bathroom fixtures.,1 UNIT,"$8,800 per UNIT",0.75,,15400,95
+Plumbing,Bathroom 2,Bathroom Plumbing,"Installation of new plumbing fixtures including toilet, sink, and shower.",1 UNIT,"$8,800 per UNIT",0.75,,15400,90
+Plumbing,Kitchen,Kitchen Plumbing,Installation of new plumbing fixtures including sink and faucet.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,85
+Plumbing,Upstairs,Washer/Dryer Relocation,"Relocate washer and dryer from main floor to upstairs, including plumbing connections.",1 UNIT,$3350 per UNIT,0.75,,5862.5,85
+,,,,,,,,43400.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Electrical Rough-In,Rough electrical work for bathroom including outlets and lighting.,1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Bathroom 2,Bathroom Electrical,"Installation of new electrical outlets, switches, and lighting fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125,85
+Electrical,Kitchen,Electrical Rough-In,Rough electrical work for kitchen including outlets and lighting.,1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Upstairs,Washer/Dryer Electrical,Provide new dedicated electrical circuits for relocated washer and dryer upstairs.,1 UNIT,$1500 per UNIT,0.75,,2625,85
+Electrical,Bedroom 1,Electrical Installation,Installation of new electrical outlets and lighting fixtures.,1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Living Room,Electrical Installation,Installation of new electrical outlets and lighting fixtures.,1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+,,,,,,,,33250.00,
+Flooring,,,,,,,,,
+Flooring,Bedroom 1,Flooring Installation,Installation of new hardwood flooring in bedroom.,244 SF,$6 per SF,0.75,,2562,95
+Flooring,Living Room,Flooring Installation,Installation of new hardwood flooring in living room.,320 SF,$6 per SF,0.75,,3360,95
+,,,,,,,,5922.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Installation of new tile on bathroom floors and walls.,80 SF,"$2,700 per UNIT",0.80,,4860,95
+Tile,Bathroom 2,Bathroom Tile Work,Installation of new tile on floors and walls.,80 SF,"$3,400 per UNIT",0.80,,6120,90
+Tile,Kitchen,Tile Flooring Installation,Installation of large tile flooring in kitchen.,210 SF,$6 per SF,0.80,,2268,95
+,,,,,,,,13248.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Painting,Painting of bedroom walls and ceiling.,244 SF,$10.3 per SF,0.75,,4393.5,95
+Painting & Wall Coverings,Living Room,Painting,Painting of living room walls and ceiling.,320 SF,$10.3 per SF,0.75,,5766,95
+,,,,,,,,10159.50,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,Installation of new baseboards and crown molding.,244.5 LF,$5 per LF,0.75,,2139.38,85
+Trims,Living Room,Living Room Trim,Installation of new baseboards and crown molding.,210 LF,$5 per LF,0.75,,1837.5,85
+,,,,,,,,3976.88,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Cabinet Installation,"Installation of new kitchen cabinets, including base and wall cabinets.",20 LF,"$10,900 per UNIT",0.75,,19075,95
+,,,,,,,,19075.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Fabrication and installation of new kitchen countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash Installation,Installation of new kitchen backsplash.,20 SF,"$2,200 per 10 ft",0.80,,3960,95
+,,,,,,,,3960.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,4812.50,
+Additional Scope Allowances,,,,,,,,,
+Additional Scope Allowances,Closets,Closet System Upgrades,"Upgrade closet interiors (shelving, rods, basic lighting) in kids and master closets.",3 UNIT,$1155 per UNIT,0.75,,6063.75,80
+Additional Scope Allowances,Stairs & Railing,Stair & Railing Upgrade,Allowance for reshaping stair and installing new glass/wood railing as discussed.,1 LUMP,$8000,0.75,,14000,75
+,,,,,,,,20063.75,
+Doors,,,,,,,,,
+Doors,Entire Apartment,Interior Door Replacement,Replace interior doors throughout apartment (approx. 10 doors) including hardware.,10 UNIT,$550 per UNIT,0.75,,9625,80
+,,,,,,,,9625.00,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Bathroom Waterproofing,Installation of waterproofing membrane on floors and walls.,100 SF,"$2,250 per UNIT",0.75,,3937.5,85
+Waterproofing,Bathroom 2,Bathroom Waterproofing,Installation of waterproofing membrane on floors and walls.,80 SF,"$2,100 per UNIT",0.75,,3675,85
+,,,,,,,,7612.50,
+Windows,,,,,,,,,
+Windows,Window Treatments,Window Treatments Allowance,Allowance for curtains/shades in main living area and bedrooms (fabric + basic hardware).,1 LUMP,$6000,0.75,,10500,75
+,,,,,,,,10500.00,
+,,,,,,,,212747.63,
+,,,General Conditions (10%),,,,,21274.76,
+,,,Grand Total,,,,,234022.39,

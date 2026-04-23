@@ -1,0 +1,54 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install large tile backsplash.,15 LF,"$2,200 per 10ft",0.80,,3960.00,90
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets.,25 LF,$850 per LF,0.75,,37218.75,95
+Cabinetry & Storage,Kitchen,Kitchen Electrical,"Rough electrical wiring, GFCI outlets, under-cabinet lighting, pendant light installation, range hood electrical, island electrical, dimmer switch installation.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+,,,,,,,,43343.75,
+Carpentry,,,,,,,,,
+Carpentry,Kitchen / Living,Structural Beam and Columns Installation,"Supply and install engineered LVL beam and columns to support removed structural wall between kitchen and living room, including framing, hardware, and inspections.",1 UNIT,"$12,000 per UNIT",0.75,,21000.00,85
+Carpentry,Kitchen,Kitchen Bump-Out Extension (~50 SF),"Construct small bump-out extension to align kitchen with exterior wall (~50 SF). Includes foundation, framing, roof tie-in, insulation, windows, exterior siding/stucco, and interior finishes.",50 SF,$350 per SF,0.75,,30625.00,85
+Carpentry,Fourth Bedroom / Hall,Fourth Bedroom and Hallway Extension,"Create new fourth bedroom/office by extending hallway and enclosing area adjacent to existing third bedroom. Includes foundation, framing, insulation, drywall, door, window, flooring, electrical, and painting.",150 SF,$250 per SF,0.75,,65625.00,80
+Carpentry,Backyard,Raised Deck at Living Room,"Build raised deck level with interior floor outside new sliding glass door, including framing, decking, steps, and simple guard as required.",150 SF,$85 per SF,0.75,,22312.50,85
+,,,,,,,,139562.50,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabricate and install quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Demolition,"Full gut of existing kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",25 LF,"$3,300 per UNIT",0.75,,5775.00,95
+,,,,,,,,5775.00,
+Doors & Windows,,,,,,,,,
+Doors & Windows,Living Room,Large Sliding Glass Door,"Supply and install large sliding glass door from living room to backyard, including structural opening adjustment, flashing, and trim.",1 UNIT,"$5,000 per UNIT",0.75,,8750.00,85
+,,,,,,,,8750.00,
+Electrical,,,,,,,,,
+Electrical,Bedroom,Bedroom Electrical,"Install outlets, switches, light fixtures, and ceiling fans.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Electrical,Living / Dining / Hall,Living/Dining/Hall Electrical,"Install new outlets, switches, recessed lighting, and dimmers in living, dining, and hall areas to suit new layout.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+,,,,,,,,12250.00,
+Flooring,,,,,,,,,
+Flooring,Entire House (except lower office),Whole-House Hardwood Flooring,"Install new hardwood flooring throughout main living areas, kitchen, bedrooms, and hallways (excluding lower-level office). Includes subfloor prep, underlayment, transitions, and trims.",2000 SF,$6 per SF,0.75,,21000.00,90
+,,,,,,,,21000.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Commercial Cleaning,Post-construction cleaning for entire house.,1 UNIT,"$2,750",0.75,,4812.50,85
+,,,,,,,,4812.50,
+Landscaping,,,,,,,,,
+Landscaping,Backyard,Backyard Turf and Grading,"Cut down existing vegetation (except mango tree), rough grade yard, and install synthetic turf in main play area.",800 SF,$15 per SF,0.75,,21000.00,80
+Landscaping,Backyard Perimeter,New Perimeter Fence,"Install new perimeter fence around backyard, including posts, panels, and gates as required.",200 LF,$80 per LF,0.75,,28000.00,80
+Landscaping,Backyard,Tree Removal and Disposal,"Remove and dispose of existing backyard trees (except mango), including stump grinding and haul-away.",5 UNIT,$600 per UNIT,0.75,,5250.00,80
+,,,,,,,,54250.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Bedroom Painting,Paint walls and ceiling.,450 SF,$10.3 per SF,0.75,,7871.25,90
+Painting & Wall Coverings,Living / Dining / Hall,Living/Dining/Hall Painting,"Paint walls and ceilings in main living, dining, and circulation areas after wall removal and extension. Includes surface prep, primer, and two finish coats.",800 SF,$10.3 per SF,0.75,,14420.00,90
+,,,,,,,,22291.25,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with existing location of 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,90
+,,,,,,,,6737.50,
+Structural,,,,,,,,,
+Structural,Kitchen / Living,Structural Wall Removal and Temporary Shoring,"Remove existing structural wall between kitchen and living room, including temporary shoring, selective demo, disposal, and coordination with structural beam installation.",1 UNIT,"$8,000 per UNIT",0.75,,14000.00,85
+,,,,,,,,14000.00,
+Trims,,,,,,,,,
+Trims,Living Room,Living Room Trim,Install baseboards and crown molding.,92 LF,$5 per LF,0.75,,805.00,90
+,,,,,,,,805.00,
+,,,,,,,,351301.25,
+,,,General Conditions (10%),,,,,35130.12,
+,,,Grand Total,,,,,386431.38,

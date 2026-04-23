@@ -1,0 +1,71 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,"Tile preparation, installation, grouting, and sealing.",10 LF,"$2,200 per UNIT",0.80,,3960.00,90
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,"Install base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",10 LF,"$7,600 per UNIT",0.75,,13300.00,90
+Electrical,Kitchen,Kitchen Electrical,"Install rough electrical, lighting circuits, under-cabinet lighting, GFCI outlets, switches, and panel upgrades.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+,,,,,,,,19425.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,"Template creation, fabrication, and installation of countertops with edge treatments and sink cutouts.",45 SF,Special Formula,1.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Full Gut Demolition,"Complete removal of existing fixtures, tile, and finishes in the bathroom.",42 SF,"$2,200 per unit",0.75,,3850,95
+,,,,,,,,3850.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Electrical Work,"Installation of GFCI outlets, lighting fixtures, and exhaust fan.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Electrical,Living Room,Electrical Work,"Installation of outlets, switches, and light fixtures.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+,,,,,,,,12250.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Flooring Installation,Install new hardwood flooring throughout the kitchen.,150 SF,$6 per SF,0.75,,1575,85
+Flooring,Living Room,Flooring Installation,Installation of new hardwood flooring.,620 SF,$6 per SF,0.75,,10850,95
+,,,,,,,,12425.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750",0.75,,4812.5,95
+,,,,,,,,4812.50,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Bedroom Painting,"Wall preparation, primer application, paint walls, and ceiling.",200 SF,$10.3 per SF,0.75,,3607.50,90
+,,,,,,,,3607.50,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Plumbing Rough-In,"Rough plumbing for new bathroom layout including toilet, vanity, and shower.",1 UNIT,"$8,800 per unit",0.75,,15400,95
+Plumbing,Kitchen,Kitchen Plumbing,"Install rough plumbing, kitchen sink, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,,6737.50,90
+Demolition,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Protect adjacent areas.",10 LF,"$3,300 per UNIT",0.75,,5775.00,90
+,,,,,,,,27912.50,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Installation,Installation of floor and wall tiles in the bathroom.,42 SF,"$2,600 per unit",0.80,,4680,95
+,,,,,,,,4680.00,
+Trims,,,,,,,,,
+Trims,Living Room,Trim Installation,Installation of baseboards and crown molding.,136 LF,$5 per LF,0.70,,1190,85
+,,,,,,,,1190.00,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Waterproofing,Installation of waterproofing membrane on floors and walls.,42 SF,"$1,900 per unit",0.65,,3135,95
+,,,,,,,,3135.00,
+Structural & Framing,Extension,Home Extension - Foundation & Framing,"16x28 home extension (448 SF total) - Foundation work, framing, structural work for first and second floor extension.",448 SF,$150 per SF,0.75,,117600.0,95
+Roofing,Extension,Roofing for Extension,"Install new roof for extension area, match existing roof style and materials.",448 SF,$12 per SF,0.75,,9408.0,95
+Siding & Exterior,Extension,Siding for Extension,Install siding to match existing home exterior for extension.,600 SF,$8 per SF,0.75,,8400.0,90
+Windows,Extension,Window Installation,Install 5 new windows for extension (including bay window).,5 UNIT,"$1,200 per UNIT",0.75,,10500.0,95
+Demolition,Living Room,Chimney Removal,"Remove existing chimney (full height), structural work, and roof patching.",1 UNIT,"$5,500 per UNIT",0.75,,9625.0,95
+HVAC,Entire House,HVAC System Upgrade,Convert single zone to two zone system. Install new HVAC unit for second floor in attic. Ductwork modifications.,1 UNIT,"$12,000 per UNIT",0.75,,21000.0,95
+Solar,Roof,Solar Panel Removal and Reinstallation,Remove existing solar panels and reinstall on new roof extension. Electrical connections.,1 UNIT,"$4,500 per UNIT",0.75,,7875.0,95
+Deck & Exterior,Exterior,Deck Extension,"Extend existing deck, move deck door, new deck framing and structure.",200 SF,$25 per SF,0.75,,8750.0,90
+Plumbing,Master Closet,Laundry Relocation,Move washer-dryer from current location to master closet area. Plumbing and electrical connections.,1 UNIT,"$2,200 per UNIT",0.75,,3850.0,90
+Cabinetry & Storage,Master Bedroom,Master Closet Relocation,Move master closet to new location in extension. New closet construction and organization systems.,1 UNIT,"$5,500 per UNIT",0.75,,9625.0,90
+Demolition,Garage,Garage Wall Removal,Remove wall to create open space between garage and living area. Structural modifications.,1 UNIT,"$2,200 per UNIT",0.75,,3850.0,90
+Cabinetry & Storage,Garage,Garage Closet Installation,Install closet/storage in garage area (drop zone).,1 UNIT,"$1,650 per UNIT",0.75,,2887.5,85
+Painting & Wall Coverings,Entire House,Full House Painting,Paint entire house interior (walls and ceilings) as mentioned in transcript.,2500 SF,$4.5 per SF,0.75,,19687.5,90
+Electrical,Extension,Electrical for Extension,"Electrical work for new extension spaces - outlets, switches, lighting.",448 SF,$8 per SF,0.75,,6272.0,90
+Flooring,Extension,Flooring for Extension,Install hardwood flooring in new extension spaces to match existing.,448 SF,$6 per SF,0.75,,4704.0,90
+Drywall & Insulation,Extension,Drywall and Insulation for Extension,"Install insulation, drywall, and finishing for extension spaces.",1200 SF,$4.5 per SF,0.75,,11812.5,90
+Plumbing,Master Bathroom,Tub to Shower Conversion,"Remove existing tub and convert to full stand-in shower. Extend shower area, install new fixtures and plumbing.",1 UNIT,"$7,700 per UNIT",0.75,,13475.0,95
+Tile,Master Bathroom,Master Bathroom Tile Work,Install new tile for shower walls and floor. Complete bathroom tile renovation.,120 SF,"$2,600 per UNIT",0.80,,4680.0,95
+Demolition,Master Bathroom,Master Bathroom Demolition,"Remove existing tub, fixtures, tile, and finishes for master bathroom renovation.",1 UNIT,"$2,200 per UNIT",0.75,,3850.0,95
+Electrical,Master Bathroom,Master Bathroom Electrical,"Update electrical for master bathroom - lighting, fixtures, and outlets.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90
+Plumbing,Common Bathroom,Tub to Shower Conversion,Remove existing tub and install family shower. Convert tub to walk-in shower for accessibility.,1 UNIT,"$7,700 per UNIT",0.75,,13475.0,95
+Tile,Common Bathroom,Common Bathroom Tile Work,Install new tile for shower and floor. Complete bathroom tile renovation.,80 SF,"$2,600 per UNIT",0.80,,3744.0,95
+Demolition,Common Bathroom,Common Bathroom Demolition,"Remove existing tub, fixtures, tile, and finishes for common bathroom renovation.",1 UNIT,"$2,200 per UNIT",0.75,,3850.0,95
+Electrical,Common Bathroom,Common Bathroom Electrical,"Update electrical for common bathroom - lighting, fixtures, and outlets.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90
+Waterproofing,Master Bathroom,Master Bathroom Waterproofing,Install waterproofing membrane for master bathroom shower.,60 SF,"$1,900 per UNIT",0.65,,3135.0,90
+Waterproofing,Common Bathroom,Common Bathroom Waterproofing,Install waterproofing membrane for common bathroom shower.,50 SF,"$1,900 per UNIT",0.65,,3135.0,90
+,,,,,,,,428451.75,
+,,,General Conditions (10%),,,,,42845.18,
+,,,Grand Total,,,,,471296.93,

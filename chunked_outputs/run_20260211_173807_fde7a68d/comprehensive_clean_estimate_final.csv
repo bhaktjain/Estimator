@@ -1,0 +1,55 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Remove old fixtures, tile, vanity, and flooring. Debris removal.",1 UNIT,"$1,500 per UNIT",0.75,,2625,90
+Demolition,Bathroom 2,Bathroom Demolition,"Remove old tile, shower. Debris removal.",1 UNIT,"$1,500 per UNIT",0.75,,2625,90
+Demolition,Kitchen,Kitchen Demolition,"Remove old cabinets, countertops, appliances, and flooring. Disconnect plumbing and electrical. Debris removal.",1 UNIT,"$2,000 per UNIT",0.75,,3500,90
+,,,,,,,,8750.00,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Entire Apartment,Whole Apartment Drywall,Drywall walls and ceiling throughout apartment (post-fire rebuild).,2500 SF,$2 per SF,0.75,,8750,90
+Walls & Ceiling,Entire Apartment,Insulation,Insulation throughout apartment.,1 UNIT,"$2,000 per UNIT",0.75,,3500,85
+,,,,,,,,12250.00,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,"Install new toilet, sink, and shower/tub.",1 UNIT,"$1,200 per UNIT",0.75,,2100,90
+Plumbing,Bathroom 2,Bathroom Plumbing,"Install new toilet, sink, and shower.",1 UNIT,"$1,200 per UNIT",0.75,,2100,90
+Plumbing,Kitchen,Kitchen Plumbing,"Install new kitchen sink, garbage disposal, water supply lines, and drain lines.",1 UNIT,"$1,500 per UNIT",0.75,,2625,90
+,,,,,,,,6825.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Install vanity lighting, exhaust fan, and GFCI outlets.",1 UNIT,$800 per UNIT,0.75,,1400,90
+Electrical,Bedroom 1,Bedroom Electrical,"Install outlets, switches, and light fixtures.",1 UNIT,$600 per UNIT,0.75,,1050,85
+Electrical,Bathroom 2,Bathroom Electrical,"Install vanity lighting, exhaust fan, and GFCI outlets.",1 UNIT,$800 per UNIT,0.75,,1400,90
+Electrical,Kitchen,Kitchen Electrical,"Install new lighting circuits, GFCI outlets, and under-cabinet lighting.",1 UNIT,"$1,200 per UNIT",0.75,,2100,90
+,,,,,,,,5950.00,
+Flooring,,,,,,,,,
+Flooring,Entire Apartment,Laminate Flooring (full apartment),"Install laminate flooring throughout 2,500 SF.",2500 SF,$5 per SF,0.75,,21875,90
+Flooring,Stairs,Stairs Laminate,Laminate on staircase (same as floor).,50 SF,$5 per SF,0.75,,437.5,85
+,,,,,,,,22312.50,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Install floor and wall tiles.,100 SF,$15 per SF,0.80,,2700,90
+Tile,Bathroom 2,Bathroom Tile Work,Install floor and wall tiles (shower).,100 SF,$15 per SF,0.80,,2700,90
+,,,,,,,,5400.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire Apartment,Whole Apartment Painting,Paint walls and ceiling throughout.,1 UNIT,"$2,000 per UNIT",0.75,,3500,90
+Painting & Wall Coverings,Stairs,Staircase Paint,Paint staircase (struts in good condition).,1 UNIT,$500 per UNIT,0.75,,875,90
+,,,,,,,,4375.00,
+Trims,,,,,,,,,
+Trims,Living Room,Living Room Trim,Install baseboards and crown molding.,1 UNIT,$500 per UNIT,0.75,,875,85
+,,,,,,,,875.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Install new base and wall cabinets.,20 LF,$200 per LF,0.75,,7000,90
+,,,,,,,,7000.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Install new countertops.,45 SF,$97 per SF,0.75,,13763.75,90
+,,,,,,,,13763.75,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install tile backsplash.,30 SF,$20 per SF,0.80,,1080,85
+,,,,,,,,1080.00,
+Appliances,,,,,,,,,
+Appliances,Kitchen,Kitchen Appliances,Install new appliances and connect plumbing and electrical.,1 UNIT,"$1,500 per UNIT",0.75,,2625,85
+,,,,,,,,2625.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$1,000 per UNIT",0.75,,1750,95
+General Requirements,Entire Apartment,Window Glass Replacement,Replace broken window glass only (same framing; no full window replacement).,2 UNIT,$400 per UNIT,0.75,,1400,90
+,,,,,,,,3150.00,
+,,,,,,,,94356.25,
+,,,General Conditions (10%),,,,,9435.62,
+,,,Grand Total,,,,,103791.88,

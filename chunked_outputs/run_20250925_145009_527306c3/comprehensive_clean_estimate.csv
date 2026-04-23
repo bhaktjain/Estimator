@@ -1,0 +1,70 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Attic Renovation,,,,,,,,,
+Attic Renovation,Attic,Refinish Attic,Refinish the attic with walls all around.,500 SF,$4 per SF,0.75,,3500,85
+Attic Renovation,Attic,Sound Insulation,Install sound insulation in the attic.,500 SF,$5 per SF,0.65,,4125,85
+Attic Renovation,Attic,Floor Installation,Install new flooring in the attic.,500 SF,$6 per SF,0.75,,5250,85
+Attic Renovation,Attic,New Staircase Installation,Install a new staircase to the attic.,1 UNIT,"$1,200 per UNIT",0.75,,2100,85
+Attic Renovation,Attic,Barn Door Installation,Install a barn door in the attic.,1 UNIT,"$1,320 per UNIT",0.75,,2310,85
+Attic Renovation,Attic,Lights Installation,Install new lights in the attic.,5 UNIT,$165 per UNIT,0.75,,1443.75,85
+,,,,,,,,18728.75,
+Basement Renovation,,,,,,,,,
+Basement Renovation,Basement,Refinish Basement,Complete refinishing of basement including walls and ceilings.,500 SF,$4 per SF,0.75,,3500,90
+Basement Renovation,Basement,Close Crawl Space,Close the crawl space on the right side of the entrance with concrete.,1 UNIT,"$2,000 per UNIT",0.75,,3500,85
+Basement Renovation,Basement,Rewire Basement,Rewire the basement for better electrical organization.,500 SF,$17 per SF,0.75,,14875,90
+Basement Renovation,Basement,Replace Staircase,Replace the existing staircase in the basement.,1 UNIT,"$1,200 per UNIT",0.75,,2100,85
+Basement Renovation,Basement,Tile Installation,Install new tile flooring in the basement.,500 SF,$6 per SF,0.80,,5400,90
+,,,,,,,,29375.00,
+Bathroom Renovation,,,,,,,,,
+Bathroom Renovation,Bathroom,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",33 SF,"$2,200 per UNIT",0.75,,3850,95
+Bathroom Renovation,Bathroom,Bathroom Plumbing,Full gut plumbing for existing location.,1 UNIT,"$7,700 per UNIT",0.75,,13475,95
+Bathroom Renovation,Bathroom,Bathroom Electrical,Installation of bathroom electrical systems including GFCI outlets and lighting.,33 SF,$17 per SF,0.75,,984.375,90
+Bathroom Renovation,Bathroom,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,33 SF,"$2,600 per 60 SF",0.80,,4680,90
+Bathroom Renovation,Bathroom,Bathroom Fixtures,"Installation of new bathroom fixtures including vanity, mirror, and shower doors.",1 UNIT,$550 per UNIT,0.75,,962.5,85
+,,,,,,,,23951.88,
+Bedroom Renovation,,,,,,,,,
+Bedroom Renovation,Bedroom,Bedroom Flooring,Installation of new hardwood flooring.,50 SF,$6 per SF,0.75,,525,90
+Bedroom Renovation,Bedroom,Bedroom Painting,Painting of walls and ceiling.,155 SF,$10.3 per SF,0.75,,2790.9375,85
+Bedroom Renovation,Bedroom,Bedroom Electrical,"Installation of outlets, switches, and light fixtures.",50 SF,$17 per SF,0.75,,893.75,90
+,,,,,,,,4209.69,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire House,Commercial Cleaning,Post-construction cleaning of entire house.,1319 SF,"$1,925 per UNIT",0.75,,3368.75,85
+,,,,,,,,3368.75,
+First Floor Renovation,,,,,,,,,
+First Floor Renovation,Kitchen,New Kitchen Installation,"Install new kitchen including cabinets, countertops, and appliances.",205 SF,"$3,300 per UNIT",0.75,,5775,90
+First Floor Renovation,First Floor,Remove Walls,Remove two walls to create an open concept.,2 UNIT,"$2,500 per UNIT",0.75,,8750,85
+First Floor Renovation,First Floor,Remove Mud Room,Remove the mud room to expand the kitchen.,1 UNIT,"$2,500 per UNIT",0.75,,4375,85
+First Floor Renovation,First Floor,Level Floors,Level the floors with the extension height of 5 inches.,1319 SF,$6 per SF,0.75,,13840.5,90
+First Floor Renovation,First Floor,Install Hardwood Floor,Install new hardwood flooring throughout the first floor.,1319 SF,$6 per SF,0.75,,13840.5,90
+First Floor Renovation,First Floor,Replace Ceiling,Replace the ceiling throughout the first floor.,1319 SF,$4.95 per SF,0.75,,11468.1,90
+First Floor Renovation,First Floor,Replace Lights,Replace lights throughout the first floor.,10 UNIT,$165 per UNIT,0.75,,2887.5,85
+First Floor Renovation,First Floor,Replace Window with Sliding Door,Replace the window in the front balcony with a sliding door.,1 UNIT,"$2,500 per UNIT",0.75,,4375,85
+First Floor Renovation,First Floor,New Washer/Dryer Room,Install a new washer/dryer room.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,85
+,,,,,,,,72049.10,
+General Renovation,,,,,,,,,
+General Renovation,General,HVAC System Installation,Install HVAC system for two floors.,1 UNIT,"$8,250 per UNIT",0.60,,13200,85
+General Renovation,General,Patch and Paint Walls,Patch and paint walls throughout the house.,3509 SF,$10.3 per SF,0.70,,61712.55,90
+General Renovation,General,Commercial Cleaning,Post-construction commercial cleaning.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,79725.05,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",205 SF,"$3,300 per UNIT",0.75,,5775,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing for existing location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rewiring and installation of kitchen electrical systems including outlets, GFCI, and lighting.",205 SF,$17 per SF,0.75,,6118.75,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,Installation of semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.5,95
+Kitchen Renovation,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Installation of kitchen backsplash tiles.,10 LF,"$2,200 per 10 LF",0.80,,3960,90
+Kitchen Renovation,Kitchen,Kitchen Flooring,Installation of new hardwood flooring.,205 SF,$6 per SF,0.75,,2156.25,90
+,,,,,,,,60823.75,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,Installation of new hardwood flooring.,246 SF,$6 per SF,0.75,,2587.5,90
+Living Room Renovation,Living Room,Living Room Painting,Painting of walls and ceiling.,462 SF,$10.3 per SF,0.75,,8323.125,85
+Living Room Renovation,Living Room,Living Room Electrical,"Installation of outlets, switches, and light fixtures.",246 SF,$17 per SF,0.75,,7331.25,90
+,,,,,,,,18241.88,
+Second Floor Renovation,,,,,,,,,
+Second Floor Renovation,Second Floor,Full Gut Bathrooms,Full gut renovation of primary and secondary bathrooms.,2 UNIT,"$9,900 per UNIT",0.75,,34650,90
+Second Floor Renovation,Second Floor,Install New Floors,Install new floors throughout the second floor.,1000 SF,$6 per SF,0.75,,10500,85
+Second Floor Renovation,Second Floor,Change Bedroom Layout,Change the layout of the two bedrooms.,2 UNIT,"$2,500 per UNIT",0.75,,8750,85
+Second Floor Renovation,Second Floor,Replace Bedroom Ceiling,Replace the ceiling in one bedroom.,1 UNIT,"$2,475 per UNIT",0.75,,4331.25,85
+,,,,,,,,58231.25,
+,,,,,,,,368705.09,
+,,,General Conditions (10%),,,,,36870.51,
+,,,Grand Total,,,,,405575.60,

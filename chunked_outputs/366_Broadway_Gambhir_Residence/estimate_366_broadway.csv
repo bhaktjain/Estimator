@@ -1,0 +1,108 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Demolition,Full gut of kitchen - cabinets countertops appliances.,1 UNIT,$5775 per UNIT,0.75,,5775,95
+Demolition,Primary Bathroom,Bathroom Demolition,Full gut primary bathroom (89 SF).,1 UNIT,$5775 per UNIT,0.75,,5775,95
+Demolition,Shared Bathroom,Bathroom Demolition,Full gut shared bathroom (58 SF).,1 UNIT,$4813 per UNIT,0.75,,4813,95
+Demolition,In-Suite Bathroom,Bathroom Demolition,Full gut in-suite bathroom (65 SF).,1 UNIT,$4813 per UNIT,0.75,,4813,95
+Demolition,12th Floor,General Demolition,Demolition for stair remodel and flooring prep.,400 SF,$12.25 per SF,0.75,,4900,85
+,,,,,,,,26076.00,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,11th Floor,New Partitions,Framing and drywall for new walls (laundry relocation closets coffee station).,80 LF,$45 per LF,0.75,,3150,85
+Walls & Ceiling,Bathrooms,Moisture Resistant Drywall,Green board in all 3 bathrooms.,3 UNIT,$3850 per UNIT,0.75,,11550,90
+Walls & Ceiling,Kitchen,Kitchen Drywall,Moisture resistant drywall in kitchen.,1 UNIT,$1925 per UNIT,0.75,,3369,90
+,,,,,,,,18069.00,
+Plumbing,,,,,,,,,
+Plumbing,Primary Bathroom,Full Bath Plumbing,Rough plumbing - tub toilet shower double vanity (89 SF).,1 UNIT,$9900 per UNIT,0.75,,17325,95
+Plumbing,Shared Bathroom,Bathroom Plumbing,Rough plumbing for shared bathroom.,1 UNIT,$8800 per UNIT,0.75,,15400,95
+Plumbing,In-Suite Bathroom,Bathroom Plumbing,Rough plumbing for in-suite bathroom.,1 UNIT,$8800 per UNIT,0.75,,15400,95
+Plumbing,Kitchen,Kitchen Plumbing,Full gut kitchen - 2 sink (island + main).,1 UNIT,$4950 per UNIT,0.75,,8663,95
+Plumbing,Laundry,Washer Dryer Relocation,Relocate laundry to new location.,1 UNIT,$3350 per UNIT,0.75,,5863,95
+,,,,,,,,63651.00,
+Waterproofing,,,,,,,,,
+Waterproofing,Primary Bathroom,Waterproofing,Membrane floors and walls (89 SF).,1 UNIT,$2250 per UNIT,0.75,,3938,95
+Waterproofing,Shared Bathroom,Waterproofing,Membrane floors and walls (58 SF).,1 UNIT,$2100 per UNIT,0.75,,3675,95
+Waterproofing,In-Suite Bathroom,Waterproofing,Membrane floors and walls (65 SF).,1 UNIT,$2100 per UNIT,0.75,,3675,95
+,,,,,,,,11288.00,
+Tile,,,,,,,,,
+Tile,Primary Bathroom,Tile Installation,Floor and wall tile - 89 SF floor ~120 SF walls.,1 UNIT,$6800 per UNIT,0.80,,12240,95
+Tile,Shared Bathroom,Tile Installation,Floor and wall tile - 58 SF.,1 UNIT,$5700 per UNIT,0.80,,10260,95
+Tile,In-Suite Bathroom,Tile Installation,Floor and wall tile - 65 SF.,1 UNIT,$5700 per UNIT,0.80,,10260,95
+Tile,Kitchen,Kitchen Tile,Kitchen flooring tile.,1 UNIT,$2800 per UNIT,0.80,,4900,90
+,,,,,,,,37260.00,
+Bathroom Fixtures,,,,,,,,,
+Bathroom Fixtures,Primary Bathroom,Vanity Double Sink,Double vanity with stone top.,2 EA,$1663 per EA,0.75,,3326,95
+Bathroom Fixtures,Primary Bathroom,Free-Standing Tub,Supply and install.,1 UNIT,$950 per UNIT,0.75,,1663,95
+Bathroom Fixtures,Primary Bathroom,Toilet,New toilet.,1 UNIT,$650 per UNIT,0.75,,1138,95
+Bathroom Fixtures,Primary Bathroom,Shower,Shower with steam - glass enclosure.,1 UNIT,$1800 + $3500 enclosure,0.75,,9281,95
+Bathroom Fixtures,Shared Bathroom,Vanity,Single vanity.,1 UNIT,$1663 per UNIT,0.75,,2910,95
+Bathroom Fixtures,Shared Bathroom,Toilet,New toilet.,1 UNIT,$1138 per UNIT,0.75,,1138,95
+Bathroom Fixtures,Shared Bathroom,Shower,Tub to shower or new shower.,1 UNIT,$1800 per UNIT,0.75,,3150,95
+Bathroom Fixtures,In-Suite Bathroom,Vanity,Vanity with fixtures.,1 UNIT,$1663 per UNIT,0.75,,2910,95
+Bathroom Fixtures,In-Suite Bathroom,Toilet,New toilet.,1 UNIT,$1138 per UNIT,0.75,,1138,95
+Bathroom Fixtures,In-Suite Bathroom,Shower,Shower installation.,1 UNIT,$1800 per UNIT,0.75,,3150,95
+,,,,,,,,28665.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Kitchen Electrical,Rough electrical outlets lighting undercabinet.,1 UNIT,$3500 per UNIT,0.75,,6125,95
+Electrical,Primary Bathroom,Bathroom Electrical,Outlets lighting exhaust.,1 UNIT,$3500 per UNIT,0.75,,6125,95
+Electrical,Shared Bathroom,Bathroom Electrical,Outlets lighting exhaust.,1 UNIT,$3500 per UNIT,0.75,,6125,95
+Electrical,In-Suite Bathroom,Bathroom Electrical,Outlets lighting exhaust.,1 UNIT,$3500 per UNIT,0.75,,6125,95
+Electrical,Laundry,Washer Dryer Circuits,Dedicated lines for relocated W/D.,1 UNIT,$1500 per UNIT,0.75,,2625,95
+Electrical,11th Floor,General Electrical,New outlets switches lighting for renovated areas.,1 UNIT,$3500 per UNIT,0.75,,6125,85
+Electrical,12th Floor,General Electrical,New outlets switches lighting.,1 UNIT,$3500 per UNIT,0.75,,6125,85
+Electrical,Coffee Station,Coffee Station Electrical,Dedicated circuit for built-in coffee and UC fridge.,1 UNIT,$495 per UNIT,0.75,,866,85
+,,,,,,,,38846.00,
+Flooring,,,,,,,,,
+Flooring,12th Floor,New Hardwood,New wood flooring throughout entire 12th floor.,1300 SF,$10.50 per SF,0.75,,13650,95
+Flooring,11th Floor,Hardwood Refinish,Paint/stain touch-up in renovated areas - partial.,400 SF,$10.50 per SF,0.75,,4200,85
+,,,,,,,,17850.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,11th Floor,Painting,Walls and ceilings in renovated areas.,1800 SF,$6.13 per SF,0.75,,11034,90
+Painting & Wall Coverings,12th Floor,Painting,Walls and ceilings.,1300 SF,$6.13 per SF,0.75,,7969,90
+,,,,,,,,19003.00,
+Trims,,,,,,,,,
+Trims,11th Floor,Baseboards,Baseboard installation in renovated areas.,350 LF,$9.63 per LF,0.75,,3371,85
+Trims,12th Floor,Baseboards,Baseboard installation.,300 LF,$9.63 per LF,0.75,,2889,85
+,,,,,,,,6260.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Base and upper cabinets - 22 LF semi-custom.,22 LF,$1844 per LF,0.75,,40568,95
+Cabinetry & Storage,Kitchen,Island,Kitchen island with seating.,4 LF,$4200 per LF,0.75,,14700,95
+Cabinetry & Storage,Primary Bedroom,Walk-In Closet,New millwork walk-in closet.,1 UNIT,$1155 per UNIT,0.75,,2021,90
+Cabinetry & Storage,Bedroom 1,Closet Interior,New millwork closet.,1 UNIT,$1155 per UNIT,0.75,,2021,90
+Cabinetry & Storage,Bedroom 2,Closet Interior,New millwork closet.,1 UNIT,$1155 per UNIT,0.75,,2021,90
+Cabinetry & Storage,Bedroom 3,Closet Interior,New millwork closet.,1 UNIT,$1155 per UNIT,0.75,,2021,90
+Cabinetry & Storage,Hallway,Coffee Station,Built-in coffee station with undercounter fridge.,1 UNIT,$1800 per UNIT,0.75,,3150,90
+,,,,,,,,64902.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop,Stone supply and fabrication install.,45 SF,$97 per SF,0.75,,7639,95
+Countertops,Kitchen,Quartz Slab Supply,Slab material.,1 UNIT,$3000 per UNIT,0.75,,5250,95
+,,,,,,,,12889.00,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash Tile,Tile backsplash 15+ LF.,1 UNIT,$2200 per UNIT,0.80,,3960,95
+,,,,,,,,3960.00,
+Appliances,,,,,,,,,
+Appliances,Kitchen,Refrigerator,Allowance.,1 EA,$1200 per EA,0.75,,2100,85
+Appliances,Kitchen,Range/Oven,Allowance.,1 EA,$950 per EA,0.75,,1663,85
+Appliances,Kitchen,Dishwasher,Allowance.,1 EA,$750 per EA,0.75,,1313,85
+Appliances,Kitchen,Microwave,Allowance.,1 EA,$450 per EA,0.75,,788,85
+Appliances,Coffee Station,Undercounter Fridge,UC fridge for coffee station.,1 EA,$1200 per EA,0.75,,2100,85
+,,,,,,,,7964.00,
+Stairs,,,,,,,,,
+Stairs,11th-12th Floor,Stair Remodel,New 3' wide stair structure 19 risers 18 treads - demo existing rebuild.,1 UNIT,$15000 per UNIT,0.75,,26250,80
+Stairs,11th-12th Floor,Handrail,Wood handrail and balusters.,1 UNIT,$2500 per UNIT,0.75,,4375,80
+,,,,,,,,30625.00,
+Radiator Covers,,,,,,,,,
+Radiator Covers,11th Floor,Radiator Covers,New painted wood covers per plan (7 locations).,7 UNIT,$2625 per UNIT,0.75,,18375,85
+,,,,,,,,18375.00,
+Doors,,,,,,,,,
+Doors,11th Floor,Interior Doors,New doors per schedule - 11 doors.,11 UNIT,$963 per UNIT,0.75,,10593,90
+Doors,11th Floor,Pocket Doors,2 pocket doors.,2 UNIT,$2310 per UNIT,0.75,,4620,90
+,,,,,,,,15213.00,
+General Requirements,,,,,,,,,
+General Requirements,Project,Permits and Fees,DOB permits and fees.,1 LS,$1500 per LS,0.75,,2625,95
+General Requirements,Project,Cleanup,Daily and final cleanup.,1 LS,$750 per LS,0.75,,1313,95
+General Requirements,Project,Waste Removal,Debris removal.,1 LS,$1200 per LS,0.75,,2100,95
+General Requirements,Project,Post-Construction Cleaning,Commercial cleaning 2500+ SF duplex.,1 UNIT,$7700 per UNIT,0.75,,7700,95
+,,,,,,,,13138.00,
+,,,,,,,,438168.00,
+,,,General Conditions (10%),,,,,43816.80,
+,,,Grand Total,,,,,481984.80,

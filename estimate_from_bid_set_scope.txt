@@ -1,0 +1,15 @@
+Estimate from Revised Bid Set and supporting documents
+
+Prepare a construction estimate based on the attached Revised Bid Set (2026.02.25) and the master pricing sheet. Include all scope shown on the bid set (architectural, structural, MEP, site, and any specified trades). Apply master pricing and markups per the estimation instructions.
+
+Supporting documents referenced for this project (use for scope and requirements where relevant):
+- 2025.12.18 Boundary Survey
+- AC-4, AHRI Certificate
+- BLD-01 Special Inspector Form
+- ETR-01 Soil Report
+- ETR-02 Energy Calcs
+- ETR-03 Drainage Report
+- ETR-04 Structural Calcs
+- ETR-05 Percolation
+
+Output a detailed line-item estimate in the required JSON format with sections and items (room, scope_item, description, quantity, unit_cost, markup, subtotal, confidence_score).

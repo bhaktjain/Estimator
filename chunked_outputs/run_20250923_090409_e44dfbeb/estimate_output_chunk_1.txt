@@ -1,0 +1,292 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] 350 West 42nd Street #48B.pdf
+[SUCCESS] Extracted 12824 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] 350 West 42nd Street #48B.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250923_090409_e44dfbeb/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5983 characters from chunked_outputs/run_20250923_090409_e44dfbeb/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 51639 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Demolition",
+          "description": "Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, backsplash, electrical disconnection, plumbing disconnection, debris removal, and protection of adjacent areas.",
+          "quantity": "276 SF",
+          "unit_cost": "$7 per SF",
+          "markup": "0.75",
+          "subtotal": "3387.00",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Plumbing",
+          "description": "Full gut plumbing for existing location with 1 sink.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,850 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.50",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Electrical",
+          "description": "Rewiring of kitchen including installation of GFCI outlets, under-cabinet lighting, pendant light, and dimmer switches.",
+          "quantity": "276 SF",
+          "unit_cost": "$17 per SF",
+          "markup": "0.75",
+          "subtotal": "8217.00",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Cabinets",
+          "description": "Supply and install semi-custom kitchen cabinets.",
+          "quantity": "16 LF",
+          "unit_cost": "$850 per LF",
+          "markup": "0.75",
+          "subtotal": "23800.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Countertops",
+          "description": "Fabricate and install quartz countertops.",
+          "quantity": "45 SF",
+          "unit_cost": "$97 per SF",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Backsplash",
+          "description": "Install tile backsplash.",
+          "quantity": "10 LF",
+          "unit_cost": "$2,200 per LF",
+          "markup": "0.80",
+          "subtotal": "3960.00",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom Renovation",
+      "items": [
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Demolition",
+          "description": "Full gut of primary bathroom including removal of fixtures, tile, vanity, flooring, and debris removal.",
+          "quantity": "60 SF",
+          "unit_cost": "$2,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3850.00",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Plumbing",
+          "description": "Full gut plumbing for primary bathroom with tub to shower conversion and new wall-mounted toilet.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$8,800 per UNIT",
+          "markup": "0.75",
+          "subtotal": "15400.00",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Tile Work",
+          "description": "Install floor and wall tiles in primary bathroom.",
+          "quantity": "60 SF",
+          "unit_cost": "$2,600 per SF",
+          "markup": "0.80",
+          "subtotal": "4680.00",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Demolition",
+          "description": "Full gut of secondary bathroom including removal of fixtures, tile, vanity, flooring, and debris removal.",
+          "quantity": "34 SF",
+          "unit_cost": "$2,200 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3850.00",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Plumbing",
+          "description": "Full gut plumbing for secondary bathroom with shower to tub conversion and new wall-mounted toilet.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$8,800 per UNIT",
+          "markup": "0.75",
+          "subtotal": "15400.00",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Tile Work",
+          "description": "Install floor and wall tiles in secondary bathroom.",
+          "quantity": "34 SF",
+          "unit_cost": "$2,600 per SF",
+          "markup": "0.80",
+          "subtotal": "4680.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Living Room Renovation",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Dropped Ceiling Installation",
+          "description": "Install new dropped ceiling in the living room.",
+          "quantity": "244.5 SF",
+          "unit_cost": "$9 per SF",
+          "markup": "0.75",
+          "subtotal": "3850.88",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Floor Refinishing",
+          "description": "Sand and refinish existing wood flooring.",
+          "quantity": "244.5 SF",
+          "unit_cost": "$5 per SF",
+          "markup": "0.75",
+          "subtotal": "2139.38",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Painting",
+          "description": "Repaint walls and ceiling in the living room.",
+          "quantity": "244.5 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "4405.69",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Bedroom 1",
+          "scope_item": "Dropped Ceiling Installation",
+          "description": "Install new dropped ceiling in Bedroom 1.",
+          "quantity": "189.5 SF",
+          "unit_cost": "$9 per SF",
+          "markup": "0.75",
+          "subtotal": "2986.88",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 1",
+          "scope_item": "Floor Refinishing",
+          "description": "Sand and refinish existing wood flooring in Bedroom 1.",
+          "quantity": "189.5 SF",
+          "unit_cost": "$5 per SF",
+          "markup": "0.75",
+          "subtotal": "1659.38",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 1",
+          "scope_item": "Painting",
+          "description": "Repaint walls and ceiling in Bedroom 1.",
+          "quantity": "189.5 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "3414.38",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 2",
+          "scope_item": "Dropped Ceiling Installation",
+          "description": "Install new dropped ceiling in Bedroom 2.",
+          "quantity": "110.6 SF",
+          "unit_cost": "$9 per SF",
+          "markup": "0.75",
+          "subtotal": "1742.63",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 2",
+          "scope_item": "Floor Refinishing",
+          "description": "Sand and refinish existing wood flooring in Bedroom 2.",
+          "quantity": "110.6 SF",
+          "unit_cost": "$5 per SF",
+          "markup": "0.75",
+          "subtotal": "968.25",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 2",
+          "scope_item": "Painting",
+          "description": "Repaint walls and ceiling in Bedroom 2.",
+          "quantity": "110.6 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "1992.38",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "General Renovation",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Replace All Doors",
+          "description": "Replace all interior doors with standard prehung doors.",
+          "quantity": "8 UNIT",
+          "unit_cost": "$550 per UNIT",
+          "markup": "0.75",
+          "subtotal": "7700.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Replace All Baseboards",
+          "description": "Replace all baseboards throughout the apartment.",
+          "quantity": "983.6 LF",
+          "unit_cost": "$5 per LF",
+          "markup": "0.75",
+          "subtotal": "8606.50",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Repaint Apartment",
+          "description": "Repaint entire apartment including walls and ceilings.",
+          "quantity": "983.6 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "17723.55",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Commercial Cleaning",
+          "description": "Post-renovation commercial cleaning for the entire apartment.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,925 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3368.75",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

@@ -1,0 +1,56 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install tile backsplash.,20 SF,"$2,200",0.8,nan,3960.0,90.0
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Electrical,"Install rough electrical, kitchen lighting circuits, under-cabinet lighting, GFCI outlets, switches, and panel upgrades.",1 UNIT,"$3,500",0.75,nan,6125.0,95.0
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets.,20 LF,$850,0.75,nan,29750.0,90.0
+Cabinetry & Storage,Downstairs Bedroom,Walk-in closet construction,Remove wall and construct walk-in closet for downstairs bedroom.,1 UNIT,"$3,500 per UNIT",0.75,nan,6125.0,90.0
+,,,,,,,,42000.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabricate and install quartz countertops.,45 SF,$97,0.75,nan,13763.75,90.0
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Remove old fixtures, tile, vanity, and flooring. Debris removal.",1 UNIT,"$3,300",0.75,nan,5775.0,95.0
+Demolition,Downstairs,Pantry to bedroom conversion,Remove pantry walls and convert to bedroom.,1 UNIT,"$2,200 per UNIT",0.75,nan,3850.0,90.0
+,,,,,,,,9625.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Install rough electrical, vanity lighting, exhaust fan, GFCI outlets, and switches.",1 UNIT,"$3,500",0.75,nan,6125.0,95.0
+Electrical,Bedroom 1,Bedroom Electrical,"Install outlets, switches, and light fixtures.",1 UNIT,"$3,500",0.75,nan,6125.0,90.0
+Electrical,Extension Bathroom,Bathroom electrical,Install electrical for new bathroom in extension.,1 UNIT,"$3,500 per UNIT",0.75,nan,6125.0,95.0
+,,,,,,,,18375.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Install new wood flooring.,220 SF,$6,0.75,nan,2310.0,90.0
+Flooring,Bedroom 1,Bedroom Flooring,Install new wood flooring.,110 SF,$6,0.75,nan,1155.0,90.0
+Flooring,Downstairs Extension,Tile flooring installation,Install tile flooring in downstairs extension area.,500 SF,$8 per SF,0.75,nan,7000.0,90.0
+,,,,,,,,10465.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Commercial Cleaning,Post-construction cleaning of all renovated areas.,1 UNIT,"$2,750",0.75,nan,4812.5,95.0
+,,,,,,,,4812.50,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Bedroom Painting,Prepare and paint walls and ceiling.,110 SF,$10.3,0.75,nan,1983.75,90.0
+,,,,,,,,1983.75,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,"Install rough plumbing, toilet, sink, shower/tub, supply lines, and drain lines.",1 UNIT,"$9,900",0.75,nan,17325.0,95.0
+Plumbing,Kitchen,Kitchen Plumbing,"Install rough plumbing, kitchen sink, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$3,850",0.75,nan,6737.5,95.0
+Plumbing,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Debris removal and disposal.",1 UNIT,"$3,300",0.75,nan,5775.0,95.0
+Plumbing,Downstairs Bathroom,Bathroom expansion,Expand existing downstairs bathroom to make it bigger.,1 UNIT,"$4,400 per UNIT",0.75,nan,7700.0,90.0
+Plumbing,Extension Bathroom,New bathroom installation,"Install new bathroom in extension area with rough plumbing, fixtures, and connections.",1 UNIT,"$9,900 per UNIT",0.75,nan,17325.0,95.0
+,,,,,,,,54862.50,
+Roofing,,,,,,,,,
+Roofing,Extension,Roof installation for extension,Install new roof for extension area.,500 SF,$15 per SF,0.75,nan,13125.0,95.0
+,,,,,,,,13125.00,
+Structural,,,,,,,,,
+Structural,Extension,Two-floor extension construction,"Structural framing, foundation, walls, insulation, and construction for two-floor extension (upstairs and downstairs rooms).",1000 SF,$157.14 per SF,0.75,nan,275000.0,90.0
+Structural,Living Room,Living room expansion,Structural work to make living room bigger as part of extension.,200 SF,$50 per SF,0.75,nan,17500.0,85.0
+,,,,,,,,292500.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,"Install floor and wall tiles, grout, and seal tiles.",100 SF,"$4,100",0.8,nan,7380.0,90.0
+Tile,Extension Bathroom,Bathroom tile work,Install floor and wall tiles for new bathroom in extension.,100 SF,"$4,100 per UNIT",0.8,nan,7380.0,90.0
+,,,,,,,,14760.00,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,"Install baseboards, window casings, and door casings.",50 LF,$5,0.75,nan,437.5,90.0
+,,,,,,,,437.50,
+,,,,,,,,480670.00,
+,,,General Conditions (10%),,,,,48067.00,
+,,,Grand Total,,,,,528737.00,

@@ -1,0 +1,37 @@
+ESTIMATE VERIFICATION – textfile (16) + Polycam 2_13_2026
+==========================================================
+Run: run_20260214_181825_c2e914e1
+Polycam: 1 file used ([Polycam Spatial Report] 2_13_2026.pdf)
+Final file: comprehensive_clean_estimate_final.xlsx
+Grand total: $81,822.57 (Subtotal $74,384.15 + 10% GC $7,438.42)
+
+--- SCOPE FROM TRANSCRIPT ---
+• 1938 historical home (Phineas E. Pace), Mediterranean/art deco; high ceilings; floors to keep.
+• Estimate “assuming everything has been replaced” for buyer to pick and choose.
+• Kitchen: “from here back, this all can be redesigned” – full kitchen redo.
+• Bathrooms: “bathrooms would be cool to get a redesign… maybe change it all” – both bathrooms.
+• Optional (not in estimate): expand bath, laundry relocation, master in back, “extra six feet” living, garage with pull, keep tree.
+
+--- MEASUREMENTS (FROM POLYCAM) ---
+• Kitchen: 150.9 SF (flooring/demo); cabinets 20 LF; countertops 50 SF; backsplash 30 SF.
+• Bathrooms: 58.2 SF each (demo); tile 100 SF each.
+• Living room: 290 SF (flooring, painting).
+• Cleaning: 1882.4 SF (entire house).
+
+--- FIXES APPLIED ---
+• Kitchen Demolition moved from Plumbing to Demolition.
+• Bathroom 2 Demolition added (transcript: both bathrooms).
+• Bathroom 2 Tile added.
+• Bathroom 2 Electrical added.
+• Section order: Demolition, Walls & Ceiling, Plumbing, Electrical, Flooring, Tile, Painting, Trims, Cabinetry, Countertops, Backsplash, Appliances, General Requirements.
+
+--- SCOPE CHECK ---
+[OK] Kitchen – demolition, plumbing, electrical, flooring, cabinets, countertops, backsplash.
+[OK] Bathroom 1 – demolition, plumbing, electrical, tile.
+[OK] Bathroom 2 – demolition, plumbing, electrical, tile.
+[OK] Living room – flooring, painting, electrical.
+[OK] Post-construction cleaning.
+[OK] Section order followed.
+[OK] Polycam 1 file used.
+
+Verification complete.

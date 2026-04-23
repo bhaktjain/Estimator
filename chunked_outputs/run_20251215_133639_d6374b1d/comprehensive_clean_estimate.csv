@@ -1,0 +1,28 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bedroom Renovation,,,,,,,,,
+Bedroom Renovation,Bedroom,Bedroom Flooring,Install new hardwood flooring.,320 SF,$6 per SF,0.75,,3360.00,90
+Bedroom Renovation,Bedroom,Bedroom Painting,Paint walls and ceiling.,450 SF,$10.3 per SF,0.75,,7871.25,90
+Bedroom Renovation,Bedroom,Bedroom Electrical,"Install outlets, switches, light fixtures, and ceiling fans.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Bedroom Renovation,Bedroom,Bedroom Trim,Install baseboards and window casings.,75 LF,$5 per LF,0.75,,656.25,90
+,,,,,,,,18012.50,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire House,Commercial Cleaning,Post-construction cleaning for entire house.,1 UNIT,"$2,750",0.75,,4812.50,85
+,,,,,,,,4812.50,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of existing kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",25 LF,"$3,300 per UNIT",0.75,,5775.00,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with existing location of 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,90
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rough electrical wiring, GFCI outlets, under-cabinet lighting, pendant light installation, range hood electrical, island electrical, dimmer switch installation.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets.,25 LF,$850 per LF,0.75,,37218.75,95
+Kitchen Renovation,Kitchen,Kitchen Countertops,Fabricate and install quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Install large tile backsplash.,15 LF,"$2,200 per 10ft",0.80,,3960.00,90
+Kitchen Renovation,Kitchen,Kitchen Flooring,Install new hardwood flooring.,100 SF,$6 per SF,0.75,,1050.00,90
+,,,,,,,,74630.00,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,Install new hardwood flooring.,470 SF,$6 per SF,0.75,,4935.00,90
+Living Room Renovation,Living Room,Living Room Painting,Paint walls and ceiling.,889.3 SF,$10.3 per SF,0.75,,16043.48,90
+Living Room Renovation,Living Room,Living Room Electrical,"Install outlets, switches, light fixtures, and ceiling fans.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Living Room Renovation,Living Room,Living Room Trim,Install baseboards and crown molding.,92 LF,$5 per LF,0.75,,805.00,90
+,,,,,,,,27908.48,
+,,,,,,,,125363.48,
+,,,General Conditions (10%),,,,,12536.35,
+,,,Grand Total,,,,,137899.83,
