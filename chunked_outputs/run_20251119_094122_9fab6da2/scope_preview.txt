@@ -1,0 +1,48 @@
+Category,Room,ItemName
+Demolition,General,Pre-construction site preparation
+Demolition,General,Demolition of existing structures
+Demolition,General,Demolition of existing structures
+Demolition,General,Excavation, grading, and backfilling
+Electrical,General,Electrical
+Electrical,General,Electrical
+Electrical,General,Electrical
+Walls & Ceiling,Wall & Ceiling Installation,nan
+Walls & Ceiling,General,New Interior Partition Walls
+Walls & Ceiling,General,New Interior Partition Walls
+Walls & Ceiling,General,Mold Resistant Drywall Installation
+Walls & Ceiling,General,Mold Resistant Drywall Installation
+Doors,Door Installation,nan
+Doors,General,New Doors Installation
+Trims,Baseboard Installation,nan
+Trims,General,New Baseboards Installation
+Flooring,Floor Installation,nan
+Flooring,General,2nd Floor Extension Flooring Installation
+Flooring,General,1st Floor Extension Flooring Finish
+Painting & Wall Coverings,General,Painting
+Plumbing,Plumbing,nan
+Plumbing,1st Floor New Extension - New Bathroom,Plumbing
+Plumbing,1st Floor New Extension - New Bathroom,Plumbing
+Waterproofing,Waterproofing,nan
+Waterproofing,1st Floor New Extension - New Bathroom,Waterproofing 
+Waterproofing,1st Floor New Extension - New Bathroom,Waterproofing 
+Tile,Floor Tiling ,nan
+Tile,1st Floor New Extension - New Bathroom,Tile floor installation
+Tile,1st Floor New Extension - New Bathroom,Tile floor installation
+Wall Tiling ,Wall Tiling ,nan
+Wall Tiling ,1st Floor New Extension - New Bathroom,Tile wall installation
+Wall Tiling ,1st Floor New Extension - New Bathroom,Tile wall installation
+Accessories,Accessory Installation,nan
+Accessories,1st Floor New Extension - New Bathroom,Accessory Installation
+Accessories,1st Floor New Extension - New Bathroom,Accessory Installation
+Extensions/Additions,Extension Addition ,nan
+Extensions/Additions,Exterior,1st and 2nd Floor Extension Exterior Wall Construction
+Extensions/Additions,Exterior,1st and 2nd Floor Extension Exterior Wall Construction
+Extensions/Additions,Exterior,Custom Item
+Concrete ,Concrete Installation,nan
+Concrete ,Exterior,Footing Construction
+Concrete ,Exterior,Slab Edge Forms / Shallow Foundation Walls Construction
+Concrete ,Exterior,Slab-on-Grade Construction
+Siding ,Exterior,Siding Installation
+Windows,Window Installation,nan
+Windows,Exterior,New Windows Installation
+Gutters ,Exterior,Gutter Installation

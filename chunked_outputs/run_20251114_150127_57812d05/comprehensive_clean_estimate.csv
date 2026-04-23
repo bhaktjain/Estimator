@@ -1,0 +1,31 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom Renovation,,,,,,,,,
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,"Full gut plumbing for bathroom including installation of toilet, sink, and shower.",1 UNIT,"$9,900 per UNIT",0.75,,17325.00,95
+Bathroom Renovation,Bathroom 1,Bathroom Electrical,Installation of bathroom electrical systems including lighting and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,80 SF,"$4,100 per UNIT",0.80,,7380.00,95
+Bathroom Renovation,Bathroom 1,Bathroom Fixtures,"Installation of bathroom fixtures including vanity, mirror, and shower doors.",1 UNIT,$550 per UNIT,0.75,,962.50,95
+,,,,,,,,37567.50,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas post-construction.,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,95
+,,,,,,,,3368.75,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing with relocation of sink and stove.,1 UNIT,"$6,050 per UNIT",0.75,,10587.50,90
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rewiring and installation of new circuits, outlets, and lighting for kitchen.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Kitchen Renovation,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.50,95
+Kitchen Renovation,Kitchen,Kitchen Countertops,Fabricate and install quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Install tile backsplash.,10 FT,"$2,200 per 10 FT",0.80,,3960.00,90
+Kitchen Renovation,Kitchen,Kitchen Flooring,Install new engineered flooring.,378.4 SF,$6 per SF,0.75,,3969.60,90
+Kitchen Renovation,Kitchen,Commercial Cleaning,Post-construction cleaning of kitchen area.,1 UNIT,"$1,375 per UNIT",0.75,,2406.25,85
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, and flooring.",14.9 LF,"$3,300 per UNIT",0.75,,5775.00,95
+Kitchen Renovation,Kitchen,Kitchen Cabinets Installation,"Installation of new kitchen cabinets, including base and wall cabinets.",14.9 LF,"$9,200 per UNIT",0.75,,16100.00,95
+Kitchen Renovation,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,37.25 SF,$97 per SF,0.75,,13763.75,95
+Kitchen Renovation,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen including sink and garbage disposal installation.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,95
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Rewiring and installation of kitchen electrical systems including outlets, lighting, and appliances.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+Kitchen Renovation,Kitchen,Kitchen Flooring,Installation of new kitchen flooring.,264 SF,$6 per SF,0.75,,2772.00,95
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Installation of kitchen backsplash tile.,10 LF,"$2,200 per UNIT",0.80,,3960.00,95
+,,,,,,,,124132.85,
+,,,,,,,,165069.10,
+,,,General Conditions (10%),,,,,16506.91,
+,,,Grand Total,,,,,181576.01,

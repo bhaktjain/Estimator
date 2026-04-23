@@ -1,0 +1,26 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom Renovation,,,,,,,,,
+Bathroom Renovation,Bathroom,Bathroom Demolition,"Full gut of existing bathroom including removal of fixtures, tile, vanity, and flooring.",44 SF,"$3,300 per unit",0.75,,5775,95
+Bathroom Renovation,Bathroom,Bathroom Plumbing,"Full gut replacement of plumbing fixtures including toilet, sink, and shower installation.",44 SF,"$7,700 per unit",0.75,,13475,95
+Bathroom Renovation,Bathroom,Bathroom Tile Work,Installation of floor and wall tiles in the bathroom.,44 SF,"$2,600 per unit",0.80,,4680,95
+Bathroom Renovation,Bathroom,Bathroom Electrical,"Installation of GFCI outlets, vanity lighting, and exhaust fan.",3 UNITS,$55 per unit,0.75,,288.75,90
+Bathroom Renovation,Bathroom,Bathroom Waterproofing,Installation of waterproofing membrane on floors and walls.,44 SF,"$1,900 per unit",0.65,,3135,95
+,,,,,,,,27353.75,
+Bedroom Renovation,,,,,,,,,
+Bedroom Renovation,Bedroom,Bedroom Flooring,Installation of new carpet flooring.,190 SF,$6 per SF,0.75,,1995,95
+Bedroom Renovation,Bedroom,Bedroom Painting,Painting of walls and ceiling.,190 SF,$10.3 per SF,0.70,,3333.5,95
+Bedroom Renovation,Bedroom,Bedroom Electrical,"Installation of outlets, switches, and light fixtures.",3 UNITS,$55 per unit,0.75,,288.75,90
+Bedroom Renovation,Bedroom,Bedroom Trim,Installation of baseboards and crown molding.,63 LF,$5 per LF,0.70,,535.5,90
+,,,,,,,,6152.75,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750 per unit",0.75,,4812.5,95
+,,,,,,,,4812.50,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,Installation of new hardwood flooring.,400 SF,$6 per SF,0.75,,4200,95
+Living Room Renovation,Living Room,Living Room Painting,Painting of walls and ceiling.,400 SF,$10.3 per SF,0.70,,7020,95
+Living Room Renovation,Living Room,Living Room Electrical,"Installation of outlets, switches, and light fixtures.",5 UNITS,$55 per unit,0.75,,481.25,90
+Living Room Renovation,Living Room,Living Room Trim,Installation of baseboards and crown molding.,94 LF,$5 per LF,0.70,,799,90
+,,,,,,,,12500.25,
+,,,,,,,,50819.25,
+,,,General Conditions (10%),,,,,5081.93,
+,,,Grand Total,,,,,55901.18,

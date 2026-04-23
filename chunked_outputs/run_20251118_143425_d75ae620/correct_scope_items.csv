@@ -1,0 +1,565 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,General,Pre-construction site preparation,"Pre-construction site preparation
+
+-Protect and seal entry doors, grilles, and other openings at the house.
+
+-Set up zipper walls and containments to prevent dust from spreading to other areas as required by the construction scope of work.
+
+
+
+
+",TBD,TBD,0.75,,0,90
+Demolition,General,Demolition of existing structures,"Existing House
+
+-Demolition and removal of existing siding, trim, and sheathing at the existing wall where the new extension will connect.
+
+-Demolition and removal of structural wall framing to create new opening for the new extension.
+
+-Demolition and removal of existing fireplace to create new opening for the new extension.
+
+-Demolition and removal of existing doors as per proposed plan.
+
+-Removal of existing windows as per proposed plan.
+
+-Demolition and removal of existing roof, overhangs, gutters, or eaves as needed for proper roof tie-in with the new extension.
+
+-Demolition and removal of existing partition walls throughout the house as per proposed plan.
+
+-Demolition and removal of existing hardwood flooring throughout the 1st floor.
+
+-Demolition and removal of existing baseboards throughout the 1st floor.
+
+*Debris removal and disposal included
+",TBD,TBD,0.75,,0,90
+Demolition,General,Demolition of existing structures,"1st Floor - Existing Powder Room
+
+-Demolition of powder room tiles, vanity, medicine cabinet, toilet, and fixtures.
+
+-Demolition and removal of plumbing water and waste lines.
+
+*Debris removal and disposal included
+",TBD,TBD,0.75,,0,90
+Demolition,General,Demolition of existing structures,"1st Floor - Existing Laundry Room
+
+-Demolition of tiles, shelves, cabinets, appliances, and fixtures.
+
+-Demolition and removal of plumbing water and waste lines.
+
+*Debris removal and disposal included
+",TBD,TBD,0.75,,0,90
+Demolition,General,Demolition of existing structures,"2nd Floor - Primary Bathroom
+
+-Demolition of bathroom tiles, vanity, medicine cabinet, toilet, and fixtures.
+
+-Demolition and removal of plumbing water and waste lines.
+
+*Debris removal and disposal included
+",TBD,TBD,0.75,,0,90
+Demolition,General,Demolition of existing structures,"2nd Floor - Second Bathroom
+
+-Demolition and removal of the tub.
+
+*Debris removal and disposal included
+",TBD,TBD,0.75,,0,90
+Demolition,General,Demolition of existing structures,"2nd Floor - Existing Walk-In Closet
+
+-Demolition of shelves, cabinets, and other millworks.
+
+-Demolition of wall substrates back to framing.
+
+*Debris removal and disposal included
+",TBD,TBD,0.75,,0,90
+Demolition,General,"Excavation, grading, and backfilling","New Extension Area (Approx. 430 SF)
+
+-Strip and remove surface vegetation and topsoil within the new addition footprint.
+
+-Excavate to required subgrade elevation for slab-on-grade foundation, including trenches for footings.
+
+-Grade and level the building pad to ensure uniform bearing conditions and slab support.
+
+-Excavate utility trenches as needed for underslab plumbing and electrical rough-ins.
+
+-Place and compact fill material around the perimeter and over excavated areas as needed to establish proper grade.
+
+-Perform rough grading around the new structure to promote positive drainage away from the foundation.
+
+*Debris removal and disposal included
+",TBD,TBD,0.75,,0,90
+Electrical,General,Electrical,"New Extension Area
+
+-Supply and install (10) new outlets throughout the new extension area as per code requirements at new locations.
+
+-Install (6) new light fixtures throughout the new extension area at new locations.
+
+-Supply and install (6) new switches throughout the new extension area at new locations.
+
+*Light fixtures not included
+
+*All electrical work to be done by a licensed insured electrician
+
+*Panel upgrade and replacement not included
+",TBD,TBD,0.75,,0,90
+Electrical,General,Electrical,"1st Floor - New Bathroom
+
+-Supply and install (1) new GFI outlet in the bathroom as per code requirements at new location.
+
+-Install (2) new light fixtures at new locations.
+
+-Supply and install (1) new switch at new location.
+
+*Light fixtures not included
+
+*All electrical work to be done by a licensed insured electrician
+
+*Panel upgrade and replacement not included
+",TBD,TBD,0.75,,0,90
+Electrical,General,Electrical,"2nd Floor - Primary Bathroom
+
+-Supply and install (2) new GFI outlet in the bathroom as per code requirements at existing location.
+
+-Install (2) new light fixtures at existing locations.
+
+-Supply and install (1) new switch at existing location.
+
+-Supply and install (1) new switch at a new location.
+
+*Light fixtures not included
+
+*All electrical work to be done by a licensed insured electrician
+
+*Panel upgrade and replacement not included
+",TBD,TBD,0.75,,0,90
+Electrical,General,Electrical,"2nd Floor - New Laundry Room
+
+-Supply and Install new dedicated lines for the washer dryer in the new laundry room at new locations.
+
+-Supply and Install (1) new GFI outlet in the new laundry room as per code requirements at new location.
+
+-Install (1) new light fixture at new location.
+
+-Supply and Install (1) new switch at new location.
+
+*Light fixtures not included
+
+*All electrical work to be done by a licensed insured electrician
+
+*Panel upgrade and replacement not included
+",TBD,TBD,0.75,,0,90
+Drywall & Insulation,General,New Interior Partition Walls Installation,"1st & 2nd Floor New Extension Area
+
+-Frame all interior partition walls with 2ֳ—4 studs at 16"" OC, including top and bottom plates, blocking, and framing.
+
+-Supply and install all required structural hardware, bracing, and fire-blocking per code.
+
+-Supply and install drywall on both sides of all interior walls.
+
+*Tape, plaster, sand, and prepare walls to the above spaces to receive new finishes
+",TBD,TBD,0.75,,0,90
+Drywall & Insulation,General,New Ceiling Installation,"1st & 2nd Floor New Extension Area
+
+-Supply and install ceiling framing using 2x8 or 2x10 joists at 16"" on center as per code requirements.
+
+-Supply and install ceiling insulation to meet code requirements.
+
+-Supply and install drywall on new ceiling throughout the new extension area.
+
+*Tape, plaster, sand, and prepare ceiling to the above spaces to receive new finishes
+",TBD,TBD,0.75,,0,90
+Drywall & Insulation,General,Mold Resistant Drywall Installation,"1st Floor - New Bathroom
+
+-Supply and Install water-resistant sheetrock on bathroom walls.
+
+*Tape, plaster, sand and prepare walls to the above spaces to receive new finishes
+",TBD,TBD,0.75,,0,90
+Drywall & Insulation,General,Mold Resistant Drywall Installation,"2nd Floor - Primary Bathroom
+
+-Supply and Install water-resistant sheetrock on bathroom walls.
+
+*Tape, plaster, sand and prepare walls to the above spaces to receive new finishes
+",TBD,TBD,0.75,,0,90
+Drywall & Insulation,General,Mold Resistant Drywall Installation,"2nd Floor - New Laundry Room
+
+-Supply and Install water-resistant sheetrock on new laundry room walls.
+
+*Tape, plaster, sand and prepare walls to the above spaces to receive new finishes
+",TBD,TBD,0.75,,0,90
+Doors,General,New Doors Installation,"New Extension Area
+
+-Installation of (5) new standard interior doors, door frames, and door trims at new locations as per proposed plan.
+
+-Installation of (2) new sliding doors, door frames, and door trims at new locations as per proposed plan.
+
+-Installation of (1) new bifold double door, door frame, and door trim at new location as per proposed plan.
+
+*Doors and Hardware not included
+
+*Price based on Pre-hung Doors
+",TBD,TBD,0.75,,0,90
+Flooring,General,2nd Floor Extension Flooring Installation,"2nd Floor New Extension Area
+
+-Supply and install engineered floor joist system throughout the new 2nd floor extension.
+
+-Supply and install all required structural connectors, joist hangers, and hardware as per code.
+
+-Supply and install new subflooring over new level floor joists.
+
+-Supply and install acoustic flooring underlayment throughout the new 2nd floor extension area.
+
+-Installation of new hardwood flooring throughout the new 2nd floor extension area.
+
+*Hardwood flooring material not included
+
+
+",TBD,TBD,0.75,,0,90
+Flooring,General,1st Floor Extension Flooring Finish,"1st Floor New Extension Area
+
+-Supply and install vapor barrier on the slab on grade throughout the new 1st floor extension area.
+
+-Supply and install subflooring throughout the new 1st floor extension area.
+
+-Installation of hardwood flooring throughout the 1st floor, including the 1st floor new extension area.
+
+*Hardwood flooring material not included
+
+
+
+
+",TBD,TBD,0.75,,0,90
+Flooring,General,Tile floor installation,"2nd Floor - New Laundry Room
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles throughout the new laundry room.
+
+-Supply and apply new grout.
+
+-*Tiles not included
+
+
+",TBD,TBD,0.75,,0,90
+HVAC,General,New HVAC System Installation,"New Extension Area
+
+-Supply and install one new HVAC system to serve the first floor, and the basement.
+
+-Supply and install R-8 insulated ductwork to all new and reassigned areas for HVAC work.
+
+-Supply and install programmable thermostat for new zone.
+
+-Supply and install new air handler, condenser, electrical disconnects, wiring, and condensate drain.
+
+-Provide mechanical ventilation or conditioned air to sealed crawlspace if applicable.
+
+-Reconfigure the existing HVAC system to provide dedicated heating and cooling for the second floor only.
+
+*If the architect requires any additional work, it will be subject to an additional cost.
+",TBD,TBD,0.75,,0,90
+Trims,General,New Baseboards Installation,"New Extension Area
+
+-Supply and install new baseboards throughout the 1st floor, including the 1st floor new extension area.
+
+-Supply and install new baseboards on the 2nd floor new extension area.
+
+*Baseboard material allowance of $3 per LF
+",TBD,TBD,0.75,,0,90
+Trims,General,New Crown Moldings Installation,"New Extension Area
+
+-Supply and install new crown moldings throughout the new 1st and 2nd floor extension area to match the existing.ֲ 
+
+*Crown molding material allowance of $6 per LF
+",TBD,TBD,0.75,,0,90
+Painting & Wall Coverings,General,Painting,"General Areas
+
+-Supply and apply 1 coat of primer and 2 coats of paint on walls, ceiling, frames, and doors throughout the house, including the
+basement and new extension areas.
+
+*Benjamin Moore regal select
+
+
+",TBD,TBD,0.75,,0,90
+Interior Design Services,General,Interior Design Fee,"Comprehensive design and material specification services, including finishes, fixtures, and element selections, as well as final
+renderings and construction drawings as per design scope.
+Comprehensive design and material specification services, including finishes, fixtures, and element selections, as well as final
+renderings and construction drawings as per design scope.",TBD,TBD,0.75,,0,90
+Plumbing,1st Floor - New Bathroom,Plumbing,"1st Floor - New Bathroom
+
+-Supply and install new water and waste line to main water supply and drainage at new locations.
+
+-Supply and install new water and waste rough-in for sink at new locations.
+
+-Install toilet, sink, faucet, and shower fixtures at new locations.
+
+-Supply and install lead pan or PVC liner for the new shower area.
+
+-Install new shut-off valves.
+
+-Supply and install fireproofing at all floor and wall penetrations.
+
+*Plumbing fixtures and finishes are not included
+
+*All plumbing work to be done by a licensed insured plumber
+
+*Includes pipe insulation on all waterlines
+
+
+",TBD,TBD,0.75,,0,90
+Plumbing,1st Floor - New Bathroom,Plumbing,"2nd Floor - Primary Bathroom
+
+-Supply and install new water and waste line to main water supply and drainage at existing locations.
+
+-Supply and install new water and waste rough-in for sink at existing locations.
+
+-Install toilet, sink, faucet, and shower fixtures at existing locations.
+
+-Supply and install lead pan or PVC liner for the new shower area.
+
+-Install new shut-off valves.
+
+-Supply and install fireproofing at all floor and wall penetrations.
+
+*Plumbing fixtures and finishes are not included
+
+*All plumbing work to be done by a licensed insured plumber
+
+*Includes pipe insulation on all waterlines
+
+*Toilet waste rough-in or lead bend replacement not included
+",TBD,TBD,0.75,,0,90
+Plumbing,1st Floor - New Bathroom,Plumbing,"2nd Floor - Second Bathroom
+
+-Install shower fixtures at new locations.
+
+-Supply and install lead pan or PVC liner for the new shower area.
+
+*Plumbing fixtures and finishes are not included
+
+*All plumbing work to be done by a licensed insured plumber
+
+
+",TBD,TBD,0.75,,0,90
+Plumbing,1st Floor - New Bathroom,Plumbing,"2nd Floor - New Laundry Room
+
+-Supply and install new water and waste line to main water supply and drainage at new locations.
+
+-Supply and install new water and waste rough-in for the washer dryer at new locations.
+
+-Install new washer and dryer at new location.
+
+-Supply and Install drain pan for the washer dryer.
+
+-Supply and install shutoff valves.
+
+-Supply and install fireproofing at all floor and wall penetrations.
+
+*Plumbing fixtures and finishes are not included
+
+*All plumbing work to be done by a licensed insured plumber
+
+*Includes pipe insulation on all waterlines
+",TBD,TBD,0.75,,0,90
+Waterproofing,1st Floor - New Bathroom,Waterproofing ,"1st Floor - New Bathroom
+
+-Supply and Install new waterproofing membrane on bathroom walls and bathroom floor.
+",TBD,TBD,0.75,,0,90
+Waterproofing,1st Floor - New Bathroom,Waterproofing ,"2nd Floor - Primary Bathroom
+
+-Supply and Install new waterproofing membrane on bathroom walls and bathroom floor.
+",TBD,TBD,0.75,,0,90
+Waterproofing,1st Floor - New Bathroom,Waterproofing ,"2nd Floor - Second Bathroom
+
+-Supply and Install new waterproofing membrane on the new shower area.
+",TBD,TBD,0.75,,0,90
+Waterproofing,1st Floor - New Bathroom,Waterproofing,"2nd Floor - New Laundry Room
+
+-Supply and Install new waterproofing membrane on new laundry room floor.
+",TBD,TBD,0.75,,0,90
+Tile,1st Floor - New Bathroom,Tile floor installation,"1st Floor - New Bathroom
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles throughout the bathroom.
+
+-Supply and apply new grout.
+
+*Tiles and saddles are not included
+
+",TBD,TBD,0.75,,0,90
+Tile,1st Floor - New Bathroom,Tile floor installation,"2nd Floor - Primary Bathroom
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles throughout the bathroom.
+
+-Supply and apply new grout.
+
+*Tiles and saddles are not included
+
+",TBD,TBD,0.75,,0,90
+Tile,1st Floor - New Bathroom,Tile floor installation,"2nd Floor - Second Bathroom
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles on the new shower area.
+
+-Supply and apply new grout.
+
+*Tiles and saddles are not included
+
+",TBD,TBD,0.75,,0,90
+Tile,1st Floor - New Bathroom,Tile wall installation,"1st Floor - New Bathroom
+
+-Installation of straight and plumb substrate for tile installation.
+
+-Install new tiles on bathroom walls.
+
+-Supply and apply new grout.
+
+*Tiles not included
+
+
+",TBD,TBD,0.75,,0,90
+Tile,1st Floor - New Bathroom,Tile wall installation,"2nd Floor - Primary Bathroom
+
+-Installation of straight and plumb substrate for tile installation.
+
+-Install new tiles on bathroom walls.
+
+-Supply and apply new grout.
+
+*Tiles not included
+
+
+",TBD,TBD,0.75,,0,90
+Tile,1st Floor - New Bathroom,Tile wall installation,"2nd Floor - Second Bathroom
+
+-Installation of straight and plumb substrate for tile installation.
+
+-Install new tiles on bathroom walls on wet area.
+
+-Supply and apply new grout.
+
+*Tiles not included
+
+
+",TBD,TBD,0.75,,0,90
+Accessories,1st Floor - New Bathroom,Accessory Installation,"1st Floor - New Bathroom
+
+-Install all finish accessories in the bathroom (vanities, medicine cabinets, towel bars, toilet paper holders, etc).
+
+*Finishes and accessories are not included
+",TBD,TBD,0.75,,0,90
+Accessories,1st Floor - New Bathroom,Accessory Installation,"2nd Floor - Primary Bathroom
+
+-Install all finish accessories in the bathroom (vanities, medicine cabinets, towel bars, toilet paper holders, etc).
+
+*Finishes and accessories are not included
+",TBD,TBD,0.75,,0,90
+Concrete,Exterior,Footing Construction,"New Extension Area (Approx. 430 SF)
+
+-Excavate continuous and/or spread footings below frost depth throughout the new extension.
+
+-Furnish and install formwork for footings as required for accurate dimensions and alignment.
+
+-Supply and install rebars including longitudinal bars, stirrups, and dowels into foundation walls or slab edge forms.
+
+-Supply and place ready-mix concrete in footings with proper consolidation and finishing.
+
+-Supply and install anchor bolts, hold-downs, or embedded hardware as required for structural connections.
+
+-Ensure footing elevations are set to receive slab edge forms and maintain level bearing surfaces.
+
+-Strip formwork and clean up footing areas after concrete has cured sufficiently.
+",TBD,TBD,0.75,,0,90
+Concrete,Exterior,Slab Edge Forms / Shallow Foundation Walls Construction,"New Extension Area (Approx. 430 SF)
+
+-Furnish and install slab edge formwork or shallow stem walls around the perimeter of the slab-on-grade foundation.
+
+-Form edge heights to align with finished slab elevation and maintain proper step-downs.
+
+-Supply and install reinforcement (horizontal rebar and vertical dowels from footings).
+
+-Provide form ties, corners, and control joints as required for structural integrity.
+
+-Supply, pour, and finish concrete for slab edges or shallow foundation walls.
+
+-Supply and install anchor bolts or embedded hardware into top of walls to secure future wall framing.
+
+-Strip forms after curing and clean work area.
+",TBD,TBD,0.75,,0,90
+Concrete,Exterior,Slab-on-Grade Construction,"New Extension Area (Approx. 430 SF)
+
+-Prepare subgrade inside foundation perimeter by verifying compaction and elevation of granular base material.
+
+-Supply and install a minimum 4"" thick compacted crushed stone or gravel base across the entire slab area.
+
+-Supply and install 6 mil polyethylene vapor barrier over the stone base, properly lapped and sealed at seams.
+
+-Furnish and place slab reinforcement (e.g., welded wire mesh or rebar) per structural design.
+
+-Provide sleeves and block-outs for underslab plumbing, electrical, and mechanical penetrations.
+
+-Supply, pour, and finish 4"" thick reinforced concrete slab with hand-trowel or power-float finish, per specifications.
+",TBD,TBD,0.75,,0,90
+Structural & Framing,Exterior,1st and 2nd Floor Extension Exterior Wall Construction,"1st & 2nd Floor New Exterior Wallֲ 
+
+-Frame exterior walls with 2ֳ—6 studs at 16"" OC including top and bottom plates, headers, window/door openings, etc.
+
+-Supply and install OSB or plywood wall sheathing and apply weather-resistive barrier with flashing at all openings.
+
+-Insulate exterior wall cavities with R-21 batt insulation and seal all joints, penetrations, and framing gaps per energy code.
+
+-Supply and install drywall on interior face of all exterior walls to Level 4 finish, ready for paint.
+",TBD,TBD,0.75,,0,90
+Structural & Framing,Exterior,New Roof Extension,"New Roof Extension
+
+-Frame new walls using 2x6 wood studs, securely tied into existing rafters and ceiling joists.
+
+-Supply and install new rafters, ridge beam, jack rafters, and ties as required for structural support.
+
+-Sheath walls and roof with exterior-grade plywood or OSB.
+
+-Supply and install roof sheathing over the entire roof area with exterior-grade plywood or OSB.
+
+-Supply and install synthetic underlayment membrane over all roof surfaces for weather protection.
+
+-Flash and trim connections, roof edges, and penetrations with metal flashing as required.
+
+-Supply and install roof insulation within the dormer wall and roof cavities per code.
+",TBD,TBD,0.75,,0,90
+Siding & Exterior,Exterior,Siding Installation,"New Extension Area
+
+-Supply and install exterior wall siding to match the existing siding.
+
+-Include all siding accessories such as starter strips, J-channels, utility trim, and finish strips.
+
+-Cut and fit siding neatly around all window and door openings, and utility penetrations.
+
+
+",TBD,TBD,0.75,,0,90
+Deck & Exterior,Exterior,New Deck Extension,"New Deck Extension (95 SF)
+
+-Extend the existing wood deck to align with the footprint of the new rear extension.
+
+-Match existing deck in height, design, materials, and railing style unless otherwise specified.
+
+-Supply and install new concrete footings sized and spaced as per code requirements.
+
+-Frame with pressure-treated lumber (2x8 or 2x10 joists at 16"" on center).
+
+-Supply and install new ledger board to extension wall with proper flashing and structural attachment.
+
+-Supply and install new decking boards to match existing (pressure-treated wood or composite).
+
+-Extend or replace guardrails and stairs as needed to meet current code and match existing layout.
+
+-Provide all required structural hardware (joist hangers, post anchors, lag bolts, etc.).
+",TBD,TBD,0.75,,0,90
+Roofing,Exterior,New Roof Drainage,"New Roof Drainage
+
+-Supply and install gutters and downspouts along roof edges.
+",TBD,TBD,0.75,,0,90
+Windows,Exterior,New Windows Installation,"New Extension Areas
+
+-Installation of (9) new windows throughout the new extension areas.
+
+*Windows and Hardware not included
+",TBD,TBD,0.75,,0,90

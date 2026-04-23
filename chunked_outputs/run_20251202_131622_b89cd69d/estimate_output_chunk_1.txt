@@ -1,0 +1,222 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] Marvin Andersan (1).pdf
+[SUCCESS] Extracted 18767 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] Marvin Andersan (1).pdf
+[INFO] Processing file 3: chunked_outputs/run_20251202_131622_b89cd69d/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5970 characters from chunked_outputs/run_20251202_131622_b89cd69d/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 66456 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Demolition",
+      "items": [
+        {
+          "room": "Guest Bathroom",
+          "scope_item": "Full gut demolition",
+          "description": "Remove all fixtures, tiles, and flooring in the guest bathroom.",
+          "quantity": "58 SF",
+          "unit_cost": "$2,200 per unit",
+          "markup": "0.75",
+          "subtotal": "3850",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Main Bathroom",
+          "scope_item": "Full gut demolition",
+          "description": "Remove all fixtures, tiles, and flooring in the main bathroom.",
+          "quantity": "72 SF",
+          "unit_cost": "$2,750 per unit",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Full gut demolition",
+          "description": "Remove all cabinets, countertops, appliances, and flooring in the kitchen.",
+          "quantity": "180 SF",
+          "unit_cost": "$3,300 per unit",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Plumbing",
+      "items": [
+        {
+          "room": "Guest Bathroom",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing fixtures and lines in the guest bathroom.",
+          "quantity": "58 SF",
+          "unit_cost": "$7,700 per unit",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Main Bathroom",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing fixtures and lines in the main bathroom.",
+          "quantity": "72 SF",
+          "unit_cost": "$8,800 per unit",
+          "markup": "0.75",
+          "subtotal": "15400",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing fixtures and lines in the kitchen.",
+          "quantity": "180 SF",
+          "unit_cost": "$3,850 per unit",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Electrical",
+      "items": [
+        {
+          "room": "Guest Bathroom",
+          "scope_item": "Electrical rewiring",
+          "description": "Rewire electrical systems in the guest bathroom.",
+          "quantity": "58 SF",
+          "unit_cost": "$17 per SF",
+          "markup": "0.75",
+          "subtotal": "1727.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Main Bathroom",
+          "scope_item": "Electrical rewiring",
+          "description": "Rewire electrical systems in the main bathroom.",
+          "quantity": "72 SF",
+          "unit_cost": "$17 per SF",
+          "markup": "0.75",
+          "subtotal": "2145",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Electrical rewiring",
+          "description": "Rewire electrical systems in the kitchen.",
+          "quantity": "180 SF",
+          "unit_cost": "$17 per SF",
+          "markup": "0.75",
+          "subtotal": "5355",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Tile Work",
+      "items": [
+        {
+          "room": "Guest Bathroom",
+          "scope_item": "Tile installation",
+          "description": "Install new tiles on walls and floors in the guest bathroom.",
+          "quantity": "58 SF",
+          "unit_cost": "$2,600 per unit",
+          "markup": "0.80",
+          "subtotal": "4680",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Main Bathroom",
+          "scope_item": "Tile installation",
+          "description": "Install new tiles on walls and floors in the main bathroom.",
+          "quantity": "72 SF",
+          "unit_cost": "$3,400 per unit",
+          "markup": "0.80",
+          "subtotal": "6120",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Tile backsplash installation",
+          "description": "Install new tile backsplash in the kitchen.",
+          "quantity": "180 SF",
+          "unit_cost": "$2,800 per unit",
+          "markup": "0.80",
+          "subtotal": "5040",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Flooring",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Hardwood flooring installation",
+          "description": "Install new hardwood flooring in the living room.",
+          "quantity": "430 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "4515",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Master Bedroom",
+          "scope_item": "Hardwood flooring installation",
+          "description": "Install new hardwood flooring in the master bedroom.",
+          "quantity": "190 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "1995",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Painting",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling in the living room.",
+          "quantity": "430 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "7742.25",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Master Bedroom",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling in the master bedroom.",
+          "quantity": "190 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "3421.5",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Post-construction cleaning",
+          "description": "Comprehensive cleaning of the entire apartment post-renovation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,925 per unit",
+          "markup": "0.75",
+          "subtotal": "3368.75",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

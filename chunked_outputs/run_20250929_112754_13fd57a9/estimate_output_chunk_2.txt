@@ -1,0 +1,87 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/6 Galloway Court West Orange-Bedroom.pdf
+[SUCCESS] Extracted 8098 characters from /Users/bhakt/Downloads/6 Galloway Court West Orange-Bedroom.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250929_112754_13fd57a9/transcript_chunks/chunk_2.txt
+[SUCCESS] Read 5833 characters from chunked_outputs/run_20250929_112754_13fd57a9/transcript_chunks/chunk_2.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 46599 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Island Installation",
+          "description": "Install a new waterfall kitchen island to match existing kitchen style.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,400 per LF",
+          "markup": "0.75",
+          "subtotal": "4200",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Countertop Replacement",
+          "description": "Replace existing countertops with new quartz countertops.",
+          "quantity": "45 SF",
+          "unit_cost": "$97 per SF",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Backsplash Installation",
+          "description": "Install new tile backsplash to match new countertops.",
+          "quantity": "10 LF",
+          "unit_cost": "$2,200 per 10 LF",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Electrical Reallocation",
+          "description": "Reallocate outlets and control panel for AC due to wall removal.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Wall Removal",
+          "description": "Remove portion of wall to open space and improve light flow.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,300 per 10 ft",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of all renovated areas post-construction.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,925 for 1,200-1,800 sf",
+          "markup": "0.75",
+          "subtotal": "3368.75",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

@@ -1,0 +1,44 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install tile backsplash.,20 LF,"$2,200 per 10 LF",0.80,,3960,95
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Install new custom kitchen cabinets.,20 LF,"$1,200 per LF",0.75,,42000,95
+,,,,,,,,42000.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Install new quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Remove old fixtures, tile, vanity, and flooring.",666 SF,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Bathroom 2,Bathroom Demolition,"Full gut of bathroom including removal of old fixtures, tile, vanity, and flooring.",112 SF,"$2,750 per UNIT",0.75,,4812.5,95
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, and flooring.",324 SF,"$3,300 per unit",0.75,,5775,95
+,,,,,,,,16362.50,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Installation of vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",666 SF,$17 per SF,0.75,,14182.5,95
+Electrical,Bathroom 2,Bathroom Electrical,"Installation of bathroom electrical systems including outlets, lighting, and exhaust fan.",112.1 SF,$17 per SF,0.75,,1867.88,90
+Electrical,Kitchen,Kitchen Electrical,"Rewiring and installation of kitchen electrical including outlets, switches, and lighting.",324 SF,$17 per SF,0.75,,9630,90
+Electrical,Living Room,Living Room Electrical,"Install outlets, switches, light fixtures, and ceiling fans.",670 SF,$17 per SF,0.75,,19987.5,95
+,,,,,,,,45667.88,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Install new engineered flooring.,324 SF,$6 per SF,0.75,,3402,95
+Flooring,Living Room,Living Room Flooring,Install new hardwood flooring.,670 SF,$6 per SF,0.75,,7035,95
+,,,,,,,,10437.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,4812.50,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Living Room,Living Room Painting,Paint walls and ceiling.,670 SF,$10.3 per SF,0.75,,12071.25,95
+,,,,,,,,12071.25,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Fixtures,"Install vanity, mirror, towel bars, toilet paper holder, and shower doors.",1 UNIT,"$2,000 per UNIT",0.75,,3500,95
+,,,,,,,,3500.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,"Install floor and wall tiles, grout, and seal tiles.",666 SF,"$4,100 per UNIT",0.80,,7380,95
+Tile,Bathroom 2,Bathroom Tile Work,Install floor and wall tiles.,112 SF,"$2,600 per 60 SF",0.80,,4992,95
+,,,,,,,,12372.00,
+Trims,,,,,,,,,
+Trims,Living Room,Living Room Trim,Install baseboards and crown molding.,670 LF,$14 per LF,0.75,,16485,95
+,,,,,,,,16485.00,
+,,,,,,,,181431.88,
+,,,General Conditions (10%),,,,,18143.19,
+,,,Grand Total,,,,,199575.07,

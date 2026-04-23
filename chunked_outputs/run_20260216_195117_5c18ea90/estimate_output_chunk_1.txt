@@ -1,0 +1,172 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: chunked_outputs/run_20260216_195117_5c18ea90/polycam_chunks/polycam.pdf
+[SUCCESS] Extracted 22594 characters from chunked_outputs/run_20260216_195117_5c18ea90/polycam_chunks/polycam.pdf
+[INFO] Processing file 3: chunked_outputs/run_20260216_195117_5c18ea90/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 4669 characters from chunked_outputs/run_20260216_195117_5c18ea90/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 76029 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Demolition",
+      "items": [
+        {
+          "room": "Entire House",
+          "scope_item": "Full Gut Demolition",
+          "description": "Complete demolition of interior and exterior elements as per plan, including removal of existing partitions, flooring, windows, doors, and stucco.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$4,000 per UNIT",
+          "markup": "0.75",
+          "subtotal": "7000",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Structural Elevation",
+      "items": [
+        {
+          "room": "Entire House",
+          "scope_item": "House Elevation",
+          "description": "Elevate the house structure to meet FEMA requirements, raising the base flood elevation to 8 feet.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$50,000 per UNIT",
+          "markup": "0.75",
+          "subtotal": "87500",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Cabinet Installation",
+          "description": "Install new kitchen cabinets, including base and wall cabinets.",
+          "quantity": "20 LF",
+          "unit_cost": "$600 per LF",
+          "markup": "0.75",
+          "subtotal": "21000",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Countertop Installation",
+          "description": "Install new quartz countertops, including fabrication and installation.",
+          "quantity": "45 SF",
+          "unit_cost": "$97 per SF",
+          "markup": "Special Formula",
+          "subtotal": "13763.75",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Backsplash Installation",
+          "description": "Install new tile backsplash.",
+          "quantity": "20 SF",
+          "unit_cost": "$2,200 per 10 SF",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom Renovation",
+      "items": [
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Full Gut Replacement",
+          "description": "Complete renovation of bathroom, including plumbing, electrical, and fixtures.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$7,700 per UNIT",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Full Gut Replacement",
+          "description": "Complete renovation of bathroom, including plumbing, electrical, and fixtures.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$7,700 per UNIT",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Living Room Renovation",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Flooring Installation",
+          "description": "Install new hardwood flooring.",
+          "quantity": "253 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "2657.25",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling.",
+          "quantity": "253 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "4560.38",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Master Bedroom",
+          "scope_item": "Flooring Installation",
+          "description": "Install new hardwood flooring.",
+          "quantity": "119 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "1252.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Master Bedroom",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling.",
+          "quantity": "119 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "2144.78",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire House",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of the entire house post-renovation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

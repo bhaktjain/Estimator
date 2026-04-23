@@ -1,0 +1,56 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Basement Renovation,,,,,,,,,
+Basement Renovation,Basement,[Basement] Refinish Basement,[Basement] Complete refinishing of basement including walls and ceilings.,500 SF,$4 per SF,0.75,nan,3500.0,90.0
+,,,,,,,,3500.00,
+Doors,,,,,,,,,
+Doors,Attic,[Attic] Barn Door Installation,[Attic] Install a barn door in the attic.,1 UNIT,"$1,320 per UNIT",0.75,nan,2310.0,85.0
+Doors,First Floor,[First Floor] Sliding Door Installation,[First Floor] Replace window with sliding door on front balcony.,1 UNIT,"$1,500 per UNIT",0.75,nan,2625.0,85.0
+,,,,,,,,4935.00,
+Electrical,,,,,,,,,
+Electrical,Whole House,[Whole House] Electrical Rewiring,[Whole House] Rewire the whole house for better electrical organization.,2046 SF,$17 per SF,0.75,nan,60817.5,90.0
+,,,,,,,,60817.50,
+Flooring,,,,,,,,,
+Flooring,Kitchen,[First Floor] Kitchen Backsplash,"[First Floor] Tile preparation, installation, grout installation, tile sealing, and trim tiles for kitchen backsplash.",10 FT,"$2,200 per 10 FT",0.8,nan,3960.0,95.0
+Flooring,Kitchen,[First Floor] New Kitchen,"[First Floor] Install new kitchen including cabinets, countertops, and appliances.",1 UNIT,"$43,690 per UNIT",0.75,nan,76457.5,95.0
+Flooring,Bedroom 1,[Second Floor] Bedroom Flooring,"[Second Floor] Subfloor preparation, installation of hardwood flooring, transition strips, and closet flooring.",387 SF,$6 per SF,0.75,nan,4056.75,95.0
+Flooring,Kitchen,[First Floor] Kitchen Demolition,"[First Floor] Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, backsplash, electrical disconnection, plumbing disconnection, debris removal, and protection of adjacent areas.",1 UNIT,"$3,300 per UNIT",0.75,nan,5775.0,95.0
+Flooring,Kitchen,[First Floor] Wall Removal for Open Concept,[First Floor] Remove two walls to create open concept kitchen layout,2 WALLS,"$1,750 per WALL",0.75,%,6125.0,85.0
+Flooring,Primary Bathroom,[Second Floor] Full Gut Renovation,[Second Floor] Full gut and renovation of primary bathroom.,1 UNIT,"$9,900 per UNIT",0.75,nan,17325.0,90.0
+Flooring,Bedroom,[Second Floor] Bedroom Flooring,[Second Floor] Installation of new hardwood flooring.,50 SF,$6 per SF,0.75,nan,525.0,90.0
+Flooring,First Floor,[First Floor] Level Floors,[First Floor] Level the floors with the extension height of 5 inches.,1319 SF,$6 per SF,0.75,nan,13840.5,90.0
+Flooring,Kitchen,[First Floor] Kitchen Flooring,[First Floor] Installation of new hardwood flooring.,205 SF,$6 per SF,0.75,nan,2156.25,90.0
+Flooring,Living Room,[First Floor] Living Room Flooring,[First Floor] Installation of new hardwood flooring.,246 SF,$6 per SF,0.75,nan,2587.5,90.0
+Flooring,Second Floor,[Second Floor] Install New Floors,[Second Floor] Install new floors throughout the second floor.,548.6 SF,$6 per SF,0.75,nan,5754.45,90.0
+Flooring,First Floor,[First Floor] New Washer/Dryer Room,[First Floor] Install a new washer/dryer room.,1 UNIT,"$3,850 per UNIT",0.75,nan,6737.5,85.0
+Flooring,First Floor,[First Floor] Remove Mud Room,[First Floor] Remove the mud room to expand the kitchen.,1 UNIT,"$2,500 per UNIT",0.75,nan,4375.0,85.0
+Flooring,Attic,[Attic] Floor Installation,[Attic] Install new flooring in the attic.,548.6 SF,$6 per SF,0.75,nan,5754.45,90.0
+Flooring,Bedroom,[Second Floor] Change Bedroom Layout,[Second Floor] Change the layout of the two bedrooms.,2 UNIT,"$2,500 per UNIT",0.75,nan,8750.0,85.0
+Flooring,Bedroom 1,[Second Floor] Bedroom Trim,"[Second Floor] Baseboard installation, window casings, door casings, and closet trim.",100 LF,$5 per LF,0.75,nan,875.0,95.0
+Flooring,Living Room,[First Floor] Living Room Trim,"[First Floor] Baseboard installation, crown molding, window casings, door casings, and quarter round.",100 LF,$5 per LF,0.75,nan,875.0,95.0
+Flooring,Bedroom,[Second Floor] Bedroom Painting,[Second Floor] Painting of walls and ceiling.,155 SF,$10.3 per SF,0.75,nan,2790.9375,85.0
+Flooring,Bedroom 1,[Second Floor] Bedroom Painting,"[Second Floor] Wall preparation, primer application, paint walls, paint ceiling, and closet painting.",432 SF,$10.3 per SF,0.75,nan,7788.0,95.0
+Flooring,Living Room,[First Floor] Living Room Painting,"[First Floor] Wall preparation, primer application, paint walls, paint ceiling, and touch-up work.",400 SF,$10.3 per SF,0.75,nan,7210.0,95.0
+Flooring,Bathroom,[Second Floor] Bathroom Plumbing,[Second Floor] Full gut plumbing for existing location.,1 UNIT,"$7,700 per UNIT",0.75,nan,13475.0,95.0
+Flooring,Kitchen,[First Floor] Kitchen Plumbing,"[First Floor] Full gut plumbing for existing location with 1 sink, including rough plumbing, kitchen sink installation, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,nan,6737.5,95.0
+Flooring,Bathroom,[Second Floor] Bathroom Tile Work,[Second Floor] Installation of bathroom floor and wall tiles.,33 SF,"$2,600 per 60 SF",0.8,nan,4680.0,90.0
+,,,,,,,,208611.34,
+General Requirements,,,,,,,,,
+General Requirements,Attic,[Attic] New Staircase Installation,[Attic] Install a new staircase to the attic.,1 UNIT,"$1,200 per UNIT",0.75,nan,2100.0,85.0
+General Requirements,Basement,[Basement] Crawl Space Closure,[Basement] Close crawl space with concrete.,1 UNIT,"$2,500 per UNIT",0.75,nan,4375.0,90.0
+General Requirements,Whole House,[Whole House] Commercial Cleaning,[Whole House] Post-construction commercial cleaning for entire house,1 UNIT,",750 per UNIT",0.75,%,4812.5,95.0
+,,,,,,,,11287.50,
+Heating and Cooling,,,,,,,,,
+Heating and Cooling,General,[Whole House] HVAC System Installation,[Whole House] Install HVAC system for two floors.,1 UNIT,"$8,250 per UNIT",0.6,nan,13200.0,85.0
+,,,,,,,,13200.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Whole House,[Whole House] Wall Patching and Painting,[Whole House] Patch and paint walls throughout the house,6509 SF,.3 per SF,0.7,%,114347.55,90.0
+,,,,,,,,114347.55,
+Tile,,,,,,,,,
+Tile,Basement,[Basement] Tile Installation,[Basement] Install new tile flooring in the basement.,500 SF,$6 per SF,0.8,nan,5400.0,90.0
+,,,,,,,,5400.00,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Attic,[Attic] Sound Insulation Installation,[Attic] Install sound insulation in attic walls and ceiling,1 ATTIC,"$3,200 per ATTIC",0.75,%,5600.0,85.0
+,,,,,,,,5600.00,
+,,,,,,,,427698.89,
+,,,General Conditions (10%),,,,,42769.89,
+,,,Grand Total,,,,,470468.78,

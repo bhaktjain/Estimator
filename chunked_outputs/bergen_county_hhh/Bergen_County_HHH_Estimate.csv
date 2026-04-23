@@ -1,0 +1,82 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Plumbing,,,,,,,,,
+Plumbing,Both Restrooms,Plumbing Rough-In Relocation,"Relocate domestic water (CWS/HWS), sanitary, and vent piping to new fixture locations per A-5 plumbing plans. Includes 4"" and 3"" sanitary, 1.5""-2"" vents, 3/4"" supply lines.",1 LS,"$16,000 per LS",0.75,,28000.0,85
+Plumbing,Both Restrooms,Cap Existing Plumbing Lines,Cap all abandoned plumbing lines as required per A-5 note 2.,1 LS,"$1,400 per LS",0.75,,2450.0,90
+Plumbing,Both Restrooms,Fixture Connections,"Connect all new/relocated fixtures to modified piping. Supply stops, waste connections, and P-traps. Men's: 13 fixtures, Women's: 8 fixtures.",21 EA,$350 per EA,0.75,,12862.5,90
+Plumbing,Both Restrooms,Floor Drains,New interior floor drains per plumbing plan. Connect to modified sanitary system.,4 EA,$500 per EA,0.75,,3500.0,90
+Plumbing,Both Restrooms,Plumbing Testing & Commissioning,"Pressure test water/waste lines, verify flow rates, flush and sanitize per Division 22.",1 LS,"$1,500 per LS",0.75,,2625.0,90
+,,,,,,,,49437.50,
+Electrical,,,,,,,,,
+Electrical,Both Restrooms,Electrical Demolition,"Remove all existing wiring, receptacles, switches, conduit, lighting per Division 16050 demo requirements.",1 LS,"$3,500 per LS",0.75,,6125.0,90
+Electrical,Both Restrooms,LED 2x2 Light Fixtures,New 2x2 LED VXL 5000K fixtures for drop ceiling per A-4 note 2. Supply and install.,12 EA,$380 per EA,0.75,,7980.0,90
+Electrical,Both Restrooms,Recessed Lights,"Satco 6"" 18.5W recessed lights per A-4 note 3. Supply and install at new locations.",6 EA,$280 per EA,0.75,,2940.0,90
+Electrical,Both Restrooms,Switches & GFI Receptacles,"New single pole switches, GFI receptacles for wet locations per Division 16140. Gray finish.",12 EA,$120 per EA,0.75,,2520.0,90
+Electrical,Both Restrooms,Branch Circuit Wiring,"New MC cable wiring for all lighting, receptacle, and device circuits per Division 16120.",1 LS,"$5,000 per LS",0.75,,8750.0,90
+Electrical,Both Restrooms,Sensor Faucet Power Connections,Power to automatic faucet sensors (6 total) per A-4 plan note. Dedicated circuits.,6 EA,$280 per EA,0.75,,2940.0,90
+Electrical,Both Restrooms,Fire Alarm Device Replacement,Replace all fire protection devices (visual/audio signals) in place to match existing per A-4 note 1.,1 LS,"$2,800 per LS",0.75,,4900.0,90
+Electrical,Both Restrooms,Motion Detectors,New motion detectors per A-4 electrical plan.,4 EA,$220 per EA,0.75,,1540.0,85
+,,,,,,,,37695.00,
+Allowance,,,,,,,,,
+Allowance,Project,Owner's Contingency Allowance,"Per bid form: $7,500 allowance at Owner's discretion. Unused portion returned to Owner at completion.",1 LS,"$7,500 per LS",,,7500,100
+,,,,,,,,7500.00,
+Carpentry,,,,,,,,,
+Carpentry,Both Restrooms,Metal Stud Partition Framing,"New partition walls: 2x4"" 25ga galv. steel studs @16"" OC, top/bottom runners per A-3 and A-6 wall detail.",90 LF,$77 per LF,0.75,,12127.5,90
+Carpentry,Both Restrooms,Plumbing Wall Framing,"New 2x6"" staggered metal studs for 8"" plumbing walls to conceal supply/waste per A-3 note.",25 LF,$95 per LF,0.75,,4156.25,85
+Carpentry,Both Restrooms,Moisture-Resistant Drywall,"1/2"" Gold Bond Purple XP Mold drywall on all new and replacement walls, both sides. Taped, spackled, and prepared per A-6.",1400 SF,$6.50 per SF,0.75,,15925.0,90
+Carpentry,Men's Restroom 201,Millwork Counter,"3/4"" particle board substrate with solid surface top (light grey), integral bowl, plastic laminate finish, 4"" backsplash and sidesplash, removable cover panel per A-6 millwork detail.",1 UNIT,"$4,500 per UNIT",0.75,,7875.0,85
+Carpentry,Women's Restroom 202,Millwork Counter,"3/4"" particle board substrate with solid surface top (light grey), integral bowl, plastic laminate finish, 4"" backsplash and sidesplash per A-6 millwork detail.",1 UNIT,"$4,500 per UNIT",0.75,,7875.0,85
+Carpentry,Both Restrooms,Sound Attenuation Insulation,"3"" sound attenuation insulation in partition walls per A-6 typical wall detail.",700 SF,$3 per SF,0.75,,3675.0,85
+Carpentry,Both Restrooms,Blocking & Backing,"Wood blocking for grab bars, accessories, fixtures, and partition support. Continuous blocking per A-6.",1 LS,"$1,400 per LS",0.75,,2450.0,85
+,,,,,,,,54083.75,
+Finishes,,,,,,,,,
+Finishes,Both Restrooms,Epoxy Floor Coating,Sherwin Williams Industrial High Performance Epoxy. Primer + 2 coats. Color: Lawn. Per A-6 room finish schedule.,400 SF,$10 per SF,0.75,,7000.0,90
+Finishes,Both Restrooms,Epoxy Floor Patching,Fill cracks and spalls with epoxy patching compound or epoxy mortar. Grind repairs flush after cure per A-6 note 4.,1 LS,"$1,500 per LS",0.75,,2625.0,85
+Finishes,Both Restrooms,Epoxy Cove Base,"6"" form epoxy cove base, cove mix hand-troweled to form 1"" radius per A-6 note 5. Color: Canary.",200 LF,$8 per LF,0.75,,2800.0,85
+Finishes,Both Restrooms,Epoxy Wall Coating,"Sherwin Williams Tile Clad High Solids Epoxy on all walls. Clean, sand, spot prime, 1-2 coats. Color: Canary. Per A-6.",1200 SF,$6 per SF,0.75,,12600.0,90
+Finishes,Both Restrooms,Ceiling Tile - ACT,2x2 Armstrong Optima Health Zone ACT or DuraClean Smooth White (waterproof) per A-4 note 4 and A-5 note 3.,400 SF,$6 per SF,0.75,,4200.0,90
+Finishes,Both Restrooms,Ceiling Grid System,"New 2x2 suspension grid system for ACT tiles. 8'-0"" ceiling height per A-3.",400 SF,$4 per SF,0.75,,2800.0,90
+Finishes,Both Restrooms,Caulking & Sealant,"Butyl sealant, silicone sealant, and acrylic caulk at all joints per Division 07920. Includes counter-to-wall, fixture-to-wall, penetration sealing, and polyethylene foam backer rod.",1 LS,"$1,200 per LS",0.75,,2100.0,90
+,,,,,,,,34125.00,
+Fixtures,,,,,,,,,
+Fixtures,Men's Restroom 201,Water Closets,"Floor-mounted vitreous china WCs, ADA/I-1 compliant per A-6 mark 1. Supply and install.",3 EA,$850 per EA,0.75,,4462.5,90
+Fixtures,Men's Restroom 201,Urinals,Wall-mounted commercial urinals per A-6 mark 7. Supply and install.,3 EA,$700 per EA,0.75,,3675.0,90
+Fixtures,Men's Restroom 201,Standard Lavatories,Wall-mounted or undermount solid surface lavatories (Nantucket or equiv.) per A-6 mark 8.,2 EA,$600 per EA,0.75,,2100.0,90
+Fixtures,Men's Restroom 201,ADA Lavatory,Wall-mounted ADA compliant lavatory per A-6 mark 9.,1 EA,$700 per EA,0.75,,1225.0,90
+Fixtures,Men's Restroom 201,Shower Stations,"3'-0"" x 3'-0"" institutional fiberglass/solid surface shower pans + shower curtains + thermostatic mixing valve (ASSE 1017) + institutional shower head per A-6 marks 5, 6, 13.",3 EA,"$1,200 per EA",0.75,,6300.0,85
+Fixtures,Men's Restroom 201,Mirrors,"24""x36"" Bobrick B-2111 mirrors per A-6 mark 11.",3 EA,$275 per EA,0.75,,1443.75,90
+Fixtures,Men's Restroom 201,Grab Bars,"18"", 36"", and 42"" Bobrick B-2888 grab bars for ADA stall per A-6 mark 4.",1 SET,$900 per SET,0.75,,1575.0,90
+Fixtures,Men's Restroom 201,Toilet Accessories,"Toilet tissue dispensers, soap dispensers (Bobrick) per A-6 mark 2.",1 LS,$650 per LS,0.75,,1137.5,90
+Fixtures,Men's Restroom 201,Hand Dryer,Dyson V Blade electric hand dryer per A-6 equipment schedule.,1 EA,"$1,300 per EA",0.75,,2275.0,90
+Fixtures,Men's Restroom 201,Automatic Sensor Faucets,"Deck-mounted automatic sensor faucets, vandal-resistant per A-6 mark 14.",3 EA,$480 per EA,0.75,,2520.0,90
+Fixtures,Women's Restroom 202,Water Closets,"Floor-mounted vitreous china WCs, ADA/I-1 compliant per A-6 mark 1. Supply and install.",3 EA,$850 per EA,0.75,,4462.5,90
+Fixtures,Women's Restroom 202,Standard Lavatories,Wall-mounted or undermount solid surface lavatories (Nantucket or equiv.) per A-6 mark 8.,1 EA,$600 per EA,0.75,,1050.0,90
+Fixtures,Women's Restroom 202,ADA Lavatory,Wall-mounted ADA compliant lavatory per A-6 mark 9.,1 EA,$700 per EA,0.75,,1225.0,90
+Fixtures,Women's Restroom 202,Shower Stations,"3'-0"" x 3'-0"" institutional shower pans + curtains + thermostatic mixing valve (ASSE 1017) + shower head per A-6 marks 5, 6, 13.",2 EA,"$1,200 per EA",0.75,,4200.0,85
+Fixtures,Women's Restroom 202,Mirrors,"24""x36"" Bobrick B-2111 mirrors per A-6 mark 11.",3 EA,$275 per EA,0.75,,1443.75,90
+Fixtures,Women's Restroom 202,Grab Bars,"18"", 36"", and 42"" Bobrick B-2888 grab bars for ADA stall per A-6 mark 4.",1 SET,$900 per SET,0.75,,1575.0,90
+Fixtures,Women's Restroom 202,Toilet Accessories,"Toilet tissue dispensers, soap dispensers (Bobrick) per A-6 mark 2.",1 LS,$650 per LS,0.75,,1137.5,90
+Fixtures,Women's Restroom 202,Hand Dryer,Dyson V Blade electric hand dryer per A-6 equipment schedule.,1 EA,"$1,300 per EA",0.75,,2275.0,90
+Fixtures,Women's Restroom 202,Automatic Sensor Faucets,"Deck-mounted automatic sensor faucets, vandal-resistant per A-6 mark 14.",3 EA,$480 per EA,0.75,,2520.0,90
+,,,,,,,,46602.50,
+General Construction,,,,,,,,,
+General Construction,Both Restrooms,Selective Demolition,"Full removal of all WCs, urinals, lavatories, counters, accessories, toilet partitions, ceiling tiles, existing drywall/epoxy wall finish per A-2 demo plans.",400 SF,$18 per SF,0.75,,12600.0,95
+General Construction,Both Restrooms,Floor Grinding & Preparation,Diamond grind or shot blast existing epoxy floors to CSP-2/CSP-3 profile per spec. HEPA vacuum dust.,400 SF,$6 per SF,0.75,,4200.0,90
+General Construction,Both Restrooms,Dust Containment & Protection,"Temporary 0.06 mil poly barriers, dust suppression plan, protection of occupied building per Division 02070.",1 LS,"$2,200 per LS",0.75,,3850.0,90
+General Construction,Both Restrooms,Debris Removal & Dumpster,Daily debris removal throughout 60-day project. Containerized disposal per Division 01710.,1 LS,"$3,000 per LS",0.75,,5250.0,90
+General Construction,Both Restrooms,Permits & Inspections,"Building, plumbing, and electrical permits from agencies having jurisdiction per Division 00010.",1 LS,"$2,500 per LS",0.75,,4375.0,95
+General Construction,Both Restrooms,Post-Construction Cleaning,"Final cleaning per Division 01710. Clean all surfaces, glass, mirrors, fixtures. Remove all construction debris.",1 LS,"$1,500 per LS",0.75,,2625.0,90
+General Construction,Both Restrooms,Door Hardware Replacement,Replace all restroom door hardware (2 doors) to match existing per A-6 mark 12.,2 EA,$450 per EA,0.75,,1575.0,90
+General Construction,Both Restrooms,Temporary Facilities,"Temp electric, water, toilets, walkways, fencing, signage per Division 01501 for 60-day project.",1 LS,"$3,500 per LS",0.75,,6125.0,85
+,,,,,,,,40600.00,
+HVAC,,,,,,,,,
+HVAC,Both Restrooms,Ductwork Modifications,"Modify existing supply, return, and exhaust ductwork for new ceiling layout per A-5 HVAC plan and Division 23.",1 LS,"$5,000 per LS",0.75,,8750.0,85
+HVAC,Both Restrooms,Supply/Return Registers & Diffusers,"New aluminum/steel registers, grilles, and diffusers with balancing dampers per Division 23. Match existing type.",10 EA,$220 per EA,0.75,,3850.0,85
+HVAC,Both Restrooms,Airflow Testing & Balancing,Perform airflow testing per ASHRAE Std 111. Adjust dampers/registers. Written test report to Owner.,1 LS,"$1,500 per LS",0.75,,2625.0,90
+HVAC,Both Restrooms,Access Panels,"Minimum 24""x24"" access panels at modified ductwork and plumbing per Division 23.",4 EA,$200 per EA,0.75,,1400.0,90
+,,,,,,,,16625.00,
+Partitions,,,,,,,,,
+Partitions,Both Restrooms,WC/Urinal Partitions,"7 commercial-grade toilet/urinal partitions with pilasters, panels, doors, and hardware per A-6 mark 7. Heavy-duty phenolic or HDPE.",7 EA,"$2,100 per EA",0.75,,25725.0,90
+,,,,,,,,25725.00,
+,,,,,,,,312393.75,
+,,,General Conditions (10%),,,,,31239.38,
+,,,Grand Total,,,,,343633.12,

@@ -1,0 +1,131 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,First Floor,Selective Interior Demo - 1st Floor,"Remove existing interior partitions, doors, and windows as shown on A-2 demo plan. Install temporary support walls at load-bearing removals. Protect areas not in scope. Patch/repair subfloor where damaged.",1 LS,"$5,000 per LS",0.75,,8750.0,90
+Demolition,Second Floor,Selective Interior Demo - 2nd Floor,"Remove existing interior partitions, doors, and windows on 2nd floor per demo plan A-2. Prepare for 526 SF expansion.",1 LS,"$3,500 per LS",0.75,,6125.0,90
+Demolition,Front Porch,"Porch Concrete, Foundation & Steps Removal",Remove existing porch concrete floor (~163 SF) and foundation completely. Remove existing front steps. Per demo notes on A-2.,1 LS,"$4,000 per LS",0.75,,7000.0,90
+Demolition,Expansion Area,Existing Roof Removal - Expansion,"Remove existing roof at expansion portion completely - shingles, felt, sheathing, and partial framing. Install temporary weatherproofing. ~450 SF roof area.",1 LS,"$7,000 per LS",0.75,,12250.0,90
+Demolition,Bathroom,Bathroom Gut Demo,"Remove existing tub, basin (lavatory), and W.C. at existing bath. Remove all finishes - tile, drywall as required for new configuration. Per demo note on A-2 (DEMO-04: 60-80 SF).",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,90
+,,,,,,,,38937.50,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Expansion Area,Drywall Installation - Walls,"Install new 1/2"" gypsum board on interior side of all new exterior walls and both sides of interior partitions in expansion area. ~2,200 SF (CARP-10: $4/SF).","2,200 SF",$4 per SF,0.75,,15400.0,90
+Walls & Ceiling,Expansion Area,Drywall Installation - Ceilings,"Install new 5/8"" gypsum board ceilings in all expansion areas. ~635 SF (CARP-11: $4.95/SF).",635 SF,$4.95 per SF,0.75,,5500.69,90
+Walls & Ceiling,Bathroom,Cement Board - Bathroom Walls,Install cement board or Hardy board at interior side of all bathroom walls per construction note #12 on A-3. ~250 SF of bathroom wall area.,250 SF,$8 per SF,0.75,,3500.0,90
+Walls & Ceiling,Existing Areas,Drywall Repair & Patching,"Repair and patch existing drywall where partitions removed, walls modified, and openings infilled on both existing floors. Spackle, sand, smooth finish per note 13.5. ~400 SF.",400 SF,$6 per SF,0.75,,4200.0,90
+,,,,,,,,28600.69,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Bathroom Plumbing - Full Rough-In,"Complete new rough-in: LAV (1-1/2"" drain, 1-1/4"" vent), WC (3"" drain, 2"" vent), shower (2"" drain). 3"" vent through roof. Connect to existing sanitary sewer. Modify existing plumbing as required. Per riser diagram A-4 (PLMB-04: relocation, 60-80 SF).",1 UNIT,"$9,900 per UNIT",0.75,,17325.0,90
+Plumbing,Bathroom,Bathroom Fixture Installation,"Install new lavatory/sink, toilet (WC), and shower fixtures. All fixtures selected by owner, per note #5 on A-3. Coordinate roughing dimensions with owner selections per note #20 (PLMB-13/14/15).",1 LS,"$3,200 per LS",0.75,,5600.0,90
+,,,,,,,,22925.00,
+Electrical,,,,,,,,,
+Electrical,Expansion Area,LED Recessed Downlights,"Install LED downlights throughout expansion areas - bedrooms, hallways, bathroom, kitchen. ~20 units (ELEC-09: $165 labor + $25 material).",20 UNIT,$190 per UNIT,0.75,,6650.0,90
+Electrical,Expansion Area,Ceiling Fan/Light Fixtures,Contractor to provide and install fan/light combo fixtures in bedrooms. ~4 units per electrical plan A-4 note #2 (ELEC-02: $175).,4 UNIT,$175 per UNIT,0.75,,1225.0,90
+Electrical,Expansion Area,New Duplex & GFI Outlets,"Install new duplex electrical outlets (20) and GFI outlets (5) throughout expansion areas. GFI in bathroom and kitchen per code. White plates per note #6 (ELEC-01: $125, ELEC-07: $80).",25 UNIT,$115 per UNIT,0.75,,5031.25,90
+Electrical,Expansion Area,Light Switches,"Install new light switches including 3-way and dimmer. All centerlines at 48"" AFF per note #3. White plates. ~15 units (ELEC-04: $80).",15 UNIT,$80 per UNIT,0.75,,2100.0,90
+Electrical,Both Floors,Smoke/CO Detectors & Bath Vent,Hardwired smoke detectors and carbon monoxide/smoke combo detectors per code. ~6 units. Plus ceiling recessed mechanical vent/light in bathroom.,7 UNIT,$275 per UNIT,0.75,,3368.75,90
+Electrical,Attic & Exterior,Attic & Exterior Electrical Package,"Attic: (1) 125V 20A outlet within 25' of HVAC, (3) LED lights, switch on 2nd floor per note #12. Exterior: (4) weatherproof light fixtures with motion/light sensors. Doorbell.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+Electrical,Basement/Utility,Electrical Panel Upgrade,Upgrade existing electrical panel or install sub-panel to accommodate all new circuits for expansion areas. Per riser diagram A-4 (ELEC-17: existing location).,1 UNIT,"$3,300 per UNIT",0.75,,5775.0,90
+,,,,,,,,32025.00,
+Flooring,,,,,,,,,
+Flooring,Expansion Area,Hardwood Flooring - New Areas,Install hardwood floors in all new expansion areas except bathroom and corridor (tile). Per note #16 on A-3. ~500 SF (FINSH-03: $12/SF).,500 SF,$12 per SF,0.75,,10500.0,90
+Flooring,Existing Areas,Hardwood Flooring - Patch/Match Existing,Install/repair hardwood flooring in existing areas where partitions removed and layout reconfigured. Patch to match existing. ~300 SF (FINSH-11: $12/SF install & refinish).,300 SF,$12 per SF,0.75,,6300.0,90
+,,,,,,,,16800.00,
+Tile,,,,,,,,,
+Tile,Bathroom,Bathroom Floor Tile - Porcelain,"Install porcelain floor tile in bathroom. ~70 SF. Tile selected by owner, installed by GC. Per note #16 on A-3 (TILE-04: 60-80 SF).",1 UNIT,"$2,300 per UNIT",0.8,,4140.0,90
+Tile,Bathroom,Bathroom Wall Tile Wainscot,"Install ceramic tile wainscot 3'-8"" high on all bathroom walls per note #17 on A-3. Tile selected by owner. ~90 SF wall tile (TILE-03: 60-80 SF).",1 UNIT,"$3,400 per UNIT",0.8,,6120.0,90
+Tile,Corridor,Corridor Floor Tile - Porcelain,Install porcelain tile in common corridor/hall areas per note #16 on A-3. ~60 SF. Includes marble saddles with eased edge at all bathroom doors.,60 SF,$18 per SF,0.8,,1944.0,85
+,,,,,,,,12204.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,All Affected Areas,Interior Painting - Walls & Ceilings,"Prime (1 coat) + paint (2 coats) all new and modified walls and ceilings. Benjamin Moore or equal. Walls: eggshell finish. Ceilings: white eggshell. All trims: semi-gloss white. Per notes 13.1-13.5, 18, 19 on A-3. ~1,500 SF floor area (FINSH-05: $10.50/SF).","1,500 SF",$10.50 per SF,0.75,,27562.5,90
+,,,,,,,,27562.50,
+Trims,,,,,,,,,
+Trims,All Areas,"Wood Baseboard - 4""","Install 4"" wood baseboard throughout all new and modified areas per note #15 on A-3. Profile selected by owner. ~350 LF (TRIM-01: $11/LF supply + install).",350 LF,$11 per LF,0.75,,6737.5,90
+Trims,All Areas,"Door Trim - 3"" Both Sides","Install 3"" wood trim on both sides of all new doors per note #22 on A-3. Profile to match existing or selected by owner. ~12 doors × 17 LF each = 204 LF.",204 LF,$8 per LF,0.75,,2856.0,90
+,,,,,,,,9593.50,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Supply,Supply standard-grade kitchen cabinets per owner selection. ~12 LF estimated. Purchased by GC per note #23 on A-3 (KITC-10: $800/LF).,12 LF,$800 per LF,0.75,,16800.0,90
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Installation,"Install kitchen cabinets per manufacturer specs. 11-15 LF (KITC-07: $9,200).",1 UNIT,"$9,200 per UNIT",0.75,,16100.0,90
+Cabinetry & Storage,Bathroom,Bathroom Vanity - Supply & Install,"Supply and install bathroom vanity cabinet. Selected by owner, per note #23 (BATH-01: $950).",1 UNIT,$950 per UNIT,0.75,,1662.5,90
+Cabinetry & Storage,Closets,Closet Interiors - Rods & Shelving,"Install hanging coat rod and (2) hat shelves in all hanging closets. Full-height adjustable shelving where noted per notes #3/#4 on A-3. ~5 closets (MISC-13: $1,155 each).",5 UNIT,"$1,155 per UNIT",0.75,,10106.25,90
+Cabinetry & Storage,Laundry,Laundry Closet Cabinets,Supply and install laundry closet cabinets per owner selection. Per note #23 on A-3.,1 LS,"$2,000 per LS",0.75,,3500.0,90
+,,,,,,,,48168.75,
+Countertops,,,,,,,,,
+Countertops,Kitchen,"Kitchen Countertop - Supply, Fab & Install","Supply quartz slab, template, fabricate and install kitchen countertop. ~25 SF. Includes sink cutout and edge profile (STON-01 + STON-02).",1 LS,"$5,425 per LS",0.75,,9493.75,90
+Countertops,Bathroom,Marble Door Saddles,Install standard marble saddles with eased edge at all bathroom doors. Per note #16 on A-3.,2 UNIT,$545 per UNIT,0.75,,1907.5,90
+,,,,,,,,11401.25,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install tile backsplash in kitchen (TILE-10: <10ft kitchen).,1 UNIT,"$1,650 per UNIT",0.8,,2970.0,90
+,,,,,,,,2970.00,
+Appliances,,,,,,,,,
+Appliances,Kitchen,Kitchen Appliance Installation,"Install kitchen appliances selected by owner: refrigerator, range/oven, dishwasher. Per manufacturer specs and code per notes #23/#25 on A-3 (APPL-01/02/03).",1 LS,"$2,900 per LS",0.75,,5075.0,90
+,,,,,,,,5075.00,
+General Requirements,,,,,,,,,
+General Requirements,Project,Building Permits & Fees,"All building permits: structural, electrical, plumbing, HVAC. City of Clifton, NJ. Per general condition 1.4.",1 LS,"$5,000 per LS",0.75,,8750.0,90
+General Requirements,Project,Temporary Shoring & Protection,"Temporary support walls at load-bearing wall removals. Temporary weatherproofing during roof work. Site protection, barriers, and temporary lighting per OSHA and notes 1.16-1.18.",1 LS,"$5,000 per LS",0.75,,8750.0,90
+General Requirements,Project,Waste Removal & Dumpsters,"Multiple dumpster rentals for demolition debris, construction waste, and final cleanup. Extended project duration for 2-story addition.",1 LS,"$7,000 per LS",0.75,,12250.0,90
+General Requirements,Project,Final Cleanup,"Post-construction cleaning of entire house, all new and existing areas. ~2,518 SF proposed total area (CLEN-04: 1800-2500 SF).",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,90
+,,,,,,,,34562.50,
+Accessories,,,,,,,,,
+Accessories,Bathroom,Glass Shower Enclosure,"Panel and door shower enclosure (one fixed, one door). Tempered glass per note #2 on A-3 (MISC-23).",1 UNIT,"$2,500 per UNIT",0.75,,4375.0,90
+Accessories,Bathroom,Bathroom Accessories,"Install bathroom accessories: towel bars, toilet paper holder, medicine cabinet/mirror, robe hooks. All selected by owner (MISC-09: $550 each).",6 UNIT,$550 per UNIT,0.75,,5775.0,90
+,,,,,,,,10150.00,
+Concrete & Masonry,,,,,,,,,
+Concrete & Masonry,Front Porch,Reinforced Concrete Porch Slab,"4"" reinforced concrete slab with 6×6-W1.4×W1.4 WWF over 4"" compacted gravel and waterproofing. 1/8"" slope to exterior. ~28 SF proposed porch. CMU block footings. Per note #9 on A-3.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+Concrete & Masonry,Front,Concrete Stairs & Railings,"New concrete front stairs with code-compliant railings both sides. Max riser 7.5"", min tread 10"". Coordinate with surveyor. Submit shop drawings for architect approval. Per note #8 on A-3.",1 LS,"$5,500 per LS",0.75,,9625.0,90
+,,,,,,,,17500.00,
+Exterior,,,,,,,,,
+Exterior,Entire House,Tyvek Housewrap,Install Tyvek housewrap or equal on all new exterior walls. ~886 SF per REScheck.,886 SF,$1.50 per SF,0.75,,2325.75,90
+Exterior,Entire House,Vinyl Siding - Entire House,"New vinyl siding throughout entire house per elevation notes (U.O.N.). New expansion walls (~886 SF) plus re-siding existing exterior to match. Total ~2,200 SF.","2,200 SF",$7 per SF,0.75,,26950.0,90
+Exterior,Front Elevation,White Board & Batten Finish,White board and batten finish on front elevation as shown on A-4 front elevation. ~200 SF accent area.,200 SF,$12 per SF,0.75,,4200.0,90
+Exterior,Entire House,PVC Trim & Corner Trim,White PVC trim work as shown on all elevations. Typical corner trim at all building corners. ~150 LF.,150 LF,$12 per LF,0.75,,3150.0,90
+Exterior,Foundation,Stucco Finish on Masonry,Cement parge/stucco finish on all exposed masonry foundation walls. Per left side elevation note A-4.,1 LS,"$3,000 per LS",0.75,,5250.0,90
+Exterior,Front Porch,Fypon Column Wraps,"6""×6"" Fypon or equal decorative column wraps on 4×4 wood posts supporting porch roof. Style selected by owner. ~3 columns per A-3 note.",3 UNIT,$450 per UNIT,0.75,,2362.5,90
+Exterior,Exterior,Code-Compliant Guard Railings,"New guard railings: 42"" high at 2nd floor per note #1 on A-3, 36"" high at stairs per note #7. Code-compliant with infill. Both sides of all stairs. Style selected by owner.",1 LS,"$6,000 per LS",0.75,,10500.0,90
+,,,,,,,,54738.25,
+Foundation,,,,,,,,,
+Foundation,1st Floor Addition,Excavation for New Foundation,"Excavate for new foundation walls. Min 36"" below grade per code (3'-6"" min frost depth, NJ Zone 5A). ~45 LF perimeter × 3.5' deep × 2' wide.",45 LF,$60 per LF,0.75,,4725.0,90
+Foundation,1st Floor Addition,CMU Foundation Walls,"10"" concrete block foundation walls (8"" where noted). Solid fill all CMU at column/beam locations. ~45 LF × 8' height = 360 SF. Per structural notes A-2.",360 SF,$22 per SF,0.75,,13860.0,90
+Foundation,1st Floor Addition,Continuous Concrete Footings,"24""×12"" continuous poured concrete footings with (3) #4 rebar continuous. Min 36"" below grade. 2""×4"" continuous keyway. ~45 LF. Concrete 3,000 PSI.",45 LF,$50 per LF,0.75,,3937.5,90
+Foundation,1st Floor Addition,Concrete Slab,"4"" reinforced concrete floor slab with 6×6/8-8 WWF on 4"" gravel bed and 10 mil poly vapor barrier. ~109 SF first floor expansion. Concrete 3,000 PSI.",109 SF,$12 per SF,0.75,,2289.0,90
+Foundation,1st Floor Addition,Rebar Dowels & Foundation Tying,"Drill 18"" deep holes in existing foundation, install #4 rebar dowels 3'-0"" long with epoxy adhesive to tie new foundation to existing. All locations per A-2.",1 LS,"$3,500 per LS",0.75,,6125.0,90
+Foundation,1st Floor Addition,Waterproofing & Backfill,"CertainTeed Platon or equal waterproof membrane on exterior of new foundation walls. Cement parge coat. 4"" drain tile. Backfill and compact to 95% density per ASTM D1557.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+,,,,,,,,38811.50,
+HVAC,,,,,,,,,
+HVAC,Expansion Area,HVAC Extension to New Areas,"Extend existing HVAC system to all 635 SF of expansion. New ductwork, supply registers, and returns. Service, clean, and provide new filters for existing units. Balance system by qualified technician. Per HVAC notes 10.1-10.7.",635 SF,$18 per SF,0.75,,20002.5,90
+,,,,,,,,20002.50,
+Insulation,,,,,,,,,
+Insulation,Expansion Area,Exterior Wall Insulation,R-15 paper-backed fiberglass batt between studs + R-3 continuous rigid foam board on exterior (Dow 1194 or equal). Vapor barrier on warm side. All new exterior walls ~886 SF per REScheck Zone 5A.,886 SF,$5 per SF,0.75,,7752.5,90
+Insulation,Expansion Area,Ceiling Insulation R-38,"10.5"" batt insulation R-38 with vapor barrier on warm side at flat ceiling/attic floor. ~323 SF per REScheck.",323 SF,$3.50 per SF,0.75,,1978.38,90
+Insulation,Expansion Area,Floor Insulation R-30/R-38,"9"" batt insulation R-30 at floors over unheated spaces (109 SF) + R-38 at floor over outside air (38 SF 2nd floor overhang). Total ~147 SF.",147 SF,$3.50 per SF,0.75,,900.38,90
+Insulation,Bathroom,Spray Foam - Pipe Freeze Protection,Spray foam insulation at exterior wall with plumbing to prevent frozen pipes. Per construction note #10 on A-3.,1 LS,"$1,200 per LS",0.75,,2100.0,90
+,,,,,,,,12731.26,
+Roofing,,,,,,,,,
+Roofing,Expansion Area,Roof Framing,"New roof: 2×10 rafters at 16"" O.C., 6:12 pitch. 2×10 ridge beams, 2×12 hip and valley rafters. 2×6 collar ties at 16"" O.C. (2)2×4 vertical supports. ~700 SF roof area over expansion per A-5.",700 SF,$14 per SF,0.75,,17150.0,90
+Roofing,Expansion Area,Roof Sheathing,"1/2"" CDX plywood exterior-grade roof sheathing, supported at all edges. ~700 SF.",700 SF,$4.50 per SF,0.75,,5512.5,90
+Roofing,Expansion Area,Asphalt Shingles & Felt,New asphalt roof shingles (min 20-year lifespan) over 15# roofing felt. Installed per manufacturer specifications. ~700 SF. Per elevation notes A-4.,700 SF,$6 per SF,0.75,,7350.0,90
+Roofing,Exterior,"Gutters, Downspouts & Flashing","Continuous aluminum gutters and leaders/downspouts. 26 gauge metal counter-flashing, penetration flashing, and base flashing. ~80 LF gutters. Per A-4 roof notes.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+Roofing,Attic,Attic Ventilation & Solar Fans,"Aluminum soffit bead board with ventilation holes. 2"" continuous vent at ridge. (2) solar-powered attic fans with heat sensors. Per electrical notes A-4.",1 LS,"$3,500 per LS",0.75,,6125.0,90
+,,,,,,,,44012.50,
+Structural Framing,,,,,,,,,
+Structural Framing,1st Floor,1st Floor Framing - Expansion,"New floor joists 2×10 at 16"" O.C. over new foundation. Double joists under partitions. (2) layers 5/8"" plywood subflooring. ~109 SF expansion. Design: 40 PSF live + 12 PSF dead.",109 SF,$18 per SF,0.75,,3433.5,90
+Structural Framing,2nd Floor,2nd Floor Framing - Expansion,"New floor joists 2×10 at 16"" O.C. for 526 SF second floor expansion. Double joists at pressure points and under partitions. (2) layers 5/8"" plywood subflooring. Rim joist. Design: 30 PSF live + 12 PSF dead.",526 SF,$18 per SF,0.75,,16569.0,90
+Structural Framing,Both Floors,Exterior Wall Framing,"New exterior walls: 2×4 wood studs at 16"" O.C. with (2)2×4 top plates. 1/2"" exterior-grade plywood sheathing on exterior side. ~886 SF total new wall area per REScheck. Douglas Fir #2 or better.",886 SF,$12 per SF,0.75,,18606.0,90
+Structural Framing,Both Floors,Interior Partition Framing,"New interior partitions: 2×4 wood studs at 16"" O.C., 1/2"" gypsum board both sides. 3-1/2"" sound insulation at all bedroom and bathroom walls. ~200 LF per construction plans A-3 (CARP-01).",200 LF,$45 per LF,0.75,,15750.0,90
+Structural Framing,Both Floors,LVL Structural Beams,"Supply and install Weyerhaeuser Microllam LVL beams per framing plan A-5: (3) 1-3/4""×9-1/2"" 2.0E flush beams + (2) 1-3/4""×7-1/2"" 2.0E drop beams. Bearing plates, 4×4 support posts, 1/2"" thru-bolts at 24"" O.C.",1 LS,"$8,500 per LS",0.75,,14875.0,90
+Structural Framing,Both Floors,Headers & Lintels Over Openings,"Install (2)2×8 lintels over openings <3'-0"" wide and (2)2×10 lintels over openings 3'-6' wide with 1/2"" ply packout. ~15 openings per framing notes A-5.",15 UNIT,$350 per UNIT,0.75,,9187.5,90
+Structural Framing,Both Floors,Simpson Strong-Tie Hardware Package,"CS16 straps at 48"" O.C., anchor tie-down at 72"" O.C., H2 hurricane anchors at all rafters, SST rafter-to-ridge straps, joist hangers at all flush connections, MST floor-to-floor straps. Per structural notes.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+Structural Framing,Existing Areas,Subfloor Repair & Replacement,"Patch, repair, and replace existing subfloor, floor joists, and/or concrete slab where damaged throughout area of work. Per demo note #3 on A-2. Allowance.",1 LS,"$3,500 per LS",0.75,,6125.0,90
+,,,,,,,,92421.00,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom,Bathroom Waterproofing,Install waterproofing on bathroom floors and shower walls. Complete shower pan waterproofing (WATR-02: 60-80 SF).,1 UNIT,"$2,100 per UNIT",0.75,,3675.0,90
+,,,,,,,,3675.00,
+Windows & Doors,,,,,,,,,
+Windows & Doors,Both Floors,Andersen 400 Windows - Type 1 (Egress),"Supply and install Andersen 400 series TW3046 double-hung tilt-wash, 3'-0""W × 4'-6""H. Dual glazed, vinyl white, screens. Egress compliant (5.7 SF clear opening, 24"" min height, 20"" min width). ~10 windows. Per schedule A-3.",10 UNIT,"$1,100 per UNIT",0.75,,19250.0,90
+Windows & Doors,Both Floors,Andersen 400 Windows - Type 2,"Supply and install Andersen 400 series TW26210 double-hung tilt-wash, 2'-6""W × 2'-10""H. Dual glazed, vinyl white, screens. ~4 windows. Adjacent windows ordered as single combined units.",4 UNIT,$850 per UNIT,0.75,,5950.0,90
+Windows & Doors,Both Floors,Interior Doors - Solid Core,"Standard solid core painted wood doors with raised panels, prehung. Various sizes per schedule: (4) 2'-6""×6'-8"", (2) 2'-4""×6'-8"", (2) 2'-0""×6'-8"". Hardware by owner. 3"" trim both sides (DOOR-01).",8 UNIT,$550 per UNIT,0.75,,7700.0,90
+Windows & Doors,Both Floors,Sliding Closet Doors,"Standard solid core painted wood sliding closet doors, 5'-0""W × 6'-8""H. ~3 units per schedule (DOOR-04: $825).",3 UNIT,$825 per UNIT,0.75,,4331.25,90
+Windows & Doors,Front Entry,Exterior Entry Door with Sidelite,"Half-glazed exterior door, 3'-0""W × 6'-8""H with sidelite. Selected by owner, installed by GC. Tempered glass. Per door schedule type 5.",1 UNIT,"$2,500 per UNIT",0.75,,4375.0,90
+Windows & Doors,Both Floors,Wall Infill at Removed Openings,"Infill existing wall where windows/doors removed. Match existing wall construction with new studs, sheathing, insulation, and drywall. Per demo note #8 on A-2.",1 LS,"$2,500 per LS",0.75,,4375.0,90
+,,,,,,,,45981.25,
+,,,,,,,,630848.95,
+,,,General Conditions (10%),,,,,63084.89,
+,,,Grand Total,,,,,693933.84,

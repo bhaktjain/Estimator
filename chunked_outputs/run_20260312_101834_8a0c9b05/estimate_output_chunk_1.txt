@@ -1,0 +1,312 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: chunked_outputs/run_20260312_101834_8a0c9b05/polycam_chunks/polycam.pdf
+[SUCCESS] Extracted 12555 characters from chunked_outputs/run_20260312_101834_8a0c9b05/polycam_chunks/polycam.pdf
+[INFO] Processing file 3: chunked_outputs/run_20260312_101834_8a0c9b05/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 4908 characters from chunked_outputs/run_20260312_101834_8a0c9b05/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 67167 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Demolition",
+      "items": [
+        {
+          "room": "General Areas",
+          "scope_item": "Demolition and removal of existing siding and sheathing",
+          "description": "Demolition and removal of existing siding and sheathing at the exterior wall where the new extension will connect.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$54,285.00",
+          "markup": "0.75",
+          "subtotal": "94998.75",
+          "confidence_score": "95"
+        },
+        {
+          "room": "1st Floor - Powder Room",
+          "scope_item": "Demolition of powder room",
+          "description": "Demolition of powder room tiles, vanity, medicine cabinet, toilet, and fixtures. Debris removal and disposal included.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,375.00",
+          "markup": "0.75",
+          "subtotal": "2406.25",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Concrete",
+      "items": [
+        {
+          "room": "New Extension Area",
+          "scope_item": "Foundation Wall & Footing Construction",
+          "description": "Excavate and install 24” x 12” continuous concrete footings minimum 3’-0” below grade. Provide (2) #6 continuous reinforcing bars and 3,500 PSI concrete.",
+          "quantity": "60 LF",
+          "unit_cost": "$46,200.00",
+          "markup": "0.75",
+          "subtotal": "80850.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Extensions/Additions",
+      "items": [
+        {
+          "room": "1st & 2nd Floor Extension Areas",
+          "scope_item": "New Exterior Walls",
+          "description": "Supply and install 2\"x6\" exterior wood stud walls at 16” O.C. per architectural drawings. Supply and install pressure-treated bottom plates anchored to floor framing and double top plates.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$99,000.00",
+          "markup": "0.75",
+          "subtotal": "173250.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Flooring",
+      "items": [
+        {
+          "room": "1st Floor New Extension Area",
+          "scope_item": "New 1st Floor Flooring Installation",
+          "description": "Supply and install 2x10 S.P.F. No.2 or better floor joists spaced at 16” O.C. as per proposed plans. Installation of hardwood flooring over the new subflooring.",
+          "quantity": "580 SF",
+          "unit_cost": "$83,160.00",
+          "markup": "0.75",
+          "subtotal": "145530.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Walls & Ceiling",
+      "items": [
+        {
+          "room": "1st & 2nd Floor Extension Areas",
+          "scope_item": "New Interior Partition Walls Installation",
+          "description": "Frame all interior partition walls with 2×4 studs at 16\" OC, including top and bottom plates, blocking, and framing.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$60,390.00",
+          "markup": "0.75",
+          "subtotal": "105682.50",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Doors",
+      "items": [
+        {
+          "room": "1st & 2nd Floor Extension Areas",
+          "scope_item": "New Doors Installation",
+          "description": "Installation of (1) new exterior sliding door, door frame, and door trim at the back of extension area on the 1st floor.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$9,405.00",
+          "markup": "0.75",
+          "subtotal": "16458.75",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Plumbing",
+      "items": [
+        {
+          "room": "1st Floor - Powder Room",
+          "scope_item": "Plumbing",
+          "description": "Supply and install new water and waste line to main water supply and drainage at new locations.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$21,120.00",
+          "markup": "0.75",
+          "subtotal": "36960.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Electrical",
+      "items": [
+        {
+          "room": "General Areas",
+          "scope_item": "Electrical",
+          "description": "Supply and install (2) new electrical panels for panel upgrade for existing panel and separate 2nd floor sub-panel.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$34,155.00",
+          "markup": "0.75",
+          "subtotal": "59771.25",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Waterproofing",
+      "items": [
+        {
+          "room": "1st Floor - Powder Room",
+          "scope_item": "Waterproofing",
+          "description": "Supply and Install new waterproofing membrane on powder room walls and powder room floor.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,630.00",
+          "markup": "0.75",
+          "subtotal": "6352.50",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Tile",
+      "items": [
+        {
+          "room": "1st Floor - Powder Room",
+          "scope_item": "Tile floor installation",
+          "description": "Prepare the subfloor, ensuring it is suitable for tile installation. Installation of new floor tiles throughout the powder room.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$5,270.00",
+          "markup": "0.80",
+          "subtotal": "9486.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Siding",
+      "items": [
+        {
+          "room": "1st & 2nd Floor Extension Areas",
+          "scope_item": "Siding Installation",
+          "description": "Supply and install exterior wall siding to match existing home in material, profile, and color.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$27,200.00",
+          "markup": "0.75",
+          "subtotal": "47600.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Gutters",
+      "items": [
+        {
+          "room": "Roof Extension",
+          "scope_item": "New Roof Drainage",
+          "description": "Supply and install new gutters and downspouts along roof edges of the new roof in the extension area.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,200.00",
+          "markup": "0.75",
+          "subtotal": "5600.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Heating and Cooling",
+      "items": [
+        {
+          "room": "2nd Floor",
+          "scope_item": "New HVAC System Installation",
+          "description": "Provide and install new dedicated HVAC system to serve the second-floor extension.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$24,000.00",
+          "markup": "0.75",
+          "subtotal": "42000.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Trims",
+      "items": [
+        {
+          "room": "General Areas",
+          "scope_item": "New Baseboards Installation",
+          "description": "Installation of new baseboards throughout the new extension areas.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,600.00",
+          "markup": "0.75",
+          "subtotal": "2800.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Painting & Wall Coverings",
+      "items": [
+        {
+          "room": "1st & 2nd Floor Extension Areas",
+          "scope_item": "Painting",
+          "description": "Supply and apply 1 coat of primer and 2 coats of paint on walls, ceiling, frames, trim, doors, and baseboards throughout the new extension areas.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$15,040.00",
+          "markup": "0.75",
+          "subtotal": "26320.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "items": [
+        {
+          "room": "1st & 2nd Floor New Extension Areas",
+          "scope_item": "New Windows Installation",
+          "description": "Installation of (5) new windows throughout the new extension areas as per the proposed plan.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$4,000.00",
+          "markup": "0.75",
+          "subtotal": "7000.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "items": [
+        {
+          "room": "1st Floor - Powder Room",
+          "scope_item": "Accessory Installation",
+          "description": "Install all finish accessories in the powder room (vanities, medicine cabinets, towel bars, toilet paper holders, etc).",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,440.00",
+          "markup": "0.75",
+          "subtotal": "2520.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Interior Design Services",
+      "items": [
+        {
+          "room": "General Areas",
+          "scope_item": "Interior Design Fee",
+          "description": "Comprehensive design and material specification services, including finishes, fixtures, and element selections, as well as final renderings and construction drawings as per design scope.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$5,000.00",
+          "markup": "0.75",
+          "subtotal": "8750.00",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "General Requirements",
+      "items": [
+        {
+          "room": "General Areas",
+          "scope_item": "Final Cleaning",
+          "description": "Professional post-construction cleaning of the entire house.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$4,500.00",
+          "markup": "0.75",
+          "subtotal": "7875.00",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

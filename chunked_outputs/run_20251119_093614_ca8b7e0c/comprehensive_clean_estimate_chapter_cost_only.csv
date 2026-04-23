@@ -1,0 +1,32 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom,Bathroom Demolition,"Full gut of existing bathroom including removal of fixtures, tile, vanity, and flooring.",44 SF,"$3,300 per unit",0.00,,3300.00,95
+,,,,,,,,5775.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom,Bathroom Electrical,"Installation of GFCI outlets, vanity lighting, and exhaust fan.",3 UNITS,$55 per unit,0.00,,165.00,90
+Electrical,Bedroom,Bedroom Electrical,"Installation of outlets, switches, and light fixtures.",3 UNITS,$55 per unit,0.00,,165.00,90
+,,,,,,,,577.50,
+Flooring,,,,,,,,,
+Flooring,Bedroom,Bedroom Flooring,Installation of new carpet flooring.,190 SF,$6 per SF,0.00,,1140.00,95
+,,,,,,,,1995.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750 per unit",0.00,,2750.00,95
+,,,,,,,,4812.50,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Bedroom Painting,Painting of walls and ceiling.,190 SF,$10.3 per SF,0.00,,1960.88,95
+,,,,,,,,3333.50,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom,Bathroom Plumbing,"Full gut replacement of plumbing fixtures including toilet, sink, and shower installation.",44 SF,"$7,700 per unit",0.00,,7700.00,95
+,,,,,,,,13475.00,
+Tile,,,,,,,,,
+Tile,Bathroom,Bathroom Tile Work,Installation of floor and wall tiles in the bathroom.,44 SF,"$2,600 per unit",0.00,,2600.00,95
+,,,,,,,,4680.00,
+Trims,,,,,,,,,
+Trims,Bedroom,Bedroom Trim,Installation of baseboards and crown molding.,63 LF,$5 per LF,0.00,,315.00,90
+,,,,,,,,535.50,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom,Bathroom Waterproofing,Installation of waterproofing membrane on floors and walls.,44 SF,"$1,900 per unit",0.00,,1900.00,95
+,,,,,,,,3135.00,
+,,,,,,,,21995.88,
+,,,General Conditions (10%),,,,,0.00,
+,,,Grand Total,,,,,21995.88,

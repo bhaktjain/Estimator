@@ -1,0 +1,237 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] 350 West 42nd Street #48B.pdf
+[SUCCESS] Extracted 12824 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] 350 West 42nd Street #48B.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250922_235037_9d1c32e1/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5983 characters from chunked_outputs/run_20250922_235037_9d1c32e1/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 51639 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Demolition",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Full gut kitchen demolition",
+          "description": "Remove all cabinets, countertops, appliances, flooring, backsplash, and disconnect electrical and plumbing.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Full gut bathroom demolition",
+          "description": "Remove all fixtures, tile, vanity, and flooring.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Full gut bathroom demolition",
+          "description": "Remove all fixtures, tile, vanity, and flooring.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Plumbing",
+      "items": [
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing for tub to shower conversion, wall-mounted toilet, and washlet outlet.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$9,900 per UNIT",
+          "markup": "0.75",
+          "subtotal": "17325",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing for shower to tub conversion, wall-mounted toilet, and washlet outlet.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$9,900 per UNIT",
+          "markup": "0.75",
+          "subtotal": "17325",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing for kitchen sink and appliances.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,850 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Electrical",
+      "items": [
+        {
+          "room": "Bedroom 1",
+          "scope_item": "Recessed lighting installation",
+          "description": "Install 4 recessed lights in Bedroom 1.",
+          "quantity": "4 UNIT",
+          "unit_cost": "$440 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3080",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bedroom 1",
+          "scope_item": "Pendant lighting installation",
+          "description": "Install 1 pendant light in Bedroom 1.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$440 per UNIT",
+          "markup": "0.75",
+          "subtotal": "770",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bedroom 2",
+          "scope_item": "Recessed lighting installation",
+          "description": "Install 4 recessed lights in Bedroom 2.",
+          "quantity": "4 UNIT",
+          "unit_cost": "$440 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3080",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bedroom 2",
+          "scope_item": "Pendant lighting installation",
+          "description": "Install 1 pendant light in Bedroom 2.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$440 per UNIT",
+          "markup": "0.75",
+          "subtotal": "770",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Flooring",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Sand and refinish wood flooring",
+          "description": "Sand and refinish existing engineered wood flooring throughout the apartment.",
+          "quantity": "983.6 SF",
+          "unit_cost": "$5 per SF",
+          "markup": "0.75",
+          "subtotal": "8601.5",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Ceilings",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Install dropped ceiling",
+          "description": "Install new dropped ceiling in the living room.",
+          "quantity": "244.5 SF",
+          "unit_cost": "$9 per SF",
+          "markup": "0.75",
+          "subtotal": "3854.625",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 1",
+          "scope_item": "Install dropped ceiling",
+          "description": "Install new dropped ceiling in Bedroom 1.",
+          "quantity": "189.5 SF",
+          "unit_cost": "$9 per SF",
+          "markup": "0.75",
+          "subtotal": "2987.625",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 2",
+          "scope_item": "Install dropped ceiling",
+          "description": "Install new dropped ceiling in Bedroom 2.",
+          "quantity": "110.6 SF",
+          "unit_cost": "$9 per SF",
+          "markup": "0.75",
+          "subtotal": "1743.45",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Painting",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Repaint apartment",
+          "description": "Repaint all walls and ceilings in the apartment.",
+          "quantity": "983.6 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "17748.15",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Doors and Trim",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Replace all doors",
+          "description": "Replace all interior doors in the apartment.",
+          "quantity": "7 UNIT",
+          "unit_cost": "$550 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Replace all baseboards",
+          "description": "Replace all baseboards throughout the apartment.",
+          "quantity": "2323.3 LF",
+          "unit_cost": "$11 per LF",
+          "markup": "0.75",
+          "subtotal": "44869.6125",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Post-construction cleaning",
+          "description": "Comprehensive cleaning of the entire apartment post-renovation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,925 per UNIT",
+          "markup": "0.75",
+          "subtotal": "3368.75",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

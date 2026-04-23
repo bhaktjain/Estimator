@@ -1,0 +1,40 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Installation of kitchen backsplash tile.,10 LF,"$2,200 per UNIT",0.80,,3960.00,95
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.50,95
+,,,,,,,,22312.50,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabricate and install quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Master Bathroom,Bathroom Demolition,"Full gut of bathroom (120 SF) including removal of fixtures, tile, and flooring.",120 SF,"$3,300 per UNIT",0.75,,5775.00,95
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+,,,,,,,,11550.00,
+Electrical,,,,,,,,,
+Electrical,Master Bathroom,Bathroom Electrical,Installation of bathroom electrical systems including lighting and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+Electrical,Kitchen,Kitchen Electrical,"Rewiring and installation of kitchen electrical systems including outlets, lighting, and appliances.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+,,,,,,,,12250.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Installation of new kitchen flooring.,264 SF,$6 per SF,0.75,,2772.00,95
+,,,,,,,,2772.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas post-construction.,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,95
+,,,,,,,,3368.75,
+Plumbing,,,,,,,,,
+Plumbing,Master Bathroom,Bathroom Fixtures,"Installation of bathroom fixtures including vanity, mirror, and shower doors.",1 UNIT,$550 per UNIT,0.75,,962.50,95
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen including sink and garbage disposal installation.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,95
+,,,,,,,,7700.00,
+Tile,,,,,,,,,
+Tile,Master Bathroom,Bathroom Tile Work,Installation of bathroom floor tiles (120 SF) and wall tiles (~320 SF).,440 SF,"$4,100 per UNIT",0.80,,7380.00,95
+,,,,,,,,7380.00,
+Appliances,Kitchen,Appliance Installation,"Install new kitchen appliances (refrigerator, range, dishwasher, etc.).",1 UNIT,$5500 per UNIT,0.75,,9625.0,90
+Kitchen Enhancements,Kitchen,New Island Installation,"Install new larger island (wider and longer) with seating, storage, microwave, and dishwasher.",1 UNIT,$5500 per UNIT,0.75,,9625.0,90
+Pantry Conversion,Kitchen,Pantry Conversion,Convert space to pantry with pull-out shelves on wheels.,1 UNIT,$3200 per UNIT,0.75,,5600.0,90
+Countertops,Master Bathroom,New Vanity and Counter,Install new longer/bigger vanity cabinet and new countertop.,1 UNIT,$3500 per UNIT,0.75,,6125.0,90
+Plumbing,Master Bathroom,Plumbing Installation,"Install new plumbing including Toto toilet, sink, and remove bidet.",1 UNIT,"$7,700 per UNIT",0.75,,13475.0,95
+Flooring,Kitchen,Floor Refinishing and Matching,Refinish and match floor where old cabinets were removed.,150 SF,$8 per SF,0.75,,2100.0,85
+,,,,,,,,131607.00,
+,,,General Conditions (10%),,,,,13160.70,
+,,,Grand Total,,,,,144767.70,

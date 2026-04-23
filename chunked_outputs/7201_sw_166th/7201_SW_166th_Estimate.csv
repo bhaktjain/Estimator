@@ -1,0 +1,89 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Full Gut Demo,"Full removal of existing cabinets (11), countertops, sink, appliances, flooring, and wall finishes. Kitchen is 218 SF (DEMO-02: 10ft+).",1 UNIT,"$3,300 per UNIT",0.75,,5775.0,95
+Demolition,Bathroom,Bathroom Full Gut Demo,"Full removal of existing vanity, sink, toilet, and wall/floor finishes. Bathroom is 73 SF (DEMO-04: 60-80sf).",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+Demolition,Entire House,Carpet Removal,"Remove existing carpeting throughout living rooms, bedrooms, dining room, and foyer. Expose subfloor for new engineered wood. ~1,000 SF.",1000 SF,$3 per SF,0.75,,5250.0,95
+Demolition,Kitchen / Dining,Wall Removal - Kitchen to Dining,Remove partition wall between kitchen and dining room to create open-concept layout per client request. ~15 LF. Includes structural header if load-bearing.,1 UNIT,"$3,500 per UNIT",0.75,,6125.0,85
+Demolition,Living Room 2 / Dining,Dropped Ceiling Removal,Remove existing fake/dropped ceiling framing and drywall to expose original vaulted ceiling. ~300 SF.,300 SF,$5 per SF,0.75,,2625.0,85
+Demolition,Entire House,Door Removal,Remove interior doors for open-concept flow per client direction. 4 doors removed.,4 EA,$150 per EA,0.75,,1050.0,85
+Demolition,Terrace,Terrace Mesh & Screen Removal,Remove existing mesh/screen enclosure from terrace adjacent to kitchen.,1 UNIT,$600 per UNIT,0.75,,1050.0,90
+Demolition,Guest House,Guest House Full Gut Demo,"Full gut demo of guest house efficiency (~400 SF): remove flooring, kitchenette, existing staircase, wall/ceiling finishes. All debris removed (DEMO-07).",400 SF,$7 per SF,0.75,,4900.0,85
+,,,,,,,,31587.50,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Kitchen / Dining,Drywall Repair After Wall Removal,"Patch and finish drywall at kitchen/dining wall removal area. New header framing, drywall, tape, and mud.",1 LS,"$2,500 per LS",0.75,,4375.0,85
+Walls & Ceiling,Living Room 2 / Dining,Vaulted Ceiling Repair,"After dropped ceiling removal, repair and finish exposed original vaulted ceiling. Patch, skim coat, and prepare for paint. ~300 SF (FINSH-18).",300 SF,$6 per SF,0.75,,3150.0,85
+Walls & Ceiling,Bathroom,Bathroom Moisture-Resistant Drywall,Install new moisture-resistant drywall in bathroom. 73 SF bathroom (CARP-06: 60-80 SF).,1 UNIT,"$2,200 per UNIT",0.75,,3850.0,90
+,,,,,,,,11375.00,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Kitchen Plumbing - New Location,"Full gut plumbing at new kitchen location. New water supply, waste, and vent lines for single sink. Kitchen being relocated/reconfigured (PLMB-11).",1 UNIT,"$6,050 per UNIT",0.75,,10587.5,85
+Plumbing,Bathroom,Bathroom Rough Plumbing,"Full gut replacement at existing location. New supply lines, waste, and vent for vanity, toilet, and shower (PLMB-02: 60-80sf).",1 UNIT,"$8,800 per UNIT",0.75,,15400.0,90
+Plumbing,Second Bathroom,Fixture Replacement,Replace vanity faucet and shower fixtures. Minor plumbing updates at existing locations.,1 UNIT,"$1,500 per UNIT",0.75,,2625.0,85
+Plumbing,Kitchen / Laundry,Washer/Dryer Hookup,"Washer/dryer hookup at existing location. Reconnect water supply, drain, and electrical after kitchen renovation (PLMB-16).",1 UNIT,"$2,200 per UNIT",0.75,,3850.0,85
+,,,,,,,,32462.50,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Kitchen Electrical,"New electrical for relocated kitchen: 6 outlets (ELEC-12: new location), dedicated appliance lines, switches.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+Electrical,Kitchen,Kitchen Recessed Lighting,Install 8 recessed lights in kitchen ceiling (ELEC-15: new location).,8 UNIT,$465 per UNIT,0.75,,6510.0,90
+Electrical,Kitchen,Undercabinet Lighting,Install LED undercabinet lighting per 15ft run (ELEC-24).,1 UNIT,"$1,500 per UNIT",0.75,,2625.0,85
+Electrical,Bathroom,Bathroom Electrical,"New GFI outlets, vanity lighting, and exhaust fan for full gut bathroom.",1 LS,"$1,800 per LS",0.75,,3150.0,90
+Electrical,Entire House,General Electrical Updates,Update switches and outlets throughout house as needed. Replace outdated fixtures. 10 existing-location devices (ELEC-04/06).,10 UNIT,$80 per UNIT,0.75,,1400.0,85
+,,,,,,,,21560.00,
+Flooring,,,,,,,,,
+Flooring,Entire House,Subfloor Prep & Self-Leveling,"Self-leveling concrete over existing slab prior to engineered wood install. 1929 house on slab requires prep for level surface. ~1,180 SF (FINSH-15).",1180 SF,$3 per SF,0.75,,6195.0,90
+Flooring,Entire House,Engineered Wood Flooring,"Install light-colored engineered wood flooring throughout main house: living rooms, bedrooms, dining, foyer, kitchen. ~1,180 SF (FINSH-06).",1180 SF,$6 per SF,0.75,,12390.0,90
+,,,,,,,,18585.00,
+Tile,,,,,,,,,
+Tile,Bathroom,Bathroom Floor Tile,Install floor tile in bathroom. 73 SF (TILE-04: 60-80sf).,1 UNIT,"$2,300 per UNIT",0.8,,4140.0,90
+Tile,Bathroom,Bathroom Wall Tile,Install wall tile in bathroom shower area (TILE-03: 60-80sf).,1 UNIT,"$3,400 per UNIT",0.8,,6120.0,90
+Tile,Kitchen,Kitchen Backsplash,Install decorative tile backsplash with color accent. Beachy/coastal style per client. ~30 SF (TILE-11: 10ft+).,1 UNIT,"$2,200 per UNIT",0.8,,3960.0,90
+,,,,,,,,14220.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire House,Interior Painting - Walls & Ceilings,"Paint all walls and ceilings throughout main house with premium paint. Calculated on 1,253 SF livable floor area (FINSH-05).",1253 SF,$10.50 per SF,0.75,,23023.88,90
+Painting & Wall Coverings,Guest House,Guest House Painting,Paint walls and ceilings in guest house after renovation. ~400 SF floor area (FINSH-05).,400 SF,$10.50 per SF,0.75,,7350.0,85
+,,,,,,,,30373.88,
+Trims,,,,,,,,,
+Trims,Entire House,Baseboards,Supply and install new baseboards throughout main house. ~407 LF total perimeter (TRIM-01: $11/LF).,407 LF,$11 per LF,0.75,,7834.75,90
+Trims,Entire House,Door & Window Trim,New trim around windows and doors where needed after renovation. ~120 LF.,120 LF,$11 per LF,0.75,,2310.0,85
+,,,,,,,,10144.75,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Supply,"Supply white shaker-style cabinets, standard grade. ~18 LF of base + wall cabinets (KITC-10: $800/LF).",18 LF,$800 per LF,0.75,,25200.0,85
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Installation,"Labor to install kitchen cabinets, 16-20 LF (KITC-08).",1 UNIT,"$10,900 per UNIT",0.75,,19075.0,90
+,,,,,,,,44275.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Quartz Countertop Supply,Supply light/gray quartz slab for kitchen countertops. ~30 SF (STON-01: 1 slab).,1 SLAB,"$3,000 per SLAB",0.75,,5250.0,85
+Countertops,Kitchen,Quartz Countertop Fabrication & Install,Fabricate and install quartz kitchen countertop with undermount sink cutout. ~30 SF (STON-02: $97/SF).,30 SF,$97 per SF,0.75,,5092.5,90
+,,,,,,,,10342.50,
+Appliances,,,,,,,,,
+Appliances,Kitchen,Kitchen Appliance Allowance,"Allowance for new kitchen appliances: refrigerator, range/oven, dishwasher, microwave (APPL-01 through APPL-04).",1 LS,"$3,350 per LS",0.75,,5862.5,85
+,,,,,,,,5862.50,
+General Requirements,,,,,,,,,
+General Requirements,Project,Permits & Fees,"Building permits and associated fees for kitchen renovation, plumbing, electrical, and AC (MISC-01).",1 LS,"$2,500 per LS",0.75,,4375.0,95
+General Requirements,Project,Waste Removal & Dumpster,Dumpster rental and debris disposal for main house and guest house renovation (MISC-03).,1 LS,"$2,400 per LS",0.75,,4200.0,90
+General Requirements,Project,Final Cleanup,Post-construction cleaning of main house and guest house (CLEN-03: 1200-1800sf).,1 LS,"$1,925 per LS",0.75,,3368.75,90
+,,,,,,,,11943.75,
+Exterior,,,,,,,,,
+Exterior,Terraces,New Railing Installation,Supply and install new decorative railing along terraces. Key West / open style per client. ~40 LF.,40 LF,$85 per LF,0.75,,5950.0,80
+Exterior,Terrace,New Exterior Door,Supply and install new exterior door at terrace per client direction.,1 UNIT,"$1,200 per UNIT",0.75,,2100.0,85
+,,,,,,,,8050.00,
+Fixtures,,,,,,,,,
+Fixtures,Bathroom,Bathroom Vanity & Mirror,Supply and install new vanity with sink and mirror for full gut bathroom (BATH-01).,1 UNIT,$950 per UNIT,0.75,,1662.5,90
+Fixtures,Bathroom,Toilet,Supply and install new toilet (PLMB-14).,1 EA,$650 per EA,0.75,,1137.5,90
+Fixtures,Bathroom,Shower Glass Enclosure,Supply and install frameless glass panel and door for shower (MISC-23).,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,90
+Fixtures,Second Bathroom,Vanity & Mirror,Supply and install new vanity with mirror for second bathroom update (BATH-01).,1 UNIT,$950 per UNIT,0.75,,1662.5,90
+Fixtures,Second Bathroom,Shower Glass,Supply and install new shower glass enclosure for second bathroom (MISC-23).,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,85
+,,,,,,,,13212.50,
+Guest House,,,,,,,,,
+Guest House,Guest House,New Engineered Wood Flooring,Install light engineered wood flooring in guest house. ~400 SF (FINSH-06).,400 SF,$6 per SF,0.75,,4200.0,85
+Guest House,Guest House,New Staircase,"Remove existing staircase and build new staircase to attic level. Includes framing, treads, railing, and finishing (MISC-07).",1 UNIT,"$5,500 per UNIT",0.75,,9625.0,80
+Guest House,Guest House,Drywall & Ceiling Repair,Repair/replace drywall and ceiling after gut demo. ~400 SF walls + ceiling (CARP-10/11).,800 SF,$4.50 per SF,0.75,,6300.0,85
+Guest House,Guest House,Baseboards & Trim,New baseboards and door trim in guest house. ~80 LF (TRIM-01).,80 LF,$11 per LF,0.75,,1540.0,85
+Guest House,Guest House,Electrical Updates,"Update outlets, switches, and lighting in guest house. ~8 devices + 4 recessed lights.",1 LS,"$2,500 per LS",0.75,,4375.0,80
+,,,,,,,,26040.00,
+HVAC,,,,,,,,,
+HVAC,Entire House,New AC System,"Supply and install new split AC system with compressor for whole house (~1,253 SF). Includes indoor/outdoor units and refrigerant lines (MISC-16).",1 UNIT,"$16,250 per UNIT",0.75,,28437.5,85
+,,,,,,,,28437.50,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom,Bathroom Waterproofing,Supply and install waterproofing on bathroom floors and walls prior to tile (WATR-02: 60-80sf).,1 UNIT,"$2,100 per UNIT",0.75,,3675.0,95
+,,,,,,,,3675.00,
+,,,,,,,,322147.38,
+,,,General Conditions (10%),,,,,32214.74,
+,,,Grand Total,,,,,354362.12,

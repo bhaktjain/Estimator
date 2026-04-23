@@ -1,0 +1,153 @@
+scope of work below for 39 Lincoln Street, Sloatsburg.
+Basement:
+• Refinishes the basement
+• Close the crawl space on the right side of the entrance with concrete
+• Rewire the whole house for better electrical organization
+• Replace staircase
+• Tile installation
+First floor
+• New kitchen
+• Remove two walls to create it open concept
+• Remove the mud room so the kitchen will be bigger
+• Level the floors with the extension height – 5”
+• Installation of new hardwood floor
+• Replacing the ceiling throughout the first floor
+• Lights are being replaced throughout the first floor
+• The window in the front balcony needs to be replaced by a sliding door
+• New w/d room
+Second floor
+• Full gut - primary bathroom and secondary bathroom
+• Installation of new floors throughout the second floor
+• Change the layout of the two bedrooms
+• Replace the ceiling in 1 bedroom
+Attic
+• Refinishes the attic- walls all around.
+• Sound insulation
+• Floor installation
+• New staircase installation
+• barn door installation
+• lights installation
+General
+• HVAC system for two floors
+• Patch walls and paint throughout the house
+summary The discussion focused on the renovations at Ravit's home at 39 Lincoln
+Street in Sloatsburg, NY, detailing significant upgrades since its purchase in 2019.
+Ravit highlighted the installation of solar panels and a new boiler as key
+improvements, along with the replacement of several appliances. He addressed the
+need for cosmetic enhancements, including updating the drop ceiling and leveling
+the floors.
+Challenges with the basement were noted, particularly the need for sealing and
+finishing after it was backfilled with dirt. Ravit also outlined plans to improve the
+garage space, emphasizing both aesthetics and functionality, while maintaining a
+methodical approach to ensure structural integrity and comfort throughout the
+renovation process.
+action_items
+text Ravit Doozli will replace the drop ceiling in the house to improve the overall
+look.
+text Ravit Doozli will level the floors in the house to create a more uniform space.
+text Ravit Doozli will seal and close off the backfilled area in the basement to
+prevent future issues.
+text Ravit Doozli will finish the walls and ceilings in the basement to enhance the
+space.
+key_questions
+text What issues were encountered with the heating system during winter?
+text What specific changes were made to the appliances in the house?
+topics
+text Major repairs completed on the house
+text Issues with heating and energy bills
+text Future plans for the garage space
+report_url
+https://app.read.ai/analytics/meetings/01K5BXTSN0QA86QWS58AT93SPX
+chapter_summaries
+title Walkthrough of 39 Lincoln Street, Sloatsburg NY
+description Ravit Doozli detailed the significant improvements made to the home at
+39 Lincoln Street, including the installation of solar panels and a new boiler, as well
+as updates to major appliances. He expressed a desire to address cosmetic issues,
+such as replacing the drop ceiling and leveling the floors, while also planning to
+finish the basement and improve the garage space.
+topics
+Major repairs completed on the house
+Issues with heating and energy bills
+transcript
+speaker_blocks
+start_time 1758115754436
+end_time 1758115759159
+speaker
+name Ravit Doozli
+words Hi, good morning. I have a meeting with Trevor.
+start_time 1758115759159
+end_time 1758115760208
+speaker
+name UNKNOWN_SPEAKER
+words Hi, Trevor.
+start_time 1758115760208
+end_time 1758115777002
+speaker
+name Ravit Doozli
+words Hi, I'm Ovid from Chapter. How are you? Nice to meet you. Did you have a
+good time? Do you want me to wait a minute? Yeah, one minute. Yeah, of course.
+start_time 1758115777010
+end_time 1758115859131
+speaker
+name Ravit Doozli
+words You're welcome. Yes, hi.
+start_time 1758115859131
+end_time 1758115862337
+speaker
+name Ravit Doozli
+words What's your name again?
+start_time 1758115862337
+end_time 1758115870353
+speaker
+name Ravit Doozli
+words Ravit. Ravit, yes, Trevor. Nice to meet you. Thank you.
+start_time 1758115870353
+end_time 1758115874361
+speaker
+name Ravit Doozli
+words Yeah, it always is, no?
+start_time 1758115874361
+end_time 1758115879170
+speaker
+name Ravit Doozli
+words So, yeah, this is our home.
+start_time 1758115879170
+end_time 1758115899204
+speaker
+name Ravit Doozli
+words Yeah, I guess what I described in the description you know, we bought this
+house 2019. Okay. This was the feature that kind of, you know, I guess caught our
+eye.
+start_time 1758115899204
+end_time 1758115899786
+speaker
+name UNKNOWN_SPEAKER
+words Yeah.
+start_time 1758115899786
+end_time 1758115902115
+speaker
+name UNKNOWN_SPEAKER
+words I can understand why.
+start_time 1758115902115
+end_time 1758115902698
+speaker
+name UNKNOWN_SPEAKER
+words Yeah.
+start_time 1758115902698
+end_time 1758115990965
+speaker
+name Ravit Doozli
+words So, you know, we did some, as I explained, I did some major repairs already
+on the outside. Okay. I had done the windows, most of the windows, not all of them.
+But in areas like our living room here, I knew it needed more work than that. And so I
+didn't want to rush to make a decision to do something like that. So yeah, we did the
+roof. We put the solar panels on on the outside. Oh, amazing. Yeah.
+And I think those were the two major things that we did within the first year so um
+yeah because you're free you can't play with it yeah yeah so so we had done that
+and then put the solar panel on okay um and then uh the next major thing was we
+changed our boiler okay um boiler insulation that's good and no it's all I thought
+about the windows yeah so uh yeah because we had lost heat one winter um and
+yeah it was actually funny enough it was the year I think the year after, we had just
+installed the solar panels and we just went through the full summer where it
+collected energy.
+It offset the first month, but the first month would have been December.

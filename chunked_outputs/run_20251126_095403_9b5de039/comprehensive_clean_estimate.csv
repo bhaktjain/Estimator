@@ -1,0 +1,62 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Assumptions (Non-Cost),,,,,,,,,
+Assumptions (Non-Cost),,Assumption,Whole-house flooring SF for areas beyond kitchen/living inferred from Polycam and proportionally allocated; not every room SF is explicitly called out in transcript.,,,0.0,,0.0,
+Assumptions (Non-Cost),,Assumption,"HVAC ductwork/insulation rework priced as a lump-sum scope assuming existing system has capacity, per transcript; final scope may change after HVAC contractor review.",,,0.0,,0.0,
+Assumptions (Non-Cost),,Assumption,New main electrical panel and 5-bedroom lighting/junction boxes priced as allowances based on typical loads and insurance requirements; subject to electrician's final design.,,,0.0,,0.0,
+Assumptions (Non-Cost),,Assumption,"Garage-to-guest-suite conversion includes full framing/insulation/drywall/finishes but excludes custom millwork, high-end built-ins, and furniture.",,,0.0,,0.0,
+Assumptions (Non-Cost),,Assumption,Front porch/entry deck sized and priced from Polycam/exterior photos; exact layout and materials (wood vs stone) to be finalized in design phase.,,,0.0,,0.0,
+Assumptions (Non-Cost),,Assumption,Powder room reconfiguration assumes standard plumbing reroutes within existing wet wall; major structural changes or surprises behind walls are not included.,,,0.0,,0.0,
+Assumptions (Non-Cost),,Assumption,Countertop pricing assumes natural stone/quartzite level in line with master pricing; premium slabs or complex edge profiles may increase costs.,,,0.0,,0.0,
+Bathroom 1 Renovation,,,,,,,,,
+Bathroom 1 Renovation,Bathroom 1,Bathroom Demolition,"Remove old fixtures, tile, vanity, and flooring. Debris removal.",70 SF,$5 per SF,0.75,nan,612.5,95.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Plumbing,"Install rough plumbing, toilet, sink, shower/tub, supply lines, drain lines, and vent lines.",1 UNIT,$2500 per UNIT,0.75,nan,4375.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Electrical,"Install rough electrical, vanity lighting, exhaust fan, GFCI outlets, and switches.",1 UNIT,$1500 per UNIT,0.75,nan,2625.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Tile Work,"Install floor and wall tiles, including shower tile, grout, and sealing.",100 SF,$20 per SF,0.8,nan,3600.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Fixtures,"Install vanity, mirror, towel bars, toilet paper holder, shower doors, and medicine cabinet.",1 UNIT,$2000 per UNIT,0.75,nan,3500.0,90.0
+Bathroom 1 Renovation,Bathroom 1,Bathroom Finishing,"Paint walls and ceiling, caulking, trim installation, and final cleanup.",1 UNIT,$1000 per UNIT,0.75,nan,1750.0,90.0
+,,,,,,,,16462.50,
+Bathroom 2 Renovation,,,,,,,,,
+Bathroom 2 Renovation,Powder Room,Reconfigure Powder Room,"Convert existing full bath to powder room (toilet + sink), adjust walls and expand adjacent bath as discussed.",1 UNIT,"$8,000 per UNIT",0.75,nan,14000.0,85.0
+,,,,,,,,14000.00,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire House,Post-Construction Cleaning,"Comprehensive cleaning of all renovated areas, including dust removal, floor cleaning, and window washing.",1 UNIT,$2000 per UNIT,0.75,nan,3500.0,85.0
+,,,,,,,,3500.00,
+Electrical,,,,,,,,,
+Electrical,Service,New Main Electrical Panel and Service Upgrade,Install new main electrical panel and service upgrade as required for insurance and added loads.,1 UNIT,"$3,500 per UNIT",0.75,nan,6125.0,85.0
+Electrical,Bedrooms,Bedroom Lighting and Junction Boxes (5 Bedrooms),"Add junction boxes and recessed/overhead lighting in all 5 bedrooms, including switches and dimmers.",5 UNIT,"$1,000 per UNIT",0.75,nan,8750.0,85.0
+,,,,,,,,14875.00,
+Exterior,,,,,,,,,
+Exterior,Front Porch,New Front Porch / Entry Deck,"Remove existing planting beds and create new front porch/entry deck in wood or stone, including steps and railings as needed.",200 SF,$40 per SF,0.75,nan,14000.0,85.0
+,,,,,,,,14000.00,
+Garage Conversion,,,,,,,,,
+Garage Conversion,Guest Suite,Convert Garage to Guest Suite,"Convert existing 4-car garage into guest suite with framing, insulation, drywall, finishes, flooring, and Murphy bed area.",1 UNIT,"$45,000 per UNIT",0.75,nan,78750.0,85.0
+,,,,,,,,78750.00,
+HVAC,,,,,,,,,
+HVAC,Entire House,HVAC Ductwork and Insulation Rework,"Rework and balance existing HVAC ductwork and insulation to serve the renovated layout and guest suite, assuming existing system has capacity.",1 UNIT,"$8,000 per UNIT",0.75,nan,14000.0,85.0
+,,,,,,,,14000.00,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Debris removal and disposal.",200 SF,$5 per SF,0.75,nan,1750.0,95.0
+Kitchen Renovation,Kitchen,Kitchen Plumbing,"Install rough plumbing, kitchen sink, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,$2000 per UNIT,0.75,nan,3500.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Install rough electrical, lighting circuits, under-cabinet lighting, GFCI outlets, switches, and panel upgrades.",1 UNIT,$3000 per UNIT,0.75,nan,5250.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Flooring,"Install engineered hardwood flooring, including subfloor preparation, underlayment, and transition strips.",200 SF,$10 per SF,0.75,nan,3500.0,95.0
+Kitchen Renovation,Kitchen,Kitchen Cabinets,"Install base and wall cabinets, including crown molding, cabinet hardware, soft-close hinges, and drawer slides.",30 LF,$150 per LF,0.75,nan,7875.0,95.0
+Kitchen Renovation,Kitchen,Kitchen Countertops,"Install quartzite countertops, including template creation, fabrication, installation, edge treatments, and sink cutouts.",60 SF,$97 per SF,0.75,nan,13763.75,95.0
+Kitchen Renovation,Kitchen,Kitchen Backsplash,"Install tile backsplash, including tile preparation, installation, grout, sealing, and trim tiles.",50 SF,$20 per SF,0.8,nan,1800.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Appliances,"Install appliances, including gas line connections, electrical connections, and ventilation hookups.",1 UNIT,$1500 per UNIT,0.75,nan,2625.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Finishing,"Touch-up painting, hardware installation, final cleanup, caulking, and sealing.",1 UNIT,$1000 per UNIT,0.75,nan,1750.0,90.0
+,,,,,,,,41813.75,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,"Install engineered hardwood flooring, including subfloor preparation, underlayment, and transition strips.",300 SF,$10 per SF,0.75,nan,5250.0,95.0
+Living Room Renovation,Living Room,Living Room Painting,"Prepare walls, apply primer, paint walls and ceiling, and touch-up work.",1 UNIT,$1500 per UNIT,0.75,nan,2625.0,90.0
+Living Room Renovation,Living Room,Living Room Electrical,"Install outlets, switches, light fixtures, ceiling fans, dimmer switches, and floor outlets.",1 UNIT,$2000 per UNIT,0.75,nan,3500.0,90.0
+Living Room Renovation,Living Room,Living Room Trim,"Install baseboards, crown molding, window casings, door casings, and quarter round.",1 UNIT,$1000 per UNIT,0.75,nan,1750.0,90.0
+,,,,,,,,13125.00,
+Trim & Finish,,,,,,,,,
+Trim & Finish,Entire House,Remove Crown Molding and Install New Baseboards,"Remove all existing crown molding throughout the house and install new baseboards, including caulking and painting.",1250 SF,$3 per SF,0.75,nan,6562.5,85.0
+,,,,,,,,6562.50,
+Whole House Flooring,,,,,,,,,
+Whole House Flooring,Entire House (beyond Kitchen & Living),Engineered Hardwood Flooring - Remaining Areas,"Install engineered hardwood flooring in remaining house areas (bedrooms, halls, other spaces), including subfloor prep, underlayment, and trim.",750 SF,$10 per SF,0.75,nan,13125.0,85.0
+,,,,,,,,13125.00,
+,,,,,,,,230213.75,
+,,,General Conditions (10%),,,,,23021.38,
+,,,Grand Total,,,,,253235.12,

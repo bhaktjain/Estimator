@@ -1,0 +1,33 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom 1 Renovation,,,,,,,,,
+Bathroom 1 Renovation,Bathroom 1,Bathroom Demolition,"Remove existing fixtures, tile, and flooring.",58.2 SF,$20 per SF,0.75,,2035.5,90
+Bathroom 1 Renovation,Bathroom 1,Tile Installation,Install new floor and wall tiles with grout and sealing.,100 SF,$30 per SF,0.80,,5400,85
+Bathroom 1 Renovation,Bathroom 1,Plumbing Fixtures Installation,"Install new toilet, sink, and shower fixtures.",3 UNIT,$500 per UNIT,0.75,,2625,85
+Bathroom 1 Renovation,Bathroom 1,Electrical Installation,Install new lighting and GFCI outlets.,1 UNIT,$1000 per UNIT,0.75,,1750,85
+,,,,,,,,11810.50,
+Bathroom 2 Renovation,,,,,,,,,
+Bathroom 2 Renovation,Bathroom 2,Bathroom Demolition,"Remove existing fixtures, tile, and flooring.",47.8 SF,$20 per SF,0.75,,1673.5,90
+Bathroom 2 Renovation,Bathroom 2,Tile Installation,Install new floor and wall tiles with grout and sealing.,80 SF,$30 per SF,0.80,,4320,85
+Bathroom 2 Renovation,Bathroom 2,Plumbing Fixtures Installation,Install new toilet and sink fixtures.,2 UNIT,$500 per UNIT,0.75,,1750,85
+Bathroom 2 Renovation,Bathroom 2,Electrical Installation,Install new lighting and GFCI outlets.,1 UNIT,$1000 per UNIT,0.75,,1750,85
+,,,,,,,,9493.50,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1882.4 SF,$2 per SF,0.75,,6588.4,85
+,,,,,,,,6588.40,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, and flooring. Disconnect plumbing and electrical.",150.9 SF,$15 per SF,0.75,,3942.75,90
+Kitchen Renovation,Kitchen,Cabinet Installation,Install new base and wall cabinets with crown molding and hardware.,20 LF,$200 per LF,0.75,,7000,85
+Kitchen Renovation,Kitchen,Countertop Installation,Install new countertops including sink cutouts and edge treatments.,50 SF,$97 per SF,1.75,,13763.75,90
+Kitchen Renovation,Kitchen,Backsplash Installation,Install new tile backsplash with grout and sealing.,30 SF,$25 per SF,0.80,,1350,85
+Kitchen Renovation,Kitchen,Plumbing Rough-In,"Install rough plumbing for sink, dishwasher, and refrigerator.",1 UNIT,$1500 per UNIT,0.75,,2625,85
+Kitchen Renovation,Kitchen,Electrical Rough-In,"Install rough electrical for outlets, lighting, and appliances.",1 UNIT,$2000 per UNIT,0.75,,3500,85
+Kitchen Renovation,Kitchen,Flooring Installation,Install new flooring with underlayment and trim.,150.9 SF,$10 per SF,0.75,,2640.75,85
+,,,,,,,,34822.25,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room 1,Flooring Installation,Install new hardwood flooring with underlayment and trim.,290 SF,$12 per SF,0.75,,6090,85
+Living Room Renovation,Living Room 1,Painting,Prime and paint walls and ceiling.,290 SF,$5 per SF,0.75,,2537.5,85
+Living Room Renovation,Living Room 1,Electrical Installation,Install new lighting fixtures and outlets.,1 UNIT,$1500 per UNIT,0.75,,2625,85
+,,,,,,,,11252.50,
+,,,,,,,,73967.15,
+,,,General Conditions (10%),,,,,7396.72,
+,,,Grand Total,,,,,81363.86,

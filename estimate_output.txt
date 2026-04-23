@@ -7,7 +7,7 @@
         {
           "room": "Kitchen",
           "scope_item": "Kitchen Demolition",
-          "description": "Full gut of kitchen including cabinet removal, countertop removal, appliance disconnection, flooring removal, backsplash removal, electrical and plumbing disconnection, debris removal, and protection of adjacent areas.",
+          "description": "Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Debris removal and disposal.",
           "quantity": "1 UNIT",
           "unit_cost": "$3,300 per UNIT",
           "markup": "0.75",
@@ -17,96 +17,171 @@
         {
           "room": "Kitchen",
           "scope_item": "Kitchen Plumbing",
-          "description": "Full gut plumbing for existing location with 1 sink, including rough plumbing, sink installation, garbage disposal, water supply lines, drain lines, and shut-off valves.",
+          "description": "Full gut plumbing for existing location with 1 sink.",
           "quantity": "1 UNIT",
           "unit_cost": "$3,850 per UNIT",
           "markup": "0.75",
           "subtotal": "6737.50",
-          "confidence_score": "95"
+          "confidence_score": "90"
         },
         {
           "room": "Kitchen",
           "scope_item": "Kitchen Electrical",
-          "description": "Rough electrical wiring, installation of kitchen lighting circuits, under-cabinet lighting, GFCI outlets, switch installation, panel upgrades, range hood electrical, kitchen island electrical, pendant light installation, and dimmer switches.",
+          "description": "Rough electrical, install lighting circuits, GFCI outlets, and under-cabinet lighting.",
           "quantity": "1 UNIT",
           "unit_cost": "$3,500 per UNIT",
           "markup": "0.75",
           "subtotal": "6125.00",
-          "confidence_score": "95"
+          "confidence_score": "90"
         },
         {
           "room": "Kitchen",
           "scope_item": "Kitchen Cabinets",
-          "description": "Installation of kitchen cabinets including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",
-          "quantity": "11 LF",
-          "unit_cost": "$9,200 per UNIT",
+          "description": "Install semi-custom kitchen cabinets, including base and wall cabinets.",
+          "quantity": "16 LF",
+          "unit_cost": "$850 per LF",
           "markup": "0.75",
-          "subtotal": "16100.00",
-          "confidence_score": "90"
+          "subtotal": "23800.00",
+          "confidence_score": "95"
         },
         {
           "room": "Kitchen",
           "scope_item": "Kitchen Countertops",
-          "description": "Fabrication and installation of kitchen countertops including template creation, edge treatments, and sink cutouts.",
+          "description": "Install quartz countertops with no seams, except in corners.",
           "quantity": "45 SF",
           "unit_cost": "$97 per SF",
           "markup": "0.75",
           "subtotal": "13763.75",
-          "confidence_score": "90"
+          "confidence_score": "95"
         },
         {
           "room": "Kitchen",
           "scope_item": "Kitchen Backsplash",
-          "description": "Installation of kitchen backsplash including tile preparation, tile installation, grout installation, tile sealing, and trim tiles.",
+          "description": "Install large tile backsplash to minimize grout lines.",
           "quantity": "10 LF",
-          "unit_cost": "$2,200 per UNIT",
+          "unit_cost": "$2,200 per 10 LF",
           "markup": "0.80",
           "subtotal": "3960.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Flooring",
+          "description": "Install high-end laminate flooring throughout the kitchen.",
+          "quantity": "160 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "1680.00",
           "confidence_score": "90"
         }
       ]
     },
     {
-      "name": "Bathroom Renovation",
+      "name": "Bathroom 1 Renovation",
       "items": [
         {
-          "room": "Bathroom",
+          "room": "Bathroom 1",
           "scope_item": "Bathroom Demolition",
-          "description": "Full gut of bathroom including removal of old fixtures, tile, vanity, flooring, and debris removal.",
+          "description": "Full gut of bathroom including removal of fixtures, tile, and flooring.",
           "quantity": "1 UNIT",
-          "unit_cost": "$2,200 per UNIT",
+          "unit_cost": "$3,300 per UNIT",
           "markup": "0.75",
-          "subtotal": "3850.00",
+          "subtotal": "5775.00",
           "confidence_score": "95"
         },
         {
-          "room": "Bathroom",
+          "room": "Bathroom 1",
           "scope_item": "Bathroom Plumbing",
-          "description": "Full gut plumbing replacement for existing location including toilet installation, sink installation, shower/tub installation, supply lines, drain lines, and vent lines.",
+          "description": "Full gut plumbing for existing location with double sinks and Japanese toilet.",
           "quantity": "1 UNIT",
-          "unit_cost": "$7,700 per UNIT",
+          "unit_cost": "$9,900 per UNIT",
           "markup": "0.75",
-          "subtotal": "13475.00",
-          "confidence_score": "95"
+          "subtotal": "17325.00",
+          "confidence_score": "90"
         },
         {
-          "room": "Bathroom",
+          "room": "Bathroom 1",
           "scope_item": "Bathroom Electrical",
-          "description": "Rough electrical wiring, installation of vanity lighting, exhaust fan, GFCI outlets, switch installation, and mirror lighting.",
+          "description": "Install new electrical outlets, lighting, and heated floor electrical.",
           "quantity": "1 UNIT",
           "unit_cost": "$3,500 per UNIT",
           "markup": "0.75",
           "subtotal": "6125.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Tile Work",
+          "description": "Install large tile flooring and wall tiles with minimal grout lines.",
+          "quantity": "106 SF",
+          "unit_cost": "$2,700 per SF",
+          "markup": "0.80",
+          "subtotal": "5148.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Fixtures",
+          "description": "Install new vanity, double sinks, frameless glass shower door, and Japanese toilet.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$4,250 per UNIT",
+          "markup": "0.75",
+          "subtotal": "7437.50",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom 2 Renovation",
+      "items": [
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Demolition",
+          "description": "Full gut of bathroom including removal of fixtures, tile, and flooring.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.50",
           "confidence_score": "95"
         },
         {
-          "room": "Bathroom",
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Plumbing",
+          "description": "Full gut plumbing for existing location with single sink and shower conversion.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$8,800 per UNIT",
+          "markup": "0.75",
+          "subtotal": "15400.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Electrical",
+          "description": "Install new electrical outlets and lighting.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 2",
           "scope_item": "Bathroom Tile Work",
-          "description": "Installation of bathroom floor and wall tiles including shower tile, grout installation, and tile sealing.",
-          "quantity": "51 SF",
-          "unit_cost": "$4,100 per UNIT",
+          "description": "Install large tile flooring and wall tiles with minimal grout lines.",
+          "quantity": "60 SF",
+          "unit_cost": "$2,300 per SF",
           "markup": "0.80",
-          "subtotal": "7380.00",
+          "subtotal": "4140.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Fixtures",
+          "description": "Install new vanity, single sink, frameless glass shower door.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$4,250 per UNIT",
+          "markup": "0.75",
+          "subtotal": "7437.50",
           "confidence_score": "90"
         }
       ]
@@ -117,31 +192,41 @@
         {
           "room": "Living Room",
           "scope_item": "Living Room Flooring",
-          "description": "Installation of new hardwood flooring including subfloor preparation, trim installation, and transition strips.",
-          "quantity": "248 SF",
+          "description": "Install high-end laminate flooring throughout the living room.",
+          "quantity": "770 SF",
           "unit_cost": "$6 per SF",
           "markup": "0.75",
-          "subtotal": "2604.00",
+          "subtotal": "8085.00",
           "confidence_score": "90"
         },
         {
           "room": "Living Room",
           "scope_item": "Living Room Painting",
-          "description": "Wall preparation, primer application, painting of walls and ceiling, and touch-up work.",
-          "quantity": "514 SF",
+          "description": "Paint walls and ceiling with Benjamin Moore regal select.",
+          "quantity": "770 SF",
           "unit_cost": "$10.3 per SF",
           "markup": "0.75",
-          "subtotal": "9283.05",
+          "subtotal": "13882.50",
           "confidence_score": "90"
         },
         {
           "room": "Living Room",
           "scope_item": "Living Room Electrical",
-          "description": "Installation of outlets, switches, light fixtures, ceiling fans, dimmer switches, and floor outlets.",
+          "description": "Install new outlets, switches, and light fixtures.",
           "quantity": "1 UNIT",
           "unit_cost": "$3,500 per UNIT",
           "markup": "0.75",
           "subtotal": "6125.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Trim",
+          "description": "Install new baseboards and crown molding.",
+          "quantity": "132 LF",
+          "unit_cost": "$14 per LF",
+          "markup": "0.75",
+          "subtotal": "3234.00",
           "confidence_score": "90"
         }
       ]
@@ -150,33 +235,43 @@
       "name": "Bedroom Renovation",
       "items": [
         {
-          "room": "Bedroom",
+          "room": "Bedroom 1",
           "scope_item": "Bedroom Flooring",
-          "description": "Installation of new flooring including subfloor preparation, transition strips, and closet flooring.",
-          "quantity": "78 SF",
+          "description": "Install high-end laminate flooring throughout the bedroom.",
+          "quantity": "180 SF",
           "unit_cost": "$6 per SF",
           "markup": "0.75",
-          "subtotal": "819.00",
+          "subtotal": "1890.00",
           "confidence_score": "90"
         },
         {
-          "room": "Bedroom",
+          "room": "Bedroom 1",
           "scope_item": "Bedroom Painting",
-          "description": "Wall preparation, primer application, painting of walls and ceiling, and closet painting.",
-          "quantity": "287 SF",
+          "description": "Paint walls and ceiling with Benjamin Moore regal select.",
+          "quantity": "180 SF",
           "unit_cost": "$10.3 per SF",
           "markup": "0.75",
-          "subtotal": "5181.53",
+          "subtotal": "3244.50",
           "confidence_score": "90"
         },
         {
-          "room": "Bedroom",
+          "room": "Bedroom 1",
           "scope_item": "Bedroom Electrical",
-          "description": "Installation of outlets, switches, light fixtures, ceiling fans, and closet lighting.",
+          "description": "Install new outlets, switches, and light fixtures.",
           "quantity": "1 UNIT",
           "unit_cost": "$3,500 per UNIT",
           "markup": "0.75",
           "subtotal": "6125.00",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom 1",
+          "scope_item": "Bedroom Trim",
+          "description": "Install new baseboards and crown molding.",
+          "quantity": "54 LF",
+          "unit_cost": "$14 per LF",
+          "markup": "0.75",
+          "subtotal": "1323.00",
           "confidence_score": "90"
         }
       ]
@@ -189,9 +284,9 @@
           "scope_item": "Post-Construction Cleaning",
           "description": "Comprehensive cleaning of the entire apartment post-renovation.",
           "quantity": "1 UNIT",
-          "unit_cost": "$1,925 per UNIT",
+          "unit_cost": "$2,750 per UNIT",
           "markup": "0.75",
-          "subtotal": "3368.75",
+          "subtotal": "4812.50",
           "confidence_score": "95"
         }
       ]

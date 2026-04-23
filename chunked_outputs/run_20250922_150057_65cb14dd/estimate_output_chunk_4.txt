@@ -1,0 +1,222 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/2025-08-15_135 East 18th_MEP summary.pdf
+[SUCCESS] Extracted 4422 characters from /Users/bhakt/Downloads/2025-08-15_135 East 18th_MEP summary.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250922_150057_65cb14dd/transcript_chunks/chunk_4.txt
+[SUCCESS] Read 5558 characters from chunked_outputs/run_20250922_150057_65cb14dd/transcript_chunks/chunk_4.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 42373 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Demolition",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Full gut demolition",
+          "description": "Remove all existing kitchen cabinets, countertops, appliances, flooring, backsplash, and disconnect electrical and plumbing.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,300 per UNIT",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Full gut demolition",
+          "description": "Remove all existing bathroom fixtures, tile, vanity, and flooring.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Full gut demolition",
+          "description": "Remove all existing bathroom fixtures, tile, vanity, and flooring.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Plumbing",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing for kitchen sink, garbage disposal, water supply lines, and drain lines.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,850 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing for toilet, sink, shower/tub, supply lines, and drain lines.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$8,800 per UNIT",
+          "markup": "0.75",
+          "subtotal": "15400",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Full gut plumbing",
+          "description": "Install new plumbing for toilet, sink, shower/tub, supply lines, and drain lines.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$8,800 per UNIT",
+          "markup": "0.75",
+          "subtotal": "15400",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Electrical",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen rewiring",
+          "description": "Complete rewiring of kitchen including new circuits for appliances, lighting, and outlets.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom electrical",
+          "description": "Install new electrical for vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom electrical",
+          "description": "Install new electrical for vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 per UNIT",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Flooring",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Hardwood flooring installation",
+          "description": "Install new hardwood flooring including subfloor preparation and trim installation.",
+          "quantity": "500 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "5250",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedrooms",
+          "scope_item": "Hardwood flooring installation",
+          "description": "Install new hardwood flooring including subfloor preparation and trim installation.",
+          "quantity": "400 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "4200",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Tile Work",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Tile backsplash installation",
+          "description": "Install new tile backsplash in kitchen.",
+          "quantity": "20 SF",
+          "unit_cost": "$2,200 per 10 SF",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Tile installation",
+          "description": "Install new tile on bathroom floors and walls.",
+          "quantity": "80 SF",
+          "unit_cost": "$4,100 per 80 SF",
+          "markup": "0.80",
+          "subtotal": "7380",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Tile installation",
+          "description": "Install new tile on bathroom floors and walls.",
+          "quantity": "80 SF",
+          "unit_cost": "$4,100 per 80 SF",
+          "markup": "0.80",
+          "subtotal": "7380",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Painting",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling in the living room.",
+          "quantity": "500 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.70",
+          "subtotal": "9027.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedrooms",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling in the bedrooms.",
+          "quantity": "400 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.70",
+          "subtotal": "7222",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Post-construction cleaning",
+          "description": "Comprehensive cleaning of the entire apartment post-renovation.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "85"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

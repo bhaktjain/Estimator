@@ -1,0 +1,90 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+Demolition,Bathroom 2,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$2,750 per UNIT",0.75,,4812.50,95
+Demolition,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, flooring, and backsplash. Disconnect electrical and plumbing. Debris removal and disposal.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,95
+Demolition,Bathroom 3,Bathroom Demolition,"Full gut of bathroom 3 including removal of fixtures, tub, tile, and flooring (DEMO-04: 60-80sf).",1 UNIT,"$2,750 per UNIT",0.75,,4812.5,95
+,,,,,,,,21175.00,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Bedroom 1,Install dropped ceiling,Install new dropped ceiling in Bedroom 1.,189.5 SF,$9 per SF,0.75,,2987.625,90
+Walls & Ceiling,Bedroom 2,Install dropped ceiling,Install new dropped ceiling in Bedroom 2.,110.6 SF,$9 per SF,0.75,,1743.45,90
+Walls & Ceiling,Kitchen,Install dropped ceiling,Install dropped ceiling section for recessed lighting in kitchen (concrete ceiling). FRAM-02.,80 SF,$9 per SF,0.75,,1260.0,90
+,,,,,,,,5991.07,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,Full gut plumbing for existing location with double sinks and Japanese toilet.,1 UNIT,"$9,900 per UNIT",0.75,,17325.00,90
+Plumbing,Bathroom 1,Bathroom Fixtures,"Install new vanity, double sinks, and Japanese toilet. Glass enclosure priced separately.",1 UNIT,"$4,250 per UNIT",0.75,,7437.50,90
+Plumbing,Bathroom 2,Bathroom Plumbing,Full gut plumbing for existing location with single sink and shower conversion.,1 UNIT,"$8,800 per UNIT",0.75,,15400.00,90
+Plumbing,Bathroom 2,Bathroom Fixtures,Install new vanity and single sink. Glass enclosure priced separately.,1 UNIT,"$4,250 per UNIT",0.75,,7437.50,90
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for existing location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,90
+Plumbing,Bathroom 3,Bathroom Rough Plumbing,Full gut plumbing with toilet relocation (shift right for double vanity) and new tub supply lines (PLMB-05: 60-80sf relocation).,1 UNIT,"$9,900 per UNIT",0.75,,17325.0,90
+Plumbing,Bathroom 3,Bathroom Fixtures,"Install double vanity, double sinks, new tub, and new fixtures.",1 UNIT,"$4,250 per UNIT",0.75,,7437.5,90
+,,,,,,,,79100.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Install new electrical outlets, lighting, and heated floor electrical.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Electrical,Bathroom 2,Bathroom Electrical,Install new electrical outlets and lighting.,1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Electrical,Bedroom 1,Bedroom Electrical,"Install new outlets, switches, and light fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Electrical,Kitchen,Kitchen Electrical,"Rough electrical, install lighting circuits, GFCI outlets, and under-cabinet lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Electrical,Living Room,Living Room Electrical,"Install new outlets, switches, and light fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Electrical,Bedroom 1,Recessed lighting installation,Install 4 recessed lights in Bedroom 1.,4 UNIT,$440 per UNIT,0.75,,3080,95
+Electrical,Bedroom 2,Recessed lighting installation,Install 4 recessed lights in Bedroom 2.,4 UNIT,$440 per UNIT,0.75,,3080,95
+Electrical,Bedroom 2,Pendant lighting installation,Install 1 pendant light in Bedroom 2.,1 UNIT,$440 per UNIT,0.75,,770,95
+Electrical,Bathroom 3,Bathroom Electrical,"Install new electrical outlets, lighting, and exhaust fan.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90
+Electrical,Kitchen,Recessed lighting installation,Install 4 recessed lights in kitchen ceiling (ELEC-15: new location).,4 UNIT,$440 per UNIT,0.75,,3080.0,95
+,,,,,,,,46760.00,
+Flooring,,,,,,,,,
+Flooring,Bedroom 1,Bedroom Flooring,Install high-end laminate flooring throughout the bedroom.,180 SF,$6 per SF,0.75,,1890.00,90
+Flooring,Kitchen,Kitchen Flooring,Install high-end laminate flooring throughout the kitchen.,160 SF,$6 per SF,0.75,,1680.00,90
+Flooring,Living Room,Living Room Flooring,Install high-end laminate flooring throughout the living room.,770 SF,$6 per SF,0.75,,8085.00,90
+Flooring,Bedroom 2,Bedroom Flooring,Install high-end laminate flooring in third bedroom (FINSH-09).,115 SF,$6 per SF,0.75,,1207.5,90
+Flooring,Bedroom 3,Bedroom Flooring,Install high-end laminate flooring in second bedroom (FINSH-09). Per client: only floors needed in this room.,150 SF,$6 per SF,0.75,,1575.0,90
+,,,,,,,,14437.50,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Floor Tile,Install large format floor tile with minimal grout lines (TILE-06: 80-100sf).,106 SF,"$2,700 per SF",0.80,,5148.00,90
+Tile,Bathroom 2,Bathroom Floor Tile,Install large format floor tile with minimal grout lines (TILE-04: 60-80sf).,60 SF,"$2,300 per SF",0.80,,4140.00,90
+Tile,Bathroom 3,Bathroom Floor Tile,Install large format floor tile (TILE-04: 60-80sf).,1 UNIT,"$2,300 per UNIT",0.8,,4140.0,90
+Tile,Bathroom 3,Bathroom Wall Tile,Install large format wall tile / tub surround with minimal grout lines (TILE-03: 60-80sf).,1 UNIT,"$3,400 per UNIT",0.8,,6120.0,90
+Tile,Bathroom 1,Bathroom Wall Tile,Install large slab / large format wall tile in shower area with minimal grout lines (TILE-05: 80-100sf).,1 UNIT,"$4,100 per UNIT",0.8,,7380.0,90
+Tile,Bathroom 2,Bathroom Wall Tile,Install large slab / large format wall tile in shower area with minimal grout lines (TILE-03: 60-80sf).,1 UNIT,"$3,400 per UNIT",0.8,,6120.0,90
+,,,,,,,,33048.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Bedroom Painting,Paint walls and ceiling with Benjamin Moore regal select.,180 SF,$10.50 per SF,0.75,,3307.5,90
+Painting & Wall Coverings,Living Room,Living Room Painting,Paint walls and ceiling with Benjamin Moore regal select.,770 SF,$10.50 per SF,0.75,,14148.75,90
+Painting & Wall Coverings,Bedroom 3,Bedroom Painting,Paint walls and ceiling with Benjamin Moore Regal Select (FINSH-05).,150 SF,$10.50 per SF,0.75,,2756.25,90
+Painting & Wall Coverings,Bedroom 2,Bedroom Painting,Paint walls and ceiling with Benjamin Moore Regal Select (FINSH-05).,115 SF,$10.50 per SF,0.75,,2113.12,90
+Painting & Wall Coverings,Kitchen,Kitchen Painting,Paint walls and ceiling with Benjamin Moore Regal Select (FINSH-05).,160 SF,$10.50 per SF,0.75,,2940.0,90
+,,,,,,,,25265.62,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,Install new baseboards and crown molding.,54 LF,$14 per LF,0.75,,1323.00,90
+Trims,Living Room,Living Room Trim,Install new baseboards and crown molding.,132 LF,$14 per LF,0.75,,3234.00,90
+Trims,Bedroom 3,Bedroom Trim,Install new baseboards (TRIM-01/02 blended rate).,50 LF,$14 per LF,0.75,,1225.0,90
+Trims,Bedroom 2,Bedroom Trim,Install new baseboards (TRIM-01/02 blended rate).,42 LF,$14 per LF,0.75,,1029.0,90
+Trims,Entire Apartment,Interior Doors,Supply and install 5 standard prehung interior doors throughout apartment (DOOR-01).,5 UNIT,$550 per UNIT,0.75,,4812.5,90
+Trims,Bathrooms 1 & 2,Pocket Doors,Supply and install 2 pocket doors for master bathroom and bathroom 2 (DOOR-02). Includes framing and drywall.,2 UNIT,"$1,320 per UNIT",0.75,,4620.0,90
+Trims,Bedrooms 1 & 2,Closet Sliding Doors,Supply and install 2 closet sliding/bifold doors for primary bedroom and third bedroom (DOOR-04).,2 UNIT,$825 per UNIT,0.75,,2887.5,90
+,,,,,,,,19131.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,"Install semi-custom kitchen cabinets, including base and wall cabinets.",16 LF,$850 per LF,0.75,,23800.00,95
+Cabinetry & Storage,Kitchen,Kitchen Cabinet Installation,"Labor to install kitchen cabinets, 16-20 LF (KITC-08). Supply priced separately.",1 UNIT,"$10,900 per UNIT",0.75,,19075.0,95
+Cabinetry & Storage,Bathroom 1,Linen Closet Construction,"Build new linen closet where existing shower is being removed. Includes framing, drywall, shelves and rod (MISC-13).",1 UNIT,"$1,155 per UNIT",0.75,,2021.25,90
+,,,,,,,,44896.25,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,"Install quartz countertops with no seams, except in corners.",45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install large tile backsplash to minimize grout lines.,10 LF,"$2,200 per 10 LF",0.80,,3960.00,90
+,,,,,,,,3960.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$2,750 per UNIT",0.75,,4812.50,95
+General Requirements,Bathroom 1,Frameless Glass Shower Enclosure,Supply and install frameless glass panel and door for shower (MISC-23).,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,90
+General Requirements,Bathroom 2,Frameless Glass Shower Enclosure,Supply and install frameless glass panel and door for shower (MISC-23).,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,90
+General Requirements,Entire Apartment,Permits & Fees,Building permits and associated fees for full apartment renovation (MISC-01).,1 LS,"$1,500 per LS",0.75,,2625.0,95
+General Requirements,Entire Apartment,Waste Removal & Dumpster,"Waste removal, dumpster, and debris disposal for full gut renovation (MISC-03).",1 LS,"$1,200 per LS",0.75,,2100.0,95
+,,,,,,,,18287.50,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 3,Waterproofing,Supply and install waterproofing on floors and walls prior to tile (WATR-02: 60-80sf).,1 UNIT,"$2,100 per UNIT",0.75,,3675.0,95
+Waterproofing,Bathroom 1,Waterproofing,Supply and install waterproofing on floors and walls prior to tile (WATR-03: 80-100sf).,1 UNIT,"$2,250 per UNIT",0.75,,3937.5,95
+Waterproofing,Bathroom 2,Waterproofing,Supply and install waterproofing on floors and walls prior to tile (WATR-02: 60-80sf).,1 UNIT,"$2,100 per UNIT",0.75,,3675.0,95
+,,,,,,,,11287.50,
+,,,,,,,,337103.20,
+,,,General Conditions (10%),,,,,33710.32,
+,,,Grand Total,,,,,370813.51,

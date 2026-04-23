@@ -1,0 +1,84 @@
+Section,Room,Item Name,Description,Quantity,Unit Cost,Markup,Total,Confidence
+Demolition,,,,,,,,
+,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,",750 per UNIT",0.75,",812.50",95
+,Kitchen,Full gut demolition,"Removal of all kitchen cabinets, countertops, appliances, and flooring.",1 UNIT,",300 per UNIT",0.75,",775.00",95
+,Bathroom 2,Full gut demolition,"Remove all existing bathroom fixtures, tile, vanity, and flooring.",1 UNIT,",750 per UNIT",0.75,",812.50",95
+Total,,,,,,,"$2,400.00",
+,,,,,,,,
+,,,,,,,,
+Plumbing,,,,,,,,
+,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement at existing location for 60-80 SF.,1 UNIT,",800 per UNIT",0.75,",400.00",95
+,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with existing location for 1 sink.,1 UNIT,",850 per UNIT",0.75,",737.50",95
+,Bathroom 2,Full gut plumbing,Installation of new plumbing for bathroom fixtures.,1 UNIT,",700 per UNIT",0.75,",475.00",90
+Total,,,,,,,"$1,612.50",
+,,,,,,,,
+,,,,,,,,
+Electrical,,,,,,,,
+,Bathroom 1,Bathroom electrical,"Install new electrical for vanity lighting, exhaust fan, GFCI outlets, and mirror lighting.",1 UNIT,",500 per UNIT",0.75,",125.00",95
+,Kitchen,Rewiring,Complete rewiring of kitchen electrical systems.,1 UNIT,",500 per UNIT",0.75,",125.00",90
+,Bathroom 2,Bathroom Electrical,Installation of new electrical fixtures including vanity lighting and GFCI outlets.,1 UNIT,",500 minimum",0.75,",125.00",90
+,Living Room,Living Room Electrical,"Installation of outlets, switches, and light fixtures.",1 UNIT,",500 minimum",0.75,",125.00",90
+,Bedroom 1,Recessed Lighting,Install 4 recessed lights in bedroom 1,4 EA, per EA,0.75,",925.00",95
+,Bedroom 2,Recessed Lighting,Install 4 recessed lights in bedroom 2,4 EA, per EA,0.75,",925.00",95
+,Bedroom 1,Pendant Light,Install 1 pendant light in bedroom 1,1 EA, per EA,0.75,.50,95
+,Bedroom 2,Pendant Light,Install 1 pendant light in bedroom 2,1 EA, per EA,0.75,.50,95
+Total,,,,,,,"$2,351.00",
+,,,,,,,,
+,,,,,,,,
+Walls & Ceiling,,,,,,,,
+,Living Room,Dropped Ceiling,Install dropped ceiling in living room,1 UNIT,",200 per UNIT",0.75,",850.00",95
+,Bedroom 1,Dropped Ceiling,Install dropped ceiling in bedroom 1,1 UNIT,",200 per UNIT",0.75,",850.00",95
+,Bedroom 2,Dropped Ceiling,Install dropped ceiling in bedroom 2,1 UNIT,",200 per UNIT",0.75,",850.00",95
+Total,,,,,,,"$2,550.00",
+,,,,,,,,
+,,,,,,,,
+Tile,,,,,,,,
+,Bathroom 1,Bathroom Tile Work,Install tile flooring and wall tile in bathroom.,1 UNIT,",200 per UNIT",0.75,",350.00",95
+,Bathroom 2,Bathroom Tile Work,Install tile flooring and wall tile in bathroom.,1 UNIT,",670 per UNIT",0.75,",672.50",95
+,Kitchen,Kitchen Flooring,Install tile flooring in kitchen.,1 UNIT,",470 per UNIT",0.75,",322.50",95
+Total,,,,,,,"$1,345.00",
+,,,,,,,,
+,,,,,,,,
+Cabinetry & Storage,,,,,,,,
+,Kitchen,Kitchen Cabinets,Install new kitchen cabinets with soft-close doors and drawers.,1 UNIT,",750 per UNIT",0.75,",312.50",95
+Total,,,,,,,$312.50,
+,,,,,,,,
+,,,,,,,,
+Countertops,,,,,,,,
+,Kitchen,Kitchen Countertops,Install quartz countertops with undermount sink.,1 UNIT,",860 per UNIT",0.75,",755.00",95
+Total,,,,,,,$755.00,
+,,,,,,,,
+,,,,,,,,
+Backsplash,,,,,,,,
+,Kitchen,Kitchen Backsplash,Install tile backsplash behind countertops.,1 UNIT,",260 per UNIT",0.75,",955.00",95
+Total,,,,,,,$955.00,
+,,,,,,,,
+,,,,,,,,
+Painting & Wall Coverings,,,,,,,,
+,Apartment,Repaint apartment,Prime and paint all walls and ceilings throughout apartment.,1 UNIT,",140 per UNIT",0.75,",745.00",95
+Total,,,,,,,$745.00,
+,,,,,,,,
+,,,,,,,,
+Flooring,,,,,,,,
+,Apartment,Refinish floors,Sand and refinish existing hardwood floors throughout apartment.,1 UNIT,",140 per UNIT",0.75,",995.00",95
+Total,,,,,,,$995.00,
+,,,,,,,,
+,,,,,,,,
+Trims,,,,,,,,
+,Apartment,Replace all baseboards,Install new baseboards throughout apartment.,1 UNIT,",640 per UNIT",0.75,",870.00",95
+Total,,,,,,,$870.00,
+,,,,,,,,
+,,,,,,,,
+Doors,,,,,,,,
+,Apartment,Replace all doors,Install new doors and hardware throughout apartment.,1 UNIT,",850 per UNIT",0.75,",737.50",95
+Total,,,,,,,$737.50,
+,,,,,,,,
+,,,,,,,,
+General Requirements,,,,,,,,
+,Apartment,Post-construction cleaning,Final cleaning after construction completion.,1 UNIT,",925 per UNIT",0.75,",368.75",95
+Total,,,,,,,$368.75,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,"$15,997.25",
+,,,General Conditions (10%),,,,"$1,599.73",
+,,,Grand Total,,,,"$17,596.97",

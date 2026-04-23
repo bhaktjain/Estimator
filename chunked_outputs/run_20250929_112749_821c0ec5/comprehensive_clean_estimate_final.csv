@@ -1,0 +1,50 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash Installation,Install new tile backsplash to match updated kitchen style.,20 SF,"$2,200 per 10 SF",0.80,,3960.00,90
+,,,,,,,,3960.00,
+Basement Renovation,,,,,,,,,
+Basement Renovation,Basement,Mini Wine Cellar Installation,Install mini wine cellar with climate control.,1 UNIT,"$5,000 per UNIT",0.75,,8750.00,85
+,,,,,,,,8750.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets Installation,"Installation of new kitchen cabinets, assuming 15 LF of cabinets.",15 LF,"$9,200 per UNIT",0.75,,16100,90
+,,,,,,,,16100.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Install new quartz countertops with waterfall design.,45 SF,$97 per SF,1.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Master Bathroom,Bathroom Demolition,"Full gut of master bathroom including removal of fixtures, tile, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+,,,,,,,,11550.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Kitchen Electrical,"Rewiring and installation of kitchen electrical components including outlets, switches, and lighting.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Master Bathroom,Bathroom Electrical,Installation of bathroom electrical components including lighting and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Basement,Theater Room Conversion,Convert unfinished basement into a theater room with electrical and sound system setup.,1 UNIT,"$15,000 per UNIT",0.75,,26250.00,85
+,,,,,,,,38500.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Installation of new kitchen flooring.,150 SF,$6 per SF,0.75,,1575.00,90
+Flooring,Basement,Basement Finishing,"Finishing of basement including flooring, walls, and ceiling.",1359.9 SF,$11 per SF,0.75,,26148.225,85
+Flooring,Bedroom,Flooring Installation,Installation of new herringbone flooring in bedroom.,200 SF,$6 per SF,0.75,,2100,85
+,,,,,,,,29823.22,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$4,400 per UNIT",0.75,,7700.00,95
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$1,925 per UNIT",0.75,,3368.75,85
+,,,,,,,,11068.75,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Island Installation,Install a new waterfall kitchen island to match existing kitchen style.,1 UNIT,"$2,400 per LF",0.75,,4200,90
+,,,,,,,,4200.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Painting,Painting of bedroom walls and ceiling.,200 SF,$10.3 per SF,0.70,,3507,85
+,,,,,,,,3507.00,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for kitchen with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,90
+Plumbing,Master Bathroom,Shower Installation,Install new spacious shower with updated fixtures.,1 UNIT,"$9,900 per UNIT",0.75,,17325.00,90
+,,,,,,,,24062.50,
+Tile,,,,,,,,,
+Tile,Master Bathroom,Bathroom Tile Work,Installation of new tile on bathroom floors and walls.,100 SF,"$4,100 per 80-100 SF",0.80,,7380,90
+,,,,,,,,7380.00,
+Waterproofing,,,,,,,,,
+Waterproofing,Master Bathroom,Bathroom Waterproofing,Installation of waterproofing systems for bathroom floors and walls.,1 UNIT,"$2,250 per UNIT",0.65,,3712.5,85
+,,,,,,,,3712.50,
+,,,,,,,,176377.73,
+,,,General Conditions (10%),,,,,17637.77,
+,,,Grand Total,,,,,194015.50,

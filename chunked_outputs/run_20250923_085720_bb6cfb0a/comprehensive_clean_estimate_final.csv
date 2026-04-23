@@ -1,0 +1,45 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,"Installation of kitchen backsplash tile, including tile preparation, installation, grout installation, and tile sealing.",10 LF,"$2,200 per 10 LF",0.80,,3960.00,95
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,"Supply and installation of semi-custom kitchen cabinets, including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",15 LF,$850 per LF,0.75,,22312.50,95
+,,,,,,,,22312.50,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,"Fabrication and installation of quartz countertops, including template creation, edge treatments, and sink cutouts.",45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,750",0.75,,4812.5,95
+Demolition,Bathroom 2,Bathroom Demolition,"Full gut of secondary bathroom including removal of fixtures, tile, vanity, flooring, and debris removal.",34 SF,"$2,200 per UNIT",0.75,,3850.00,95
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300",0.75,,5775,95
+,,,,,,,,14437.50,
+Doors,,,,,,,,,
+Doors,Entire Apartment,Door Replacement,Replacement of all interior doors throughout the apartment.,10 UNITS,$550 per UNIT,0.75,,9625.00,95
+,,,,,,,,9625.00,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Installation of vanity lighting, exhaust fan, and GFCI outlets.",1 UNIT,"$3,500",0.75,,6125,90
+Electrical,Bedroom 1,Electrical,"Installation of recessed lighting, pendant lighting, and new outlets.",5 UNITS,$440 per UNIT,0.75,,3850.00,95
+,,,,,,,,9975.00,
+Flooring,,,,,,,,,
+Flooring,Bedroom 1,Flooring Refinishing,Sanding and refinishing of existing hardwood flooring.,189.5 SF,$5 per SF,0.75,,1656.88,95
+,,,,,,,,1656.88,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Commercial Cleaning,Post-construction cleaning for apartment size 983.6 SF.,1 UNIT,"$1,925",0.75,,3368.75,95
+,,,,,,,,3368.75,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Painting,Painting of walls and ceiling with primer and two coats of paint.,561.8 SF,$10.3 per SF,0.75,,10134.68,95
+,,,,,,,,10134.68,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement for existing location.,1 UNIT,"$8,800",0.75,,15400,95
+Plumbing,Bathroom 2,Bathroom Plumbing,"Full gut plumbing for secondary bathroom including shower to tub conversion, wall-mounted toilet installation, sink installation, supply lines, drain lines, and vent lines.",1 UNIT,"$7,700 per UNIT",0.75,,13475.00,95
+Plumbing,Kitchen,Kitchen Plumbing,"Full gut plumbing for existing location with one sink, including rough plumbing, sink installation, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,,6737.50,95
+,,,,,,,,35612.50,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,"Installation of bathroom floor and wall tiles, including shower tile, grout installation, and tile sealing.",60 SF,"$2,600 per SF",0.80,,4680.00,95
+,,,,,,,,4680.00,
+Trims,,,,,,,,,
+Trims,Entire Apartment,Baseboard Replacement,Replacement of all baseboards throughout the apartment.,983.6 LF,$11 per LF,0.75,,18963.90,95
+,,,,,,,,18963.90,
+,,,,,,,,148490.46,
+,,,General Conditions (10%),,,,,14849.05,
+,,,Grand Total,,,,,163339.51,

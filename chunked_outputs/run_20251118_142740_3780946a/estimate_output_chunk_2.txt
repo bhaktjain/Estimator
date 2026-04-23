@@ -1,0 +1,192 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] 35 Springfield Rd, North Brunswick 1st FL.pdf
+[SUCCESS] Extracted 22495 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] 35 Springfield Rd, North Brunswick 1st FL.pdf
+[INFO] Processing file 3: chunked_outputs/run_20251118_142740_3780946a/transcript_chunks/chunk_2.txt
+[SUCCESS] Read 5908 characters from chunked_outputs/run_20251118_142740_3780946a/transcript_chunks/chunk_2.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 79098 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Cabinet Installation",
+          "description": "Install new kitchen cabinets, including base and wall cabinets.",
+          "quantity": "20 LF",
+          "unit_cost": "$7,600 per 10 LF",
+          "markup": "0.75",
+          "subtotal": "26600",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Countertop Installation",
+          "description": "Install new quartz countertops.",
+          "quantity": "45 SF",
+          "unit_cost": "($1,500 installation + $97/sqft × SF + $2,000 material) × 1.75",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Backsplash Installation",
+          "description": "Install tile backsplash.",
+          "quantity": "10 LF",
+          "unit_cost": "$2,200 per 10 LF",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Flooring Installation",
+          "description": "Install new hardwood flooring.",
+          "quantity": "406.5 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "4268.25",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen 1",
+          "scope_item": "Electrical Work",
+          "description": "Install new kitchen lighting circuits, GFCI outlets, and under-cabinet lighting.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom Renovation",
+      "items": [
+        {
+          "room": "Bathroom",
+          "scope_item": "Tub to Shower Conversion",
+          "description": "Convert existing tub to a shower.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$1,375",
+          "markup": "0.75",
+          "subtotal": "2406.25",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Tile Installation",
+          "description": "Install new bathroom floor and wall tiles.",
+          "quantity": "24.3 SF",
+          "unit_cost": "$2,600 for walls, $2,000 for floors",
+          "markup": "0.80",
+          "subtotal": "8160",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Plumbing Work",
+          "description": "Install new plumbing fixtures including toilet, sink, and shower.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$7,700",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Living Room Renovation",
+      "items": [
+        {
+          "room": "Living Room 1",
+          "scope_item": "Flooring Installation",
+          "description": "Install new hardwood flooring.",
+          "quantity": "279.9 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "2944.88",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Living Room 1",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling.",
+          "quantity": "633.8 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "11406.15",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room 1",
+          "scope_item": "Electrical Work",
+          "description": "Install new outlets, switches, and light fixtures.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Bedroom",
+          "scope_item": "Flooring Installation",
+          "description": "Install new hardwood flooring.",
+          "quantity": "150 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "1575",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling.",
+          "quantity": "308.4 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "5546.85",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Electrical Work",
+          "description": "Install new outlets, switches, and light fixtures.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$3,500 minimum",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire House",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of all renovated areas.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

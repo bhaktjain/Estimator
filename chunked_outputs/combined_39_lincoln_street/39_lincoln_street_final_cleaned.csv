@@ -1,0 +1,43 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Attic Renovation,Attic,New Staircase Installation,Install a new staircase to the attic.,1 UNIT,"$1,200 per UNIT",0.75,,2100.0,85.0
+Backsplash,Kitchen,Kitchen Backsplash,"Tile preparation, installation, grout installation, tile sealing, and trim tiles for kitchen backsplash.",10 FT,"$2,200 per 10 FT",0.8,,3960.0,95.0
+Basement Renovation,Basement,Crawl Space Closure,Close crawl space with concrete.,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,90.0
+Basement Renovation,Basement,Refinish Basement,Complete refinishing of basement including walls and ceilings.,500 SF,$4 per SF,0.75,,3500.0,90.0
+Cabinetry,Kitchen,Kitchen Cabinets,Installation of semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.5,95.0
+Countertops,Kitchen,New Kitchen,"Install new kitchen including cabinets, countertops, and appliances.",1 UNIT,"$43,690 per UNIT",0.75,,76457.5,95.0
+Demolition,Bedroom 1,Bedroom Flooring,"Subfloor preparation, installation of hardwood flooring, transition strips, and closet flooring.",387 SF,$6 per SF,0.75,,4056.75,95.0
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, backsplash, electrical disconnection, plumbing disconnection, debris removal, and protection of adjacent areas.",1 UNIT,"$3,300 per UNIT",0.75,,5775.0,95.0
+Demolition,Kitchen,Wall Removal for Open Concept,Remove two walls to create open concept kitchen layout,2 WALLS,"$1,750 per WALL",0.75,%,6125.0,85.0
+Demolition,Primary Bathroom,Full Gut Renovation,Full gut and renovation of primary bathroom.,1 UNIT,"$9,900 per UNIT",0.75,,17325.0,90.0
+Demolition,Primary Bathroom,Full Gut Primary Bathroom,Full gut and renovation of primary bathroom.,1 UNIT,"$9,900 per UNIT",0.75,,17325.0,95.0
+Demolition,Bathroom,Full Gut Renovation,Full gut and renovation of secondary bathroom.,1 UNIT,"$8,800 per UNIT",0.75,,15400.0,90.0
+Doors,Attic,Barn Door Installation,Install a barn door in the attic.,1 UNIT,"$1,320 per UNIT",0.75,,2310.0,85.0
+Doors,First Floor,Sliding Door Installation,Replace window with sliding door on front balcony.,1 UNIT,"$1,500 per UNIT",0.75,,2625.0,85.0
+Electrical,First Floor,First Floor Lighting Replacement,Replace all lighting fixtures throughout first floor,1 FLOOR,"$4,500 per FLOOR",0.75,%,7875.0,90.0
+Electrical,Whole House,Electrical Rewiring,Rewire the whole house for better electrical organization.,2046 SF,$17 per SF,0.75,,60817.5,90.0
+First Floor Renovation,First Floor,New Washer/Dryer Room,Install a new washer/dryer room.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,85.0
+First Floor Renovation,First Floor,Remove Mud Room,Remove the mud room to expand the kitchen.,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,85.0
+Flooring,Attic,Floor Installation,Install new flooring in the attic.,548.6 SF,$6 per SF,0.75,,5754.45,90.0
+Flooring,Bedroom,Bedroom Flooring,Installation of new hardwood flooring.,50 SF,$6 per SF,0.75,,525.0,90.0
+Flooring,First Floor,Level Floors,Level the floors with the extension height of 5 inches.,1319 SF,$6 per SF,0.75,,13840.5,90.0
+Flooring,Kitchen,Kitchen Flooring,Installation of new hardwood flooring.,205 SF,$6 per SF,0.75,,2156.25,90.0
+Flooring,Living Room,Living Room Flooring,Installation of new hardwood flooring.,246 SF,$6 per SF,0.75,,2587.5,90.0
+Flooring,Second Floor,Install New Floors,Install new floors throughout the second floor.,548.6 SF,$6 per SF,0.75,,5754.45,90.0
+General Requirements,Basement,Crawl Space Closure,Close crawl space entrance with concrete wall and proper sealing,1 UNIT,"$2,500 per UNIT",0.75,%,4375.0,90.0
+Heating and Cooling,General,HVAC System Installation,Install HVAC system for two floors.,1 UNIT,"$8,250 per UNIT",0.6,,13200.0,85.0
+Painting & Wall Coverings,Bedroom,Bedroom Painting,Painting of walls and ceiling.,155 SF,$10.3 per SF,0.75,,2790.9375,85.0
+Painting & Wall Coverings,Bedroom 1,Bedroom Painting,"Wall preparation, primer application, paint walls, paint ceiling, and closet painting.",432 SF,$10.3 per SF,0.75,,7788.0,95.0
+Painting & Wall Coverings,Living Room,Living Room Painting,"Wall preparation, primer application, paint walls, paint ceiling, and touch-up work.",400 SF,$10.3 per SF,0.75,,7210.0,95.0
+Plumbing,Bathroom,Bathroom Plumbing,Full gut plumbing for existing location.,1 UNIT,"$7,700 per UNIT",0.75,,13475.0,95.0
+Plumbing,Bathroom,Bathroom Plumbing,"Full gut plumbing replacement for existing location, including rough plumbing, toilet installation, sink installation, shower/tub installation, supply lines, drain lines, and vent lines.",1 UNIT,"$7,700 per UNIT",0.75,,13475.0,95.0
+Plumbing,Kitchen,Kitchen Plumbing,"Full gut plumbing for existing location with 1 sink, including rough plumbing, kitchen sink installation, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95.0
+Second Floor Renovation,Bedroom,Change Bedroom Layout,Change the layout of the two bedrooms.,2 UNIT,"$2,500 per UNIT",0.75,,8750.0,85.0
+Tile,Basement,Tile Installation,Install new tile flooring in the basement.,500 SF,$6 per SF,0.8,,5400.0,90.0
+Tile,Bathroom,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,33 SF,"$2,600 per 60 SF",0.8,,4680.0,90.0
+Tile,Bathroom,Bathroom Tile Work,"Floor tile preparation, installation, wall tile installation, shower tile, grout installation, and tile sealing.",80 SF,"$4,100 per 80 SF",0.8,,7380.0,95.0
+Trims,Bedroom 1,Bedroom Trim,"Baseboard installation, window casings, door casings, and closet trim.",100 LF,$5 per LF,0.75,,875.0,95.0
+Trims,Living Room,Living Room Trim,"Baseboard installation, crown molding, window casings, door casings, and quarter round.",100 LF,$5 per LF,0.75,,875.0,95.0
+Walls & Ceiling,Attic,Sound Insulation Installation,Install sound insulation in attic walls and ceiling,1 ATTIC,"$3,200 per ATTIC",0.75,%,5600.0,85.0
+Painting & Wall Coverings,Whole House,Wall Patching and Painting,Patch and paint walls throughout the house,6509 SF,.3 per SF,0.7,%,114347.55,90
+General Requirements,Whole House,Commercial Cleaning,Post-construction commercial cleaning for entire house,1 UNIT,",750 per UNIT",0.75,%,4812.50,95
+Demolition,Bathroom,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, and flooring.",33 SF,"$2,200 per UNIT",0.75,,3850.0,95.0

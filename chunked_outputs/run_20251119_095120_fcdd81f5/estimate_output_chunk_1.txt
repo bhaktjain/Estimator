@@ -1,0 +1,177 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: chunked_outputs/run_20251119_095120_fcdd81f5/polycam_chunks/polycam.pdf
+[SUCCESS] Extracted 19258 characters from chunked_outputs/run_20251119_095120_fcdd81f5/polycam_chunks/polycam.pdf
+[INFO] Processing file 3: chunked_outputs/run_20251119_095120_fcdd81f5/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5749 characters from chunked_outputs/run_20251119_095120_fcdd81f5/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 61372 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Bathroom Renovation",
+      "items": [
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Demolition",
+          "description": "Full gut of existing bathroom including removal of fixtures, tile, and flooring.",
+          "quantity": "44 SF",
+          "unit_cost": "$3,300 per unit",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Plumbing",
+          "description": "Full gut replacement of plumbing fixtures in existing location.",
+          "quantity": "44 SF",
+          "unit_cost": "$7,700 per unit",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Tile Work",
+          "description": "Installation of new floor and wall tiles.",
+          "quantity": "44 SF",
+          "unit_cost": "$2,000 per floor, $2,600 per wall",
+          "markup": "0.80",
+          "subtotal": "7920",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Electrical",
+          "description": "Installation of new GFCI outlets and lighting fixtures.",
+          "quantity": "2 UNIT",
+          "unit_cost": "$55 per outlet, $165 per fixture",
+          "markup": "0.75",
+          "subtotal": "385",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bathroom",
+          "scope_item": "Bathroom Waterproofing",
+          "description": "Installation of waterproofing membrane on floors and walls.",
+          "quantity": "44 SF",
+          "unit_cost": "$1,900 per unit",
+          "markup": "0.65",
+          "subtotal": "3325",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Living Room Renovation",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Flooring",
+          "description": "Installation of new hardwood flooring.",
+          "quantity": "400 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "4200",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Painting",
+          "description": "Painting of walls and ceiling.",
+          "quantity": "400 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.70",
+          "subtotal": "7210",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Electrical",
+          "description": "Installation of new outlets and light fixtures.",
+          "quantity": "4 UNIT",
+          "unit_cost": "$55 per outlet, $165 per fixture",
+          "markup": "0.75",
+          "subtotal": "770",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Living Room Trim",
+          "description": "Installation of new baseboards and crown molding.",
+          "quantity": "94 LF",
+          "unit_cost": "$5 per LF",
+          "markup": "0.70",
+          "subtotal": "799",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Flooring",
+          "description": "Installation of new carpet flooring.",
+          "quantity": "190 SF",
+          "unit_cost": "$6 per SF",
+          "markup": "0.75",
+          "subtotal": "1995",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Painting",
+          "description": "Painting of walls and ceiling.",
+          "quantity": "190 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.70",
+          "subtotal": "3421",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Electrical",
+          "description": "Installation of new outlets and light fixtures.",
+          "quantity": "3 UNIT",
+          "unit_cost": "$55 per outlet, $165 per fixture",
+          "markup": "0.75",
+          "subtotal": "577.5",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Bedroom Trim",
+          "description": "Installation of new baseboards and crown molding.",
+          "quantity": "63 LF",
+          "unit_cost": "$5 per LF",
+          "markup": "0.70",
+          "subtotal": "535.5",
+          "confidence_score": "90"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire House",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of all renovated areas.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750",
+          "markup": "0.75",
+          "subtotal": "4812.5",
+          "confidence_score": "85"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

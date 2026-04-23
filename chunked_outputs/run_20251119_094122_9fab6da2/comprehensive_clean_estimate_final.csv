@@ -1,0 +1,37 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,General,Pre-construction site preparation,"Pre-construction site preparation -Protect and seal entry doors, grilles, and other openings at the house. -Set up zipper walls and containments to prevent dust from spreading to other areas as required by the construction scope of work.",1 UNIT,"$2,500.00 per UNIT",0.75,,4375.00,90
+Demolition,General,Demolition of existing structures,"Existing House -Demolition and removal of existing siding, trim, and sheathing at the existing wall where the new extension will connect. -Demolition and removal of structural wall framing to create new opening for the new extension. -Removal of existing bay window and other windows. -Demolition and removal of existing roof, overhangs, gutters, or eaves as needed for proper roof tie-in with the new extension. *Debris removal and disposal included",600 SF,$7.00 per SF,0.75,,7350.00,90
+,,,,,,,,11725.00,
+Doors,,,,,,,,,
+Doors,General,New Doors Installation,"New Extension Area -Installation of (6) new standard interior doors, door frames, and door trims throughout the new extension area. *Doors and Hardware not included",8 UNIT,$550.00 per UNIT,0.75,,7700.00,90
+,,,,,,,,7700.00,
+Electrical,,,,,,,,,
+Electrical,General,Electrical,New Extension Area -Supply and install new electrical panel for panel upgrade at existing location. -Supply and install (12) new outlets throughout the bedrooms in the new extension area as per code requirements at new locations. -Install (6) new light fixtures throughout the new extension area at new locations. -Supply and install (6) new switches throughout the new extension area at new locations. *Light fixtures not included *All electrical work to be done by a licensed insured electrician,4 UNIT,"$3,500.00 per UNIT",0.75,,24500.00,90
+,,,,,,,,24500.00,
+Flooring,,,,,,,,,
+Flooring,General,2nd Floor Extension Flooring Installation,"2nd Floor New Extension Area -Supply and install engineered floor joist system throughout the new 2nd floor extension, including rim boards and intermediate blocking. -Supply and install all required structural connectors, joist hangers, and hardware per manufacturer and code. -Supply and install new subflooring over new level floor joists. -Supply and install acoustic flooring underlayment throughout the new bedroom in the new 2nd floor extension. -Installation of new hardwood flooring throughout the new 2nd floor extension. *Hardwood flooring material not included",600 SF,$7.00 per SF,0.75,,7350.00,90
+,,,,,,,,7350.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,General,Painting,"New Extension Area -Supply and apply 1 coat of primer and 2 coats of paint on walls, ceiling, frames, and doors throughout the new extension areas. *Benjamin Moore regal select",1200 SF,$4.50 per SF,0.75,,9450.00,90
+,,,,,,,,9450.00,
+Plumbing,,,,,,,,,
+Plumbing,General,New Interior Partition Walls,"1st & 2nd Floor New Extension Area -Frame all interior partition walls with 2ֳ—4 studs at 16"" OC, including top and bottom plates, blocking, and framing. -Provide framing for plumbing and mechanical runs where required, including soffits or fur-downs. -Supply and install all required structural hardware, bracing, and fire-blocking per code. -Supply and install drywall on both sides of all interior walls. *Tape, plaster, sand, and prepare walls to the above spaces to receive new finishes",1200 SF,$8.00 per SF,0.75,,16800.00,90
+Plumbing,1st Floor New Extension - New Bathroom,Plumbing,"1st Floor New Extension - New Bathroom -Supply and install new water and waste line to main water supply and drainage at new locations. -Supply and install new water and waste rough-in for sink at new locations. -Install toilet, sink, faucet, and shower fixtures at new locations. -Supply and install lead pan or PVC liner for the new shower area. -Install new shut-off valves. -Supply and install fireproofing at all floor and wall penetrations. *Plumbing fixtures and finishes are not included *All plumbing work to be done by a licensed insured plumber *Includes pipe insulation on all waterlines",1 UNIT,"$9,900.00 per UNIT",0.75,,17325.00,90
+Plumbing,Exterior,Slab-on-Grade Construction,"New Extension Area (Approx. 600 SF) -Prepare subgrade inside foundation perimeter by verifying compaction and elevation of granular base material. -Supply and install a minimum 4"" thick compacted crushed stone or gravel base across the entire slab area. -Supply and install 6 mil polyethylene vapor barrier over the stone base, properly lapped and sealed at seams. -Furnish and place slab reinforcement (e.g., welded wire mesh or rebar) per structural design. -Provide sleeves and block-outs for underslab plumbing, electrical, and mechanical penetrations. -Supply, pour, and finish 4"" thick reinforced concrete slab with hand-trowel or power-float finish, per specifications.",600 SF,$20.00 per SF,0.75,,21000.00,90
+,,,,,,,,55125.00,
+Structural & Framing,,,,,,,,,
+Structural & Framing,Exterior,Custom Item,"Roof Installation -Frame new dormer walls using 2x6 wood studs, securely tied into existing rafters and ceiling joists. -Supply and install new dormer rafters, ridge beam, jack rafters, and ties as required for structural support. Sheath dormer walls and roof with exterior-grade plywood or OSB. -Supply and install roof sheathing over the entire roof area (including dormer) with exterior-grade plywood or OSB. -Supply and Install synthetic underlayment or peel-and-stick membrane over all roof surfaces for weather protection. -Flash and trim dormer connections, roof edges, and penetrations with metal flashing and PVC or wood trim as required. -Supply and install roof insulation within dormer wall and roof cavities per code.",1 UNIT,"$25,000.00 per UNIT",0.75,,43750.00,90
+,,,,,,,,43750.00,
+Tile,,,,,,,,,
+Tile,1st Floor New Extension - New Bathroom,Tile floor installation,"1st Floor New Extension - New Bathroom -Prepare the subfloor, ensuring it is suitable for tile installation. -Installation of new floor tiles throughout the bathroom. -Supply and apply new grout. -Installation of grout sealer on all grout joints. *Tiles and saddles are not included",1 UNIT,"$2,000.00 per UNIT",0.8,,3600.00,90
+,,,,,,,,3600.00,
+Waterproofing,,,,,,,,,
+Waterproofing,1st Floor New Extension - New Bathroom,Waterproofing,1st Floor New Extension - New Bathroom -Supply and Install new waterproofing membrane on bathroom walls and bathroom floor.,1 UNIT,"$2,100.00 per UNIT",0.75,,3675.00,90
+,,,,,,,,3675.00,
+Windows,,,,,,,,,
+Windows,Exterior,New Windows Installation,New Extension Area -Installation of (18) new windows throughout the new extension area. -Installation of (1) new baywindow in the new extension area. *Windows and Hardware not included,6 UNIT,"$1,200.00 per UNIT",0.75,,12600.00,90
+,,,,,,,,12600.00,
+,,,,,,,,179475.00,
+,,,General Conditions (10%),,,,,17947.50,
+,,,Grand Total,,,,,197422.50,

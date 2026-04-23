@@ -1,0 +1,62 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Installation of large tile backsplash.,10 ft,"$2,200 per 10 ft",0.80,,3960,90
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Installation of standard kitchen cabinets up to 10FT.,1 UNIT,"$7,600 per UNIT",0.75,,13300,95
+Cabinetry & Storage,Laundry/Boot Room,Utility Cabinets and Shelving,Base/upper utility cabinets and open shelving install.,8 LF,$250 per LF,0.75,,3500.0,85
+,,,,,,,,16800.00,
+Carpentry,,,,,,,,,
+Carpentry,Exterior,New Deck Installation,"Pressure-treated framing and decking, stairs, basic railing (allowance).",200 SF,$45 per SF,0.75,,15750.0,80
+,,,,,,,,15750.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabrication and installation of quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",1 UNIT,"$2,200 per UNIT",0.75,,3850,95
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+,,,,,,,,9625.00,
+Doors,,,,,,,,,
+Doors,Garage,Replace/Modify Garage Doors,Replace or rework existing garage doors incl. tracks and hardware (pair).,2 UNIT,$1800 per UNIT,0.75,,6300.0,80
+,,,,,,,,6300.00,
+Electrical,,,,,,,,,
+Electrical,Entire House,Electrical Panel Upgrade and Centralization,"New main panel/subpanel work, labeling, AFCI/GFCI updates.",1 UNIT,$4200 per UNIT,0.75,,7350.0,90
+,,,,,,,,7350.00,
+Flooring,,,,,,,,,
+Flooring,Bedroom 1,Bedroom Flooring,Installation of new hardwood flooring.,636 SF,$6 per SF,0.75,,6678,90
+,,,,,,,,6678.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Commercial Cleaning,Post-construction cleaning of entire house.,1 UNIT,"$4,400 per UNIT",0.75,,7700,95
+,,,,,,,,7700.00,
+Heating and Cooling,,,,,,,,,
+Heating and Cooling,Entire House,HVAC Centralization Rough-Ins and Tie-In,"Rough-ins, ductwork modifications, equipment tie-in (allowance).",1 UNIT,$8500 per UNIT,0.75,,14875.0,80
+,,,,,,,,14875.00,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Plumbing,Full gut plumbing replacement for existing bathroom location.,1 UNIT,"$7,700 per UNIT",0.75,,13475,95
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for existing location with 1 sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Plumbing,Laundry/Boot Room,Laundry Plumbing Rough and Hookups,"Supply/drain for washer, pan/drain, utility sink rough/finish.",1 UNIT,$2800 per UNIT,0.75,,4900.0,90
+Plumbing,Bathroom,Bathroom Plumbing,Full gut plumbing for existing location.,1 UNIT,"$7,700 per UNIT",0.75,,13475,95
+,,,,,,,,38587.50,
+Roofing,,,,,,,,,
+Roofing,Entire House,Remove and Replace Shingle Roof,"Tear-off, underlayment, architectural shingles, flashing, vents (allowance).",1800 SF,$6 per SF,0.75,,18900.0,80
+,,,,,,,,18900.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Installation of wall and floor tiles in bathroom.,80 SF,"$3,400 per 60-80 SF",0.80,,6120,90
+Tile,Kitchen,Kitchen Flooring,Installation of new tile flooring in kitchen.,80 SF,"$2,400 per 60-80 SF",0.80,,4320,90
+Tile,Laundry/Boot Room,Tile Flooring Installation,Prep and install tile flooring with grout and trims.,120 SF,$12 per SF,0.80,,2592.0,90
+Tile,Bathroom,Bathroom Tile Work,Installation of bathroom floor and wall tiles.,56.5 SF,"$2,600 per 60 SF",0.80,,4680,90
+,,,,,,,,17712.00,
+Trims,,,,,,,,,
+Trims,Living Room,Living Room Trim,Installation of baseboards and crown molding.,100 LF,$9 per LF,0.70,,1575,90
+,,,,,,,,1575.00,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Bedroom 2,Build New Closet Partition and Finishes,"Frame partition, drywall/finish, paint, basic shelving/rod.",1 UNIT,$1800 per UNIT,0.75,,3150.0,90
+Walls & Ceiling,Extension,Drywall Install and Finish,"Hang, tape, and finish drywall in new extension areas.",400 SF,$6 per SF,0.75,,4200.0,90
+Walls & Ceiling,Extension,Extension Framing and Sheathing,"New extension structural framing, sheathing, weather barrier, basic exterior tie-in.",1 UNIT,$28000 per UNIT,0.75,,49000.0,90
+,,,,,,,,56350.00,
+Waterproofing,,,,,,,,,
+Waterproofing,Bathroom 1,Bathroom Waterproofing,Installation of waterproofing system for bathroom floors and walls.,80 SF,"$2,100 per 60-80 SF",0.65,,3465,90
+,,,,,,,,3465.00,
+,,,,,,,,239391.25,
+,,,General Conditions (10%),,,,,23939.12,
+,,,Grand Total,,,,,263330.38,

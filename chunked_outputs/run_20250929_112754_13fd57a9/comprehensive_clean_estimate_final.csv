@@ -1,0 +1,47 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash Installation,Install new tile backsplash to match updated kitchen design.,30 SF,"$2,200",0.80,,3960,90
+,,,,,,,,3960.00,
+Basement Renovation,,,,,,,,,
+Basement Renovation,Basement,Mini Wine Cellar Construction,Construct mini wine cellar with climate control.,1 UNIT,"$5,000",0.75,,8750,85
+,,,,,,,,8750.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets Installation,"Installation of new kitchen cabinets including base and wall cabinets, crown molding, cabinet hardware, soft-close hinges, and drawer slides.",15 LF,"$9,200 per UNIT",0.75,,16100,90
+,,,,,,,,16100.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Install new quartz countertops with waterfall design.,45 SF,$97 per SF,1.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bedroom,Flooring Installation,"Installation of new flooring including subfloor preparation, flooring installation, transition strips, and closet flooring.",364 SF,$6 per SF,0.75,,3822,90
+Demolition,Master Bathroom,Bathroom Demolition,"Full gut of bathroom including removal of old fixtures, tile, vanity, flooring, and debris removal.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, backsplash, electrical disconnection, plumbing disconnection, debris removal, and protection of adjacent areas.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+,,,,,,,,15372.00,
+Electrical,,,,,,,,,
+Electrical,Bedroom,Electrical Work,"Installation of outlets, switches, light fixtures, ceiling fans, closet lighting, bedside outlets, and USB outlets.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Master Bathroom,Bathroom Electrical,"Rough electrical including vanity lighting, exhaust fan installation, GFCI outlets, switch installation, mirror lighting, and heated floor electrical.",1 UNIT,"$3,500 per UNIT",0.75,,6125,90
+Electrical,Kitchen,Electrical Reallocation,Reallocate outlets and control panel for AC due to wall removal.,1 UNIT,"$3,500 minimum",0.75,,6125,85
+Electrical,Basement,Theater Room Construction,Transform unfinished basement into a theater room with electrical setup.,1 UNIT,"$15,000",0.75,,26250,85
+,,,,,,,,44625.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,"Installation of new kitchen flooring, estimated 100 SF.",100 SF,$6 per SF,0.75,,1050,85
+,,,,,,,,1050.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas post-construction.,1 UNIT,"$1,925 for 1,200-1,800 sf",0.75,,3368.75,95
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$4,400",0.75,,7700,95
+,,,,,,,,11068.75,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Island Installation,Install a new waterfall kitchen island to match existing kitchen style.,1 UNIT,"$2,400 per LF",0.75,,4200,90
+,,,,,,,,4200.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Painting,"Painting of walls and ceiling including wall preparation, primer application, and touch-up work.",555.9 SF,$10.3 per SF,0.70,,10057.5,90
+,,,,,,,,10057.50,
+Plumbing,,,,,,,,,
+Plumbing,Master Bathroom,Shower Installation,Install new spacious shower with waterproofing and tile work.,1 UNIT,"$9,900",0.75,,17325,90
+Plumbing,Kitchen,Kitchen Plumbing,"Full gut plumbing including rough plumbing, kitchen sink installation, garbage disposal, water supply lines, drain lines, and shut-off valves.",1 UNIT,"$4,950 per UNIT",0.75,,8662.5,90
+,,,,,,,,25987.50,
+Tile,,,,,,,,,
+Tile,Master Bathroom,Bathroom Tile Work,"Installation of floor and wall tiles including shower tile, grout installation, and tile sealing.",100 SF,"$4,100 per 80-100 sf",0.80,,7380,90
+,,,,,,,,7380.00,
+,,,,,,,,162314.50,
+,,,General Conditions (10%),,,,,16231.45,
+,,,Grand Total,,,,,178545.95,

@@ -1,0 +1,357 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,General,Pre-construction site preparation,"Pre-construction site preparation
+
+-Protect and seal entry doors, grilles, and other openings at the house.
+
+-Set up zipper walls and containments to prevent dust from spreading to other areas as requ",1 UNIT,"$2,000 per UNIT",0.75,,3500.00,95
+Demolition,General,Demolition of existing structures,"Existing House
+
+-Demolition and removal of existing siding, trim, and sheathing at the existing wall where the new extension will connect.
+
+-Demolition and removal of structural wall framing to create",430 SF,$7 per SF,0.75,,5267.50,95
+Demolition,General,Demolition of existing structures,"1st Floor - Existing Powder Room
+
+-Demolition of powder room tiles, vanity, medicine cabinet, toilet, and fixtures.
+
+-Demolition and removal of plumbing water and waste lines.
+
+*Debris removal and dis",1 UNIT,"$1,375 per UNIT",0.75,,2406.25,95
+Demolition,General,Demolition of existing structures,"1st Floor - Existing Laundry Room
+
+-Demolition of tiles, shelves, cabinets, appliances, and fixtures.
+
+-Demolition and removal of plumbing water and waste lines.
+
+*Debris removal and disposal included",1 UNIT,$7 per SF,0.75,,12.25,95
+Demolition,General,Demolition of existing structures,"2nd Floor - Primary Bathroom
+
+-Demolition of bathroom tiles, vanity, medicine cabinet, toilet, and fixtures.
+
+-Demolition and removal of plumbing water and waste lines.
+
+*Debris removal and disposal i",1 UNIT,"$2,200 per UNIT",0.75,,3850.00,95
+Demolition,General,Demolition of existing structures,"2nd Floor - Second Bathroom
+
+-Demolition and removal of the tub.
+
+*Debris removal and disposal included
+",1 UNIT,"$2,200 per UNIT",0.75,,3850.00,95
+Demolition,General,Demolition of existing structures,"2nd Floor - Existing Walk-In Closet
+
+-Demolition of shelves, cabinets, and other millworks.
+
+-Demolition of wall substrates back to framing.
+
+*Debris removal and disposal included
+",1 UNIT,$7 per SF,0.75,,12.25,95
+Demolition,General,"Excavation, grading, and backfilling","New Extension Area (Approx. 430 SF)
+
+-Strip and remove surface vegetation and topsoil within the new addition footprint.
+
+-Excavate to required subgrade elevation for slab-on-grade foundation, includi",430 SF,"$2,000 per UNIT",0.75,,1505000.00,95
+,,,,,,,,1523898.25,
+Electrical,,,,,,,,,
+Electrical,General,Electrical,"New Extension Area
+
+-Supply and install (10) new outlets throughout the new extension area as per code requirements at new locations.
+
+-Install (6) new light fixtures throughout the new extension area",430 SF,"$3,500 per UNIT",0.75,,2633750.00,95
+Electrical,General,Electrical,"1st Floor - New Bathroom
+
+-Supply and install (1) new GFI outlet in the bathroom as per code requirements at new location.
+
+-Install (2) new light fixtures at new locations.
+
+-Supply and install (1) n",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+Electrical,General,Electrical,"2nd Floor - Primary Bathroom
+
+-Supply and install (2) new GFI outlet in the bathroom as per code requirements at existing location.
+
+-Install (2) new light fixtures at existing locations.
+
+-Supply and",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+Electrical,General,Electrical,"2nd Floor - New Laundry Room
+
+-Supply and Install new dedicated lines for the washer dryer in the new laundry room at new locations.
+
+-Supply and Install (1) new GFI outlet in the new laundry room as ",1 UNIT,"$3,500 per UNIT",0.75,,6125.00,95
+,,,,,,,,2652125.00,
+Drywall & Insulation,,,,,,,,,
+Drywall & Insulation,General,New Interior Partition Walls Installation,"1st & 2nd Floor New Extension Area
+
+-Frame all interior partition walls with 2ֳ—4 studs at 16"" OC, including top and bottom plates, blocking, and framing.
+
+-Supply and install all required structural ",430 SF,$8 per SF,0.75,,6020.00,95
+Drywall & Insulation,General,New Ceiling Installation,"1st & 2nd Floor New Extension Area
+
+-Supply and install ceiling framing using 2x8 or 2x10 joists at 16"" on center as per code requirements.
+
+-Supply and install ceiling insulation to meet code require",430 SF,$8 per SF,0.75,,6020.00,95
+Drywall & Insulation,General,Mold Resistant Drywall Installation,"1st Floor - New Bathroom
+
+-Supply and Install water-resistant sheetrock on bathroom walls.
+
+*Tape, plaster, sand and prepare walls to the above spaces to receive new finishes
+",1 UNIT,$8 per SF,0.75,,14.00,95
+Drywall & Insulation,General,Mold Resistant Drywall Installation,"2nd Floor - Primary Bathroom
+
+-Supply and Install water-resistant sheetrock on bathroom walls.
+
+*Tape, plaster, sand and prepare walls to the above spaces to receive new finishes
+",1 UNIT,$8 per SF,0.75,,14.00,95
+Drywall & Insulation,General,Mold Resistant Drywall Installation,"2nd Floor - New Laundry Room
+
+-Supply and Install water-resistant sheetrock on new laundry room walls.
+
+*Tape, plaster, sand and prepare walls to the above spaces to receive new finishes
+",1 UNIT,$8 per SF,0.75,,14.00,95
+,,,,,,,,12082.00,
+Doors,,,,,,,,,
+Doors,General,New Doors Installation,"New Extension Area
+
+-Installation of (5) new standard interior doors, door frames, and door trims at new locations as per proposed plan.
+
+-Installation of (2) new sliding doors, door frames, and door ",430 SF,$550 per UNIT,0.75,,413875.00,95
+,,,,,,,,413875.00,
+Flooring,,,,,,,,,
+Flooring,General,2nd Floor Extension Flooring Installation,"2nd Floor New Extension Area
+
+-Supply and install engineered floor joist system throughout the new 2nd floor extension.
+
+-Supply and install all required structural connectors, joist hangers, and hard",430 SF,$6 per SF,0.75,,4515.00,95
+Flooring,General,1st Floor Extension Flooring Finish,"1st Floor New Extension Area
+
+-Supply and install vapor barrier on the slab on grade throughout the new 1st floor extension area.
+
+-Supply and install subflooring throughout the new 1st floor extensio",430 SF,$6 per SF,0.75,,4515.00,95
+Flooring,General,Tile floor installation,"2nd Floor - New Laundry Room
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles throughout the new laundry room.
+
+-Supply and apply new grout.
+
+-*",1 UNIT,"$2,000 per UNIT",0.8,,3600.00,95
+,,,,,,,,12630.00,
+HVAC,,,,,,,,,
+HVAC,General,New HVAC System Installation,"New Extension Area
+
+-Supply and install one new HVAC system to serve the first floor, and the basement.
+
+-Supply and install R-8 insulated ductwork to all new and reassigned areas for HVAC work.
+
+-Sup",430 SF,"$12,000 per UNIT",0.75,,9030000.00,95
+,,,,,,,,9030000.00,
+Trims,,,,,,,,,
+Trims,General,New Baseboards Installation,"New Extension Area
+
+-Supply and install new baseboards throughout the 1st floor, including the 1st floor new extension area.
+
+-Supply and install new baseboards on the 2nd floor new extension area.
+
+*",430 SF,$5 per LF,0.75,,3762.50,95
+Trims,General,New Crown Moldings Installation,"New Extension Area
+
+-Supply and install new crown moldings throughout the new 1st and 2nd floor extension area to match the existing.ֲ 
+
+*Crown molding material allowance of $6 per LF
+",430 SF,$9 per LF,0.75,,6772.50,95
+,,,,,,,,10535.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,General,Painting,"General Areas
+
+-Supply and apply 1 coat of primer and 2 coats of paint on walls, ceiling, frames, and doors throughout the house, including the
+basement and new extension areas.
+
+*Benjamin Moore regal",430 SF,$4 per SF,0.75,,3386.25,95
+,,,,,,,,3386.25,
+Interior Design Services,,,,,,,,,
+Interior Design Services,General,Interior Design Fee,"Comprehensive design and material specification services, including finishes, fixtures, and element selections, as well as final
+renderings and construction drawings as per design scope.
+Comprehensive",1 UNIT,"$2,000 per UNIT",0.75,,3500.00,95
+,,,,,,,,3500.00,
+Plumbing,,,,,,,,,
+Plumbing,1st Floor - New Bathroom,Plumbing,"1st Floor - New Bathroom
+
+-Supply and install new water and waste line to main water supply and drainage at new locations.
+
+-Supply and install new water and waste rough-in for sink at new locations.
+",1 UNIT,"$8,800 per UNIT",0.75,,15400.00,95
+Plumbing,1st Floor - New Bathroom,Plumbing,"2nd Floor - Primary Bathroom
+
+-Supply and install new water and waste line to main water supply and drainage at existing locations.
+
+-Supply and install new water and waste rough-in for sink at existi",1 UNIT,"$8,800 per UNIT",0.75,,15400.00,95
+Plumbing,1st Floor - New Bathroom,Plumbing,"2nd Floor - Second Bathroom
+
+-Install shower fixtures at new locations.
+
+-Supply and install lead pan or PVC liner for the new shower area.
+
+*Plumbing fixtures and finishes are not included
+
+*All plum",1 UNIT,"$8,800 per UNIT",0.75,,15400.00,95
+Plumbing,1st Floor - New Bathroom,Plumbing,"2nd Floor - New Laundry Room
+
+-Supply and install new water and waste line to main water supply and drainage at new locations.
+
+-Supply and install new water and waste rough-in for the washer dryer at",1 UNIT,"$3,850 per UNIT",0.75,,6737.50,95
+,,,,,,,,52937.50,
+Waterproofing,,,,,,,,,
+Waterproofing,1st Floor - New Bathroom,Waterproofing ,"1st Floor - New Bathroom
+
+-Supply and Install new waterproofing membrane on bathroom walls and bathroom floor.
+",1 UNIT,"$1,900 per UNIT",0.75,,3325.00,95
+Waterproofing,1st Floor - New Bathroom,Waterproofing ,"2nd Floor - Primary Bathroom
+
+-Supply and Install new waterproofing membrane on bathroom walls and bathroom floor.
+",1 UNIT,"$1,900 per UNIT",0.75,,3325.00,95
+Waterproofing,1st Floor - New Bathroom,Waterproofing ,"2nd Floor - Second Bathroom
+
+-Supply and Install new waterproofing membrane on the new shower area.
+",1 UNIT,"$1,900 per UNIT",0.75,,3325.00,95
+Waterproofing,1st Floor - New Bathroom,Waterproofing,"2nd Floor - New Laundry Room
+
+-Supply and Install new waterproofing membrane on new laundry room floor.
+",1 UNIT,"$1,900 per UNIT",0.75,,3325.00,95
+,,,,,,,,13300.00,
+Tile,,,,,,,,,
+Tile,1st Floor - New Bathroom,Tile floor installation,"1st Floor - New Bathroom
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles throughout the bathroom.
+
+-Supply and apply new grout.
+
+*Tiles and sad",1 UNIT,"$2,000 per UNIT",0.8,,3600.00,95
+Tile,1st Floor - New Bathroom,Tile floor installation,"2nd Floor - Primary Bathroom
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles throughout the bathroom.
+
+-Supply and apply new grout.
+
+*Tiles and",1 UNIT,"$2,000 per UNIT",0.8,,3600.00,95
+Tile,1st Floor - New Bathroom,Tile floor installation,"2nd Floor - Second Bathroom
+
+-Prepare the subfloor, ensuring it is suitable for tile installation.
+
+-Installation of new floor tiles on the new shower area.
+
+-Supply and apply new grout.
+
+*Tiles and s",1 UNIT,"$2,000 per UNIT",0.8,,3600.00,95
+Tile,1st Floor - New Bathroom,Tile wall installation,"1st Floor - New Bathroom
+
+-Installation of straight and plumb substrate for tile installation.
+
+-Install new tiles on bathroom walls.
+
+-Supply and apply new grout.
+
+*Tiles not included
+
+
+",1 UNIT,"$2,600 per UNIT",0.8,,4680.00,95
+Tile,1st Floor - New Bathroom,Tile wall installation,"2nd Floor - Primary Bathroom
+
+-Installation of straight and plumb substrate for tile installation.
+
+-Install new tiles on bathroom walls.
+
+-Supply and apply new grout.
+
+*Tiles not included
+
+
+",1 UNIT,"$2,600 per UNIT",0.8,,4680.00,95
+Tile,1st Floor - New Bathroom,Tile wall installation,"2nd Floor - Second Bathroom
+
+-Installation of straight and plumb substrate for tile installation.
+
+-Install new tiles on bathroom walls on wet area.
+
+-Supply and apply new grout.
+
+*Tiles not included
+",1 UNIT,"$2,600 per UNIT",0.8,,4680.00,95
+,,,,,,,,24840.00,
+Accessories,,,,,,,,,
+Accessories,1st Floor - New Bathroom,Accessory Installation,"1st Floor - New Bathroom
+
+-Install all finish accessories in the bathroom (vanities, medicine cabinets, towel bars, toilet paper holders, etc).
+
+*Finishes and accessories are not included
+",1 UNIT,"$2,000 per UNIT",0.75,,3500.00,95
+Accessories,1st Floor - New Bathroom,Accessory Installation,"2nd Floor - Primary Bathroom
+
+-Install all finish accessories in the bathroom (vanities, medicine cabinets, towel bars, toilet paper holders, etc).
+
+*Finishes and accessories are not included
+",1 UNIT,"$2,000 per UNIT",0.75,,3500.00,95
+,,,,,,,,7000.00,
+Concrete,,,,,,,,,
+Concrete,Exterior,Footing Construction,"New Extension Area (Approx. 430 SF)
+
+-Excavate continuous and/or spread footings below frost depth throughout the new extension.
+
+-Furnish and install formwork for footings as required for accurate di",430 SF,"$2,000 per UNIT",0.75,,1505000.00,95
+Concrete,Exterior,Slab Edge Forms / Shallow Foundation Walls Construction,"New Extension Area (Approx. 430 SF)
+
+-Furnish and install slab edge formwork or shallow stem walls around the perimeter of the slab-on-grade foundation.
+
+-Form edge heights to align with finished slab",430 SF,"$2,000 per UNIT",0.75,,1505000.00,95
+Concrete,Exterior,Slab-on-Grade Construction,"New Extension Area (Approx. 430 SF)
+
+-Prepare subgrade inside foundation perimeter by verifying compaction and elevation of granular base material.
+
+-Supply and install a minimum 4"" thick compacted cr",430 SF,"$2,000 per UNIT",0.75,,1505000.00,95
+,,,,,,,,4515000.00,
+Structural & Framing,,,,,,,,,
+Structural & Framing,Exterior,1st and 2nd Floor Extension Exterior Wall Construction,"1st & 2nd Floor New Exterior Wallֲ 
+
+-Frame exterior walls with 2ֳ—6 studs at 16"" OC including top and bottom plates, headers, window/door openings, etc.
+
+-Supply and install OSB or plywood wall sheat",1 UNIT,"$2,000 per UNIT",0.75,,3500.00,95
+Structural & Framing,Exterior,New Roof Extension,"New Roof Extension
+
+-Frame new walls using 2x6 wood studs, securely tied into existing rafters and ceiling joists.
+
+-Supply and install new rafters, ridge beam, jack rafters, and ties as required for ",430 SF,$12 per SF,0.75,,9030.00,95
+,,,,,,,,12530.00,
+Siding & Exterior,,,,,,,,,
+Siding & Exterior,Exterior,Siding Installation,"New Extension Area
+
+-Supply and install exterior wall siding to match the existing siding.
+
+-Include all siding accessories such as starter strips, J-channels, utility trim, and finish strips.
+
+-Cut a",430 SF,$8 per SF,0.75,,6020.00,95
+,,,,,,,,6020.00,
+Deck & Exterior,,,,,,,,,
+Deck & Exterior,Exterior,New Deck Extension,"New Deck Extension (95 SF)
+
+-Extend the existing wood deck to align with the footprint of the new rear extension.
+
+-Match existing deck in height, design, materials, and railing style unless otherwise",430 SF,$25 per SF,0.75,,18812.50,95
+,,,,,,,,18812.50,
+Roofing,,,,,,,,,
+Roofing,Exterior,New Roof Drainage,"New Roof Drainage
+
+-Supply and install gutters and downspouts along roof edges.
+",1 UNIT,$12 per SF,0.75,,21.00,95
+,,,,,,,,21.00,
+Windows,,,,,,,,,
+Windows,Exterior,New Windows Installation,"New Extension Areas
+
+-Installation of (9) new windows throughout the new extension areas.
+
+*Windows and Hardware not included
+",430 SF,"$1,200 per UNIT",0.75,,903000.00,95
+,,,,,,,,903000.00,
+,,,General Conditions (10%),,,,,1921549.25,
+,,,Grand Total,,,,,21137041.75,

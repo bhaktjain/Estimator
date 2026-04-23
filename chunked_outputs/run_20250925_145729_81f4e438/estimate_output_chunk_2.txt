@@ -1,0 +1,112 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] 39 Lincoln Street Sloatsburg NY -Basement.pdf
+[SUCCESS] Extracted 2839 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] 39 Lincoln Street Sloatsburg NY -Basement.pdf
+[INFO] Processing file 3: chunked_outputs/run_20250925_145729_81f4e438/transcript_chunks/chunk_2.txt
+[SUCCESS] Read 5606 characters from chunked_outputs/run_20250925_145729_81f4e438/transcript_chunks/chunk_2.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 40916 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Basement Renovation",
+      "items": [
+        {
+          "room": "Basement",
+          "scope_item": "Spray Foam Insulation",
+          "description": "Install spray foam insulation in the basement to improve thermal efficiency.",
+          "quantity": "548.6 SF",
+          "unit_cost": "QUOTE per SF",
+          "markup": "0.65",
+          "subtotal": "Assumed based on typical pricing",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Wall Finishing",
+          "description": "Finish basement walls with drywall and paint.",
+          "quantity": "666.6 SF",
+          "unit_cost": "$4 per SF",
+          "markup": "0.75",
+          "subtotal": "4666.95",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Ceiling Finishing",
+          "description": "Install and paint new ceiling in the basement.",
+          "quantity": "548.6 SF",
+          "unit_cost": "$4.95 per SF",
+          "markup": "0.75",
+          "subtotal": "4743.38",
+          "confidence_score": "90"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Electrical Upgrades",
+          "description": "Upgrade electrical system in the basement including outlets and lighting.",
+          "quantity": "10 UNIT",
+          "unit_cost": "$55 per UNIT",
+          "markup": "0.75",
+          "subtotal": "962.50",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Basement",
+          "scope_item": "Lighting Installation",
+          "description": "Install new lighting fixtures in the basement.",
+          "quantity": "5 UNIT",
+          "unit_cost": "$165 per UNIT",
+          "markup": "0.75",
+          "subtotal": "1443.75",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "Garage Renovation",
+      "items": [
+        {
+          "room": "Garage",
+          "scope_item": "Lighting Replacement",
+          "description": "Replace existing lighting fixtures in the garage.",
+          "quantity": "3 UNIT",
+          "unit_cost": "$165 per UNIT",
+          "markup": "0.75",
+          "subtotal": "866.25",
+          "confidence_score": "85"
+        },
+        {
+          "room": "Garage",
+          "scope_item": "Ceiling Painting",
+          "description": "Paint the ceiling in the garage.",
+          "quantity": "Assumed 400 SF",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "7207.50",
+          "confidence_score": "85"
+        }
+      ]
+    },
+    {
+      "name": "General Renovation",
+      "items": [
+        {
+          "room": "General",
+          "scope_item": "Commercial Cleaning",
+          "description": "Post-renovation commercial cleaning for the entire house.",
+          "quantity": "1 UNIT",
+          "unit_cost": "$2,750 per UNIT",
+          "markup": "0.75",
+          "subtotal": "4812.50",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

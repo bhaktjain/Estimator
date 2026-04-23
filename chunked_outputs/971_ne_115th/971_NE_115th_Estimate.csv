@@ -1,0 +1,103 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+,,,,,,,,,
+Demolition,,,,,,,,,
+Demolition,Front Porch,Porch Enclosure Demo,"Remove existing porch screens, mesh, framing, and non-structural walls to prepare for full enclosure into living space. ~45 LF perimeter.",1 LS,"$2,500 per LS",0.75,,4375.0,95
+Demolition,Front Porch / Interior,Load-Bearing Wall Removal,"Remove load-bearing wall between front porch and interior living area. Trusses at 16"" OC bear on this wall. Temporary shoring required.",1 LS,"$4,500 per LS",0.75,,7875.0,90
+Demolition,Master Bedroom,Exterior Wall Removal for Addition,Remove exterior wall at master bedroom to connect new addition room. ~12 LF including siding and framing.,1 LS,"$3,000 per LS",0.75,,5250.0,90
+Demolition,Back Deck,Existing Deck Demo,"Demo existing deteriorated wood deck/porch at rear of house. Remove all decking, framing, railings, and footings.",1 LS,"$2,000 per LS",0.75,,3500.0,90
+Demolition,Kitchen,Door Opening Closure,Remove existing kitchen access door and frame/insulate/drywall the opening. Refrigerator relocates to this wall.,1 LS,$800 per LS,0.75,,1400.0,90
+Demolition,Second Bedroom,Window-to-Door Conversion Demo,Remove existing window and enlarge opening to door height for new backyard door. Includes reframing of header and jack studs.,1 LS,"$1,200 per LS",0.75,,2100.0,90
+Demolition,Bedroom,Window Enlargement Demo,"Enlarge existing small window opening to match adjacent window size. Cut wall, reframe header and sill. Reuse porch window.",1 LS,"$1,000 per LS",0.75,,1750.0,85
+Demolition,Exterior,Tree Removal,Remove tree in driveway/carport area per owner direction.,1 LS,"$1,500 per LS",0.75,,2625.0,80
+,,,,,,,,,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Front Porch,Porch Enclosure Drywall - Walls,"Install 5/8"" drywall on new porch enclosure walls (interior side). ~45 LF x 8.5ft minus openings ≈ 300 SF (CARP-10).",300 SF,$4 per SF,0.75,,2100.0,90
+Walls & Ceiling,Front Porch,Porch Ceiling Drywall,"Install 5/8"" ceiling drywall in enclosed porch to match interior. ~130 SF (CARP-11).",130 SF,$4.95 per SF,0.75,,1126.12,90
+Walls & Ceiling,Front Porch,Porch Wall Insulation,Batt insulation in new porch enclosure walls. R-13 minimum for exterior walls. ~300 SF (INSL-01).,300 SF,$1.70 per SF,0.75,,892.5,90
+Walls & Ceiling,Addition,Addition Drywall - Walls,"Install 5/8"" drywall on addition room walls. ~60 LF x 8.5ft minus openings ≈ 350 SF (CARP-10).",350 SF,$4 per SF,0.75,,2450.0,90
+Walls & Ceiling,Addition,Addition Ceiling Drywall,"Install 5/8"" ceiling drywall in addition room. ~200 SF (CARP-11).",200 SF,$4.95 per SF,0.75,,1732.5,90
+Walls & Ceiling,Addition,Addition Wall Insulation,Batt insulation in addition room exterior walls. R-13 minimum. ~350 SF (INSL-01).,350 SF,$1.70 per SF,0.75,,1041.25,90
+Walls & Ceiling,Various,Drywall Patching & Repairs,"Patch drywall at all modified openings: closed kitchen door, enlarged window, relocated master door, window-to-door conversion, etc. ~100 SF (CARP-10).",100 SF,$4 per SF,0.75,,700.0,85
+,,,,,,,,,
+Plumbing,,,,,,,,,
+Plumbing,Front Porch,Washer/Dryer Plumbing,Run hot/cold water supply lines and drain to new washer/dryer location in enclosed porch. Existing water line nearby. New location install (PLMB-18).,1 UNIT,"$3,350 per UNIT",0.75,,5862.5,85
+Plumbing,Kitchen,Refrigerator Water Line Relocation,Relocate water supply line for refrigerator from current to new position on opposite wall.,1 UNIT,$750 per UNIT,0.75,,1312.5,90
+,,,,,,,,,
+Electrical,,,,,,,,,
+Electrical,Exterior,Electrical Service Line Relocation,Run power lines from existing panel to side of house per owner/electrician direction. Panel stays in current location. Crawl space access available.,1 LS,"$2,500 per LS",0.75,,4375.0,85
+Electrical,Front Porch,Porch Enclosure Electrical,New electrical for enclosed porch: 4 outlets + 4 recessed lights at new locations. Includes switches (ELEC-12/15).,8 UNIT,$465 per UNIT,0.75,,6510.0,90
+Electrical,Front Porch,Washer/Dryer Dedicated Lines,Install 2 dedicated circuits for washer and dryer at new porch location (ELEC-23).,1 UNIT,"$1,500 per UNIT",0.75,,2625.0,90
+Electrical,Kitchen,Wall Oven Dedicated Lines (2),Install 2 dedicated 240V circuits for double wall ovens at new location (ELEC-21 x2).,2 UNIT,$495 per UNIT,0.75,,1732.5,90
+Electrical,Kitchen,Refrigerator Outlet - New Location,Install outlet at relocated refrigerator position (ELEC-12).,1 UNIT,$465 per UNIT,0.75,,813.75,90
+Electrical,Addition,Addition Room Electrical,"Full electrical for addition room: 4 outlets + 6 recessed lights at new locations, switches (ELEC-12/15).",10 UNIT,$465 per UNIT,0.75,,8137.5,85
+,,,,,,,,,
+Flooring,,,,,,,,,
+Flooring,Front Porch,Porch Floor Prep & Leveling,Prepare enclosed porch floor for interior flooring. Self-leveling compound over existing slab. ~130 SF (FINSH-15).,130 SF,$3 per SF,0.75,,682.5,85
+Flooring,Front Porch,Porch Flooring Install (Labor Only),Install client-supplied flooring in enclosed porch area. ~130 SF (FINSH-06).,130 SF,$6 per SF,0.75,,1365.0,85
+Flooring,Addition,Addition Flooring Install (Labor Only),Install client-supplied flooring in addition room. ~200 SF (FINSH-06).,200 SF,$6 per SF,0.75,,2100.0,85
+,,,,,,,,,
+Trims,,,,,,,,,
+Trims,Porch / Addition,Baseboards - New Areas,Supply and install baseboards in enclosed porch and addition room. ~105 LF (TRIM-01).,105 LF,$11 per LF,0.75,,2021.25,90
+Trims,Various,Window & Door Trim - All New Openings,New trim/casing around all new and modified window and door openings throughout project. ~150 LF (TRIM-01).,150 LF,$11 per LF,0.75,,2887.5,85
+,,,,,,,,,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Island Quartz (Fab & Install),"Template, fabricate, and install quartz countertop on kitchen island. Client supplies slab. ~20 SF (STON-02).",20 SF,$97 per SF,0.75,,3395.0,85
+Countertops,Front Porch,W/D Area Quartz (Fab & Install),"Template, fabricate, and install quartz countertop above washer/dryer area to match kitchen. Client supplies slab. ~8 SF (STON-02).",8 SF,$97 per SF,0.75,,1358.0,85
+,,,,,,,,,
+General Requirements,,,,,,,,,
+General Requirements,Project,Permits & Fees,"Building permits for addition, porch enclosure, carport, electrical, and plumbing. Village of Biscayne Park building department.",1 LS,"$3,500 per LS",0.75,,6125.0,90
+General Requirements,Project,Dust Protection & Living-In Coordination,"Temporary dust barriers, poly walls, protection of occupied areas, and coordination around family and pets during ~5-month phased construction.",1 LS,"$3,000 per LS",0.75,,5250.0,90
+General Requirements,Project,Waste Removal & Dumpster,"Dumpster rental and debris disposal for all demo, deck removal, tree, and construction waste over ~5-month project.",1 LS,"$3,500 per LS",0.75,,6125.0,90
+General Requirements,Project,Final Cleanup,Post-construction cleaning of entire house including new spaces (CLEN-03).,1 LS,"$1,925 per LS",0.75,,3368.75,90
+,,,,,,,,,
+Cabinetry,,,,,,,,,
+Cabinetry,Kitchen,Kitchen Island Install (Labor Only),Install client-supplied IKEA kitchen island cabinets. ~4x5 ft island with quartz top. Client supplies all cabinet materials.,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,85
+Cabinetry,Front Porch,W/D Cabinet & Millwork Install (Labor Only),"Install client-supplied laundry cabinets with concealed W/D below, millwork above, static cabinet doors. Quartz countertop included separately.",1 UNIT,"$2,000 per UNIT",0.75,,3500.0,85
+Cabinetry,Kitchen,Pantry Cabinet Install (Labor Only),Install client-supplied pantry cabinet next to relocated refrigerator. Side-opening design per owner.,1 UNIT,$800 per UNIT,0.75,,1400.0,85
+Cabinetry,Kitchen,Wall Oven Housing / Framing,"Build framing and cabinet housing for two wall ovens at new location. Includes backing, structural support, and electrical access.",1 UNIT,"$1,500 per UNIT",0.75,,2625.0,85
+,,,,,,,,,
+Exterior,,,,,,,,,
+Exterior,Back Deck,New Composite Deck (Extended),"Build extended composite deck at rear. Access from master and second bedroom. Includes framing, Trex/composite decking, and railing. Extends further than existing per owner. ~250 SF.",250 SF,$45 per SF,0.75,,19687.5,85
+Exterior,Driveway,Concrete Driveway with Turf Strips,Pour concrete driveway in large rectangular sections (~8ft wide) with artificial turf/grass strips between per owner design. ~500 SF total area.,500 SF,$18 per SF,0.75,,15750.0,80
+Exterior,Front Entry,New Front Landing & Steps,Build L-shaped entry landing and steps at relocated front door. Comfortable proportions for daily use. Concrete or composite.,1 LS,"$3,500 per LS",0.75,,6125.0,85
+Exterior,Side Entry,Existing Step Extension,Extend existing aggressive step at side door for safety. Add comfortable tread depth per owner concern for elderly family.,1 LS,$600 per LS,0.75,,1050.0,90
+Exterior,Front Entry,Safety Railing / Slats,Install tilted decorative slat railing at front entry steps for safety per owner request. ~12 LF.,12 LF,$85 per LF,0.75,,1785.0,80
+Exterior,Front Entry,Covered Walkway / Overhang,Build overhead cover from carport to front door so occupants stay dry walking from car to house. Connected to carport or roof structure.,1 LS,"$3,500 per LS",0.75,,6125.0,80
+Exterior,Porch / Addition,Exterior Finish - New Walls,Stucco or siding finish on all new exterior walls (porch enclosure + addition) to match existing house. ~650 SF exterior wall area.,650 SF,$12 per SF,0.75,,13650.0,85
+,,,,,,,,,
+HVAC,,,,,,,,,
+HVAC,Exterior,AC Condenser Relocation,Relocate AC condenser unit from deck area to side of house. Extend refrigerant and electrical lines. Owner confirmed straightforward relocation.,1 UNIT,"$2,500 per UNIT",0.75,,4375.0,85
+,,,,,,,,,
+Painting,,,,,,,,,
+Painting,Porch / Addition / Various,Interior Painting - New & Modified Areas,"Paint all new and modified walls and ceilings: porch enclosure, addition room, patched areas throughout. ~400 SF floor area (FINSH-05).",400 SF,$10.50 per SF,0.75,,7350.0,90
+,,,,,,,,,
+Roofing,,,,,,,,,
+Roofing,Addition,Flat Roof - Addition Room,"Build flat roof over addition. Slightly pitched for drainage, flows into existing gable roof per owner spec. TPO or modified bitumen membrane. ~200 SF.",200 SF,$28 per SF,0.75,,9800.0,85
+Roofing,Carport,Carport Structure & Aluminum Roof,"Build 20'x20' carport with aluminum roof, support columns, concrete footings, and integrated gutters. Marry into existing gable roofline and fascia. ~400 SF.",400 SF,$55 per SF,0.75,,38500.0,85
+,,,,,,,,,
+Structural,,,,,,,,,
+Structural,Front Porch / Interior,Structural Header / Beam,Supply and install engineered LVL header/beam spanning removed load-bearing wall. Columns concealed in adjacent walls. Must clear truss height for flush ceiling.,1 LS,"$6,500 per LS",0.75,,11375.0,90
+Structural,Front Porch,Porch Enclosure Wall Framing,"Frame new exterior walls for full porch enclosure. ~45 LF of 2x4 framing with top/bottom plates. Include rough openings for new windows, W/D area, and garage door remains (CARP-01).",45 LF,$45 per LF,0.75,,3543.75,90
+Structural,Front Porch,Porch Ceiling Integration,"Extend and match interior ceiling to enclosed porch. Continuous flush finish at existing 8'5"" height. ~130 SF (CARP-03).",130 SF,$10 per SF,0.75,,2275.0,90
+Structural,Addition,Addition Foundation / Crawl Space,"Pier-and-beam foundation with crawl space underneath per owner request. Concrete piers, pressure-treated beams and joists for ~200 SF addition.",200 SF,$35 per SF,0.75,,12250.0,85
+Structural,Addition,Addition Wall Framing,Frame exterior walls for addition room off master bedroom. ~60 LF of 2x4/2x6 framing. Include openings for accordion doors (10ft) and transom windows (CARP-01).,60 LF,$45 per LF,0.75,,4725.0,90
+Structural,Addition,Addition Subfloor,"Install subfloor system over crawl space joists. 3/4"" tongue-and-groove AdvanTech or equiv. ~200 SF.",200 SF,$8 per SF,0.75,,2800.0,90
+Structural,Master Bedroom,Header at Addition Opening,Structural header/beam at master bedroom wall opening to addition. Sized for span and existing roof loads.,1 LS,"$3,500 per LS",0.75,,6125.0,85
+,,,,,,,,,
+Windows & Doors,,,,,,,,,
+Windows & Doors,Front Entry,Front Door Install (Labor Only),Install client-supplied front door at relocated position on side of house. Includes framing new opening in exterior wall (DOOR-01).,1 UNIT,$550 per UNIT,0.75,,962.5,95
+Windows & Doors,Front Porch,Horizontal Transom Window Install,Install horizontal picture/transom window in enclosed porch area. Client supplies window (WIND-01).,1 EA,$450 per EA,0.75,,787.5,90
+Windows & Doors,Dining Area,Floor-to-Ceiling Picture Window Install,Install large vertical floor-to-ceiling picture window in new dining room area. Client supplies. Includes structural framing of oversized opening.,1 EA,$750 per EA,0.75,,1312.5,85
+Windows & Doors,Front Porch,W/D Area Large Window Install,Install large window above washer/dryer cabinet area in enclosed porch. Client supplies window (WIND-01).,1 EA,$450 per EA,0.75,,787.5,90
+Windows & Doors,Second Bedroom,Backyard Door Install,Install client-supplied backyard door replacing existing window. Reframed opening from window to full door height (DOOR-01).,1 UNIT,$550 per UNIT,0.75,,962.5,90
+Windows & Doors,Master Bedroom,New Access Door Install,Install new access door to master bedroom at relocated wall position. Client supplies door. New opening cut and framed (DOOR-01).,1 UNIT,$550 per UNIT,0.75,,962.5,90
+Windows & Doors,Bedroom,Enlarged Window Install,Install window in enlarged opening (reuse window from demolished porch). Reframe to match size of adjacent window (WIND-01).,1 EA,$450 per EA,0.75,,787.5,85
+Windows & Doors,Bathroom,Bathroom Transom Window Install,Install ~5ft horizontal transom window in bathroom wall to add natural light. Client supplies. Cut opening and frame (WIND-01).,1 EA,$450 per EA,0.75,,787.5,90
+Windows & Doors,Addition,Accordion Glass Doors Install,"Install 10ft x 80"" accordion glass door system in addition room. Client supplies. Includes structural header, track, and threshold installation.",1 UNIT,"$2,500 per UNIT",0.75,,4375.0,85
+Windows & Doors,Addition,Transom Windows Install (3),"Install three 24""x48"" transom windows on back wall of addition. Client supplies (WIND-01 x3).",3 EA,$450 per EA,0.75,,2362.5,90
+Windows & Doors,Kitchen,Kitchen Skylight Install (3),"Install three 14""x24"" skylights above kitchen island between trusses at 16"" OC. Client supplies. Includes roof cuts, curb framing, flashing, and interior trim.",3 EA,$850 per EA,0.75,,4462.5,85
+Windows & Doors,Addition,Addition Skylight Install (3),"Install three 3'x4' skylights in addition room flat roof. Client supplies. Includes curb framing, flashing, and interior trim.",3 EA,"$1,200 per EA",0.75,,6300.0,85
+,,,,,,,,,
+,,,,,,,,309005.37,
+,,,General Conditions (15% — Phased / Living-In),,,,,46350.81,
+,,,Grand Total,,,,,355356.18,

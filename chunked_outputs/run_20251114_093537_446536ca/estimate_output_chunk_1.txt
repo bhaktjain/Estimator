@@ -1,0 +1,237 @@
+[INFO] Processing file 1: Master Pricing Sheet - Q1 - 2025 (2).pdf
+[SUCCESS] Extracted 12622 characters from Master Pricing Sheet - Q1 - 2025 (2).pdf
+[INFO] Processing file 2: /Users/bhakt/Downloads/[Polycam Spatial Report] 11_13_2025.pdf
+[SUCCESS] Extracted 18322 characters from /Users/bhakt/Downloads/[Polycam Spatial Report] 11_13_2025.pdf
+[INFO] Processing file 3: chunked_outputs/run_20251114_093537_446536ca/transcript_chunks/chunk_1.txt
+[SUCCESS] Read 5921 characters from chunked_outputs/run_20251114_093537_446536ca/transcript_chunks/chunk_1.txt
+[INFO] Sending request to OpenAI Chat Completions API...
+[INFO] Total prompt length: 74903 characters
+[RESPONSE]
+```json
+{
+  "sections": [
+    {
+      "name": "Kitchen Renovation",
+      "items": [
+        {
+          "room": "Kitchen",
+          "scope_item": "Kitchen Demolition",
+          "description": "Remove existing cabinets, countertops, appliances, and backsplash. Disconnect plumbing and electrical. Protect adjacent areas.",
+          "quantity": "18 m²",
+          "unit_cost": "$3,300 per unit",
+          "markup": "0.75",
+          "subtotal": "5775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Cabinet Installation",
+          "description": "Install new semi-custom kitchen cabinets including base and wall cabinets.",
+          "quantity": "18 LF",
+          "unit_cost": "$850 per LF",
+          "markup": "0.75",
+          "subtotal": "26775",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Countertop Installation",
+          "description": "Install new quartz countertops including fabrication and installation.",
+          "quantity": "45 SF",
+          "unit_cost": "$97 per SF",
+          "markup": "0.75",
+          "subtotal": "13763.75",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Backsplash Installation",
+          "description": "Install new tile backsplash.",
+          "quantity": "10 LF",
+          "unit_cost": "$2,200 per unit",
+          "markup": "0.80",
+          "subtotal": "3960",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Plumbing Installation",
+          "description": "Install new kitchen sink, faucet, and garbage disposal.",
+          "quantity": "1 unit",
+          "unit_cost": "$3,850 per unit",
+          "markup": "0.75",
+          "subtotal": "6737.5",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Kitchen",
+          "scope_item": "Electrical Installation",
+          "description": "Install new kitchen lighting circuits, GFCI outlets, and under-cabinet lighting.",
+          "quantity": "1 unit",
+          "unit_cost": "$3,500 per unit",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom 1 Renovation",
+      "items": [
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Bathroom Demolition",
+          "description": "Remove old fixtures, tile, vanity, and flooring.",
+          "quantity": "8.2 m²",
+          "unit_cost": "$2,200 per unit",
+          "markup": "0.75",
+          "subtotal": "3850",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Plumbing Installation",
+          "description": "Install new toilet, vanity, and sink.",
+          "quantity": "1 unit",
+          "unit_cost": "$7,700 per unit",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Tile Installation",
+          "description": "Install new floor and wall tiles.",
+          "quantity": "8.2 m²",
+          "unit_cost": "$2,600 per unit",
+          "markup": "0.80",
+          "subtotal": "4680",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 1",
+          "scope_item": "Electrical Installation",
+          "description": "Install new vanity lighting and GFCI outlets.",
+          "quantity": "1 unit",
+          "unit_cost": "$3,500 per unit",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Bathroom 2 Renovation",
+      "items": [
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Bathroom Demolition",
+          "description": "Remove old fixtures, tile, vanity, and flooring.",
+          "quantity": "3.8 m²",
+          "unit_cost": "$2,200 per unit",
+          "markup": "0.75",
+          "subtotal": "3850",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Plumbing Installation",
+          "description": "Install new toilet, vanity, and sink.",
+          "quantity": "1 unit",
+          "unit_cost": "$7,700 per unit",
+          "markup": "0.75",
+          "subtotal": "13475",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Tile Installation",
+          "description": "Install new floor and wall tiles.",
+          "quantity": "3.8 m²",
+          "unit_cost": "$2,600 per unit",
+          "markup": "0.80",
+          "subtotal": "4680",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bathroom 2",
+          "scope_item": "Electrical Installation",
+          "description": "Install new vanity lighting and GFCI outlets.",
+          "quantity": "1 unit",
+          "unit_cost": "$3,500 per unit",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Living Room Renovation",
+      "items": [
+        {
+          "room": "Living Room",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling.",
+          "quantity": "35 m²",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "631.875",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Living Room",
+          "scope_item": "Electrical Installation",
+          "description": "Install new light fixtures and outlets.",
+          "quantity": "1 unit",
+          "unit_cost": "$3,500 per unit",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Bedroom Renovation",
+      "items": [
+        {
+          "room": "Bedroom",
+          "scope_item": "Painting",
+          "description": "Paint walls and ceiling.",
+          "quantity": "17 m²",
+          "unit_cost": "$10.3 per SF",
+          "markup": "0.75",
+          "subtotal": "306.375",
+          "confidence_score": "95"
+        },
+        {
+          "room": "Bedroom",
+          "scope_item": "Electrical Installation",
+          "description": "Install new light fixtures and outlets.",
+          "quantity": "1 unit",
+          "unit_cost": "$3,500 per unit",
+          "markup": "0.75",
+          "subtotal": "6125",
+          "confidence_score": "95"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Cleaning",
+      "items": [
+        {
+          "room": "Entire Apartment",
+          "scope_item": "Post-Construction Cleaning",
+          "description": "Comprehensive cleaning of the entire apartment post-renovation.",
+          "quantity": "145 m²",
+          "unit_cost": "$1,925 per unit",
+          "markup": "0.75",
+          "subtotal": "3368.75",
+          "confidence_score": "95"
+        }
+      ]
+    }
+  ]
+}
+```
+[SUCCESS] Response saved to estimate_output.txt
+[SUCCESS] Processing complete!

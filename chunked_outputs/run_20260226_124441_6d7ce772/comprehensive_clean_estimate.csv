@@ -1,0 +1,26 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Entire Apartment,Flooring Demolition,Demolition of existing flooring throughout the entire apartment.,1183.1 SF,$4 per SF,0.75,,8271.725,95
+Demolition,Bathrooms,Bathroom Fixtures and Vanity Demolition,"Removal of all bathroom fixtures, vanities, mirrors, and glass elements.",2 UNITS,$2200 per UNIT,0.75,,7700,90
+,,,,,,,,15971.73,
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Electrical Rewiring,Rewiring of the entire apartment to accommodate new fixtures and appliances.,1183.1 SF,$17 per SF,0.75,,35252.175,85
+,,,,,,,,35252.18,
+Flooring,,,,,,,,,
+Flooring,Living Areas,Interlocking Wood Flooring Installation,Installation of Brazilian Amor interlocking wood flooring throughout living areas.,733.1 SF,$6 per SF,0.75,,7693.725,95
+Flooring,Bathrooms,Wood-Look Tile Installation,Installation of tile that mimics wood in all bathrooms.,208 SF,"$2,700 per bathroom",0.80,,9720,90
+,,,,,,,,17413.72,
+Bathrooms,,,,,,,,,
+Bathrooms,Bathroom 1,Vanity and Fixture Replacement,"Replacement of vanity and fixtures, including raising vanity height and considering double sinks.",1 UNIT,$8800 per UNIT,0.75,,15400,90
+Bathrooms,Bathroom 2,Vanity and Fixture Replacement,"Replacement of vanity and fixtures, including raising vanity height.",1 UNIT,$7700 per UNIT,0.75,,13475,90
+,,,,,,,,28875.00,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the apartment post-renovation.,1 UNIT,$2750 per UNIT,0.75,,4812.5,95
+,,,,,,,,4812.50,
+Kitchen,,,,,,,,,
+Kitchen,Kitchen,Backsplash Installation,Installation of new tile backsplash in the kitchen.,15 SF,$1650 per 10 SF,0.80,,3960,90
+Kitchen,Kitchen,Countertop Refresh,Minor refresh of existing kitchen countertops.,45 SF,$97 per SF,0.75,,13763.75,85
+,,,,,,,,17723.75,
+,,,,,,,,120048.88,
+,,,General Conditions (10%),,,,,12004.89,
+,,,Grand Total,,,,,132053.76,
