@@ -1,0 +1,93 @@
+130 SOUTHWEST 109TH AVENUE, MIAMI – ESTIMATE SUMMARY
+====================================================
+Project: Post-fire/water damage rebuild. Rental. 3-bedroom apartment.
+Final file: comprehensive_clean_estimate_final.xlsx
+Grand total: $103,791.88 (Subtotal $94,356.25 + 10% GC $9,435.62)
+
+--- 1. MEASUREMENTS FROM TRANSCRIPT ---
+
+Stated in walkthrough:
+• Whole apartment: 2,500 square feet (three bedrooms upstairs).
+• Kitchen: “five by six” → 30 SF (used for backsplash 30 SF; countertops 45 SF from perimeter × depth; cabinets 20 LF).
+• Small bathroom: “Three by four” → 12 SF floor (tile scope includes floor + wall tile to top → 100 SF per bathroom).
+• Small toilet: “Five by three” → 15 SF (included in bathroom/trim scope, not separate line).
+• Stairs: laminate “same as floor” (no dimension given → 50 SF allowance for stair laminate).
+• Broken windows: “replace the glass,” “another window that is broken” → 2 units (glass only, same framing).
+
+Used in estimate:
+• 2,500 SF – full apartment (drywall, insulation, laminate flooring, painting).
+• 30 SF – kitchen backsplash (from 5×6).
+• 45 SF – kitchen countertops (derived from layout).
+• 20 LF – kitchen cabinets (from layout).
+• 100 SF – each bathroom tile (floor + wall tile to top).
+• 50 SF – stairs laminate (estimate).
+• 2 UNIT – window glass replacement (broken units only).
+
+--- 2. SCOPE EXTRACTED FROM TRANSCRIPT ---
+
+Demolition
+• Bathroom 1: “small demo… floor and bath… walls”; “tiles to the top”; remove drop-down seating.
+• Bathroom 2: “demo the tiles, take out the demo all of the shower space and create new shower.”
+• Kitchen: same layout – remove old cabinets, countertops, appliances, flooring; disconnect plumbing/electrical.
+→ Estimate: Bathroom 1 demo, Bathroom 2 demo, Kitchen demo. ✓
+
+Walls & ceiling
+• “Whole apartment will need dry walls? Walls, ceiling, everywhere?”
+• “Everything will need isolation. Yeah, insulation.”
+→ Estimate: Whole apartment drywall 2,500 SF, Insulation entire apartment. ✓
+
+Plumbing
+• “Everything same place” – no layout change. Guest toilet, kitchen, faucets same place.
+• Two bathrooms: new bath (one), new shower (other), new floor, new faucets, new vanity; small vanity with sink.
+• Kitchen: same layout – sink, supply/drain.
+→ Estimate: Bathroom 1 plumbing (toilet, sink, shower/tub), Bathroom 2 plumbing (toilet, sink, shower), Kitchen plumbing. ✓
+
+Electrical
+• “Replacing 100% of the electricity” (then verify and reduce if possible).
+• Bathrooms: vanity lighting, exhaust, GFCI. Kitchen: circuits, GFCI, under-cabinet lighting. Bedrooms/living: outlets, switches, fixtures.
+→ Estimate: Bathroom 1 & 2 electrical, Bedroom 1 electrical, Kitchen electrical. ✓
+
+Flooring
+• “Laminate floor” throughout; “stairs – same thing, if we do laminate.”
+→ Estimate: Laminate full apartment 2,500 SF, Stairs laminate 50 SF. ✓
+
+Tile
+• Bathroom 1: “tiles to the top”; new floor.
+• Bathroom 2: new shower; tile in shower area.
+→ Estimate: Bathroom 1 tile (floor + wall), Bathroom 2 tile (shower). ✓
+
+Painting
+• “Drywalls… ceiling and installation”; “Paint it. We’re going to paint it nice” (staircase).
+→ Estimate: Whole apartment painting, Staircase paint. ✓
+
+Trims
+• Baseboards, crown, “closets… just lines of paint.”
+→ Estimate: Living room trim (baseboards, crown). Closets covered by whole-apartment paint/drywall. ✓
+
+Kitchen (same layout)
+• New cabinets, countertops, backsplash, appliances; electrical and plumbing as above.
+→ Estimate: Kitchen cabinets 20 LF, Countertops 45 SF, Backsplash 30 SF, Kitchen appliances. ✓
+
+Windows
+• “Replace the glass” only; same framing; “another window that is broken” → 2 broken.
+→ Estimate: Window glass replacement 2 UNIT. ✓
+
+General
+• “Post-construction” / cleanup implied.
+→ Estimate: Post-construction cleaning. ✓
+
+Excluded / not in scope
+• No structural change (“no touch the structure”).
+• HVAC: “It should work… Maybe need to clean” – ductwork clean not in estimate.
+• Staircase structure: “Struts… still very good” – paint only. ✓
+
+--- 3. ESTIMATE CORRECTNESS CHECK ---
+
+• Section order: Demolition → Walls & Ceiling → Plumbing → Electrical → Flooring → Tile → Painting → Trims → Cabinetry → Countertops → Backsplash → Appliances → General Requirements. ✓
+• Kitchen demolition under Demolition (not Plumbing). ✓
+• Kitchen electrical under Electrical (not Cabinetry). ✓
+• Quantities tied to transcript + Polycam where stated. ✓
+• Both Polycam PDFs merged and used for the run. ✓
+• Totals: category sums = $94,356.25; GC 10% = $9,435.62; Grand = $103,791.88. ✓
+
+Everything is correct and consistent with the transcript and the final estimate file.

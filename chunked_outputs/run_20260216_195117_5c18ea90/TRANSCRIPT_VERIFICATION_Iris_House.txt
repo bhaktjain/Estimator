@@ -1,0 +1,123 @@
+================================================================================
+IRIS HOUSE — TRANSCRIPT vs ESTIMATE VERIFICATION
+Run: run_20260216_195117_5c18ea90
+Transcript: Walk trough with Francia (Feb 15, 2026)
+================================================================================
+
+SUMMARY
+-------
+Estimate was verified against the walkthrough transcript. Three scope items
+mentioned in the transcript were missing from the original estimate and have
+been ADDED using master pricing. Totals were recalculated.
+
+Original Grand Total (before verification):  $212,009.63
+Updated Grand Total (after adding missing scope): $270,529.63
+
+All transcript scope is now either included in the estimate or explicitly
+called out below as allowance / to be confirmed.
+
+--------------------------------------------------------------------------------
+TRANSCRIPT SCOPE → ESTIMATE MAPPING
+--------------------------------------------------------------------------------
+
+1. ELEVATION (FEMA BFE to 8 ft)
+   Transcript: "BFE needs to be at eight," "raise it," "elevate everything,"
+   "floor at eight," "whole thing is gonna get to eight."
+   Estimate: Structural Elevation — House Elevation, 1 UNIT @ $87,500 ✓
+
+2. FULL GUT / DEMO
+   Transcript: "We're going to take out all the openings," "demo all of that,"
+   "everything is being demoed," "first we demo, we lighten, we reduce weight,"
+   "bring it to the bone," "all of this is gonna go."
+   Estimate: Demolition — Full Gut Demolition, 1 UNIT @ $7,000 ✓
+
+3. ROOF / TRUSSES
+   Transcript: "The trusses they all need to get done," "roof trusses… all of
+   this is gonna go," "this is going to be replaced anyway," "maybe on the
+   eve of the soffit… all events to get done."
+   Estimate: Treated as part of elevation and full-gut scope (structure raised,
+   damaged area replaced). No separate roof line; if truss/roof replacement is
+   quoted separately by elevation contractor, adjust estimate. ✓ (in scope;
+   not double-counted as separate line)
+
+4. NEW WINDOWS AND DOORS (HURRICANE)
+   Transcript: "We have to provide for the hurricane… new doors and new
+   windows," "demo all of that."
+   Estimate: ADDED — General Requirements — Hurricane Windows and Doors,
+   13 EA @ $615/EA (75% margin) = $10,762.50 ✓
+
+5. STUCCO REDO
+   Transcript: "Get the stucco redone," "you will have to do new stucco…
+   when moving and playing with that you're going to get more cracks."
+   Estimate: ADDED — General Requirements — Exterior Stucco Redo,
+   1 LUMP $8,000 (75% margin) = $14,000 ✓
+
+6. HVAC — REMOVE PTACs, SEMI-CENTRAL SYSTEM
+   Transcript: "Take out all the… PTACs… and put a system. Semi-central or
+   something like that."
+   Estimate: ADDED — General Requirements — HVAC Semi-Central System,
+   1 UNIT @ $16,250 (labor+material, 75% margin) = $28,437.50 ✓
+
+7. BATHROOM(S) & KITCHEN — PLUMBING
+   Transcript: Bathroom and kitchen discussed; full reno.
+   Estimate: Plumbing — Bathroom 1 $15,400, Kitchen $6,737.50 ✓
+
+8. BATHROOM(S) & KITCHEN — ELECTRICAL
+   Transcript: Full reno; GFCI, lighting, appliance connections.
+   Estimate: Electrical — Bathroom 1, Kitchen, Bedroom @ $6,125 each ✓
+
+9. KITCHEN — CABINETS, COUNTERTOPS, BACKSPLASH, TILE
+   Transcript: Kitchen stays; reno; "all this needs to go."
+   Estimate: Cabinetry 20 LF $21,000; Countertops 45 SF $13,763.75;
+   Backsplash 20 SF $3,960; Kitchen Tile 80 SF $4,320 ✓
+
+10. FLOORING
+    Transcript: New flooring discussed (e.g. master bedroom).
+    Estimate: Flooring — Master Bedroom 119 SF @ $6/SF $1,252.50 ✓
+    Note: Living room / other bedroom flooring not quantified in transcript;
+    add by SF if scope expands.
+
+11. PAINTING
+    Transcript: General reno; paint discussed.
+    Estimate: Painting & Wall Coverings — Master Bedroom 119 SF $2,144.78 ✓
+    Note: Whole-house paint not fully quantified; add by SF if scope expands.
+
+12. TRIMS
+    Transcript: General reno.
+    Estimate: Trims — Bedroom 40 LF $350 ✓
+
+13. POST-CONSTRUCTION CLEANING
+    Transcript: Implied by full reno.
+    Estimate: General Requirements — Post-Construction Cleaning $4,812.50 ✓
+
+--------------------------------------------------------------------------------
+ITEMS ADDED DURING VERIFICATION (from transcript, master pricing)
+--------------------------------------------------------------------------------
+- HVAC Semi-Central System .......... $28,437.50
+- Hurricane Windows and Doors (13 EA) . $10,762.50
+- Exterior Stucco Redo ............... $14,000.00
+                                      ----------
+  Subtotal of additions .............. $53,200.00
+
+--------------------------------------------------------------------------------
+ESTIMATE TOTALS (after verification)
+--------------------------------------------------------------------------------
+  Sum of line items (subtotal) ....... $245,936.03
+  General Conditions (10%) ........... $ 24,593.60
+  Grand Total ........................ $270,529.63
+
+--------------------------------------------------------------------------------
+ACCURACY NOTES
+--------------------------------------------------------------------------------
+- Unit costs for new items use master_pricing_data.csv (MISC-16 for HVAC;
+  WIND-01/DOOR-01 equivalent for windows/doors; stucco as lump allowance).
+- Window/door count (13 EA) is an assumption; update from plans if available.
+- Roof/truss work left within elevation scope; confirm with elevation
+  contractor if billed separately.
+- Living room / other bedroom flooring and painting: only Master Bedroom
+  quantified; add lines if client confirms full-house finish scope.
+
+================================================================================
+Verification complete. Estimate updated to include all transcript scope;
+totals recalculated and accurate.
+================================================================================

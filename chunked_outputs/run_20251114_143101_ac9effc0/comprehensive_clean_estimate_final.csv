@@ -1,0 +1,76 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Accessories,,,,,,,,,
+Accessories,Bathroom 1,New Mirror,Install new mirror in bathroom.,1 UNIT,$450 per UNIT,0.75,,787.5,90
+,,,,,,,,787.50,
+Appliances,,,,,,,,,
+Appliances,Kitchen,Appliance Installation,"Install new kitchen appliances (refrigerator, range, dishwasher, etc.).",1 UNIT,$5500 per UNIT,0.75,,9625.0,90
+,,,,,,,,9625.00,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Backsplash Installation,Installation of new kitchen backsplash.,20 SF,"$2,200 per unit",0.80,,3960,95
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Cabinet Installation,"Installation of new kitchen cabinets, including base and wall cabinets.",20 LF,"$10,900 per unit",0.75,,19075,95
+,,,,,,,,19075.00,
+Closet Organization,,,,,,,,,
+Closet Organization,Bedroom,Closet Organization System,"Replace wire racks with organized closet system (shelving, hanging rods).",2 UNIT,$850 per UNIT,0.75,,2975.0,90
+,,,,,,,,2975.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Fabrication and installation of new countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Demolition,"Full gut of bathroom including removal of old fixtures, tile, and vanity.",88 SF,"$2,200 per unit",0.75,,3850,95
+Demolition,Kitchen,Demolition,"Full gut of kitchen including cabinet removal, countertop removal, appliance disconnection, and backsplash removal.",200 SF,"$3,300 per unit",0.75,,5775,95
+Demolition,Master Bathroom,Remove Round Shower and Install Frameless Glass,"Remove existing round shower enclosure, install new modern frameless glass shower with door.",1 UNIT,$2800 per UNIT,0.75,,4900.0,90
+,,,,,,,,14525.00,
+Doors,,,,,,,,,
+Doors,Entire Apartment,Door Hardware Replacement,"Replace door hardware (knobs, locks) throughout.",5 UNIT,$85 per UNIT,0.75,,743.75,90
+,,,,,,,,743.75,
+Electrical,,,,,,,,,
+Electrical,Entire Apartment,Ceiling Lights Throughout,Install new ceiling lights throughout entire apartment.,1 UNIT,$2800 per UNIT,0.75,,4900.0,90
+Electrical,Master Bathroom,New Mirrors and Lights,"Install new mirrors and vanity lighting.",1 UNIT,$850 per UNIT,0.75,,1487.5,90
+Electrical,Master Bathroom,Bidet Electrical Outlet,"Install electrical outlet for electric toilet/bidet.",1 UNIT,$350 per UNIT,0.75,,612.5,90
+Electrical,Kitchen,Wine Fridge Installation,"Install wine fridge with electrical connection.",1 UNIT,$1200 per UNIT,0.75,,2100.0,85
+,,,,,,,,9100.00,
+Flooring,,,,,,,,,
+Flooring,Bedroom,Flooring Installation,Install new carpet flooring.,180 SF,$6 per SF,0.75,,1890,90
+,,,,,,,,1890.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 unit,"$2,750 per unit",0.75,,4812.5,95
+,,,,,,,,4812.50,
+Kitchen Enhancements,,,,,,,,,
+Kitchen Enhancements,Kitchen,Island Extension Rolling Piece,Install rolling island extension piece that matches and can move.,1 UNIT,$3200 per UNIT,0.75,,5600.0,85
+,,,,,,,,5600.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire Apartment,Interior Door Replacement or Paint,Replace or paint 5 interior doors and install new hardware.,5 UNIT,$450 per UNIT,0.75,,3937.5,90
+,,,,,,,,3937.50,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Plumbing,"Installation of new toilet, sink, and shower plumbing.",1 unit,"$7,700 per unit",0.75,,13475,95
+Plumbing,Kitchen,Plumbing,"Installation of new kitchen sink, faucet, and plumbing connections.",1 unit,"$3,850 per unit",0.75,,6737.5,95
+Plumbing,Master Bathroom,Electric Toilet Installation,Install Japanese/electric toilet with bidet functionality.,1 UNIT,$1200 per UNIT,0.75,,2100.0,90
+Plumbing,Half Bath,Normal Toilet Installation,Install standard toilet (not electric).,1 UNIT,$550 per UNIT,0.75,,962.5,90
+Plumbing,Master Bathroom,Remove Bidet and Build Linen Closet,"Remove bidet, frame and build new linen closet with shelving and door.",1 UNIT,$2200 per UNIT,0.75,,3850.0,90
+Plumbing,Master Bathroom,New Vanity Sink and Stone,"Install new vanity, sink, and stone countertop.",1 UNIT,$3500 per UNIT,0.75,,6125.0,90
+Plumbing,Half Bath,Half Bath Update,"Update half bath with new vanity, medicine cabinet, and modern fixtures.",1 UNIT,$2800 per UNIT,0.75,,4900.0,90
+,,,,,,,,38212.50,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Tile Work,Installation of new floor and wall tiles.,88 SF,"$2,600 per unit",0.80,,4680,95
+Tile,Kitchen 1,Flooring Installation,Install new tile flooring.,200 SF,$6 per SF,0.75,,2100,90
+,,,,,,,,6780.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Extend Cabinets All Way Over,"Extend kitchen cabinets all the way over to new location.",5 LF,$850 per LF,0.75,,3187.5,90
+Cabinetry & Storage,Kitchen,Cabinets to Ceiling,"Extend wall cabinets all the way to ceiling.",20 LF,$150 per LF,0.75,,2625.0,90
+,,,,,,,,24887.50,
+Doors,,,,,,,,,
+Doors,Bedroom,Closet Sliding Doors,"Install sliding doors to replace removed bi-fold doors.",2 UNIT,$650 per UNIT,0.75,,2275.0,90
+,,,,,,,,3018.75,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire Apartment,Paint Whole Apartment,"Paint entire apartment including all bedrooms, living room, and common areas.",145 m²,$10.3 per SF,0.75,,28133.06,90
+Painting & Wall Coverings,Bedroom 2,Painting,"Paint second bedroom walls and ceiling.",18 m²,$10.3 per SF,0.75,,3492.38,90
+Painting & Wall Coverings,Living Room,Wall Covering on Long Wall,"Install designer-recommended wall covering on long wall.",1 UNIT,$1800 per UNIT,0.75,,3150.0,85
+,,,,,,,,34712.94,
+Flooring,,,,,,,,,
+Flooring,Living Room,Flooring Installation,Install new hardwood flooring.,380 SF,$6 per SF,0.75,,3990,90
+,,,,,,,,5880.00,
+,,,,,,,,182577.94,
+,,,General Conditions (10%),,,,,18257.79,
+,,,Grand Total,,,,,200835.73,

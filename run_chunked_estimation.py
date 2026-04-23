@@ -71,7 +71,7 @@ def concatenate_chunks_to_tokens(chunk_files, max_tokens, prompt_instructions):
 def main():
     parser = argparse.ArgumentParser(description="Fully automatic renovation estimation pipeline.")
     parser.add_argument('--transcript', help='Path to transcript PDF')
-    parser.add_argument('--polycam', help='Path to polycam PDF')
+    parser.add_argument('--polycam', action='append', help='Path to polycam PDF (can be used multiple times)')
     parser.add_argument('--transcript_dir', help='Directory with transcript text chunks')
     parser.add_argument('--polycam_dir', help='Directory with polycam text chunks')
     parser.add_argument('--output_dir', default='chunked_outputs', help='Base directory for outputs')
@@ -79,8 +79,15 @@ def main():
     parser.add_argument('--master_pricing', default='Master Pricing Sheet - Q1 - 2025 (2).pdf', help='Master pricing PDF')
     parser.add_argument('--prompt_file', default='estimation_prompt.txt', help='Prompt file')
     parser.add_argument('--sample_scope', default=None, help='Optional sample scope file (DOCX or CSV)')
-    parser.add_argument('--api_key', required=True, help='OpenAI API key')
+    # Make API key optional here; prefer CLI value, fall back to OPENAI_API_KEY env var
+    parser.add_argument('--api_key', required=False, help='OpenAI API key (optional if OPENAI_API_KEY env var is set)')
     args = parser.parse_args()
+
+    # Resolve API key from CLI or environment
+    if not args.api_key:
+        args.api_key = os.environ.get("OPENAI_API_KEY")
+    if not args.api_key:
+        raise ValueError("OpenAI API key must be provided via --api_key or OPENAI_API_KEY environment variable.")
 
     if args.transcript and args.polycam:
         run_dir = unique_dir(args.transcript, args.polycam, args.output_dir)
@@ -89,6 +96,7 @@ def main():
         run_dir = os.path.join(args.output_dir, f'run_{ts}')
     os.makedirs(run_dir, exist_ok=True)
 
+    num_polycam_files = 0
     if args.transcript_dir and args.polycam_dir:
         transcript_chunks = args.transcript_dir
         polycam_chunks = args.polycam_dir
@@ -124,20 +132,46 @@ def main():
             print(f"[ERROR] Failed to create transcript chunks: {e}")
             return False
         
-        # Create polycam chunks directory and copy PDF
+        # Create polycam chunks directory and copy/merge PDFs
         polycam_chunks = os.path.join(run_dir, 'polycam_chunks')
         os.makedirs(polycam_chunks, exist_ok=True)
         
-        # Check if this is a temp file from the API (already processed)
-        if '/tmp/' in str(args.polycam) or 'var/folders' in str(args.polycam):
-            print(f"[INFO] Detected API temp file - copying as-is")
-        else:
-            print(f"[INFO] Using Polycam PDF directly (no text extraction)")
-        
-        # Copy the Polycam PDF to the polycam_chunks directory for reference
         import shutil
         polycam_pdf_path = os.path.join(polycam_chunks, 'polycam.pdf')
-        shutil.copy2(args.polycam, polycam_pdf_path)
+        num_polycam_files = len(args.polycam) if isinstance(args.polycam, list) else 1
+
+        # Handle multiple polycam files - merge them
+        if isinstance(args.polycam, list) and len(args.polycam) > 1:
+            print(f"[INFO] Merging {len(args.polycam)} Polycam PDF files...")
+            try:
+                from PyPDF2 import PdfMerger
+                merger = PdfMerger()
+                for i, polycam_file in enumerate(args.polycam, 1):
+                    print(f"[INFO] Adding Polycam file {i}/{len(args.polycam)}: {os.path.basename(polycam_file)}")
+                    merger.append(polycam_file)
+                merger.write(polycam_pdf_path)
+                merger.close()
+                print(f"[INFO] Successfully merged {len(args.polycam)} Polycam files into {polycam_pdf_path}")
+            except ImportError:
+                print(f"[WARNING] PyPDF2 not installed. Installing...")
+                subprocess.check_call(['pip3', 'install', '--break-system-packages', 'PyPDF2'])
+                from PyPDF2 import PdfMerger
+                merger = PdfMerger()
+                for i, polycam_file in enumerate(args.polycam, 1):
+                    print(f"[INFO] Adding Polycam file {i}/{len(args.polycam)}: {os.path.basename(polycam_file)}")
+                    merger.append(polycam_file)
+                merger.write(polycam_pdf_path)
+                merger.close()
+                print(f"[INFO] Successfully merged {len(args.polycam)} Polycam files into {polycam_pdf_path}")
+        else:
+            # Single file - just copy it
+            polycam_file = args.polycam[0] if isinstance(args.polycam, list) else args.polycam
+            # Check if this is a temp file from the API (already processed)
+            if '/tmp/' in str(polycam_file) or 'var/folders' in str(polycam_file):
+                print(f"[INFO] Detected API temp file - copying as-is")
+            else:
+                print(f"[INFO] Using Polycam PDF directly (no text extraction)")
+            shutil.copy2(polycam_file, polycam_pdf_path)
         
         # Get transcript chunk files
         transcript_files = sorted(Path(transcript_chunks_dir).glob('*.txt'))
@@ -243,7 +277,7 @@ def main():
             cmd = [
                 "python3", "send_files_to_chatgpt_text.py",
                 "--file1", shlex.quote(str(args.master_pricing)),
-                "--file2", shlex.quote(str(args.polycam)),  # Pass Polycam PDF directly
+                "--file2", shlex.quote(polycam_pdf_path),  # Pass merged Polycam PDF
                 "--file3", shlex.quote(transcript_chunk_file),  # Use existing chunk file
                 "--prompt", shlex.quote(prompt)
                 # Remove --api_key from command line to avoid truncation
@@ -267,7 +301,7 @@ def main():
                 cmd2 = [
                     "python3", "send_files_to_chatgpt_text.py",
                     "--file1", shlex.quote(str(args.master_pricing)),
-                    "--file2", shlex.quote(str(args.polycam)),  # Pass Polycam PDF directly
+                    "--file2", shlex.quote(polycam_pdf_path),  # Use merged Polycam PDF
                     "--file3", shlex.quote(transcript_chunk_file),  # Add the missing file3
                     "--prompt", shlex.quote(prompt2),
                     "--api_key", shlex.quote(args.api_key)
@@ -308,6 +342,9 @@ def main():
             print(f"[WARNING] No items aggregated from chunks")
     except Exception as e:
         print(f"[ERROR] Aggregation failed: {e}")
+
+    if num_polycam_files > 0:
+        print(f"[VERIFIED] Polycam: {num_polycam_files} file(s) merged and used for this estimate.")
     
     print(f"[INFO] Next step: Run comprehensive cleanup to generate final Excel file")
 

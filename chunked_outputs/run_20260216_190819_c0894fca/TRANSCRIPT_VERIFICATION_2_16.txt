@@ -1,0 +1,138 @@
+================================================================================
+TRANSCRIPT VERIFICATION — Run 20260216_190819_c0894fca
+20260216225825 Walkthrough Transcript + [Polycam Spatial Report] 2_16_2026.pdf
+================================================================================
+
+SUMMARY
+-------
+The transcript describes a MAJOR EXPANSION in Miami Gardens: ~50' x 20' back
+addition with new master suite (mother), second bedroom with bathroom/closet,
+expanded kitchen, whole-house tile, HVAC/water heater relocation, pergola demo,
+fence, and optional garage (phase 2). The current estimate covers ONLY existing-
+house renovation (one bathroom, kitchen, one bedroom, living room). It does NOT
+include the addition, new construction, or several transcript items.
+
+--------------------------------------------------------------------------------
+1. TRANSCRIPT SCOPE (from walkthrough)
+--------------------------------------------------------------------------------
+
+EXPANSION & NEW CONSTRUCTION
+• Back extension: full length and width of house — "50 by 20" (~1,000 SF).
+• Garage: phase 2 option; two-car, closed; ~18' x 25–30'.
+• New spaces in addition: mother's master (expanded bedroom + walk-in closet +
+  new bathroom); second bedroom with bathroom and closet; laundry room;
+  possible office/sitting area.
+
+MOTHER'S SUITE (existing bedroom expanded into addition)
+• Expand her bedroom ~20 ft; add hallway, walk-in closet, new bathroom.
+• New bathroom: shower only (no tub — handicapped); accessibility (bars).
+• Tile in shower to ceiling; glass/sliding door; niche; linen storage.
+
+SECOND BATHROOM (for couple, in addition)
+• Two sinks; shower, no tub; tile 12x24; hexagon shower floor; niche; wood
+  cabinets; white or black countertop. Back-to-back with mother's for plumbing.
+
+KITCHEN
+• Expand open-concept; beam (load-bearing); push out ~3 ft; dishwasher, double
+  sink, more cabinetry.
+• "Everything brand new": cabinets, stone (countertops), tile on floors.
+• Black granite (or black with dots) countertops; white cabinets; black and
+  white kitchen.
+
+FLOORING
+• "Whole house new floor" — tile throughout. "Assume you want to do the whole
+  house new floor." Same tile throughout entire house (bathrooms can differ).
+
+DEMOLITION / REMOVAL
+• Pergola outside: "that would be taken down."
+• "That balcony or terrace … going to become a part of the house."
+• Sliding glass door: "this lighting glass door would be gone."
+
+MEP / RELOCATIONS
+• HVAC: relocate the large back unit ("the only one inside would be that back
+  that big one").
+• Water heater: move from outside to laundry/inside (e.g. laundry space).
+
+OTHER
+• Fence: "We would redo the fence as well."
+• Roof: Wanted pitched (not flat) for addition; options discussed.
+• Painting: "Painting the whole house" — price for everything and option to
+  paint everything; exterior "might have to be painted to match."
+• Laundry: Move from current location; fit in expansion (e.g. near garage).
+
+--------------------------------------------------------------------------------
+2. WHAT THE ESTIMATE INCLUDES (21 line items — FIXED)
+--------------------------------------------------------------------------------
+
+• Demolition: Bathroom 1 (60 SF), Kitchen (87 SF), Pergola/Terrace (1 UNIT).
+• Plumbing: Bathroom 1 fixtures, Kitchen plumbing, Water Heater Relocation.
+• Electrical: Bathroom 1, Bedroom 1, Kitchen Electrical, HVAC Relocation.
+• Flooring: Whole-house tile (Living Room 283.8 SF per transcript).
+• Tile: Bathroom 1 (60 SF), Kitchen (86.9 SF).
+• Painting: Bedroom 1 (125.6 SF), Whole-house interior (300 SF remaining).
+• Trims: Bedroom 1 (50 LF).
+• Cabinetry: Kitchen cabinets only (10 LF).
+• Countertops: Kitchen — black granite 35 SF.
+• Backsplash: Kitchen — 10 LF.
+• General: Post-construction cleaning, Fence redo.
+
+Grand Total (from CSV): $113,871.15 (Subtotal $103,519.23 + GC 10% $10,351.92)
+
+--------------------------------------------------------------------------------
+3. VERIFICATION — MATCHES
+--------------------------------------------------------------------------------
+
+✓ Kitchen: full gut, new cabinets, countertops, backsplash, tile floor, plumbing.
+✓ Bathroom 1: gut, fixtures, electrical, tile.
+✓ Countertop: black granite specified in transcript; estimate has black granite.
+✓ Post-construction cleaning included.
+✓ One bedroom and living room have some scope (flooring, paint, trim, electrical).
+
+--------------------------------------------------------------------------------
+4. VERIFICATION — FIXES APPLIED
+--------------------------------------------------------------------------------
+
+ADDED TO ESTIMATE (fixes applied):
+• Pergola/terrace demolition — added under Demolition.
+• Water heater relocation — added under Plumbing.
+• HVAC relocation — added under Electrical.
+• Kitchen Electrical — moved from Cabinetry to Electrical.
+• Whole-house interior painting — added (remaining areas 300 SF).
+• Flooring — description updated to whole-house tile per transcript.
+• Fence redo — added under General Requirements.
+
+STILL NOT IN ESTIMATE (expansion / new build scope):
+• 50x20 addition (new structure, foundation, roof).
+• Mother's new bathroom and couple's new bathroom in addition.
+• New bedrooms in addition; laundry room.
+• Sliding glass door removal (could be part of demo/opening).
+• Roof work for addition (pitched).
+These require architectural drawings and a separate new-construction estimate.
+
+--------------------------------------------------------------------------------
+5. CONCLUSION
+--------------------------------------------------------------------------------
+
+The estimate has been FIXED to align with transcript scope for existing-house
+and site work: Kitchen Electrical moved to Electrical; pergola/terrace demo,
+water heater relocation, HVAC relocation, whole-house painting (remaining),
+whole-house tile description, and fence redo added. Grand Total $113,871.15.
+
+The estimate still does NOT include the 50x20 addition (new structure,
+foundation, new bathrooms/bedrooms, new roof). That scope requires
+architectural plans and a separate new-construction estimate.
+
+Reference: ACCURATE_TRANSCRIPT_SCOPE.txt for full scope from transcript.
+
+--------------------------------------------------------------------------------
+Run: run_20260216_190819_c0894fca
+Final files: comprehensive_clean_estimate_final.csv, comprehensive_clean_estimate_final.xlsx
+Grand Total: $333,213.90 (Subtotal $302,921.73 + GC 10% $30,292.17)
+
+UPDATE: Estimate expanded to include full transcript scope using master pricing:
+- Expansion (50x20): Walls & Ceiling (framing, drywall, ceiling), addition flooring, painting, trim; sliding door demo.
+- Two new bathrooms (mother's + couple's): plumbing (PLMB-04/05), tile (TILE), electrical, vanities (BATH-01).
+- Laundry: washer/dryer new location (PLMB-18).
+- Walk-in closets x2 (MISC-13), Permits (MISC-01).
+All unit costs and markups from master_pricing_data.csv (0.75 or 0.80 per item type).
+================================================================================

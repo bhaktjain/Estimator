@@ -1,0 +1,66 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Full gut of bathroom including removal of old fixtures, tile, and flooring.",60 SF,2200 per unit,0.75,,3850,95
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of old cabinets, countertops, appliances, and flooring.",87 SF,3300 per unit,0.75,,5775,95
+Demolition,Exterior,Pergola/Terrace Demolition,"Remove existing pergola and terrace/balcony to incorporate area into house expansion (per transcript).",1 UNIT,1500 per UNIT,0.75,,2625,85
+Demolition,Exterior,Sliding Glass Door Removal,"Remove existing sliding glass door for transition (per transcript).",50 SF,7 per SF,0.75,,612.5,85
+,,,,,,,,12862.50,
+Walls & Ceiling,,,,,,,,,
+Walls & Ceiling,Addition,New Addition Framing,"Framing for new walls in 50x20 expansion (CARP-01).",200 LF,45 per LF,0.75,,15750,85
+Walls & Ceiling,Addition,New Addition Drywall,"Drywall installation in expansion (CARP-02).",2400 SF,8 per SF,0.75,,33600,85
+Walls & Ceiling,Addition,New Addition Ceiling,"Ceiling work in expansion (CARP-03).",1000 SF,10 per SF,0.75,,17500,85
+,,,,,,,,66850.00,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Fixtures,"Install vanity, mirror, towel bars, toilet paper holder, and shower doors.",1 unit,1375 per unit,0.75,,2406.25,90
+Plumbing,Kitchen,Kitchen Plumbing,"Install rough plumbing, kitchen sink, garbage disposal, water supply lines, and drain lines.",1 unit,3850 per unit,0.75,,6737.5,90
+Plumbing,Laundry,Water Heater Relocation,"Relocate water heater from exterior to interior (laundry space) per transcript.",1 UNIT,1500 per UNIT,0.75,,2625,85
+Plumbing,"Mother's Bath",New Bathroom Plumbing Full,"New bathroom from scratch - mother's suite (PLMB-04 0-60 sf).",1 UNIT,8800 per UNIT,0.75,,15400,90
+Plumbing,"Couple's Bath",New Bathroom Plumbing Full,"New bathroom from scratch - couple's suite (PLMB-05 60-80 sf).",1 UNIT,9900 per UNIT,0.75,,17325,90
+Plumbing,Laundry,Washer Dryer New Location,"Washer/dryer new location in laundry (PLMB-18).",1 UNIT,3350 per UNIT,0.75,,5862.5,85
+Plumbing,New Baths,Bathroom Vanities Install,"Install vanities in two new bathrooms (BATH-01 x2).",2 UNIT,950 per UNIT,0.75,,3325,90
+,,,,,,,,53681.25,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Install rough electrical, vanity lighting, exhaust fan, and GFCI outlets.",1 unit,3500 per unit,0.75,,6125,90
+Electrical,Bedroom 1,Bedroom Electrical,"Install outlets, switches, and light fixtures.",1 unit,3500 per unit,0.75,,6125,90
+Electrical,Kitchen,Kitchen Electrical,"Install rough electrical, kitchen lighting circuits, under-cabinet lighting, GFCI outlets.",1 unit,3500 per unit,0.75,,6125,90
+Electrical,Mechanical,HVAC Relocation,"Relocate rear HVAC unit to accommodate expansion; access/duct work per transcript.",1 UNIT,2500 per UNIT,0.75,,4375,85
+Electrical,"Mother's Bath",New Bathroom Electrical,"Rough electrical for mother's new bathroom.",1 UNIT,3500 per UNIT,0.75,,6125,85
+Electrical,"Couple's Bath",New Bathroom Electrical,"Rough electrical for couple's new bathroom.",1 UNIT,3500 per UNIT,0.75,,6125,85
+,,,,,,,,35000.00,
+Flooring,,,,,,,,,
+Flooring,Living Room,Whole-House Tile Flooring,"Install new tile flooring throughout existing living area (transcript: same tile throughout entire house).",283.8 SF,6 per SF,0.75,,2979.15,90
+Flooring,Addition,Addition Tile Flooring,"Tile flooring in new 50x20 expansion (FINSH-04).",1000 SF,18 per SF,0.75,,31500,85
+,,,,,,,,34479.15,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Install floor and wall tiles including grout and sealing.,60 SF,2600 per unit,0.80,,4680,90
+Tile,Kitchen,Kitchen Flooring,Install new tile flooring including subfloor preparation and underlayment.,86.9 SF,6 per SF,0.75,,911.18,90
+Tile,"Mother's Bath",New Bathroom Tile,"Tile installation mother's new bathroom (TILE-01+02 0-60 sf).",1 UNIT,4600 per UNIT,0.80,,8280,90
+Tile,"Couple's Bath",New Bathroom Tile,"Tile installation couple's new bathroom (TILE-03+04 60-80 sf).",1 UNIT,5700 per UNIT,0.80,,10260,90
+,,,,,,,,24131.18,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Bedroom Painting,Paint walls and ceiling with primer and finish coats.,125.6 SF,10.3 per SF,0.75,,2261.4,90
+Painting & Wall Coverings,Remaining Areas,Whole-House Interior Painting,"Paint remaining interior areas (transcript: price for painting whole house).",300 SF,10.3 per SF,0.75,,5270,85
+Painting & Wall Coverings,Addition,Addition Interior Painting,"Paint new addition walls and ceiling (FINSH-05).",1000 SF,10.5 per SF,0.75,,18375,85
+,,,,,,,,25906.40,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,"Install baseboards, window casings, and door casings.",50 LF,5 per LF,0.75,,437.5,90
+Trims,Addition,Addition Baseboards and Trim,"Baseboards and trim in new expansion (TRIM-01).",140 LF,11 per LF,0.75,,2695,85
+,,,,,,,,3132.50,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,"Install new kitchen cabinets including base and wall cabinets, crown molding, and hardware.",10 LF,7600 per unit,0.75,,13300,90
+,,,,,,,,13300.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabrication and installation of black granite countertops (per transcript).,35 SF,97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install new tile backsplash including grout and sealing.,10 LF,2200 per unit,0.80,,3960,90
+,,,,,,,,3960.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of entire house after renovation (CLEN-04).,1 UNIT,2750,0.75,,4812.5,95
+General Requirements,Exterior,Fence Redo,"Redo fence per transcript (scope to be confirmed with measurements).",1 LUMP,2500,0.75,,4375,80
+General Requirements,Addition,Walk-in Closets (2),New standard closet interior - mother's and couple's (MISC-13 x2).,2 UNIT,1155 per UNIT,0.75,,4042.5,85
+General Requirements,Admin,Permits and Fees,Permits and fees (MISC-01).,1 LS,1500,0.75,,2625,90
+,,,,,,,,15855.00,
+,,,,,,,,302921.73,
+,,,General Conditions (10%),,,,,30292.17,
+,,,Grand Total,,,,,333213.90,

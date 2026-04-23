@@ -59,7 +59,7 @@ def main():
     api_key = args.api_key or os.environ.get("OPENAI_API_KEY")
     if not api_key:
         raise ValueError("OpenAI API key must be provided via --api_key or OPENAI_API_KEY environment variable.")
-    
+
     # Extract text content from all files
     file_contents = []
     file_names = []
@@ -131,26 +131,17 @@ def main():
             "- Polycam measurements unavailable: infer room areas and linear feet using standard residential assumptions (e.g., kitchen counter depth ~2.5 ft, small bath tile ~60-80 SF) and clearly tag them as assumed.\n"
         )
 
-    # Use Chat Completions API (new OpenAI v1.0+ syntax)
+    # Use Chat Completions API (OpenAI 1.0+)
     print("[INFO] Sending request to OpenAI Chat Completions API...")
     print(f"[INFO] Total prompt length: {len(complete_prompt)} characters")
     
     try:
-        # Create OpenAI client (new v1.0+ syntax)
-        from openai import OpenAI
-        client = OpenAI(api_key=api_key)
-        
+        client = openai.OpenAI(api_key=api_key)
         response = client.chat.completions.create(
             model="gpt-4o",
             messages=[
-                {
-                    "role": "system",
-                    "content": system_guardrails
-                },
-                {
-                    "role": "user",
-                    "content": complete_prompt
-                }
+                {"role": "system", "content": system_guardrails},
+                {"role": "user", "content": complete_prompt}
             ],
             max_tokens=4000,
             temperature=0.1
@@ -158,11 +149,11 @@ def main():
         
         # Extract and print the response
         if response.choices and len(response.choices) > 0:
-            content = response.choices[0].message.content
+            content = response.choices[0].message.content or ""
             print("[RESPONSE]")
             print(content)
             
-            # Write to file
+            # Write to file (optional; pipeline captures stdout to chunk file)
             with open("estimate_output.txt", "w", encoding="utf-8") as f:
                 f.write(content)
             print("[SUCCESS] Response saved to estimate_output.txt")

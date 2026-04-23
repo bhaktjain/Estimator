@@ -1,0 +1,58 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Demolition,"Remove existing fixtures, tile, vanity, and flooring.",95 SF,"$3,300 per UNIT",0.75,,5775.00,95
+Demolition,Bathroom 2,Bathroom Demolition,"Full gut of bathroom including removal of fixtures, tile, vanity, and flooring.",17 SF,"$2,200 per UNIT",0.75,,3850,95
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",280 SF,"$3,300 per UNIT",0.75,,5775,95
+,,,,,,,,15400.00,
+Plumbing,,,,,,,,,
+Plumbing,Bathroom 1,Bathroom Fixtures,"Installation of new vanity, mirror, towel bars, and shower doors.",1 UNIT,"$2,000 per UNIT",0.75,,3500,95
+Plumbing,Bathroom 2,Bathroom Fixtures,"Installation of new vanity, mirror, towel bars, and shower doors.",1 UNIT,"$2,000 per UNIT",0.75,,3500,95
+Plumbing,Kitchen,Kitchen Plumbing,"Rough plumbing and installation of kitchen sink, garbage disposal, and water supply lines.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+,,,,,,,,13737.50,
+Electrical,,,,,,,,,
+Electrical,Bathroom 1,Bathroom Electrical,"Installation of vanity lighting, exhaust fan, and GFCI outlets.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Bathroom 2,Bathroom Electrical,"Installation of vanity lighting, exhaust fan, and GFCI outlets.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Bedroom 1,Bedroom Electrical,"Installation of outlets, switches, and light fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Living Room 1,Living Room Electrical,"Installation of outlets, switches, and light fixtures.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+,,,,,,,,24500.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Installation of new kitchen flooring including subfloor preparation.,280 SF,$6 per SF,0.75,,2940,95
+Flooring,Bedroom 1,Bedroom Flooring,Installation of new hardwood flooring including subfloor preparation.,220 SF,$6 per SF,0.75,,2310,95
+Flooring,Living Room 1,Living Room Flooring,Installation of new hardwood flooring including subfloor preparation.,270 SF,$6 per SF,0.75,,2835,95
+,,,,,,,,8085.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Installation of floor and wall tiles including grout and sealing.,95 SF,"$4,100 per UNIT",0.80,,7380,95
+Tile,Bathroom 2,Bathroom Tile Work,Installation of floor and wall tiles including grout and sealing.,17 SF,"$2,600 per UNIT",0.80,,4680,95
+,,,,,,,,12060.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom 1,Bedroom Painting,Painting of walls and ceiling with primer and finish.,220 SF,$10.3 per SF,0.75,,3967.5,95
+Painting & Wall Coverings,Living Room 1,Living Room Painting,Painting of walls and ceiling with primer and finish.,270 SF,$10.3 per SF,0.75,,4867.5,95
+,,,,,,,,8835.00,
+Trims,,,,,,,,,
+Trims,Bedroom 1,Bedroom Trim,"Installation of baseboards, window casings, and door casings.",220 LF,$5 per LF,0.75,,1925,95
+Trims,Living Room 1,Living Room Trim,"Installation of baseboards, crown molding, and window casings.",270 LF,$5 per LF,0.75,,2362.5,95
+,,,,,,,,4287.50,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Cabinet Installation,Install new semi-custom kitchen cabinets including base and wall cabinets.,24 LF,$850 per LF,0.75,,35700.00,95
+,,,,,,,,35700.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Countertop Installation,Install new quartz countertops including fabrication and installation.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,13763.75,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Installation of kitchen backsplash tiles.,10 LF,"$2,200 per 10 LF",0.80,,3960,95
+,,,,,,,,3960.00,
+Doors & Openings,,,,,,,,,
+Doors & Openings,Living/Back,Sliding glass door wall,"Full-width sliding door opening to pool/backyard (per transcript).",1 UNIT,"$7,000 per UNIT",0.75,,12250,95
+,,,,,,,,12250.00,
+Windows,,,,,,,,,
+Windows,Multiple,Larger/better windows allowance,"Allowance for larger/better windows for more light (per transcript).",1 LS,"$2,500 per LS",0.75,,4375,95
+,,,,,,,,4375.00,
+Laundry,,,,,,,,,
+Laundry,Laundry Room,Laundry room redo,"Built-in W/D area, shelving, more convenient layout (per transcript).",1 LS,"$6,000 per LS",0.75,,10500,95
+,,,,,,,,10500.00,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750 per UNIT",0.75,,4812.50,95
+,,,,,,,,4812.50,
+,,,,,,,,172266.25,
+,,,General Conditions (10%),,,,,17226.63,
+,,,Grand Total,,,,,189492.88,

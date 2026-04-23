@@ -1,0 +1,260 @@
+================================================================================
+3131 NE 188th St, Aventura — TRANSCRIPT vs ESTIMATE VERIFICATION
+Run: run_20260217_130205_89e77b6a
+Transcript: 20260217151929 3131 Northeast 188th Street Aventura Walkthrough Transcript.txt
+Polycam: [Polycam Spatial Report] 2_17_2026 (both floors merged)
+================================================================================
+
+ACCURACY SUMMARY
+- The most complete scope/pricing is in comprehensive_clean_estimate.csv
+  (subtotal ≈ $283,237.94, GC 10% ≈ $28,323.79, Grand Total ≈ $311,561.73).
+- The cleaned file comprehensive_clean_estimate_final.csv is a reduced,
+  de-duplicated view (17 items, ≈ $120,636.04) that **drops Bathroom 2 and
+  upstairs work**, so it is NOT a full-scope estimate.
+- Transcript scope (main floor + upstairs) is broadly covered in the raw CSV
+  for: both full bathrooms, kitchen, living, one bedroom, flooring, painting,
+  electrical, waterproofing, and post-construction cleaning.
+- Items NOT explicitly priced (or only partially captured) include:
+  fifth room partition + Murphy-bed-style solution, stair re-shaping/railing
+  (glass/curvy finish), full-door replacement count, closet reconfiguration
+  details, window treatments (curtains/shades), washer/dryer relocation
+  upstairs, master bath tub/bench “spa” extras, and exterior deck/planter work.
+
+For full-scope budgeting and design conversations, use
+**comprehensive_clean_estimate.csv (~$311.6k)**.
+Use **comprehensive_clean_estimate_final.csv (~$120.6k)** only as a
+high‑level, de-duplicated snapshot.
+
+--------------------------------------------------------------------------------
+KEY TRANSCRIPT SCOPE → HOW IT’S REPRESENTED
+--------------------------------------------------------------------------------
+
+1. WHOLE-APARTMENT FLOOR REPLACEMENT (MAIN FLOOR)
+Transcript:
+- “She wants to replace the floor … different type of tiles.”
+- “You want to stay with tiles and you want to replace the whole apartment.”
+- “Large squares, 48 by 48 … bigger tiles … clean, desert/Tulum look.”
+
+Estimate (raw CSV):
+- Living Room Renovation → Flooring Installation / Living Room Flooring
+  (320 SF + 210 SF ranges).
+- Kitchen Renovation → Tile Flooring Installation (210 SF) + Kitchen Flooring
+  (120 SF).
+
+Assessment:
+- Main floor tile scope is **captured** and sized from Polycam.
+- Exact SF allocation between living/dining/kitchen is embedded in multiple
+  lines; totals align with a full main-floor change.
+
+2. FIFTH ROOM / FLEX GUEST ROOM (DOWNSTAIRS)
+Transcript:
+- “We’re thinking about creating a fifth room here.”
+- “Element that is open, like some kind of a sliding door or accordion door.”
+- Used occasionally for guests (2 weeks/year), otherwise part of living room.
+
+Estimate:
+- No dedicated “new wall/partition + sliding/accordion door” line.
+- Floors/paint/electrical in living area generally cover finishes, but **not**
+  the framing/door system itself.
+
+Status:
+- **PARTIALLY CAPTURED** (finishes via living room + flooring).
+- **Missing explicit line** for:
+  - Framing/drywall of new partition (CARP-01/02).
+  - Sliding/accordion door system + hardware (DOOR-02/03-equivalent).
+  - Any Murphy-bed/millwork if chosen.
+
+3. WASHER/DRYER RELOCATION (MAIN → UPSTAIRS)
+Transcript:
+- “Washer and dryer … we want to move it upstairs.”
+- Multiple references to using other closets/washroom as potential location.
+
+Estimate:
+- No explicit “Washer Dryer – Relocation” plumbing line.
+- No dedicated electrical for new laundry location.
+
+Master pricing:
+- PLMB-17/18: Washer Dryer relocation/new location.
+- ELEC-23: New washer/dryer dedicated lines.
+
+Status:
+- **NOT PRICED**. Important missing scope.
+
+4. KITCHEN – DEMO, EXPANSION, ISLAND, PANTRY, BAR/FRIDGE
+Transcript:
+- Full gut of existing kitchen.
+- Open kitchen, large island, extend cabinets toward living/dining.
+- Possible built-in bar/wine fridge, panel-ready appliances.
+
+Estimate (raw CSV):
+- Kitchen Renovation:
+  - Demolition (SF + unit-based).
+  - Cabinet Installation + Kitchen Cabinets Installation.
+  - Countertop Installation + Kitchen Countertops (quartz, 45 SF).
+  - Tile Flooring, Backsplash Installation + Kitchen Backsplash.
+  - Kitchen Plumbing + Plumbing Rough-In.
+  - Kitchen Electrical + Electrical Rough-In.
+
+Assessment:
+- **Well-covered** at a detailed level; multiple lines map directly to the
+  transcript kitchen scope.
+
+5. BATHROOM 1 (EXISTING MAIN/KIDS OR DOWNSTAIRS BATH)
+Transcript:
+- “New vanity and new shower … replace floors also.”
+
+Estimate (raw CSV):
+- Bathroom 1 Renovation block:
+  - Demolition + Bathroom Demolition.
+  - Tile Installation + Bathroom Tile Work.
+  - Plumbing Rough-In + Bathroom Plumbing.
+  - Electrical Rough-In + Bathroom Electrical.
+  - Bathroom Waterproofing.
+
+Assessment:
+- **Fully covered** as a full-gut bathroom.
+
+6. BATHROOM 2 (KIDS BATH, UPSTAIRS – ENLARGED)
+Transcript:
+- Two kids’ rooms, “kids’ bathroom bigger,” steal space from closet.
+- Consider tub vs shower, two sinks, more space.
+
+Estimate (raw CSV):
+- Bathroom 2 Renovation block (full parallel to Bath 1):
+  - Demolition / Plumbing / Tile / Electrical / Waterproofing.
+
+Assessment:
+- **Full second-bath scope present** in comprehensive_clean_estimate.csv.
+- **Removed** in comprehensive_clean_estimate_final.csv by dedup logic.
+
+7. MASTER BATH (STANDALONE TUB, SPA FEEL, BENCH)
+Transcript:
+- “I do want a tub … standalone tub … take out that jacuzzi thing.”
+- “A bench would be nice … spa, resort feel.”
+- Japanese toilet, upgraded fixtures, tile/wood-look stone.
+
+Estimate:
+- Master bath is **implicitly** represented by the two-bath structure and
+  tile/plumbing allowances but **not distinctly separated** from “Bathroom 1”
+  vs “Bathroom 2”.
+
+Status:
+- **Functionally priced** via two full-bath gut/finish blocks, but:
+  - Standalone tub, bench, spa-level upgrades are not called out as separate
+    premium fixtures.
+
+8. BEDROOM 1 (UPSTAIRS) – FLOORING, PAINT, ELECTRICAL, TRIM
+Transcript:
+- Kids’ rooms and future-teen use; reconfigure closets and doors, new flooring.
+
+Estimate (raw CSV and cleaned):
+- Bedroom Renovation:
+  - Flooring Installation & Bedroom Flooring (244–244.5 SF).
+  - Painting & Bedroom Painting.
+  - Electrical Installation & Bedroom Electrical.
+  - Bedroom Trim.
+
+Assessment:
+- **Captured** for one primary upstairs bedroom (Bedroom 1).
+- Other kids’ room(s) implied but not separated out; they share closet/door
+  work that is not a distinct priced line.
+
+9. LIVING/DINING AREA – FLOORING, PAINT, ELECTRICAL, TRIM
+Transcript:
+- Reconfigure living/dining layout, move TV, new tile floors, curtains,
+  new chandelier, more practical lighting.
+
+Estimate (raw CSV):
+- Living Room Renovation:
+  - Two flooring lines (320 SF + 210 SF) and painting lines.
+  - Electrical Installation & Living Room Electrical.
+  - Living Room Trim.
+
+Assessment:
+- **Well-covered** for floors/paint/electrical/trim.
+- Chandelier replacement and new fixtures are embedded in electrical
+  allowances (ELEC-02/05 equivalents), though not called out by fixture.
+- Curtain/shade scope is **not explicitly priced** (see below).
+
+10. STAIRS AND RAILING (CURVY / GLASS / WOOD)
+Transcript:
+- “I would love to make it aesthetically curvy, a little bit cleaner.”
+- “Can you use glass on top? … definitely can be done with glass … whole house.”
+- “That floor … the whole floor wood” (upstairs hardwood vs main tile).
+
+Estimate:
+- No direct “stair refinishing” or “new glass railing” line.
+- Flooring and general finishes cover adjacent surfaces but not custom stair
+  work or glass rail system.
+
+Status:
+- **NOT PRICED** as a distinct line; would require:
+  - MISC-05/06 stair refinishing/structure.
+  - Custom glass/wood railing (no direct master code; likely allowance).
+
+11. DOORS & CLOSET SYSTEMS
+Transcript:
+- “We got to change the doors … replace the doors in all the apartment.”
+- Several comments about closet doors/tracks and new closet interiors with
+  better shelving and lighting.
+
+Estimate:
+- No explicit DOOR-01/02/03 quantity lines.
+- Closets are only indirectly covered by bedroom/living finishes.
+
+Status:
+- **NOT PRICED** as separate door/closet packages.
+
+12. WINDOW TREATMENTS (CURTAINS/SHADES)
+Transcript:
+- “I want curtains … fabric curtains … electrical at main living area.”
+- In kids’ rooms, “replace the shades,” blackout + soft curtains “like hotel.”
+
+Estimate:
+- No specific line for curtains/shades.
+- Electrical for motorization is partially contained in electrical scope but
+  not called out.
+
+Status:
+- **NOT PRICED**; typically treated as FF&E, not GC, but important to flag.
+
+13. OUTDOOR TERRACE / DECK / PLANTERS
+Transcript:
+- Large terrace; discussion of fake grass vs wood deck, planters, gardening.
+- Team ultimately advises waiting until building facade project is done.
+
+Estimate:
+- **No terrace/deck line items** in current CSV (appropriate given “wait”
+  guidance).
+
+Status:
+- **Intentionally omitted** from this phase; can be priced later.
+
+--------------------------------------------------------------------------------
+WHICH ESTIMATE FILE TO USE
+--------------------------------------------------------------------------------
+
+- **Use for full scope & budgeting**:
+  - `comprehensive_clean_estimate.csv`
+  - Includes both bathrooms, full kitchen, living room, bedroom, and two
+    layers of flooring/painting/electrical where appropriate.
+  - Grand Total: ≈ **$311,561.73** (Subtotal ≈ $283,237.94 + GC 10%).
+
+- **Use for simplified, rolled-up categories**:
+  - `comprehensive_clean_estimate_final.csv`
+  - De-duplicated to 17 items for a **compressed** view.
+  - Drops Bathroom 2 and some upstairs-specific lines; Grand Total:
+    ≈ **$120,636.04**.
+
+Recommendation:
+- Treat the **311k** estimate as the “accurate, transcript-aligned” scope for
+  this project.
+- If you want, we can next:
+  - Add explicit lines for: washer/dryer relocation upstairs, stair/railing
+    work, fifth-room partition + door, door/closet packages, and a simple
+    allowance for motorized living-room curtains.
+
+================================================================================
+End of transcript vs estimate verification for 3131 NE 188th, Aventura.
+================================================================================
+

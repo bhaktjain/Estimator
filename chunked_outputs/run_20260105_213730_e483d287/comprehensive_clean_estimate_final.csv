@@ -1,0 +1,85 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install new tile backsplash.,10 LF,"$2,200 per 10 LF",0.80,,3960,90
+Backsplash,Second Floor Kitchen,Second Floor Kitchen Backsplash,Install new tile backsplash for second floor kitchen.,10 LF,"$2,200 per 10 LF",0.80,,3960.00,90
+,,,,,,,,7920.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Install new kitchen cabinets.,20 LF,"$7,600 per 10 LF",0.75,,26600,95
+Cabinetry & Storage,Second Floor Kitchen,Second Floor Kitchen Cabinets,Install new kitchen cabinets for second floor unit (two-family home).,20 LF,"$7,600 per 10 LF",0.75,,26600.00,95
+,,,,,,,,53200.00,
+Carpentry,,,,,,,,,
+Carpentry,Stairway,New Stairway Construction,"Remove existing narrow stairway (ladder-like) and construct new wider, straighter stairway. Includes wall modification to accommodate wider stairs.",1 UNIT,"$15,000 per UNIT",0.75,,26250.00,95
+Carpentry,Basement,Basement Ceiling Replacement,"Remove existing 7-foot high popcorn ceiling and replace with new modern ceiling. Cannot lower ceiling height, must replace in place.",800 SF,$15 per SF,0.75,,21000.00,95
+Carpentry,Basement,Basement Rec Space and Storage Conversion,Convert basement portion to recreation space with two storage units. Includes new load-bearing wall construction and space configuration.,800 SF,$25 per SF,0.75,,35000.00,90
+Carpentry,Entire House,New Interior Walls and Drywall,"Install all new interior walls and drywall throughout entire house for completely new layout. Includes framing, insulation, drywall, and finishing.",5000 SF,$12 per SF,0.75,,105000.00,95
+,,,,,,,,187250.00,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Install new quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,95
+Countertops,Second Floor Kitchen,Second Floor Kitchen Countertops,Install new quartz countertops for second floor kitchen.,45 SF,$97 per SF,0.75,,13763.75,95
+,,,,,,,,27527.50,
+Demolition,,,,,,,,,
+Demolition,Bathroom 1,Bathroom Demolition,"Remove existing fixtures, tile, and flooring.",1 UNIT,"$2,200 per unit",0.75,,3850,90
+Demolition,Entire House,Full Interior Gut - All Floors,"Complete interior gut of entire house (basement, first floor, second floor). Remove all walls, flooring, ceilings, fixtures, and finishes. Full gut as specified in transcript.",2763 SF,$8 per SF,0.75,,38682.0,95
+Demolition,Bathroom 2,Bathroom 2 Demolition,"Remove existing fixtures, tile, and flooring for Second Floor bathroom.",1 UNIT,"$2,200 per unit",0.75,,3850.00,90
+Demolition,Bathroom 3,Bathroom 3 Demolition,"Remove existing fixtures, tile, and flooring for First Floor bathroom.",1 UNIT,"$2,200 per unit",0.75,,3850.00,90
+Demolition,Bathroom 4,Bathroom 4 Demolition,"Remove existing fixtures, tile, and flooring for Basement bathroom.",1 UNIT,"$2,200 per unit",0.75,,3850.00,90
+,,,,,,,,54082.00,
+Doors & Windows,,,,,,,,,
+Doors & Windows,Second Floor,Second Floor Window Replacement,Replace one window on second floor (window shifting/replacement as per plans).,1 UNIT,"$1,200 per UNIT",0.75,,2100.00,95
+Doors & Windows,Basement,Basement Window Replacement,Replace one window in basement (window shifting/replacement as per plans).,1 UNIT,"$1,200 per UNIT",0.75,,2100.00,95
+,,,,,,,,4200.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Kitchen Electrical,"Install new electrical wiring, outlets, and lighting.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Electrical,Bathroom 1,Bathroom Electrical,"Install new electrical wiring, outlets, and lighting.",1 UNIT,"$3,500 minimum",0.75,,6125,90
+Electrical,Bedroom 1,Bedroom Electrical,Install new outlets and lighting fixtures.,1 UNIT,"$3,500 minimum",0.75,,6125,90
+Electrical,Second Floor Kitchen,Second Floor Kitchen Electrical,"Install new electrical wiring, outlets, and lighting for second floor kitchen.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Electrical,Bathroom 2,Bathroom 2 Electrical,"Install new electrical wiring, outlets, and lighting for Second Floor bathroom.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Electrical,Bathroom 3,Bathroom 3 Electrical,"Install new electrical wiring, outlets, and lighting for First Floor bathroom.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Electrical,Bathroom 4,Bathroom 4 Electrical,"Install new electrical wiring, outlets, and lighting for Basement bathroom.",1 UNIT,"$3,500 minimum",0.75,,6125.00,90
+Electrical,Entire House,Electrical Panel Upgrade - 180A to 340A,"Upgrade main electrical panel from 180 amps to 340 amps. Includes new panel, breakers, and all necessary electrical upgrades for full gut renovation.",1 UNIT,"$12,000 per UNIT",0.75,,21000.00,95
+Electrical,Entire House,Three Electrical Meters Installation,"Install three separate electrical meters - one for basement, one for first floor, one for second floor (two-family home setup).",3 UNIT,"$2,500 per UNIT",0.75,,13125.00,95
+Electrical,Second Floor,Second Floor Electrical,"Install new electrical wiring, outlets, switches, and lighting throughout second floor unit.",1 UNIT,"$5,000 per UNIT",0.75,,8750.00,90
+Electrical,Basement,Basement Electrical,"Install new electrical wiring, outlets, switches, and lighting throughout basement.",1 UNIT,"$4,000 per UNIT",0.75,,7000.00,90
+,,,,,,,,92750.00,
+Flooring,,,,,,,,,
+Flooring,Basement,Basement Floor Leveling,Level basement floor which is currently not level. Includes floor preparation and leveling work.,800 SF,$12 per SF,0.75,,16800.00,90
+Flooring,Entire House,Whole-House Hardwood Flooring,"Install new hardwood flooring throughout entire house (basement, first floor, second floor) as specified. All new flooring for full gut renovation.",2763 SF,$6 per SF,0.75,,29011.5,95
+,,,,,,,,45811.50,
+General Requirements,,,,,,,,,
+General Requirements,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750 per unit",0.75,,4812.5,85
+,,,,,,,,4812.50,
+HVAC,,,,,,,,,
+HVAC,Entire House,Mini-Split HVAC System Installation,Remove existing gas boiler and hot water heater. Install new mini-split system for both cooling and heating throughout entire house. Multiple units as needed.,1 UNIT,"$25,000 per UNIT",0.75,,43750.00,95
+HVAC,Basement,Heat Pump and Hot Water Heater Installation,Install new electric heat pump and hot water heater in basement to replace gas-based systems.,1 UNIT,"$8,000 per UNIT",0.75,,14000.00,95
+HVAC,All Bathrooms,Bathroom Exhaust Fan Ducting,Install ducting for exhaust fans in all bathrooms (four bathrooms total).,4 UNIT,$800 per UNIT,0.75,,5600.00,90
+,,,,,,,,63350.00,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Entire House,Whole-House Painting,Paint all walls and ceilings throughout entire house after full gut and new wall installation.,5000 SF,$10.3 per SF,0.75,,87500.00,95
+,,,,,,,,87500.00,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Kitchen Plumbing,Install new plumbing for sink and appliances.,1 UNIT,"$3,850 per unit",0.75,,6737.5,90
+Plumbing,Bathroom 1,Bathroom Plumbing,"Install new plumbing for sink, toilet, and shower.",1 UNIT,"$7,700 per unit",0.75,,13475,90
+Plumbing,Second Floor Kitchen,Second Floor Kitchen Plumbing,Install new plumbing for second floor kitchen sink and appliances.,1 UNIT,"$3,850 per unit",0.75,,6737.50,90
+Plumbing,Bathroom 2,Bathroom 2 Plumbing,"Install new plumbing for sink, toilet, and shower for Second Floor bathroom.",1 UNIT,"$7,700 per unit",0.75,,13475.00,90
+Plumbing,Bathroom 3,Bathroom 3 Plumbing,"Install new plumbing for sink, toilet, and shower for First Floor bathroom.",1 UNIT,"$7,700 per unit",0.75,,13475.00,90
+Plumbing,Bathroom 4,Bathroom 4 Plumbing,"Install new plumbing for sink, toilet, and shower for Basement bathroom.",1 UNIT,"$7,700 per unit",0.75,,13475.00,90
+Plumbing,Basement Bathroom,Basement Bathroom Drain Modification,Change drain for basement shower room. Relocate drain to new bathroom location.,1 UNIT,"$3,000 per UNIT",0.75,,5250.00,90
+,,,,,,,,72625.00,
+Structural,,,,,,,,,
+Structural,Basement,Basement Structural Work - Footings and Posts,Trench work for three new footings and posts in basement. Install three new posts with footings as per structural drawings.,3 UNIT,"$8,000 per UNIT",0.75,,42000.00,95
+Structural,Basement,Basement W-Beams Installation,"Install two new W-beams in basement to replace old tower portions, as per structural drawings.",2 UNIT,"$12,000 per UNIT",0.75,,42000.00,95
+Structural,First Floor,First Floor Structural Work - Beams and Posts,"Install new beam, load-bearing walls, and two new posts on first floor as per structural drawings.",1 UNIT,"$15,000 per UNIT",0.75,,26250.00,95
+Structural,Second Floor,Second Floor Structural Work - Beams and Load-Bearing Walls,"Install new posts, load-bearing walls, and beams on second floor as per structural drawings. Posts extend from first floor.",1 UNIT,"$15,000 per UNIT",0.75,,26250.00,95
+,,,,,,,,136500.00,
+Tile,,,,,,,,,
+Tile,Bathroom 1,Bathroom Tile Work,Install new floor and wall tiles.,80 SF,"$4,100 per 80 SF",0.80,,7380.00,90
+Tile,Bathroom 2,Bathroom 2 Tile Work,Install new floor and wall tiles for Second Floor bathroom.,80 SF,"$4,100 per 80 SF",0.80,,7380.00,90
+Tile,Bathroom 3,Bathroom 3 Tile Work,Install new floor and wall tiles for First Floor bathroom.,80 SF,"$4,100 per 80 SF",0.80,,7380.00,90
+Tile,Bathroom 4,Bathroom 4 Tile Work,Install new floor and wall tiles for Basement bathroom.,80 SF,"$4,100 per 80 SF",0.80,,7380.00,90
+,,,,,,,,2361600.00,
+Trims,,,,,,,,,
+Trims,Entire House,Whole-House Trim Installation,"Install baseboards, window casings, door casings, and all trim work throughout entire house.",2000 LF,$5 per LF,0.75,,17500.00,90
+,,,,,,,,17500.00,
+,,,,,,,,3216628.50,
+,,,General Conditions (10%),,,,,321662.85,
+,,,Grand Total,,,,,3538291.35,

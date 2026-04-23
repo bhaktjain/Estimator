@@ -1,0 +1,68 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom Renovation,,,,,,,,,
+Bathroom Renovation,Bathroom 1,Bathroom Demolition,"Remove existing fixtures, tiles, and flooring.",55.6 SF,"$2,200 per UNIT",0.75,,3850.0,95.0
+Bathroom Renovation,Bathroom 1,Bathroom Plumbing,Install new plumbing for shower conversion and fixtures.,1 UNIT,"$7,700 per UNIT",0.75,,13475.0,90.0
+Bathroom Renovation,Bathroom 1,Bathroom Tile Work,Install new floor and wall tiles.,55.6 SF,"$2,600 per 60 SF",0.8,,4680.0,90.0
+Bathroom Renovation,Bathroom 1,Bathroom Fixtures,"Install new vanity, toilet, and shower fixtures.",1 UNIT,"$1,375 per UNIT",0.75,,2406.25,90.0
+Bathroom Renovation,Master Bathroom,Master Bathroom Modernization,"Modernize master bathroom with new fixtures, tile, vanity, toilet. Push wall further if possible. Direct replacement of existing fixtures.",1 UNIT,"$7,700 per UNIT",0.75,,13475.0,90.0
+,,,,,,,,37886.25,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Entry,Entry Closet Rebuild,"Remove existing closet and rebuild with integrated bench/seat for putting on shoes, storage underneath, facing new direction.",1 UNIT,"$3,000 per UNIT",0.75,,5250.0,90.0
+Cabinetry & Storage,Bedroom,Bedroom Closet Addition,Add new closet in bedroom area.,1 UNIT,"$2,000 per UNIT",0.75,,3500.0,90.0
+,,,,,,,,8750.00,
+Commercial Cleaning,,,,,,,,,
+Commercial Cleaning,Entire Apartment,Post-Construction Cleaning,Comprehensive cleaning of the entire apartment post-renovation.,1 UNIT,"$1,375 per UNIT",0.75,,2406.25,85.0
+,,,,,,,,2406.25,
+Doors & Windows,,,,,,,,,
+Doors & Windows,Entire Apartment,Interior Door Replacement,Replace interior doors throughout apartment to make them closer together.,4 UNIT,$500 per UNIT,0.75,,3500.0,85.0
+Doors & Windows,Bedroom,Window Installation,Install large fixed pane window for lighting in bedroom area.,1 UNIT,"$2,000 per UNIT",0.75,,3500.0,85.0
+,,,,,,,,7000.00,
+Electrical,,,,,,,,,
+Electrical,Master Bathroom,Master Bathroom Electrical,"Install new vanity lighting, exhaust fan, and GFCI outlets for master bathroom.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90.0
+Electrical,Hallway,Hallway Lighting,Install 2 new recessed lights in hallway area.,2 UNIT,$300 per UNIT,0.75,,1050.0,95.0
+Electrical,Bedroom,Bedroom Electrical,"Install new outlets, switches, and light fixtures in bedroom.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90.0
+,,,,,,,,13300.00,
+Flooring,,,,,,,,,
+Flooring,Bedroom,Bedroom Flooring,Install new hardwood flooring for bedroom area.,150 SF,$6 per SF,0.75,,1575.0,90.0
+Flooring,Hallway,Hallway Flooring,Install new hardwood flooring for hallway area.,100 SF,$6 per SF,0.75,,1050.0,90.0
+Flooring,Entry,Entry Flooring,Install new hardwood flooring for entry area.,50 SF,$6 per SF,0.75,,525.0,90.0
+,,,,,,,,3150.00,
+HVAC,,,,,,,,,
+HVAC,Entire Apartment,AC Split System Replacement,Replace existing PCAC system with new AC split system throughout apartment for better energy efficiency.,1 UNIT,"$8,000 per UNIT",0.75,,14000.0,90.0
+HVAC,Kitchen,Kitchen Ventilation Upgrade,Increase ventilation in kitchen area with upgraded exhaust system.,1 UNIT,"$1,500 per UNIT",0.75,,2625.0,90.0
+,,,,,,,,16625.00,
+Kitchen Renovation,,,,,,,,,
+Kitchen Renovation,Kitchen,Kitchen Demolition,"Remove existing cabinets, countertops, appliances, and flooring. Disconnect plumbing and electrical.",351.4 SF,$7 per SF,0.75,,4311.45,95.0
+Kitchen Renovation,Kitchen,Kitchen Plumbing,"Install new plumbing for sink relocation, including water supply and drain lines.",1 UNIT,"$3,850 per UNIT",0.75,,6737.5,90.0
+Kitchen Renovation,Kitchen,Kitchen Electrical,"Install new electrical circuits, outlets, and lighting for kitchen.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Cabinets,Supply and install new L-shaped kitchen cabinets.,20 LF,$600 per LF,0.75,,21000.0,95.0
+Kitchen Renovation,Kitchen,Kitchen Countertops,Install new quartz countertops.,50 SF,Special Formula,0.75,,13763.75,95.0
+Kitchen Renovation,Kitchen,Kitchen Backsplash,Install new tile backsplash.,10 LF,"$1,650 per 10 LF",0.8,,2970.0,90.0
+Kitchen Renovation,Kitchen,Kitchen Flooring,Install new tile flooring.,351.4 SF,$6 per SF,0.75,,3688.35,95.0
+,,,,,,,,58596.05,
+Living Room Renovation,,,,,,,,,
+Living Room Renovation,Living Room,Living Room Flooring,Install new hardwood flooring.,546.8 SF,$6 per SF,0.75,,5731.8,95.0
+Living Room Renovation,Living Room,Living Room Painting,Paint walls and ceiling.,546.8 SF,$10.3 per SF,0.75,,9855.15,90.0
+Living Room Renovation,Living Room,Living Room Electrical,Install new outlets and lighting fixtures.,1 UNIT,"$3,500 per UNIT",0.75,,6125.0,90.0
+,,,,,,,,21711.95,
+Painting & Wall Coverings,,,,,,,,,
+Painting & Wall Coverings,Bedroom,Bedroom Painting,Paint walls and ceiling in bedroom area.,150 SF,$10.3 per SF,0.75,,2703.75,90.0
+Painting & Wall Coverings,Hallway,Hallway Painting,Paint walls and ceiling in hallway area.,100 SF,$10.3 per SF,0.75,,1801.25,90.0
+Painting & Wall Coverings,Entry,Entry Painting,Paint walls and ceiling in entry area.,50 SF,$10.3 per SF,0.75,,900.63,90.0
+,,,,,,,,5405.63,
+Structural,,,,,,,,,
+Structural,Staircase,Floating Staircase,"Remove existing staircase and rebuild with floating design, new floor, new railing (metal or glass), make narrower. Custom floating stairs with steel structure and wooden treads.",1 UNIT,"$17,142.86 per UNIT",0.75,,30000.0,95.0
+Structural,Living Room,Storage Platform,Build storage platform connecting to staircase with storage underneath for couch area.,1 UNIT,"$3,000 per UNIT",0.75,,5250.0,90.0
+Structural,Bedroom,Wall Relocation,"Move wall to make bedroom bigger, relocate hallway wall.",1 UNIT,"$4,000 per UNIT",0.75,,7000.0,85.0
+,,,,,,,,42250.00,
+Tile,,,,,,,,,
+Tile,Master Bathroom,Master Bathroom Tile Work,Install new floor and wall tiles for master bathroom modernization.,60 SF,"$2,600 per SF",0.8,,4680.0,90.0
+,,,,,,,,4680.00,
+Trims,,,,,,,,,
+Trims,Bedroom,Bedroom Baseboards,Install new baseboards throughout bedroom area.,50 LF,$5 per LF,0.75,,437.5,90.0
+Trims,Hallway,Hallway Baseboards,Install new baseboards throughout hallway area.,30 LF,$5 per LF,0.75,,262.5,90.0
+Trims,Entry,Entry Baseboards,Install new baseboards throughout entry area.,20 LF,$5 per LF,0.75,,175.0,90.0
+,,,,,,,,875.00,
+,,,,,,,,222636.13,
+,,,General Conditions (10%),,,,,22263.61,
+,,,Grand Total,,,,,244899.74,

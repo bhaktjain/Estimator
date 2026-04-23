@@ -1,0 +1,29 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Bathroom Renovation,Bathroom 1,Demolition,"Remove existing fixtures, tile, and flooring.",1 UNIT,"$2,200 per UNIT",0.75,,3850.00,90
+Bathroom Renovation,Bathroom 1,Tile Installation,Install new floor and wall tiles.,60 SF,"$2,600 per 60 SF",0.80,,4680.00,90
+Bathroom Renovation,Bathroom 1,Plumbing,"Install new bathroom fixtures including toilet, sink, and shower.",1 UNIT,"$7,700 per UNIT",0.75,,13475.00,90
+Bathroom Renovation,Bathroom 1,Electrical,Install new bathroom lighting and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Commercial Cleaning,Entire House,Post-Construction Cleaning,Comprehensive cleaning of all renovated areas.,1 UNIT,"$2,750 per UNIT",0.75,,4812.50,90
+Kitchen Renovation,Kitchen,Demolition,"Remove existing cabinets, countertops, appliances, and flooring.",1 UNIT,"$3,300 per UNIT",0.75,,5775.00,90
+Kitchen Renovation,Kitchen,Cabinet Installation,"Install new kitchen cabinets, including base and wall cabinets.",15 LF,$600 per LF,0.75,,15750.00,90
+Kitchen Renovation,Kitchen,Countertop Installation,Install new quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,90
+Kitchen Renovation,Kitchen,Tile Backsplash,Install new tile backsplash.,30 SF,"$2,200 per 10 SF",0.80,,3960.00,90
+Kitchen Renovation,Kitchen,Plumbing,Install new kitchen sink and plumbing fixtures.,1 UNIT,"$3,850 per UNIT",0.75,,6737.50,90
+Kitchen Renovation,Kitchen,Electrical,Install new kitchen lighting and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Living Room Renovation,Living Room,Flooring,Install new hardwood flooring.,300 SF,$6 per SF,0.75,,3150.00,90
+Living Room Renovation,Living Room,Painting,Paint walls and ceiling.,1 UNIT,"$1,500 per UNIT",0.75,,2625.00,90
+Living Room Renovation,Living Room,Electrical,Install new lighting fixtures and outlets.,1 UNIT,"$3,500 per UNIT",0.75,,6125.00,90
+Walls & Ceiling,Bedroom 1,Install dropped ceiling,Install new dropped ceiling in Bedroom 1.,189.5 SF,$9 per SF,0.75,,2987.625,90
+Walls & Ceiling,Bedroom 2,Install dropped ceiling,Install new dropped ceiling in Bedroom 2.,110.6 SF,$9 per SF,0.75,,1743.45,90
+Electrical,Bedroom 1,Recessed lighting installation,Install 4 recessed lights in Bedroom 1.,4 UNIT,$440 per UNIT,0.75,,3080,95
+Electrical,Bedroom 2,Recessed lighting installation,Install 4 recessed lights in Bedroom 2.,4 UNIT,$440 per UNIT,0.75,,3080,95
+Electrical,Bedroom 2,Pendant lighting installation,Install 1 pendant light in Bedroom 2.,1 UNIT,$440 per UNIT,0.75,,770,95
+,,,,,,,,28130.00,
+,,,,,,,,4812.50,
+,,,,,,,,52111.25,
+,,,,,,,,11900.00,
+,,,,,,,,4731.07,
+,,,,,,,,6930.00,
+,,,,,,,,108614.82,
+,,,General Conditions (10%),,,,,10861.48,
+,,,Grand Total,,,,,119476.31,

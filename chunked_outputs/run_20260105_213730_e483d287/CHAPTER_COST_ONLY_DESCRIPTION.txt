@@ -1,0 +1,37 @@
+================================================================================
+CHAPTER COST ONLY FILE - DESCRIPTION
+================================================================================
+
+File: chapter_cost_only.xlsx
+
+This file contains Chapter's base costs ONLY, without any markups applied.
+
+WHAT'S INCLUDED:
+- All renovation items from the estimate
+- Base costs only (costs before markups)
+- No markups applied (Markup column shows 0.00)
+- Same items and quantities as the main estimate
+
+WHAT'S NOT INCLUDED:
+- No markups (75% for most items, 80% for tile/backsplash)
+- No General Conditions (10%)
+- No profit margins
+
+TOTAL:
+- Chapter Cost Subtotal: $504,862.00
+- This represents the actual cost to Chapter before any markups or profit
+
+COMPARISON:
+- Main Estimate Total: $973,003.35 (includes markups + 10% General Conditions)
+- Chapter Cost Only: $504,862.00 (base costs only)
+- Difference: $468,141.35 (markups + General Conditions)
+
+USE CASE:
+This file is useful for:
+- Internal cost analysis
+- Understanding actual material and labor costs
+- Budget planning
+- Cost breakdown for internal review
+
+================================================================================
+

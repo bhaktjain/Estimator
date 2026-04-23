@@ -1,0 +1,45 @@
+Category,Room,ItemName,Description,Quantity,UnitCost,Markup,MarkupType,Total,Confidence
+Appliances,,,,,,,,,
+Appliances,Kitchen,Appliance Installation,"Install new kitchen appliances (refrigerator, range, dishwasher, etc.).",1 UNIT,$5500 per UNIT,0.75,,9625.0,90
+,,,,,,,,9625.00,
+Backsplash,,,,,,,,,
+Backsplash,Kitchen,Kitchen Backsplash,Install tile backsplash.,10 FT,"$2,200 per 10 FT",0.80,,3960,90
+,,,,,,,,3960.00,
+Cabinetry & Storage,,,,,,,,,
+Cabinetry & Storage,Kitchen,Kitchen Cabinets,Supply and install semi-custom kitchen cabinets.,15 LF,$850 per LF,0.75,,22312.5,90
+,,,,,,,,22312.50,
+Countertops,,,,,,,,,
+Countertops,Kitchen,Kitchen Countertops,Fabricate and install quartz countertops.,45 SF,$97 per SF,0.75,,13763.75,90
+Countertops,Master Bathroom,New Vanity and Counter,Install new longer/bigger vanity cabinet and new countertop.,1 UNIT,$3500 per UNIT,0.75,,6125.0,90
+,,,,,,,,19888.75,
+Demolition,,,,,,,,,
+Demolition,Kitchen,Kitchen Demolition,"Full gut of kitchen including removal of cabinets, countertops, appliances, flooring, and backsplash.",1 UNIT,"$3,300 per UNIT",0.75,,5775,95
+Demolition,Master Bathroom,Bathroom Demolition,"Full gut of master bathroom including removal of old fixtures, tile, vanity, and flooring.",120 SF,"$2,200 per UNIT",0.75,,3850.0,95
+,,,,,,,,9625.00,
+Electrical,,,,,,,,,
+Electrical,Kitchen,Kitchen Electrical,"Rewiring and installation of new electrical outlets, GFCI, and lighting for kitchen.",1 UNIT,"$3,500 per UNIT",0.75,,6125,95
+Electrical,Master Bathroom,Electrical Installation,"Completely redo lighting, install new fixtures, and new mirrors.",1 UNIT,"$3,500 per UNIT",0.75,,6125.0,95
+,,,,,,,,12250.00,
+Flooring,,,,,,,,,
+Flooring,Kitchen,Kitchen Flooring,Install new engineered flooring.,378.4 SF,$6 per SF,0.75,,3969.6,90
+Flooring,Kitchen,Floor Refinishing and Matching,"Refinish and match floor where old cabinets were removed.",150 SF,$8 per SF,0.75,,2100.0,85
+,,,,,,,,6069.60,
+Kitchen Enhancements,,,,,,,,,
+Kitchen Enhancements,Kitchen,New Island Installation,"Install new larger island (wider and longer) with seating, storage, microwave, and dishwasher.",1 UNIT,$5500 per UNIT,0.75,,9625.0,90
+,,,,,,,,9625.00,
+General Requirements,,,,,,,,,
+General Requirements,Kitchen,Commercial Cleaning,Post-construction cleaning of kitchen area.,1 UNIT,"$1,375 per UNIT",0.75,,2406.25,85
+,,,,,,,,2406.25,
+Pantry Conversion,,,,,,,,,
+Pantry Conversion,Kitchen,Pantry Conversion,Convert space to pantry with pull-out shelves on wheels.,1 UNIT,$3200 per UNIT,0.75,,5600.0,90
+,,,,,,,,5600.00,
+Plumbing,,,,,,,,,
+Plumbing,Kitchen,Kitchen Plumbing,Full gut plumbing for new kitchen layout with one sink.,1 UNIT,"$3,850 per UNIT",0.75,,6737.5,95
+Plumbing,Master Bathroom,Plumbing Installation,"Install new plumbing including Toto toilet, sink, and remove bidet.",1 UNIT,"$7,700 per UNIT",0.75,,13475.0,95
+,,,,,,,,20212.50,
+Tile,,,,,,,,,
+Tile,Master Bathroom,Tile Installation,Completely redo all floor tiles (120 SF) and wall tiles (~320 SF).,440 SF,"$2,600 per UNIT",0.80,,4680.0,95
+,,,,,,,,4680.00,
+,,,,,,,,123754.60,
+,,,General Conditions (10%),,,,,12375.46,
+,,,Grand Total,,,,,136130.06,
